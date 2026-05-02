@@ -1,0 +1,42 @@
+name: Daily Alpha Paper Radar
+
+on:
+  workflow_dispatch:
+    inputs:
+      run_date:
+        description: "Date to run for (YYYY-MM-DD). Leave empty for today."
+        required: false
+        type: string
+
+jobs:
+  run-radar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e .
+
+      - name: Run radar
+        run: |
+          RUN_DATE="${{ github.event.inputs.run_date }}"
+          if [ -z "$RUN_DATE" ]; then
+            RUN_DATE="today"
+          fi
+          python -m alpha_paper_radar.cli run --date "$RUN_DATE"
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: alpha-paper-radar-output
+          path: |
+            data/raw/*.jsonl
+            reports/*.md
