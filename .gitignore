@@ -2,6 +2,9 @@
 __pycache__/
 *.py[codz]
 *$py.class
+poetry.lock
+data/raw/
+reports/
 
 # C extensions
 *.so
