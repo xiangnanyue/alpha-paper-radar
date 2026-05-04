@@ -56,6 +56,22 @@ class TestCli(unittest.TestCase):
         mock_save.assert_not_called()
         self.assertIn("[DRY RUN]", stdout.getvalue())
 
+    def test_run_skips_report_when_no_new_or_updated(self):
+        with patch("alpha_paper_radar.cli.load_topics_config", return_value={"topics": {"topic_a": {"categories": ["cs.LG"], "keywords": [], "max_results": 10}}}), patch(
+            "alpha_paper_radar.cli.fetch_arxiv_papers", return_value=[]
+        ), patch("alpha_paper_radar.cli.save_jsonl", return_value=None), patch(
+            "alpha_paper_radar.cli.load_registry", return_value={}
+        ), patch("alpha_paper_radar.cli.save_registry", return_value=None), patch(
+            "pathlib.Path.write_text", return_value=0
+        ) as mock_write, patch("pathlib.Path.unlink", return_value=None) as mock_unlink:
+            stdout = io.StringIO()
+            with redirect_stdout(stdout):
+                run("2026-05-02")
+
+        mock_write.assert_not_called()
+        mock_unlink.assert_called_once()
+        self.assertIn("Skipped report generation", stdout.getvalue())
+
 
 if __name__ == "__main__":
     unittest.main()
