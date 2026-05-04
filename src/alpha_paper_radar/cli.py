@@ -7,7 +7,9 @@ from pathlib import Path
 from .config import load_topics_config
 from .fetch_arxiv import fetch_arxiv_papers
 from .filter_papers import filter_papers_by_keywords
+from .registry import load_registry, merge_into_registry, save_registry
 from .render_report import render_markdown_report
+from .reporting import load_reporting_config
 from .storage import save_jsonl
 
 
@@ -19,10 +21,10 @@ def resolve_date(raw: str) -> str:
 
 def run(report_date: str, dry_run: bool = False, max_results_override: int | None = None) -> None:
     cfg = load_topics_config()
+    _ = load_reporting_config()
     topics = cfg["topics"]
 
-    unique_by_id: dict[str, dict] = {}
-    by_topic: dict[str, list[dict]] = {}
+    unique_by_canonical: dict[str, dict] = {}
     failed_topics: list[str] = []
 
     for topic_name, topic_cfg in topics.items():
@@ -34,34 +36,34 @@ def run(report_date: str, dry_run: bool = False, max_results_override: int | Non
             filtered = filter_papers_by_keywords(fetched, topic_cfg.get("keywords", []))
         except Exception as exc:
             failed_topics.append(topic_name)
-            by_topic[topic_name] = []
             print(f"[WARN] Topic '{topic_name}' failed: {exc}")
             continue
 
-        current_topic_papers: list[dict] = []
         for paper in filtered:
-            paper_id = paper.get("id", "")
+            paper_id = str(paper.get("id", "")).strip()
             if not paper_id:
                 continue
-            if paper_id in unique_by_id:
-                existing = unique_by_id[paper_id]
-                existing_topics = set(existing.get("topics", []))
-                existing_topics.add(topic_name)
-                existing["topics"] = sorted(existing_topics)
-                current_topic_papers.append(existing)
-            else:
-                copied = dict(paper)
-                copied["topic"] = topic_name
-                copied["topics"] = [topic_name]
-                unique_by_id[paper_id] = copied
-                current_topic_papers.append(copied)
-
-        by_topic[topic_name] = current_topic_papers
+            existing = unique_by_canonical.get(paper_id)
+            if existing:
+                existing["topics"] = sorted(set(existing.get("topics", [])) | {topic_name})
+                continue
+            copied = dict(paper)
+            copied["topic"] = topic_name
+            copied["topics"] = [topic_name]
+            unique_by_canonical[paper_id] = copied
 
     jsonl_path = Path("data/raw") / f"{report_date}.jsonl"
     report_path = Path("reports") / f"{report_date}.md"
-    all_filtered = list(unique_by_id.values())
-    report_content = render_markdown_report(report_date, by_topic, failed_topics=failed_topics)
+
+    all_filtered = list(unique_by_canonical.values())
+    registry = load_registry()
+    merged_registry, sections, suppressed_duplicate_count = merge_into_registry(registry, all_filtered, report_date)
+    report_content = render_markdown_report(
+        report_date,
+        sections,
+        suppressed_duplicate_count=suppressed_duplicate_count,
+        failed_topics=failed_topics,
+    )
 
     if dry_run:
         print(f"[DRY RUN] Unique papers: {len(all_filtered)}")
@@ -69,10 +71,12 @@ def run(report_date: str, dry_run: bool = False, max_results_override: int | Non
         return
 
     save_jsonl(all_filtered, jsonl_path)
+    save_registry(merged_registry)
     report_path.parent.mkdir(parents=True, exist_ok=True)
     report_path.write_text(report_content, encoding="utf-8")
 
     print(f"Saved {len(all_filtered)} papers -> {jsonl_path}")
+    print("Updated registry -> data/state/paper_registry.json")
     print(f"Generated report -> {report_path}")
 
 

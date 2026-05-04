@@ -1,0 +1,4 @@
+dedupe_window_days = 14
+carryover_cooldown_days = 7
+max_carryover_papers = 3
+min_new_papers_for_email = 3

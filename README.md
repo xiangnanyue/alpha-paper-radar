@@ -1,60 +1,44 @@
 # Alpha Paper Radar
 
-Alpha Paper Radar 是一个最小可运行的每日论文雷达 MVP：
+Alpha Paper Radar 已升级为“论文状态追踪系统”MVP：
 
-1. 从 arXiv API 抓取论文元数据
+1. 从 arXiv API 抓取论文元数据（标准库实现）
 2. 按主题关键词筛选
-3. 保存为 JSONL
-4. 生成 Markdown 日报草稿
-5. 提供 CLI 手动运行
-6. 提供 GitHub Actions 手动触发
+3. 保存当日原始候选为 JSONL
+4. 合并到长期 registry（`data/state/paper_registry.json`）
+5. 基于 canonical arXiv ID 去重（如 `2605.01234v1` 与 `2605.01234v2`）
+6. 生成结构化 Markdown 日报（new / updated / carry-over / suppressed）
 
 > 当前版本**不接 OpenAI API**、不解析 PDF、不发邮件、不写 Wiki。
 
-## 环境要求
+## 输出路径
 
-- Python 3.12+
-
-## 安装
-
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -e .[dev]
-```
+- `data/raw/YYYY-MM-DD.jsonl`
+- `data/state/paper_registry.json`
+- `reports/YYYY-MM-DD.md`
 
 ## 配置
 
-编辑 `config/topics.yaml`，默认内置 4 个主题：
+- 主题配置：`config/topics.yaml`
+- 报告策略：`config/reporting.toml`
 
-- quant_finance
-- deep_learning_sota
-- cross_section_time_series
-- llm_progress
+`config/reporting.toml` 默认：
+
+```toml
+dedupe_window_days = 14
+carryover_cooldown_days = 7
+max_carryover_papers = 3
+min_new_papers_for_email = 3
+```
 
 ## 本地运行
 
 ```bash
-python -m alpha_paper_radar.cli run --date today
-# 或
-python -m alpha_paper_radar.cli run --date 2026-05-02
+PYTHONPATH=src python -m alpha_paper_radar.cli run --date today
 ```
-
-输出文件：
-
-- `data/raw/YYYY-MM-DD.jsonl`
-- `reports/YYYY-MM-DD.md`
 
 ## 测试
 
 ```bash
-pytest
+PYTHONPATH=src python -m unittest discover -s tests
 ```
-
-## GitHub Actions 手动运行
-
-1. 打开仓库 `Actions` 页面
-2. 选择 workflow `Daily Alpha Paper Radar`
-3. 点击 `Run workflow`
-4. 可选传入 `run_date`（格式 `YYYY-MM-DD`），留空则使用当天
-
