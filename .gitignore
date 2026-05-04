@@ -3,9 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 poetry.lock
-data/raw/
-data/state/
-reports/
+# data/raw/
+# data/state/
+# reports/
 
 # C extensions
 *.so
