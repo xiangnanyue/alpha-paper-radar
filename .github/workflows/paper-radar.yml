@@ -1,0 +1,76 @@
+name: Alpha Paper Radar
+
+on:
+  workflow_dispatch:
+    inputs:
+      report_date:
+        description: 'Report date: today or YYYY-MM-DD'
+        required: false
+        default: 'today'
+      max_results_override:
+        description: 'Optional max_results override for all topics'
+        required: false
+        default: ''
+      dry_run:
+        description: 'Run without writing files'
+        required: false
+        type: boolean
+        default: false
+  schedule:
+    - cron: '10 1 * * *'
+
+permissions:
+  contents: read
+
+jobs:
+  fetch-and-report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install package
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e .
+
+      - name: Resolve workflow inputs
+        id: inputs
+        shell: bash
+        run: |
+          REPORT_DATE="${{ github.event.inputs.report_date }}"
+          MAX_RESULTS="${{ github.event.inputs.max_results_override }}"
+          DRY_RUN="${{ github.event.inputs.dry_run }}"
+
+          if [ -z "$REPORT_DATE" ]; then
+            REPORT_DATE="today"
+          fi
+
+          CLI_ARGS="run --date ${REPORT_DATE}"
+          if [ -n "$MAX_RESULTS" ]; then
+            CLI_ARGS="$CLI_ARGS --max-results-override ${MAX_RESULTS}"
+          fi
+          if [ "$DRY_RUN" = "true" ]; then
+            CLI_ARGS="$CLI_ARGS --dry-run"
+          fi
+
+          echo "cli_args=${CLI_ARGS}" >> "$GITHUB_OUTPUT"
+
+      - name: Run paper radar
+        run: python -m alpha_paper_radar.cli ${{ steps.inputs.outputs.cli_args }}
+
+      - name: Upload generated outputs
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: alpha-paper-radar-${{ github.run_id }}
+          path: |
+            data/raw/*.jsonl
+            data/state/paper_registry.json
+            reports/*.md
+          if-no-files-found: warn
