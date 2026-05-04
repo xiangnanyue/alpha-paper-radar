@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import time
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from typing import Any
@@ -13,7 +14,12 @@ def build_query(categories: list[str]) -> str:
     return " OR ".join(f"cat:{c}" for c in categories)
 
 
-def fetch_arxiv_papers(categories: list[str], max_results: int = 20) -> list[dict[str, Any]]:
+def fetch_arxiv_papers(
+    categories: list[str],
+    max_results: int = 20,
+    max_retries: int = 2,
+    backoff_seconds: float = 1.0,
+) -> list[dict[str, Any]]:
     params = {
         "search_query": build_query(categories),
         "start": 0,
@@ -21,9 +27,20 @@ def fetch_arxiv_papers(categories: list[str], max_results: int = 20) -> list[dic
         "sortBy": "submittedDate",
         "sortOrder": "descending",
     }
-    response = requests.get(ARXIV_API_URL, params=params, timeout=30)
-    response.raise_for_status()
-    return parse_arxiv_feed(response.text)
+
+    last_error: Exception | None = None
+    for attempt in range(max_retries + 1):
+        try:
+            response = requests.get(ARXIV_API_URL, params=params, timeout=30)
+            response.raise_for_status()
+            return parse_arxiv_feed(response.text)
+        except (requests.RequestException, ET.ParseError) as exc:
+            last_error = exc
+            if attempt >= max_retries:
+                break
+            time.sleep(backoff_seconds * (2**attempt))
+
+    raise RuntimeError(f"Failed to fetch arXiv papers after retries: {last_error}") from last_error
 
 
 def parse_arxiv_feed(xml_text: str) -> list[dict[str, Any]]:
