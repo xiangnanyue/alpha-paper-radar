@@ -1,11 +1,11 @@
 from __future__ import annotations
 
 import time
+import urllib.parse
+import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from typing import Any
-
-import requests
 
 ARXIV_API_URL = "http://export.arxiv.org/api/query"
 
@@ -27,14 +27,15 @@ def fetch_arxiv_papers(
         "sortBy": "submittedDate",
         "sortOrder": "descending",
     }
+    url = f"{ARXIV_API_URL}?{urllib.parse.urlencode(params)}"
 
     last_error: Exception | None = None
     for attempt in range(max_retries + 1):
         try:
-            response = requests.get(ARXIV_API_URL, params=params, timeout=30)
-            response.raise_for_status()
-            return parse_arxiv_feed(response.text)
-        except (requests.RequestException, ET.ParseError) as exc:
+            with urllib.request.urlopen(url, timeout=30) as response:
+                xml_text = response.read().decode("utf-8")
+            return parse_arxiv_feed(xml_text)
+        except (urllib.error.URLError, TimeoutError, ET.ParseError) as exc:
             last_error = exc
             if attempt >= max_retries:
                 break
@@ -44,7 +45,7 @@ def fetch_arxiv_papers(
 
 
 def parse_arxiv_feed(xml_text: str) -> list[dict[str, Any]]:
-    ns = {"atom": "http://www.w3.org/2005/Atom"}
+    ns = {"atom": "http://www.w3.org/2005/Atom", "arxiv": "http://arxiv.org/schemas/atom"}
     root = ET.fromstring(xml_text)
     entries: list[dict[str, Any]] = []
 
@@ -60,6 +61,12 @@ def parse_arxiv_feed(xml_text: str) -> list[dict[str, Any]]:
             for a in entry.findall("atom:author", ns)
         ]
         categories = [c.attrib.get("term", "") for c in entry.findall("atom:category", ns)]
+        primary_category = ""
+        primary = entry.find("arxiv:primary_category", ns)
+        if primary is not None:
+            primary_category = primary.attrib.get("term", "")
+        if not primary_category and categories:
+            primary_category = categories[0]
 
         entries.append(
             {
@@ -70,6 +77,7 @@ def parse_arxiv_feed(xml_text: str) -> list[dict[str, Any]]:
                 "updated": updated,
                 "authors": authors,
                 "categories": categories,
+                "primary_category": primary_category,
                 "priority": "unscored",
                 "fetched_at": datetime.now(timezone.utc).isoformat(),
             }

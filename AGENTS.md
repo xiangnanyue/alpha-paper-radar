@@ -14,6 +14,8 @@ Scope: entire repository.
 6. Add/maintain tests for any changed behavior.
 7. Never commit secrets or API keys.
 8. Prefer pure functions in core modules (`filter_papers`, `render_report`) for testability.
+9. Registry path is fixed at `data/state/paper_registry.json` for paper state tracking.
+10. Daily report must include sections: Executive Summary, New Papers, Updated Papers, Carry-over Papers, Suppressed Duplicates.
 
 ## PR guidance
 
