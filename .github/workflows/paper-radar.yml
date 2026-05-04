@@ -121,6 +121,32 @@ jobs:
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
+      - name: Echo dry_run and changed
+        if: ${{ always() }}
+        run: |
+          DRY_RUN_INPUT="${{ github.event.inputs.dry_run }}"
+          if [ -z "$DRY_RUN_INPUT" ]; then
+            DRY_RUN_INPUT="false"
+          fi
+
+          if [ "$DRY_RUN_INPUT" = "true" ]; then
+            CHANGED_VALUE="skipped (dry_run=true)"
+          else
+            CHANGED_VALUE="${{ steps.changes.outputs.changed }}"
+            if [ -z "$CHANGED_VALUE" ]; then
+              CHANGED_VALUE="unknown"
+            fi
+          fi
+
+          echo "dry_run=${DRY_RUN_INPUT}"
+          echo "changed=${CHANGED_VALUE}"
+
+          {
+            echo "### Workflow flags"
+            echo "- dry_run: ${DRY_RUN_INPUT}"
+            echo "- changed: ${CHANGED_VALUE}"
+          } >> "$GITHUB_STEP_SUMMARY"
+
       - name: Commit and push updates
         if: ${{ github.event.inputs.dry_run != 'true' && steps.changes.outputs.changed == 'true' }}
         run: |
