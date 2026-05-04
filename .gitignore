@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 poetry.lock
 data/raw/
+data/state/
 reports/
 
 # C extensions
