@@ -64,6 +64,7 @@ def run(report_date: str, dry_run: bool = False, max_results_override: int | Non
         suppressed_duplicate_count=suppressed_duplicate_count,
         failed_topics=failed_topics,
     )
+    should_generate_report = bool(sections.get("new") or sections.get("updated"))
 
     if dry_run:
         print(f"[DRY RUN] Unique papers: {len(all_filtered)}")
@@ -72,12 +73,18 @@ def run(report_date: str, dry_run: bool = False, max_results_override: int | Non
 
     save_jsonl(all_filtered, jsonl_path)
     save_registry(merged_registry)
-    report_path.parent.mkdir(parents=True, exist_ok=True)
-    report_path.write_text(report_content, encoding="utf-8")
+    if should_generate_report:
+        report_path.parent.mkdir(parents=True, exist_ok=True)
+        report_path.write_text(report_content, encoding="utf-8")
+    else:
+        report_path.unlink(missing_ok=True)
 
     print(f"Saved {len(all_filtered)} papers -> {jsonl_path}")
     print("Updated registry -> data/state/paper_registry.json")
-    print(f"Generated report -> {report_path}")
+    if should_generate_report:
+        print(f"Generated report -> {report_path}")
+    else:
+        print("Skipped report generation (new=0 and updated=0)")
 
 
 def main() -> None:

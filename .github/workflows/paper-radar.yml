@@ -20,7 +20,7 @@ on:
     - cron: '10 1 * * *'
 
 permissions:
-  contents: read
+  contents: write
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -66,6 +66,69 @@ jobs:
 
       - name: Run paper radar
         run: python -m alpha_paper_radar.cli ${{ steps.inputs.outputs.cli_args }}
+
+      - name: Merge and dedupe raw jsonl
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          from alpha_paper_radar.registry import parse_arxiv_id
+
+          raw_dir = Path("data/raw")
+          files = sorted(raw_dir.glob("*.jsonl"))
+          merged = {}
+
+          def score(paper, file_order, row_order):
+              updated = str(paper.get("updated", ""))
+              published = str(paper.get("published", ""))
+              return (updated, published, file_order, row_order)
+
+          for file_order, path in enumerate(files):
+              for row_order, line in enumerate(path.read_text(encoding="utf-8").splitlines()):
+                  if not line.strip():
+                      continue
+                  paper = json.loads(line)
+                  canonical_id, _ = parse_arxiv_id(str(paper.get("id", "")).strip())
+                  if not canonical_id:
+                      continue
+                  existing = merged.get(canonical_id)
+                  if existing is None or score(paper, file_order, row_order) >= score(existing, *existing["__pos"]):
+                      paper["priority"] = "unscored"
+                      paper["canonical_id"] = canonical_id
+                      paper["__pos"] = (file_order, row_order)
+                      merged[canonical_id] = paper
+
+          output = raw_dir / "latest.jsonl"
+          output.parent.mkdir(parents=True, exist_ok=True)
+          with output.open("w", encoding="utf-8") as f:
+              for canonical_id in sorted(merged.keys()):
+                  paper = dict(merged[canonical_id])
+                  paper.pop("__pos", None)
+                  f.write(json.dumps(paper, ensure_ascii=False) + "\n")
+
+          print(f"Merged {len(files)} files into {output} ({len(merged)} unique canonical ids)")
+          PY
+
+      - name: Detect changes
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        id: changes
+        run: |
+          if git diff --quiet -- data/raw data/state/paper_registry.json reports; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push updates
+        if: ${{ github.event.inputs.dry_run != 'true' && steps.changes.outputs.changed == 'true' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/raw/*.jsonl data/state/paper_registry.json reports/*.md
+          git commit -m "chore: update paper radar outputs"
+          git push
 
       - name: Upload generated outputs
         if: ${{ github.event.inputs.dry_run != 'true' }}
