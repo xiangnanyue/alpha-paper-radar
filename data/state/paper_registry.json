@@ -599,6 +599,35 @@
     ],
     "updated": "2026-05-04T17:02:17Z"
   },
+  "2605.02829": {
+    "authors": [
+      "Jingze Ge",
+      "Yun Liu",
+      "Xue Geng",
+      "Wanqi Dong",
+      "Wang Zhe Mark",
+      "Min Wu",
+      "Xulei Yang"
+    ],
+    "canonical_id": "2605.02829",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "0d56d73faa5a4b520fb58b81ff44b3859c35081040bd6193ca592da60a3356f4",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-04T17:05:45Z",
+    "report_count": 1,
+    "title": "Compress Then Adapt? No, Do It Together via Task-aware Union of Subspaces",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-04T17:05:45Z"
+  },
   "2605.02832": {
     "authors": [
       "Vicente Pelechanoa",
