@@ -1,20 +1,20 @@
 topics:
   quant_finance:
     categories: ["q-fin.ST", "q-fin.PM", "stat.AP"]
-    keywords: ["portfolio", "factor model", "risk parity", "alpha"]
+    keywords: ["portfolio optimization", "mean-variance", "factor investing", "factor model", "risk parity", "volatility forecasting", "covariance estimation", "asset allocation", "transaction costs", "market microstructure", "return predictability", "alpha signals"]
     max_results: 30
 
   deep_learning_sota:
     categories: ["cs.LG", "cs.AI", "stat.ML"]
-    keywords: ["state-of-the-art", "benchmark", "transformer", "diffusion"]
+    keywords: ["state-of-the-art", "sota", "benchmark", "leaderboard", "scaling law", "foundation model", "vision transformer", "diffusion model", "mixture-of-experts", "efficient fine-tuning", "test-time scaling", "long-context"]
     max_results: 30
 
   cross_section_time_series:
     categories: ["q-fin.ST", "econ.EM", "stat.ME"]
-    keywords: ["cross-section", "time series", "panel data", "predictability"]
+    keywords: ["cross-sectional", "panel data", "time-series", "dynamic panel", "fama-macbeth", "asset pricing", "factor timing", "term structure", "macroeconomic predictors", "out-of-sample", "forecast combination", "predictive regression"]
     max_results: 30
 
   llm_progress:
     categories: ["cs.CL", "cs.AI", "cs.LG"]
-    keywords: ["large language model", "LLM", "reasoning", "agent"]
+    keywords: ["large language model", "reasoning", "chain-of-thought", "tool use", "function calling", "agent", "planning", "retrieval-augmented generation", "rag", "long-context", "self-reflection", "multimodal llm"]
     max_results: 30
