@@ -111,16 +111,6 @@ jobs:
           print(f"Merged {len(files)} files into {output} ({len(merged)} unique canonical ids)")
           PY
 
-      - name: Detect changes
-        if: ${{ github.event.inputs.dry_run != 'true' }}
-        id: changes
-        run: |
-          if git diff --quiet -- data/raw data/state/paper_registry.json reports; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-          else
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-          fi
-
       - name: Echo dry_run and changed
         if: ${{ always() }}
         run: |
@@ -132,9 +122,10 @@ jobs:
           if [ "$DRY_RUN_INPUT" = "true" ]; then
             CHANGED_VALUE="skipped (dry_run=true)"
           else
-            CHANGED_VALUE="${{ steps.changes.outputs.changed }}"
-            if [ -z "$CHANGED_VALUE" ]; then
-              CHANGED_VALUE="unknown"
+            if git status --porcelain -- data/raw data/state/paper_registry.json reports | grep -q .; then
+              CHANGED_VALUE="true"
+            else
+              CHANGED_VALUE="false"
             fi
           fi
 
@@ -148,11 +139,17 @@ jobs:
           } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Commit and push updates
-        if: ${{ github.event.inputs.dry_run != 'true' && steps.changes.outputs.changed == 'true' }}
+        if: ${{ github.event.inputs.dry_run != 'true' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/raw/*.jsonl data/state/paper_registry.json reports/*.md
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
           git commit -m "chore: update paper radar outputs"
           git push
 
