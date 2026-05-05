@@ -1,0 +1,769 @@
+{
+  "2604.27447": {
+    "authors": [
+      "Ziwei Zhang",
+      "Jonathan Yu-Meng Li"
+    ],
+    "canonical_id": "2604.27447",
+    "categories": [
+      "math.OC",
+      "cs.AI",
+      "cs.LG",
+      "q-fin.PM",
+      "q-fin.RM"
+    ],
+    "content_hash": "2bb0877d06751d5027749247fb78c35021904f2158fbef8ba0ab5af789e73352",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "math.OC",
+    "priority": "unscored",
+    "published": "2026-04-30T05:33:15Z",
+    "report_count": 1,
+    "title": "Sampler-Robust Optimization under Generative Models",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-04-30T05:33:15Z"
+  },
+  "2605.01176": {
+    "authors": [
+      "Yi Wang",
+      "Takashi Hasuike"
+    ],
+    "canonical_id": "2605.01176",
+    "categories": [
+      "q-fin.PM",
+      "q-fin.CP"
+    ],
+    "content_hash": "d81e9ab0b128164c0f3ad5dd898361f7708080716f496721744594cf9786e589",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "q-fin.PM",
+    "priority": "unscored",
+    "published": "2026-05-02T00:48:16Z",
+    "report_count": 1,
+    "title": "Decision-Induced Ranking Explains Prediction Inflation and Excessive Turnover in SPO-Based Portfolio Optimization",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-05-02T00:48:16Z"
+  },
+  "2605.01923": {
+    "authors": [
+      "Antonio F. Galvao",
+      "Ulrich Hounyo",
+      "Jiahao Lin"
+    ],
+    "canonical_id": "2605.01923",
+    "categories": [
+      "econ.EM",
+      "math.ST"
+    ],
+    "content_hash": "cf58851ef85ad41ad2f6ad41baf9e3289ff151dfa9d5f8ef363e6be763ba407e",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "econ.EM",
+    "priority": "unscored",
+    "published": "2026-05-03T15:07:21Z",
+    "report_count": 1,
+    "title": "Estimation and Inference for the $τ$-Quantile of Individual Heterogeneous Coefficient",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-05-03T15:07:21Z"
+  },
+  "2605.02253": {
+    "authors": [
+      "Tianpai Luo",
+      "Zhou Zhou"
+    ],
+    "canonical_id": "2605.02253",
+    "categories": [
+      "math.ST",
+      "stat.ME"
+    ],
+    "content_hash": "a10197b7fae16f50dfe2cbc5a7f7de57d7a37eff049c25796571b891ba3386c1",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "math.ST",
+    "priority": "unscored",
+    "published": "2026-05-04T05:56:52Z",
+    "report_count": 1,
+    "title": "Simultaneous Inference for Nonlinear Time Series, a Sieve M-regression Approach",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-05-04T05:56:52Z"
+  },
+  "2605.02326": {
+    "authors": [
+      "Yangzhou Chen",
+      "Shuaida He",
+      "Xin Chen"
+    ],
+    "canonical_id": "2605.02326",
+    "categories": [
+      "stat.AP",
+      "q-fin.PM"
+    ],
+    "content_hash": "1222016f01626bbe80bc2a0cc162d9e3ab391306b4f332ecaf89ab842144d048",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "stat.AP",
+    "priority": "unscored",
+    "published": "2026-05-04T08:26:39Z",
+    "report_count": 1,
+    "title": "Large-Scale Asset Selection via Metric Dependence with Enriched High Frequency Information",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-05-04T08:26:39Z"
+  },
+  "2605.02587": {
+    "authors": [
+      "Yiye Jiang",
+      "Alice Chevaux",
+      "Wendy Meiring",
+      "Alex Petersen",
+      "Guillaume Kon Kam King",
+      "Julyan Arbel",
+      "Sophie Achard"
+    ],
+    "canonical_id": "2605.02587",
+    "categories": [
+      "stat.ME"
+    ],
+    "content_hash": "251a2a3c24735c3f9c96efb2b1e238b734d02862a682290bed75bb2ff12b69f5",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-05-04T13:35:50Z",
+    "report_count": 1,
+    "title": "Prior elicitation for Bayesian estimation of single-subject connectivity networks",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-05-04T13:35:50Z"
+  },
+  "2605.02673": {
+    "authors": [
+      "Serhii Zabolotnii"
+    ],
+    "canonical_id": "2605.02673",
+    "categories": [
+      "stat.ME",
+      "stat.CO"
+    ],
+    "content_hash": "29755bc5fb77ee28ce4a740b9172a0251dbed93d4b166bd68b0dc7aa4b0f06b0",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-05-04T14:53:49Z",
+    "report_count": 1,
+    "title": "EstemPMM: Polynomial Maximization Method for Non-Gaussian Regression and Time Series in R",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-05-04T14:53:49Z"
+  },
+  "2605.02742": {
+    "authors": [
+      "Anton Raël",
+      "Julien Boucher",
+      "Antoine Lhermitte"
+    ],
+    "canonical_id": "2605.02742",
+    "categories": [
+      "cs.GR",
+      "cs.LG"
+    ],
+    "content_hash": "173dbea31d2e12f1f2445c08daa246f3aca0772fe15bc0798255547dfe36b175",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "cs.GR",
+    "priority": "unscored",
+    "published": "2026-05-04T15:41:42Z",
+    "report_count": 1,
+    "title": "Adaptive Interpolation-Synthesis for Motion In-Betweening on Keyframe-Based Animation",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-04T15:41:42Z"
+  },
+  "2605.02743": {
+    "authors": [
+      "Ye Zhang",
+      "Longguang Wang",
+      "Qing Gao",
+      "Chaocan Xiang",
+      "Mohammed Bennamoun",
+      "Yulan Guo"
+    ],
+    "canonical_id": "2605.02743",
+    "categories": [
+      "cs.AI",
+      "cs.CV",
+      "cs.HC"
+    ],
+    "content_hash": "898525cb4722a2f3352afbf4d8926c008c2da5fa8c7ec61cbbadfa2a3e20d350",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-04T15:42:58Z",
+    "report_count": 1,
+    "title": "Triple Spectral Fusion for Sensor-based Human Activity Recognition",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-04T15:42:58Z"
+  },
+  "2605.02745": {
+    "authors": [
+      "Frederic Grabowski",
+      "Jacek Szczerbiński",
+      "Maciej Jaśkowski",
+      "Kalina Jasińska-Kobus",
+      "Paweł Dąbrowski-Tumański",
+      "Tomasz Jetka",
+      "Bartosz Topolski"
+    ],
+    "canonical_id": "2605.02745",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "q-bio.BM"
+    ],
+    "content_hash": "997c3a8514eb007e58525f6c12b0d07f05430e23d702d28c22a4028374b8fa11",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-04T15:46:39Z",
+    "report_count": 1,
+    "title": "Bolek: A Multimodal Language Model for Molecular Reasoning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-04T15:46:39Z"
+  },
+  "2605.02751": {
+    "authors": [
+      "Maria Chang",
+      "Ronny Luss",
+      "Miao Lui",
+      "Keerthiram Murugesan",
+      "Karthikeyan Ramamurthy",
+      "Djallel Bouneffouf"
+    ],
+    "canonical_id": "2605.02751",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "28bf37a1d73320d906d58bbd5c86099be2b9fc11ecf3398a2a4d524e5477a956",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-04T15:54:46Z",
+    "report_count": 1,
+    "title": "Mitigating Misalignment Contagion by Steering with Implicit Traits",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-04T15:54:46Z"
+  },
+  "2605.02765": {
+    "authors": [
+      "Christine P Lee",
+      "Xinyu Jessica Wang",
+      "Aws Albarghouthi",
+      "David Porfirio",
+      "Bilge Mutlu"
+    ],
+    "canonical_id": "2605.02765",
+    "categories": [
+      "cs.AI",
+      "cs.HC",
+      "cs.LG"
+    ],
+    "content_hash": "7f3ef756cfca4f7043422be02e2fd078307649df280c7d280f1641d9575540ac",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-04T16:05:40Z",
+    "report_count": 1,
+    "title": "U-Define: Designing User Workflows for Hard and Soft Constraints in LLM-Based Planning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-04T16:05:40Z"
+  },
+  "2605.02767": {
+    "authors": [
+      "Sowmya Vajrala",
+      "Akshay Bankar",
+      "Manjunath Arveti",
+      "Shreyas Pandith",
+      "Sravanth Kodavanti",
+      "Subhajit Sanyal",
+      "Amit Unde",
+      "Srinivas Soumitri Miriyala"
+    ],
+    "canonical_id": "2605.02767",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "637f8f0c1ed04e8d82cb58116b2e82ef39b4f53bb0bcd0efdabb2a541b7842c6",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-05-04T16:06:24Z",
+    "report_count": 1,
+    "title": "TOC-SR: Task-Optimal Compact diffusion for Image Super Resolution",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-04T16:06:24Z"
+  },
+  "2605.02777": {
+    "authors": [
+      "Rufeng Chen",
+      "Zhaofan Zhang",
+      "Zhejiang Yang",
+      "Hechang Chen",
+      "Sihong Xie"
+    ],
+    "canonical_id": "2605.02777",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "245886ff7e0ed96ac72c83383ac2998d52181af36abba09387835d0c302b519d",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-04T16:19:42Z",
+    "report_count": 1,
+    "title": "A decoupled diffusion planner that adapts to changing cost limits by using cost-conditioned generation for safety and reward gradients for performance",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-04T16:19:42Z"
+  },
+  "2605.02782": {
+    "authors": [
+      "Pehuén Moure",
+      "Niclas Pokel",
+      "Bilal Bounajma",
+      "Yingqiang Gao",
+      "Roman Boehringer",
+      "Longbiao Cheng",
+      "Shih-Chii Liu"
+    ],
+    "canonical_id": "2605.02782",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "eess.AS"
+    ],
+    "content_hash": "24db3806d0ac1e1c3d6f57580f7f0234a458fba32d38c2183fd90862d122186c",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-04T16:24:06Z",
+    "report_count": 1,
+    "title": "When Audio-Language Models Fail to Leverage Multimodal Context for Dysarthric Speech Recognition",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-04T16:24:06Z"
+  },
+  "2605.02789": {
+    "authors": [
+      "Mario Rodríguez Béjar",
+      "B. Romera-Paredes",
+      "Jose L. Hernández-Ramos"
+    ],
+    "canonical_id": "2605.02789",
+    "categories": [
+      "cs.CR",
+      "cs.CL"
+    ],
+    "content_hash": "40cd8214b5b7d614bf8635a35d338487e43522ea5ca52c4cae4fd51f79188a7e",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "cs.CR",
+    "priority": "unscored",
+    "published": "2026-05-04T16:30:47Z",
+    "report_count": 1,
+    "title": "FunFuzz: An LLM-Powered Evolutionary Fuzzing Framework",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-04T16:30:47Z"
+  },
+  "2605.02801": {
+    "authors": [
+      "Chenchen Zhang"
+    ],
+    "canonical_id": "2605.02801",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "2505f80dc921596584f6fc713a41146c2f8c231ca8cb3061be3a676e0f4ea4d4",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-05-04T16:42:18Z",
+    "report_count": 1,
+    "title": "Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-04T16:42:18Z"
+  },
+  "2605.02810": {
+    "authors": [
+      "David Mumford"
+    ],
+    "canonical_id": "2605.02810",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "68795a81856f34d0898c651c0dd8c453c5564380eac972827b0303217f8e987e",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-04T16:48:43Z",
+    "report_count": 1,
+    "title": "AIs and Humans with Agency",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-04T16:48:43Z"
+  },
+  "2605.02815": {
+    "authors": [
+      "Quang Hieu Pham",
+      "Yang He",
+      "Ping Nie",
+      "Canwen Xu",
+      "Davood Rafiei",
+      "Yuepeng Wang",
+      "Xi Ye",
+      "Jocelyn Qiaochu Chen"
+    ],
+    "canonical_id": "2605.02815",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "0caf07afd3417fd115d1cd2d5fbfff7af55f3ea6026b794d3dbff9abfd558cc9",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-05-04T16:51:31Z",
+    "report_count": 1,
+    "title": "FlexSQL: Flexible Exploration and Execution Make Better Text-to-SQL Agents",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-04T16:51:31Z"
+  },
+  "2605.02819": {
+    "authors": [
+      "Jiujiu Chen",
+      "Yazheng Liu",
+      "Sihong Xie",
+      "Hui Xiong"
+    ],
+    "canonical_id": "2605.02819",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "ba2159eae40fcc1b6b3735711556e93687c5ad189e1fc8a12fd0ba0c918b4e52",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-04T16:56:01Z",
+    "report_count": 1,
+    "title": "SCPRM: A Schema-aware Cumulative Process Reward Model for Knowledge Graph Question Answering",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-04T16:56:01Z"
+  },
+  "2605.02825": {
+    "authors": [
+      "Durba Bhattacharya",
+      "Sucharita Roy",
+      "Sourabh Bhattacharya"
+    ],
+    "canonical_id": "2605.02825",
+    "categories": [
+      "stat.ME",
+      "stat.ML"
+    ],
+    "content_hash": "953651c0fae71650848fb4927bdeb5cdf531eb6f94e958608526215d5627f384",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-05-04T17:01:49Z",
+    "report_count": 1,
+    "title": "The Bayesian Reflex: Online Learning as the Autonomic Nervous System of Modern and Future AI",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-05-04T17:01:49Z"
+  },
+  "2605.02827": {
+    "authors": [
+      "Ziqi Liu",
+      "Kiljae Lee",
+      "Yuan Zhang",
+      "Weijing Tang"
+    ],
+    "canonical_id": "2605.02827",
+    "categories": [
+      "cs.AI",
+      "stat.ME",
+      "stat.ML"
+    ],
+    "content_hash": "8fb56008e1d1ddf4ba66fe0293341dc0ec5ec24ee50ba361ce9c31f47c1603c5",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-04T17:02:17Z",
+    "report_count": 1,
+    "title": "First-Order Efficiency for Probabilistic Value Estimation via A Statistical Viewpoint",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-04T17:02:17Z"
+  },
+  "2605.02832": {
+    "authors": [
+      "Vicente Pelechanoa",
+      "Antoni Mestre",
+      "Manoli Albert",
+      "Miriam Gil"
+    ],
+    "canonical_id": "2605.02832",
+    "categories": [
+      "cs.AI",
+      "cs.HC",
+      "cs.SE"
+    ],
+    "content_hash": "461a981eb7b7c636f4b3346f567b864880aa13db6094ed696c790f1a3c5cbb41",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-04T17:09:21Z",
+    "report_count": 1,
+    "title": "HAAS: A Policy-Aware Framework for Adaptive Task Allocation Between Humans and Artificial Intelligence Systems",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-04T17:09:21Z"
+  },
+  "2605.02834": {
+    "authors": [
+      "Tanush Yadav",
+      "Mohammadreza Salehi",
+      "Jae Sung Park",
+      "Vivek Ramanujan",
+      "Hannaneh Hajishirzi",
+      "Yejin Choi",
+      "Ali Farhadi",
+      "Rohun Tripathi",
+      "Ranjay Krishna"
+    ],
+    "canonical_id": "2605.02834",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "ad915fb39ce6b9e70d742f5c91eea6daaffe3dd7649719ed7b2c88ab0a104cc5",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-05-04T17:11:16Z",
+    "report_count": 1,
+    "title": "VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-04T17:11:16Z"
+  },
+  "2605.02836": {
+    "authors": [
+      "Sushovan Majhi",
+      "Atish Mitra",
+      "Žiga Virk",
+      "Pramita Bagchi"
+    ],
+    "canonical_id": "2605.02836",
+    "categories": [
+      "cs.LG",
+      "math.AT"
+    ],
+    "content_hash": "852a0ca7408e005227f003ce38630f2af580f654659432ca713e6f5b8b0b14ca",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-04T17:15:01Z",
+    "report_count": 1,
+    "title": "A Closed-Form Persistence-Landmark Pipeline for Certified Point-Cloud and Graph Classification",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-04T17:15:01Z"
+  },
+  "2605.02853": {
+    "authors": [
+      "Arian Eamaz",
+      "Farhang Yeganegi",
+      "Mojtaba Soltanalian"
+    ],
+    "canonical_id": "2605.02853",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "1cfe7a0e27fd537e305294cb4d83f5b7219f6786bbe7a3380b3a6538143df972",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-04T17:30:50Z",
+    "report_count": 1,
+    "title": "Trust, but Verify: Peeling Low-Bit Transformer Networks for Training Monitoring",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-04T17:30:50Z"
+  },
+  "2605.02860": {
+    "authors": [
+      "Mohamad Khajezade",
+      "Fatemeh H. Fard",
+      "Mohamed Sami Shehata"
+    ],
+    "canonical_id": "2605.02860",
+    "categories": [
+      "cs.AI",
+      "cs.LG",
+      "cs.SE"
+    ],
+    "content_hash": "150ff4dba5da2b63a54efad77de58f420b5ceaae494b2f3a5414ab52a7509110",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-04T17:37:16Z",
+    "report_count": 1,
+    "title": "Standing on the Shoulders of Giants: Stabilized Knowledge Distillation for Cross--Language Code Clone Detection",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-04T17:37:16Z"
+  },
+  "2605.02888": {
+    "authors": [
+      "Shikhar Shukla"
+    ],
+    "canonical_id": "2605.02888",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL",
+      "cs.DC",
+      "eess.SY"
+    ],
+    "content_hash": "2cd3abd60efbcc83cf0d3e5955d0fec54f24f520fba424e64d64e6151195b7df",
+    "first_seen_date": "2026-05-05",
+    "last_reported_date": "2026-05-05",
+    "last_seen_date": "2026-05-05",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-04T17:55:05Z",
+    "report_count": 1,
+    "title": "SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-04T17:55:05Z"
+  }
+}
