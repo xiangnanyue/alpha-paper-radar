@@ -117,7 +117,7 @@
     "content_hash": "1222016f01626bbe80bc2a0cc162d9e3ab391306b4f332ecaf89ab842144d048",
     "first_seen_date": "2026-05-05",
     "last_reported_date": "2026-05-05",
-    "last_seen_date": "2026-05-06",
+    "last_seen_date": "2026-05-07",
     "latest_version": 1,
     "primary_category": "stat.AP",
     "priority": "unscored",
@@ -1366,7 +1366,7 @@
     "content_hash": "a360d25ccee14dcf1b641154d87abc831c22dce439fb3a84dd56bf9ed19037d4",
     "first_seen_date": "2026-05-06",
     "last_reported_date": "2026-05-06",
-    "last_seen_date": "2026-05-06",
+    "last_seen_date": "2026-05-07",
     "latest_version": 1,
     "primary_category": "q-fin.TR",
     "priority": "unscored",
@@ -1659,5 +1659,735 @@
       "llm_progress"
     ],
     "updated": "2026-05-05T17:57:19Z"
+  },
+  "2605.04218": {
+    "authors": [
+      "Katerina Tang",
+      "Vivek Srikrishnan",
+      "Jackson Kulik"
+    ],
+    "canonical_id": "2605.04218",
+    "categories": [
+      "physics.soc-ph",
+      "physics.data-an",
+      "stat.ME"
+    ],
+    "content_hash": "f27015069d919cef7ddd191f616367cee38d7afc8ba8fb9f54a17cc83a5fbe4e",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "physics.soc-ph",
+    "priority": "unscored",
+    "published": "2026-05-05T19:00:27Z",
+    "report_count": 1,
+    "title": "Bayesian hypergraph inference from scarce and noisy dynamical observations",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-05-05T19:00:27Z"
+  },
+  "2605.04255": {
+    "authors": [
+      "Alessandro Micheli",
+      "Silvia Sapora",
+      "Anthea Monod",
+      "Samir Bhatt"
+    ],
+    "canonical_id": "2605.04255",
+    "categories": [
+      "stat.ML",
+      "cs.LG",
+      "stat.ME"
+    ],
+    "content_hash": "f30a6ae927249cb0ecb0d733c79c88ea58cfde07b932ae16f35f15e6a090f8c0",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "stat.ML",
+    "priority": "unscored",
+    "published": "2026-05-05T19:43:03Z",
+    "report_count": 1,
+    "title": "Entropic Riemannian Neural Optimal Transport",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-05-05T19:43:03Z"
+  },
+  "2605.04968": {
+    "authors": [
+      "Yuanya Xu"
+    ],
+    "canonical_id": "2605.04968",
+    "categories": [
+      "stat.ME",
+      "math.ST"
+    ],
+    "content_hash": "e0d6263858064f17b1b099eb2943356f47189b5de42c1c3b9d5353ba46f9d5c6",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-05-06T14:26:50Z",
+    "report_count": 1,
+    "title": "Tests for white noise via asymptotically independent U-statistics in high-dimensions",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-05-06T14:26:50Z"
+  },
+  "2605.05037": {
+    "authors": [
+      "Jad Beyhum",
+      "Geert Dhaene",
+      "Cavit Pakel",
+      "Martin Weidner"
+    ],
+    "canonical_id": "2605.05037",
+    "categories": [
+      "econ.EM"
+    ],
+    "content_hash": "00f248e57f89e84e659d6b2e4e6f60645b5bce877436aa286c4c7f9467859ad2",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "econ.EM",
+    "priority": "unscored",
+    "published": "2026-05-06T15:29:29Z",
+    "report_count": 1,
+    "title": "Approximate Operator Inversion for Average Effects in Nonlinear Panel Models",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-05-06T15:29:29Z"
+  },
+  "2605.05115": {
+    "authors": [
+      "Daniel Wurgaft",
+      "Can Rager",
+      "Matthew Kowal",
+      "Vasudev Shyam",
+      "Sheridan Feucht",
+      "Usha Bhalla",
+      "Tal Haklay",
+      "Eric Bigelow",
+      "Raphael Sarfati",
+      "Thomas McGrath",
+      "Owen Lewis",
+      "Jack Merullo",
+      "Noah Goodman",
+      "Thomas Fel",
+      "Atticus Geiger",
+      "Ekdeep Singh Lubana"
+    ],
+    "canonical_id": "2605.05115",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "2d14785e227c789335e759bccab8389536429a29991a22b21b12df6c0924af7d",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-06T16:46:03Z",
+    "report_count": 1,
+    "title": "Manifold Steering Reveals the Shared Geometry of Neural Network Representation and Behavior",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-06T16:46:03Z"
+  },
+  "2605.05116": {
+    "authors": [
+      "Marco Rando",
+      "Samuel Vaiter"
+    ],
+    "canonical_id": "2605.05116",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "4bcc52e11409e417fbd499e0e89a5dd921fd1c1fb04949be6de45633134ad646",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-06T16:47:07Z",
+    "report_count": 1,
+    "title": "On the Hardness of Junking LLMs",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-06T16:47:07Z"
+  },
+  "2605.05120": {
+    "authors": [
+      "Sahar Askari",
+      "Mohammad Mahdi Mirza Ali Mohammadi",
+      "Fatemeh Ensafdoust",
+      "Amin Golnari",
+      "Saeid Sanei"
+    ],
+    "canonical_id": "2605.05120",
+    "categories": [
+      "cs.LG",
+      "eess.SP"
+    ],
+    "content_hash": "390c8e2ac7335dd88d9d598196d7b76461fd9cfed74e9c9cc90ff58f7b4e5246",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-06T16:48:57Z",
+    "report_count": 1,
+    "title": "Physiologically Grounded Driver Behavior Classification: SHAP-Driven Elite Feature Selection and Hybrid Gradient Boosting for Multimodal Physiological Signals",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-06T16:48:57Z"
+  },
+  "2605.05121": {
+    "authors": [
+      "Yucheng Ruan",
+      "Ling Huang",
+      "Qika Lin",
+      "Kai He",
+      "Mengling Feng"
+    ],
+    "canonical_id": "2605.05121",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "559b0d164dab85483eccaf050f9ce0b2dab1bbbddd7bd82600e6c852effbc526",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-05-06T16:49:17Z",
+    "report_count": 1,
+    "title": "Beyond Semantics: An Evidential Reasoning-Aware Multi-View Learning Framework for Trustworthy Mental Health Prediction",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-06T16:49:17Z"
+  },
+  "2605.05123": {
+    "authors": [
+      "Alper Kamil Bozkurt",
+      "Xiaoan Xu",
+      "Shangtong Zhang",
+      "Miroslav Pajic",
+      "Yuichi Motai"
+    ],
+    "canonical_id": "2605.05123",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "85c0bc0f7483ef88d17cff6fcbe0c2d674b8ded74104a186ac5dfb1c444deb1d",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-06T16:51:44Z",
+    "report_count": 1,
+    "title": "Adaptive Policy Selection and Fine-Tuning under Interaction Budgets for Offline-to-Online Reinforcement Learning",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-06T16:51:44Z"
+  },
+  "2605.05125": {
+    "authors": [
+      "Olivia Jullian Parra",
+      "Sara Zoccheddu",
+      "David Catalan Cerezo",
+      "Tom Forzy",
+      "Franziska Ulrich",
+      "William Sutcliffe",
+      "Jakob Martin Burgstaller",
+      "Oliver Senn",
+      "Patrick Owen",
+      "Nicola Serra"
+    ],
+    "canonical_id": "2605.05125",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "7a1761038602d333439bef9079c7b88eeb91999c50c84cb201e64235ea8296ea",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-06T16:53:08Z",
+    "report_count": 1,
+    "title": "Joint Treatment Effect Estimation from Incomplete Healthcare Data: Temporal Causal Normalizing Flows with LLM-driven Evolutionary MNAR Imputation",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-06T16:53:08Z"
+  },
+  "2605.05133": {
+    "authors": [
+      "Xiaoyu Jiang",
+      "Xinxing Shi",
+      "Sokratia Georgaka",
+      "Magnus Rattray",
+      "Mauricio A Álvarez"
+    ],
+    "canonical_id": "2605.05133",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "a4d72131522c4162a364500fe116e14f48f4c9315aabebccfd1a416910561770",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-06T17:05:50Z",
+    "report_count": 1,
+    "title": "Transformed Latent Variable Multi-Output Gaussian Processes",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-06T17:05:50Z"
+  },
+  "2605.05134": {
+    "authors": [
+      "Dan Wilson",
+      "Mohamed Akrout"
+    ],
+    "canonical_id": "2605.05134",
+    "categories": [
+      "cs.LG",
+      "math.DS"
+    ],
+    "content_hash": "c06516376ee6a379c58cd2c3600faad3cf17f6ed2956707a7d37e66bcf4d5e1a",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-06T17:07:29Z",
+    "report_count": 1,
+    "title": "Low-Cost Black-Box Detection of LLM Hallucinations via Dynamical System Prediction",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-06T17:07:29Z"
+  },
+  "2605.05138": {
+    "authors": [
+      "Sergey Rodionov"
+    ],
+    "canonical_id": "2605.05138",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "ca40beeb248b5918353bf92078963133f513724eb23fb06afab4f8e5fbf07214",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-06T17:12:36Z",
+    "report_count": 1,
+    "title": "Executable World Models for ARC-AGI-3 in the Era of Coding Agents",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-06T17:12:36Z"
+  },
+  "2605.05144": {
+    "authors": [
+      "Freyaa Chawla",
+      "Ahan Chawla",
+      "Rishi Singh",
+      "Joe Germino",
+      "Grigorii Khvatskii"
+    ],
+    "canonical_id": "2605.05144",
+    "categories": [
+      "cs.LG",
+      "cs.CY"
+    ],
+    "content_hash": "d6212658c31bde68b6f6969ff4a05db5c353538955e7c6d6cb93366b785d6010",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-06T17:16:29Z",
+    "report_count": 1,
+    "title": "Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-06T17:16:29Z"
+  },
+  "2605.05151": {
+    "authors": [
+      "Alper Yıldırım"
+    ],
+    "canonical_id": "2605.05151",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "5f12468de9e9352eb87fd62f276a329e9b78780d6824b9f4c1407dcd7e81373d",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-06T17:23:27Z",
+    "report_count": 1,
+    "title": "Superposition Is Not Necessary: A Mechanistic Interpretability Analysis of Transformer Representations for Time Series Forecasting",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-06T17:23:27Z"
+  },
+  "2605.05155": {
+    "authors": [
+      "Chuanzhi Xu",
+      "Boyu Wei",
+      "Haoxian Zhou",
+      "Xuanhua Yin",
+      "Zihan Deng",
+      "Haodong Chen",
+      "Qiang Qu",
+      "Weidong Cai"
+    ],
+    "canonical_id": "2605.05155",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "b4c239c059ab1722102bafd3e312053dd3a22567a2bf2842df6d174046906fe6",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-05-06T17:27:09Z",
+    "report_count": 1,
+    "title": "Aes3D: Aesthetic Assessment in 3D Gaussian Splatting",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-06T17:27:09Z"
+  },
+  "2605.05159": {
+    "authors": [
+      "Srikar Kashyap Pulipaka"
+    ],
+    "canonical_id": "2605.05159",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "d5cac000664a7a5d59419da959df53293bfbd5ef228dd4fce1af73f7f0d939aa",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-05-06T17:29:14Z",
+    "report_count": 1,
+    "title": "PSK at SemEval-2026 Task 9: Multilingual Polarization Detection Using Ensemble Gemma Models with Synthetic Data Augmentation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-06T17:29:14Z"
+  },
+  "2605.05164": {
+    "authors": [
+      "Enhui Chai",
+      "Sicheng Chen",
+      "Tianyi Zhang",
+      "Chad Wong",
+      "Kecheng Huang",
+      "Zeyu Liu",
+      "Fei Xia"
+    ],
+    "canonical_id": "2605.05164",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "3416d19afd67b259930d51a4d5720c7ef1a0342cc561223ad78d2ae927009ba5",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-05-06T17:33:30Z",
+    "report_count": 1,
+    "title": "Geometry-Aware State Space Model: A New Paradigm for Whole-Slide Image Representation",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-06T17:33:30Z"
+  },
+  "2605.05166": {
+    "authors": [
+      "Mina Gabriel"
+    ],
+    "canonical_id": "2605.05166",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "959f687370fc4d1b229467b93d0cab6db2a9d88bafe1f2e4c03d63e0a9b29e7b",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-05-06T17:34:00Z",
+    "report_count": 1,
+    "title": "The First Token Knows: Single-Decode Confidence for Hallucination Detection",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-06T17:34:00Z"
+  },
+  "2605.05170": {
+    "authors": [
+      "The Verkor Team",
+      "Ravi Krishna",
+      "Suresh Krishna",
+      "David Chin"
+    ],
+    "canonical_id": "2605.05170",
+    "categories": [
+      "cs.AR",
+      "cs.AI"
+    ],
+    "content_hash": "81ac8a28a0b69f16034fc2b9599476d32ddaf23b3948690b3dcd787205e40e51",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "cs.AR",
+    "priority": "unscored",
+    "published": "2026-05-06T17:40:03Z",
+    "report_count": 1,
+    "title": "Design Conductor 2.0: An agent builds a TurboQuant inference accelerator in 80 hours",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-06T17:40:03Z"
+  },
+  "2605.05172": {
+    "authors": [
+      "Lakshita Dodeja",
+      "Ondrej Biza",
+      "Shivam Vats",
+      "Stephen Hart",
+      "Stefanie Tellex",
+      "Robin Walters",
+      "Karl Schmeckpeper",
+      "Thomas Weng"
+    ],
+    "canonical_id": "2605.05172",
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "content_hash": "c6ecf268a6a1425305b4bfa7bd7f1a646a46b774f340f383f9deb4b7e817062b",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-05-06T17:40:11Z",
+    "report_count": 1,
+    "title": "When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Cloning for On-Robot Reinforcement Learning",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-06T17:40:11Z"
+  },
+  "2605.05179": {
+    "authors": [
+      "Wilson Wu",
+      "Victor Lecomte",
+      "Michael Winer",
+      "George Robinson",
+      "Jacob Hilton",
+      "Paul Christiano"
+    ],
+    "canonical_id": "2605.05179",
+    "categories": [
+      "cs.LG",
+      "cond-mat.dis-nn",
+      "stat.ML"
+    ],
+    "content_hash": "f7972cc3f85afbe77a0c5a78590998aa43693a8e7647fbd18e336ef613e89611",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-06T17:46:12Z",
+    "report_count": 1,
+    "title": "Estimating the expected output of wide random MLPs more efficiently than sampling",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-06T17:46:12Z"
+  },
+  "2605.05189": {
+    "authors": [
+      "Nicholas Barnfield",
+      "Juno Kim",
+      "Eshaan Nichani",
+      "Jason D. Lee",
+      "Yue M. Lu"
+    ],
+    "canonical_id": "2605.05189",
+    "categories": [
+      "stat.ML",
+      "cs.IT",
+      "cs.LG"
+    ],
+    "content_hash": "08f42c74eb3d9c0c7dacfe46e3d239307fc84d411fbf6f08a1c42b3bca5332ad",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "stat.ML",
+    "priority": "unscored",
+    "published": "2026-05-06T17:53:20Z",
+    "report_count": 1,
+    "title": "Sharp Capacity Thresholds in Linear Associative Memory: From Winner-Take-All to Listwise Retrieval",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-06T17:53:20Z"
+  },
+  "2605.05191": {
+    "authors": [
+      "Yijun Lu",
+      "Rui Ye",
+      "Yuwen Du",
+      "Jiajun Wang",
+      "Songhua Liu",
+      "Siheng Chen"
+    ],
+    "canonical_id": "2605.05191",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "a660d11d749aab1b6e22f03877504e6d31df1be045b962f9aaa65f0e6a42fd16",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-06T17:54:16Z",
+    "report_count": 1,
+    "title": "LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-06T17:54:16Z"
+  },
+  "2605.05192": {
+    "authors": [
+      "Ziang Chen",
+      "Jaume de Dios Pont",
+      "Paata Ivanisvili",
+      "Jose Madrid",
+      "Haozhu Wang"
+    ],
+    "canonical_id": "2605.05192",
+    "categories": [
+      "math.CA",
+      "cs.AI",
+      "math.CO",
+      "math.PR"
+    ],
+    "content_hash": "da7f02b5d26e93a5a15e65b273397d114aa7ca683703e7eaf7f60681baf08f1d",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "math.CA",
+    "priority": "unscored",
+    "published": "2026-05-06T17:54:51Z",
+    "report_count": 1,
+    "title": "Almost-Orthogonality in Lp Spaces: A Case Study with Grok",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-06T17:54:51Z"
+  },
+  "2605.05206": {
+    "authors": [
+      "Xiaoyu Wu",
+      "Yifei Wang",
+      "Tsu-Jui Fu",
+      "Liang-Chieh Chen",
+      "Zhe Gan",
+      "Chen Wei"
+    ],
+    "canonical_id": "2605.05206",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "3ca9cc04b853b1aad937119b85754dcdb452aab3dd8d22e39356d996bda62b66",
+    "first_seen_date": "2026-05-07",
+    "last_reported_date": "2026-05-07",
+    "last_seen_date": "2026-05-07",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-05-06T17:59:42Z",
+    "report_count": 1,
+    "title": "Taming Outlier Tokens in Diffusion Transformers",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-06T17:59:42Z"
   }
 }
