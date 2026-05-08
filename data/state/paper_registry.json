@@ -1366,7 +1366,7 @@
     "content_hash": "a360d25ccee14dcf1b641154d87abc831c22dce439fb3a84dd56bf9ed19037d4",
     "first_seen_date": "2026-05-06",
     "last_reported_date": "2026-05-06",
-    "last_seen_date": "2026-05-07",
+    "last_seen_date": "2026-05-08",
     "latest_version": 1,
     "primary_category": "q-fin.TR",
     "priority": "unscored",
@@ -2389,5 +2389,483 @@
       "deep_learning_sota"
     ],
     "updated": "2026-05-06T17:59:42Z"
+  },
+  "2605.06610": {
+    "authors": [
+      "Jakub Stępień",
+      "Marcin Mazur",
+      "Jacek Tabor",
+      "Przemysław Spurek"
+    ],
+    "canonical_id": "2605.06610",
+    "categories": [
+      "cs.LG",
+      "cs.CV"
+    ],
+    "content_hash": "056f79a12637283ec932ce61ef3b9cf01298296d9d5f016d9f3000c1203ea931",
+    "first_seen_date": "2026-05-08",
+    "last_reported_date": "2026-05-08",
+    "last_seen_date": "2026-05-08",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-07T17:28:40Z",
+    "report_count": 1,
+    "title": "SoftSAE: Dynamic Top-K Selection for Adaptive Sparse Autoencoders",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-07T17:28:40Z"
+  },
+  "2605.06612": {
+    "authors": [
+      "Yang Xu",
+      "Chiwoo Park"
+    ],
+    "canonical_id": "2605.06612",
+    "categories": [
+      "cs.LG",
+      "cs.ET",
+      "stat.ML"
+    ],
+    "content_hash": "d02204800dbfe7df4c1d7e3502533213aff76b26078d1c55fceea00b1dc7b1d4",
+    "first_seen_date": "2026-05-08",
+    "last_reported_date": "2026-05-08",
+    "last_seen_date": "2026-05-08",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-07T17:29:18Z",
+    "report_count": 1,
+    "title": "Online Bayesian Calibration under Gradual and Abrupt System Changes",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-07T17:29:18Z"
+  },
+  "2605.06615": {
+    "authors": [
+      "Hongyi Tao",
+      "Dingzhi Yu",
+      "Lijun Zhang"
+    ],
+    "canonical_id": "2605.06615",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL",
+      "math.OC"
+    ],
+    "content_hash": "2075309f2f7d81705728be571928119caa76ea2625317424e58513a0d320ad22",
+    "first_seen_date": "2026-05-08",
+    "last_reported_date": "2026-05-08",
+    "last_seen_date": "2026-05-08",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-07T17:32:09Z",
+    "report_count": 1,
+    "title": "When and Why SignSGD Outperforms SGD: A Theoretical Study Based on $\\ell_1$-norm Lower Bounds",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-07T17:32:09Z"
+  },
+  "2605.06623": {
+    "authors": [
+      "Zhexuan Wang",
+      "Xuebo Liu",
+      "Li Wang",
+      "Zifei Shan",
+      "Yutong Wang",
+      "Zhenxi Song",
+      "Min Zhang"
+    ],
+    "canonical_id": "2605.06623",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "3554a58ec503a301efe1401b77ae077fa4366921d21435fa73e3c03430a7a65b",
+    "first_seen_date": "2026-05-08",
+    "last_reported_date": "2026-05-08",
+    "last_seen_date": "2026-05-08",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-07T17:35:26Z",
+    "report_count": 1,
+    "title": "MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-07T17:35:26Z"
+  },
+  "2605.06628": {
+    "authors": [
+      "Dan Jacobellis",
+      "Neeraja J. Yadwadkar"
+    ],
+    "canonical_id": "2605.06628",
+    "categories": [
+      "eess.IV",
+      "cs.LG",
+      "cs.MM",
+      "eess.AS",
+      "eess.SP"
+    ],
+    "content_hash": "336849efff0adc4ca852f2b145e55cfa2a54abd5d8ec8043af586b70b62a567e",
+    "first_seen_date": "2026-05-08",
+    "last_reported_date": "2026-05-08",
+    "last_seen_date": "2026-05-08",
+    "latest_version": 1,
+    "primary_category": "eess.IV",
+    "priority": "unscored",
+    "published": "2026-05-07T17:42:38Z",
+    "report_count": 1,
+    "title": "LiVeAction: a Lightweight, Versatile, and Asymmetric Neural Codec Design for Real-time Operation",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-07T17:42:38Z"
+  },
+  "2605.06638": {
+    "authors": [
+      "Tianle Wang",
+      "Zhaoyang Wang",
+      "Guangchen Lan",
+      "Xinpeng Wei",
+      "Sipeng Zhang",
+      "Guanwen Qiu",
+      "Abulhair Saparov"
+    ],
+    "canonical_id": "2605.06638",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "1729ba60530b0df1a046cdb740935a42b147f1d6fd60bc92dedd148e4c345961",
+    "first_seen_date": "2026-05-08",
+    "last_reported_date": "2026-05-08",
+    "last_seen_date": "2026-05-08",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-07T17:48:42Z",
+    "report_count": 1,
+    "title": "Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-07T17:48:42Z"
+  },
+  "2605.06641": {
+    "authors": [
+      "Ziyu Zhai",
+      "Siyou Li",
+      "Juexi Shao",
+      "Juntao Yu"
+    ],
+    "canonical_id": "2605.06641",
+    "categories": [
+      "cs.AI",
+      "cs.CV"
+    ],
+    "content_hash": "0697c877558fb3e6dcead0723299d7225f4ff9f05600ed3070ecb260ff73ff1a",
+    "first_seen_date": "2026-05-08",
+    "last_reported_date": "2026-05-08",
+    "last_seen_date": "2026-05-08",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-07T17:51:13Z",
+    "report_count": 1,
+    "title": "GlazyBench: A Benchmark for Ceramic Glaze Property Prediction and Image Generation",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-07T17:51:13Z"
+  },
+  "2605.06643": {
+    "authors": [
+      "Hao Dong",
+      "Hongzhao Li",
+      "Shupan Li",
+      "Muhammad Haris Khan",
+      "Eleni Chatzi",
+      "Olga Fink"
+    ],
+    "canonical_id": "2605.06643",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.LG",
+      "cs.MM"
+    ],
+    "content_hash": "ff553dab9c9acc095b6ad301172a7d92ffbf665eadd20308b2262f886cf221a1",
+    "first_seen_date": "2026-05-08",
+    "last_reported_date": "2026-05-08",
+    "last_seen_date": "2026-05-08",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-05-07T17:51:16Z",
+    "report_count": 1,
+    "title": "Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-07T17:51:16Z"
+  },
+  "2605.06644": {
+    "authors": [
+      "Yuchen Xiong",
+      "Swee Keong Yeap",
+      "Steven Aw Yoong Kit"
+    ],
+    "canonical_id": "2605.06644",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "4f27270e27290a6170d0f474eef8c6683b2114889e1b82efffc3a779f28e36d6",
+    "first_seen_date": "2026-05-08",
+    "last_reported_date": "2026-05-08",
+    "last_seen_date": "2026-05-08",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-07T17:51:41Z",
+    "report_count": 1,
+    "title": "Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-07T17:51:41Z"
+  },
+  "2605.06647": {
+    "authors": [
+      "Zeyu Yang",
+      "Qi Ma",
+      "Jason Chen",
+      "Anshumali Shrivastava"
+    ],
+    "canonical_id": "2605.06647",
+    "categories": [
+      "cs.IR",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "57a60a8b247e106ef96b39aad0e90a1199f487f8af34c7486257aac27904c4f9",
+    "first_seen_date": "2026-05-08",
+    "last_reported_date": "2026-05-08",
+    "last_seen_date": "2026-05-08",
+    "latest_version": 1,
+    "primary_category": "cs.IR",
+    "priority": "unscored",
+    "published": "2026-05-07T17:54:29Z",
+    "report_count": 1,
+    "title": "Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-07T17:54:29Z"
+  },
+  "2605.06651": {
+    "authors": [
+      "Daniel Zheng",
+      "Ingrid von Glehn",
+      "Yori Zwols",
+      "Iuliya Beloshapka",
+      "Lars Buesing",
+      "Daniel M. Roy",
+      "Martin Wattenberg",
+      "Bogdan Georgiev",
+      "Tatiana Schmidt",
+      "Andrew Cowie",
+      "Fernanda Viegas",
+      "Dimitri Kanevsky",
+      "Vineet Kahlon",
+      "Hartmut Maennel",
+      "Sophia Alj",
+      "George Holland",
+      "Alex Davies",
+      "Pushmeet Kohli"
+    ],
+    "canonical_id": "2605.06651",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "c55b607b8cc4192fdc2818e188bb7e0e53a5125c47b255a5b2ee8976062b1238",
+    "first_seen_date": "2026-05-08",
+    "last_reported_date": "2026-05-08",
+    "last_seen_date": "2026-05-08",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-07T17:56:32Z",
+    "report_count": 1,
+    "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-07T17:56:32Z"
+  },
+  "2605.06652": {
+    "authors": [
+      "Sushant Gautam",
+      "Finn Schwall",
+      "Annika Willoch Olstad",
+      "Fernando Vallecillos Ruiz",
+      "Birk Torpmann-Hagen",
+      "Sunniva Maria Stordal Bjørklund",
+      "Leon Moonen",
+      "Klas Pettersen",
+      "Michael A. Riegler"
+    ],
+    "canonical_id": "2605.06652",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "9a89b6331eeac1aa327f90c9b4181e7f219a3af2673667727bbd2a3998cb8f7d",
+    "first_seen_date": "2026-05-08",
+    "last_reported_date": "2026-05-08",
+    "last_seen_date": "2026-05-08",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-07T17:56:41Z",
+    "report_count": 1,
+    "title": "When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-07T17:56:41Z"
+  },
+  "2605.06656": {
+    "authors": [
+      "Jai Moondra",
+      "Ayela Chughtai",
+      "Bhargavi Lanka",
+      "Swati Gupta"
+    ],
+    "canonical_id": "2605.06656",
+    "categories": [
+      "cs.LG",
+      "cs.DM",
+      "cs.ET",
+      "math.OC"
+    ],
+    "content_hash": "e768641b783c5171f7b301d131f2a5fbb9620fe83bdbc46af23213b88d756742",
+    "first_seen_date": "2026-05-08",
+    "last_reported_date": "2026-05-08",
+    "last_seen_date": "2026-05-08",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-07T17:57:58Z",
+    "report_count": 1,
+    "title": "Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-07T17:57:58Z"
+  },
+  "2605.06664": {
+    "authors": [
+      "Borui Zhang",
+      "Bo Zhang",
+      "Bo Wang",
+      "Wenzhao Zheng",
+      "Yuhao Cheng",
+      "Liang Tang",
+      "Yiqiang Yan",
+      "Jie Zhou",
+      "Jiwen Lu"
+    ],
+    "canonical_id": "2605.06664",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "81ab2325de22f0b1cfe2ce468909bbbe3a04bd23e617d473d03876ec33275ac5",
+    "first_seen_date": "2026-05-08",
+    "last_reported_date": "2026-05-08",
+    "last_seen_date": "2026-05-08",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-05-07T17:59:31Z",
+    "report_count": 1,
+    "title": "BAMI: Training-Free Bias Mitigation in GUI Grounding",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-07T17:59:31Z"
+  },
+  "2605.06665": {
+    "authors": [
+      "Minbin Huang",
+      "Han Shi",
+      "Chuanyang Zheng",
+      "Yimeng Wu",
+      "Guoxuan Chen",
+      "Xintong Yu",
+      "Yichun Yin",
+      "Hong Cheng"
+    ],
+    "canonical_id": "2605.06665",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "fdbd31e08a93bcfd30114a29c102288e0fef5b6377adae357ec87d8a8852c60b",
+    "first_seen_date": "2026-05-08",
+    "last_reported_date": "2026-05-08",
+    "last_seen_date": "2026-05-08",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-07T17:59:44Z",
+    "report_count": 1,
+    "title": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-07T17:59:44Z"
+  },
+  "2605.06667": {
+    "authors": [
+      "Omar El Khalifi",
+      "Thomas Rossi",
+      "Oscar Fossey",
+      "Thibault Fouque",
+      "Ulysse Mizrahi",
+      "Philip Torr",
+      "Ivan Laptev",
+      "Fabio Pizzati",
+      "Baptiste Bellot-Gurlet"
+    ],
+    "canonical_id": "2605.06667",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "bb63cc8e7f593eb08d207f5b5caa653f67e91594d80664ad439bec022045d7d0",
+    "first_seen_date": "2026-05-08",
+    "last_reported_date": "2026-05-08",
+    "last_seen_date": "2026-05-08",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-05-07T17:59:58Z",
+    "report_count": 1,
+    "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-07T17:59:58Z"
   }
 }
