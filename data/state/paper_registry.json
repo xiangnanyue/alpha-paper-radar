@@ -3240,5 +3240,587 @@
       "deep_learning_sota"
     ],
     "updated": "2026-05-07T17:59:58Z"
+  },
+  "2605.06818": {
+    "authors": [
+      "Daniel Andrew Coulson",
+      "David S. Matteson",
+      "Martin T. Wells"
+    ],
+    "canonical_id": "2605.06818",
+    "categories": [
+      "stat.ME",
+      "q-fin.ST"
+    ],
+    "content_hash": "3862440c19b1b5777e883955866e9e7dcdaeac82389874ecfa1d5dfe7dc3d1cd",
+    "first_seen_date": "2026-05-11",
+    "last_reported_date": "2026-05-11",
+    "last_seen_date": "2026-05-11",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-05-07T18:18:27Z",
+    "report_count": 1,
+    "title": "Modeling Dynamic Correlation Matrices with Shrinkage Priors",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-05-07T18:18:27Z"
+  },
+  "2605.08011": {
+    "authors": [
+      "Joseph Cotnareanu",
+      "Chiara Roverato",
+      "Han Zhou",
+      "Didier Chetelat",
+      "Yingxue Zhang",
+      "Mark Coates"
+    ],
+    "canonical_id": "2605.08011",
+    "categories": [
+      "cs.AI",
+      "stat.CO"
+    ],
+    "content_hash": "f9ea12f46bf73a6e1cce89cb4f1bf3d8f41c6342c52030ef3491cba56acdc563",
+    "first_seen_date": "2026-05-11",
+    "last_reported_date": "2026-05-11",
+    "last_seen_date": "2026-05-11",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-08T17:01:52Z",
+    "report_count": 1,
+    "title": "Abductive Reasoning with Probabilistic Commonsense",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-08T17:01:52Z"
+  },
+  "2605.08013": {
+    "authors": [
+      "Haoyang Su",
+      "Ying Wen"
+    ],
+    "canonical_id": "2605.08013",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "d0613e9a4113693238f2fd603ae5ed978711cc45f89b1304f203ea6b11bdab80",
+    "first_seen_date": "2026-05-11",
+    "last_reported_date": "2026-05-11",
+    "last_seen_date": "2026-05-11",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-08T17:02:31Z",
+    "report_count": 1,
+    "title": "Learning CLI Agents with Structured Action Credit under Selective Observation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-08T17:02:31Z"
+  },
+  "2605.08019": {
+    "authors": [
+      "Botos Csaba",
+      "Sreejan Kumar",
+      "Austin Tudor David Andrews",
+      "Laurence Hunt",
+      "Chris Summerfield",
+      "Joshua B. Tenenbaum",
+      "Rui Ponte Costa",
+      "Marcelo G. Mattar",
+      "Momchil Tomov"
+    ],
+    "canonical_id": "2605.08019",
+    "categories": [
+      "cs.AI",
+      "q-bio.NC"
+    ],
+    "content_hash": "17fb55c671920682452693c22e97a664239e62500cadf349f9757548915a5535",
+    "first_seen_date": "2026-05-11",
+    "last_reported_date": "2026-05-11",
+    "last_seen_date": "2026-05-11",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-08T17:07:41Z",
+    "report_count": 1,
+    "title": "Reason to Play: Behavioral and Brain Alignment Between Frontier LRMs and Human Game Learners",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-08T17:07:41Z"
+  },
+  "2605.08029": {
+    "authors": [
+      "Ying Shen",
+      "Tianrong Chen",
+      "Yuan Gao",
+      "Yizhe Zhang",
+      "Yuyang Wang",
+      "Miguel Ángel Bautista",
+      "Shuangfei Zhai",
+      "Joshua M. Susskind",
+      "Jiatao Gu"
+    ],
+    "canonical_id": "2605.08029",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "0c90abf123df336a09941444369ffea43926dc4bf3bc4fec3d9b171aa19b98f2",
+    "first_seen_date": "2026-05-11",
+    "last_reported_date": "2026-05-11",
+    "last_seen_date": "2026-05-11",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-05-08T17:14:43Z",
+    "report_count": 1,
+    "title": "STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-08T17:14:43Z"
+  },
+  "2605.08034": {
+    "authors": [
+      "Houssam Zenati",
+      "Arthur Gretton"
+    ],
+    "canonical_id": "2605.08034",
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ],
+    "content_hash": "227652a2d0a50d221a909cac41cefe81e1f842f237c622e5acb66ca926080560",
+    "first_seen_date": "2026-05-11",
+    "last_reported_date": "2026-05-11",
+    "last_seen_date": "2026-05-11",
+    "latest_version": 1,
+    "primary_category": "stat.ML",
+    "priority": "unscored",
+    "published": "2026-05-08T17:23:34Z",
+    "report_count": 1,
+    "title": "Semiparametric Efficient Test for Interpretable Distributional Treatment Effects",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-08T17:23:34Z"
+  },
+  "2605.08036": {
+    "authors": [
+      "Mads Greisen Højlund",
+      "August Smart Lykke-Møller",
+      "Henry Moss",
+      "Ove Christiansen"
+    ],
+    "canonical_id": "2605.08036",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "e3862c21a99cd28606e20893e306e5888ca8e857569c9c14fdd6ec51fc88a657",
+    "first_seen_date": "2026-05-11",
+    "last_reported_date": "2026-05-11",
+    "last_seen_date": "2026-05-11",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-08T17:24:22Z",
+    "report_count": 1,
+    "title": "Don't Get Your Kroneckers in a Twist: Gaussian Processes on High-Dimensional Incomplete Grids",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-08T17:24:22Z"
+  },
+  "2605.08037": {
+    "authors": [
+      "Ning Liu",
+      "Chuanneng Sun",
+      "Kristina Klinkner",
+      "Shervin Malmasi"
+    ],
+    "canonical_id": "2605.08037",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "4965ada99866ab80d62a15b384da66e561a12e6b1b0b1cbec443a374ac3b2b61",
+    "first_seen_date": "2026-05-11",
+    "last_reported_date": "2026-05-11",
+    "last_seen_date": "2026-05-11",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-08T17:26:14Z",
+    "report_count": 1,
+    "title": "Beyond Pairs: Your Language Model is Secretly Optimizing a Preference Graph",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-08T17:26:14Z"
+  },
+  "2605.08043": {
+    "authors": [
+      "Tianfei Ren",
+      "Zhipeng Yan",
+      "Yiming Zhao",
+      "Zhen Fang",
+      "Yu Zeng",
+      "Guohui Zhang",
+      "Hang Xu",
+      "Xiaoxiao Ma",
+      "Shiting Huang",
+      "Ke Xu",
+      "Wenxuan Huang",
+      "Lionel Z. Wang",
+      "Lin Chen",
+      "Zehui Chen",
+      "Jie Huang",
+      "Feng Zhao"
+    ],
+    "canonical_id": "2605.08043",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "fb6773305cb55c2ebc67b09326b8da46f9a072c7148701d959f93eefdb97023b",
+    "first_seen_date": "2026-05-11",
+    "last_reported_date": "2026-05-11",
+    "last_seen_date": "2026-05-11",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-05-08T17:32:30Z",
+    "report_count": 1,
+    "title": "SCOPE: Structured Decomposition and Conditional Skill Orchestration for Complex Image Generation",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-08T17:32:30Z"
+  },
+  "2605.08057": {
+    "authors": [
+      "James Petullo",
+      "Nianwen Xue"
+    ],
+    "canonical_id": "2605.08057",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "931887dbd4af5a2e8f0114eec52df65b2a0cc8e2365172a8fb6292dffdd495d7",
+    "first_seen_date": "2026-05-11",
+    "last_reported_date": "2026-05-11",
+    "last_seen_date": "2026-05-11",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-05-08T17:44:15Z",
+    "report_count": 1,
+    "title": "CA-SQL: Complexity-Aware Inference Time Reasoning for Text-to-SQL via Exploration and Compute Budget Allocation",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-08T17:44:15Z"
+  },
+  "2605.08060": {
+    "authors": [
+      "Jiayuan Liu",
+      "Tianqin Li",
+      "Shiyi Du",
+      "Xin Luo",
+      "Haoxuan Zeng",
+      "Emanuel Tewolde",
+      "Tai Sing Lee",
+      "Tonghan Wang",
+      "Carl Kingsford",
+      "Vincent Conitzer"
+    ],
+    "canonical_id": "2605.08060",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.GT",
+      "cs.MA"
+    ],
+    "content_hash": "f2a2126de678896634c1a369e150f8443f4cc0136058a968a9b4c3c313ac74a3",
+    "first_seen_date": "2026-05-11",
+    "last_reported_date": "2026-05-11",
+    "last_seen_date": "2026-05-11",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-05-08T17:47:13Z",
+    "report_count": 1,
+    "title": "The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-08T17:47:13Z"
+  },
+  "2605.08061": {
+    "authors": [
+      "Manish Bhattarai",
+      "Ismael Boureima",
+      "Nishath Rajiv Ranasinghe",
+      "Scott Pakin",
+      "Dan O'Malley"
+    ],
+    "canonical_id": "2605.08061",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "e3b850ae88779981c8c3e1ae7cab80c11351ae75d30b33c7f9f7bb7bbd4ab634",
+    "first_seen_date": "2026-05-11",
+    "last_reported_date": "2026-05-11",
+    "last_seen_date": "2026-05-11",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-08T17:48:58Z",
+    "report_count": 1,
+    "title": "Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoning",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-08T17:48:58Z"
+  },
+  "2605.08063": {
+    "authors": [
+      "Zhen Fang",
+      "Wenxuan Huang",
+      "Yu Zeng",
+      "Yiming Zhao",
+      "Shuang Chen",
+      "Kaituo Feng",
+      "Yunlong Lin",
+      "Lin Chen",
+      "Zehui Chen",
+      "Shaosheng Cao",
+      "Feng Zhao"
+    ],
+    "canonical_id": "2605.08063",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "8e91f6aa96736d12079c1e0a337b664f5b83210a6b2a54b90c880abd540958c5",
+    "first_seen_date": "2026-05-11",
+    "last_reported_date": "2026-05-11",
+    "last_seen_date": "2026-05-11",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-05-08T17:50:15Z",
+    "report_count": 1,
+    "title": "Flow-OPD: On-Policy Distillation for Flow Matching Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-08T17:50:15Z"
+  },
+  "2605.08070": {
+    "authors": [
+      "James Petullo",
+      "Sonny George",
+      "Dylan Cashman",
+      "Nianwen Xue"
+    ],
+    "canonical_id": "2605.08070",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "12608512ff6d62d095f2e68907ede5cf62f129e2882bd393ffe179bb3461cb26",
+    "first_seen_date": "2026-05-11",
+    "last_reported_date": "2026-05-11",
+    "last_seen_date": "2026-05-11",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-08T17:54:38Z",
+    "report_count": 1,
+    "title": "VecCISC: Improving Confidence-Informed Self-Consistency with Reasoning Trace Clustering and Candidate Answer Selection",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-08T17:54:38Z"
+  },
+  "2605.08073": {
+    "authors": [
+      "Wei Yu",
+      "Yunhang Qian"
+    ],
+    "canonical_id": "2605.08073",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "94f8c8531426536393fa4708adb72905fa8d0b0ee14a0d2929341802cd771444",
+    "first_seen_date": "2026-05-11",
+    "last_reported_date": "2026-05-11",
+    "last_seen_date": "2026-05-11",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-05-08T17:56:01Z",
+    "report_count": 1,
+    "title": "EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstruction",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-08T17:56:01Z"
+  },
+  "2605.08074": {
+    "authors": [
+      "Peyman Baghershahi",
+      "Fangxin Wang",
+      "Debmalya Mandal",
+      "Sourav Medya"
+    ],
+    "canonical_id": "2605.08074",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "9b100c0a5c3f08d5c18bdee7997f145333b879e3b873dcbc0a5fa9217402d714",
+    "first_seen_date": "2026-05-11",
+    "last_reported_date": "2026-05-11",
+    "last_seen_date": "2026-05-11",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-08T17:56:09Z",
+    "report_count": 1,
+    "title": "GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-08T17:56:09Z"
+  },
+  "2605.08075": {
+    "authors": [
+      "Maryam Maghsoudi",
+      "Shihab Shamma"
+    ],
+    "canonical_id": "2605.08075",
+    "categories": [
+      "cs.LG",
+      "eess.AS"
+    ],
+    "content_hash": "cc65ad85a0ca6da9a620e1ce838598700db9dd38ad9a39fd8f308a8714d6e4ba",
+    "first_seen_date": "2026-05-11",
+    "last_reported_date": "2026-05-11",
+    "last_seen_date": "2026-05-11",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-08T17:56:19Z",
+    "report_count": 1,
+    "title": "Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-08T17:56:19Z"
+  },
+  "2605.08077": {
+    "authors": [
+      "Shuhang Lin",
+      "Chuhao Zhou",
+      "Xiao Lin",
+      "Zihan Dong",
+      "Kuan Lu",
+      "Zhencan Peng",
+      "Jie Yin",
+      "Dimitris N. Metaxas"
+    ],
+    "canonical_id": "2605.08077",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "2c069cf94a86d812e81186ae7d9a5589fcf970b363c2dd100eecdf75279dbc14",
+    "first_seen_date": "2026-05-11",
+    "last_reported_date": "2026-05-11",
+    "last_seen_date": "2026-05-11",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-05-08T17:57:13Z",
+    "report_count": 1,
+    "title": "Conformal Path Reasoning: Trustworthy Knowledge Graph Question Answering via Path-Level Calibration",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-08T17:57:13Z"
+  },
+  "2605.08078": {
+    "authors": [
+      "Jiatao Gu",
+      "Tianrong Chen",
+      "Ying Shen",
+      "David Berthelot",
+      "Shuangfei Zhai",
+      "Josh Susskind"
+    ],
+    "canonical_id": "2605.08078",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "79bd068130e85ada9182054ab836b556679fe7abbc64aef2f3d79450eba97fbd",
+    "first_seen_date": "2026-05-11",
+    "last_reported_date": "2026-05-11",
+    "last_seen_date": "2026-05-11",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-05-08T17:57:14Z",
+    "report_count": 1,
+    "title": "Normalizing Trajectory Models",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-08T17:57:14Z"
+  },
+  "2605.08083": {
+    "authors": [
+      "Tong Zheng",
+      "Haolin Liu",
+      "Chengsong Huang",
+      "Huiwen Bao",
+      "Sheng Zhang",
+      "Rui Liu",
+      "Runpeng Dai",
+      "Ruibo Chen",
+      "Chenxi Liu",
+      "Tianyi Xiong",
+      "Xidong Wu",
+      "Hongming Zhang",
+      "Heng Huang"
+    ],
+    "canonical_id": "2605.08083",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "e808dc5463e8f1297cf2889c0178f99a0d2722c79b3c5aef5f1f4f69d161de50",
+    "first_seen_date": "2026-05-11",
+    "last_reported_date": "2026-05-11",
+    "last_seen_date": "2026-05-11",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-05-08T17:59:40Z",
+    "report_count": 1,
+    "title": "LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-08T17:59:40Z"
   }
 }
