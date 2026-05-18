@@ -5462,7 +5462,7 @@
     "content_hash": "a3612625e2ac704046075d6437b44c3b110baa5c622fa3d7f8b528593b96688c",
     "first_seen_date": "2026-05-14",
     "last_reported_date": "2026-05-14",
-    "last_seen_date": "2026-05-17",
+    "last_seen_date": "2026-05-18",
     "latest_version": 1,
     "primary_category": "stat.AP",
     "priority": "unscored",
@@ -5513,7 +5513,7 @@
     "content_hash": "e965c8c09d578aa54b0975ed164356479f21c72f3f7b6327461fadc06a8276b7",
     "first_seen_date": "2026-05-14",
     "last_reported_date": "2026-05-14",
-    "last_seen_date": "2026-05-17",
+    "last_seen_date": "2026-05-18",
     "latest_version": 1,
     "primary_category": "cs.LG",
     "priority": "unscored",
@@ -6999,5 +6999,438 @@
       "llm_progress"
     ],
     "updated": "2026-05-14T17:59:55Z"
+  },
+  "2605.16184": {
+    "authors": [
+      "Yishun Lu",
+      "Junhao Zhang",
+      "Zeyu Yang",
+      "Wes Armour"
+    ],
+    "canonical_id": "2605.16184",
+    "categories": [
+      "cs.DC",
+      "cs.LG"
+    ],
+    "content_hash": "38950613387dc093d16ce602396effa5f0eaa1403f4d82b28e0424082a7f7787",
+    "first_seen_date": "2026-05-18",
+    "last_reported_date": "2026-05-18",
+    "last_seen_date": "2026-05-18",
+    "latest_version": 1,
+    "primary_category": "cs.DC",
+    "priority": "unscored",
+    "published": "2026-05-15T17:03:55Z",
+    "report_count": 1,
+    "title": "Runtime-Orchestrated Second-Order Optimization for Scalable LLM Training",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-15T17:03:55Z"
+  },
+  "2605.16191": {
+    "authors": [
+      "Michael P. Brenner",
+      "Lizzie Dorfman",
+      "John C. Platt"
+    ],
+    "canonical_id": "2605.16191",
+    "categories": [
+      "cs.CL",
+      "cond-mat.other",
+      "physics.comp-ph"
+    ],
+    "content_hash": "745df9af6011737d28352476ddef7c3b0f1ffaf1883161ca3a6667338be3f8d2",
+    "first_seen_date": "2026-05-18",
+    "last_reported_date": "2026-05-18",
+    "last_seen_date": "2026-05-18",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-05-15T17:10:22Z",
+    "report_count": 1,
+    "title": "Optimized Three-Dimensional Photovoltaic Structures with LLM guided Tree Search",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-15T17:10:22Z"
+  },
+  "2605.16193": {
+    "authors": [
+      "Axel Abels",
+      "Elias Fernandez Domingos",
+      "Apurva Shah",
+      "Tom Lenaerts"
+    ],
+    "canonical_id": "2605.16193",
+    "categories": [
+      "cs.CL",
+      "cs.CY"
+    ],
+    "content_hash": "a901bfecee001dbb8473986a62984c53acc8904faadb83c81cb5bbab32406b0f",
+    "first_seen_date": "2026-05-18",
+    "last_reported_date": "2026-05-18",
+    "last_seen_date": "2026-05-18",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-05-15T17:10:50Z",
+    "report_count": 1,
+    "title": "Improving Cross-Cultural Survey Simulation with Calibrated Value Personas",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-15T17:10:50Z"
+  },
+  "2605.16194": {
+    "authors": [
+      "Arquimedes Canedo"
+    ],
+    "canonical_id": "2605.16194",
+    "categories": [
+      "cs.DL",
+      "cs.AI",
+      "cs.IR",
+      "cs.MA"
+    ],
+    "content_hash": "71b4929184b9934505d8196c99a071c63748e3cc67a5941a55d1bb8daec9112d",
+    "first_seen_date": "2026-05-18",
+    "last_reported_date": "2026-05-18",
+    "last_seen_date": "2026-05-18",
+    "latest_version": 1,
+    "primary_category": "cs.DL",
+    "priority": "unscored",
+    "published": "2026-05-15T17:10:50Z",
+    "report_count": 1,
+    "title": "paper.json: A Coordination Convention for LLM-Agent-Actionable Papers",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-15T17:10:50Z"
+  },
+  "2605.16198": {
+    "authors": [
+      "Parand A. Alamdari",
+      "Toryn Q. Klassen",
+      "Sheila A. McIlraith"
+    ],
+    "canonical_id": "2605.16198",
+    "categories": [
+      "cs.AI",
+      "cs.CY",
+      "cs.LG",
+      "cs.LO"
+    ],
+    "content_hash": "556bb5dd683d203946e8a264fe2abd5dd0eddb32057c2a586c513b7a16f0eb59",
+    "first_seen_date": "2026-05-18",
+    "last_reported_date": "2026-05-18",
+    "last_seen_date": "2026-05-18",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-15T17:13:27Z",
+    "report_count": 1,
+    "title": "Formal Methods Meet LLMs: Auditing, Monitoring, and Intervention for Compliance of Advanced AI Systems",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-15T17:13:27Z"
+  },
+  "2605.16205": {
+    "authors": [
+      "Igor Bogdanov",
+      "Chung-Horng Lung",
+      "Thomas Kunz",
+      "Jie Gao",
+      "Adrian Taylor",
+      "Marzia Zaman"
+    ],
+    "canonical_id": "2605.16205",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG",
+      "cs.MA",
+      "eess.SY"
+    ],
+    "content_hash": "f66f29a3738f43a37952cc4682ea290af97582d6551955c8b959d8247f812c69",
+    "first_seen_date": "2026-05-18",
+    "last_reported_date": "2026-05-18",
+    "last_seen_date": "2026-05-18",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-15T17:23:08Z",
+    "report_count": 1,
+    "title": "Context, Reasoning, and Hierarchy: A Cost-Performance Study of Compound LLM Agent Design in an Adversarial POMDP",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-15T17:23:08Z"
+  },
+  "2605.16207": {
+    "authors": [
+      "Tahreem Yasir",
+      "Wenbo Li",
+      "Sam Gilson",
+      "Sutapa Dey Tithi",
+      "Xiaoyi Tian",
+      "Tiffany Barnes"
+    ],
+    "canonical_id": "2605.16207",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "4501e50b82b0a24e332bb769500034376e063ea01330219242b6ff97a67ff554",
+    "first_seen_date": "2026-05-18",
+    "last_reported_date": "2026-05-18",
+    "last_seen_date": "2026-05-18",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-15T17:24:42Z",
+    "report_count": 1,
+    "title": "Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-15T17:24:42Z"
+  },
+  "2605.16215": {
+    "authors": [
+      "Xavier Theimer-Lienhard",
+      "Mushtaha El-Amin",
+      "Fay Elhassan",
+      "Sahaj Vaidya",
+      "Victor Cartier-Negadi",
+      "David Sasu",
+      "Lars Klein",
+      "Mary-Anne Hartley"
+    ],
+    "canonical_id": "2605.16215",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "973df16d1b8a14a482402527b6f51dccf9dae55ae5475f26e02ce69b02ea5993",
+    "first_seen_date": "2026-05-18",
+    "last_reported_date": "2026-05-18",
+    "last_seen_date": "2026-05-18",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-15T17:29:08Z",
+    "report_count": 1,
+    "title": "Fully Open Meditron: An Auditable Pipeline for Clinical LLMs",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-15T17:29:08Z"
+  },
+  "2605.16217": {
+    "authors": [
+      "Zhen Zhang",
+      "Liangcai Su",
+      "Zhuo Chen",
+      "Xiang Lin",
+      "Haotian Xu",
+      "Simon Shaolei Du",
+      "Kaiyu Yang",
+      "Bo An",
+      "Lidong Bing",
+      "Xinyu Wang"
+    ],
+    "canonical_id": "2605.16217",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.IR"
+    ],
+    "content_hash": "d1ad703265fc50d69d5823e8730f15a4e88a471b2e73b7100023555c7aca7eb1",
+    "first_seen_date": "2026-05-18",
+    "last_reported_date": "2026-05-18",
+    "last_seen_date": "2026-05-18",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-05-15T17:29:27Z",
+    "report_count": 1,
+    "title": "Argus: Evidence Assembly for Scalable Deep Research Agents",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-15T17:29:27Z"
+  },
+  "2605.16233": {
+    "authors": [
+      "Igor Bogdanov",
+      "Chung-Horng Lung",
+      "Thomas Kunz",
+      "Jie Gao",
+      "Adrian Taylor",
+      "Marzia Zaman"
+    ],
+    "canonical_id": "2605.16233",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG",
+      "cs.MA",
+      "eess.SY"
+    ],
+    "content_hash": "904b45ac27a63cb978173df13f3971603c6cdf8eade0f89f99d2acf87c79c13d",
+    "first_seen_date": "2026-05-18",
+    "last_reported_date": "2026-05-18",
+    "last_seen_date": "2026-05-18",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-15T17:42:49Z",
+    "report_count": 1,
+    "title": "FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-15T17:42:49Z"
+  },
+  "2605.16238": {
+    "authors": [
+      "Sarah Martinson",
+      "Michael P. Brenner",
+      "Martyna Plomecka",
+      "Brian P. Williams",
+      "Nicholas G. Reich",
+      "Zahra Shamsi"
+    ],
+    "canonical_id": "2605.16238",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "a87f5ae3c8a0b9f124fd78ed2c212448a4fdd8cbdf082682546d07de6cb1206b",
+    "first_seen_date": "2026-05-18",
+    "last_reported_date": "2026-05-18",
+    "last_seen_date": "2026-05-18",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-15T17:45:17Z",
+    "report_count": 1,
+    "title": "Prospective multi-pathogen disease forecasting using autonomous LLM-guided tree search",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-15T17:45:17Z"
+  },
+  "2605.16241": {
+    "authors": [
+      "Jin Shi",
+      "Brady Zhang",
+      "Yishun Lu"
+    ],
+    "canonical_id": "2605.16241",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "34c4792200e8b36e10cc23c82cc520d51ec2cb6373ae28aa501243a08e372666",
+    "first_seen_date": "2026-05-18",
+    "last_reported_date": "2026-05-18",
+    "last_seen_date": "2026-05-18",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-05-15T17:48:25Z",
+    "report_count": 1,
+    "title": "Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-15T17:48:25Z"
+  },
+  "2605.16245": {
+    "authors": [
+      "Stratis Tsirtsis",
+      "Kai Rawal",
+      "Chris Russell",
+      "Brent Mittelstadt",
+      "Sandra Wachter"
+    ],
+    "canonical_id": "2605.16245",
+    "categories": [
+      "cs.CY",
+      "cs.AI",
+      "cs.CL",
+      "cs.LG",
+      "cs.SI"
+    ],
+    "content_hash": "7345c3bf434aab64302b4d6f7a1c53fd870fe25969213a698e3b2a090294ec60",
+    "first_seen_date": "2026-05-18",
+    "last_reported_date": "2026-05-18",
+    "last_seen_date": "2026-05-18",
+    "latest_version": 1,
+    "primary_category": "cs.CY",
+    "priority": "unscored",
+    "published": "2026-05-15T17:49:24Z",
+    "report_count": 1,
+    "title": "AI-Mediated Communication Can Steer Collective Opinion",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-15T17:49:24Z"
+  },
+  "2605.16250": {
+    "authors": [
+      "Pavan Manjunath",
+      "Thomas Pruefer"
+    ],
+    "canonical_id": "2605.16250",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.DB",
+      "cs.LG"
+    ],
+    "content_hash": "96f54186d75dc9e2c7c3e05582e136aa86a61da2b2dc925190afd7bd2d3bebe5",
+    "first_seen_date": "2026-05-18",
+    "last_reported_date": "2026-05-18",
+    "last_seen_date": "2026-05-18",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-05-15T17:52:57Z",
+    "report_count": 1,
+    "title": "A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sustainable Resource Optimisation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-15T17:52:57Z"
+  },
+  "2605.16255": {
+    "authors": [
+      "Grant Wilkins",
+      "Fiodar Kazhamiaka",
+      "Alok Gautam Kumbhare",
+      "Chaojie Zhang",
+      "Ricardo Bianchini"
+    ],
+    "canonical_id": "2605.16255",
+    "categories": [
+      "cs.DC",
+      "cs.AI"
+    ],
+    "content_hash": "a92d397ad676f1098378ef5d1b7ca81eb35952f3588368eedd71408434ceb21c",
+    "first_seen_date": "2026-05-18",
+    "last_reported_date": "2026-05-18",
+    "last_seen_date": "2026-05-18",
+    "latest_version": 1,
+    "primary_category": "cs.DC",
+    "priority": "unscored",
+    "published": "2026-05-15T17:58:58Z",
+    "report_count": 1,
+    "title": "Designing Datacenter Power Delivery Hierarchies for the AI Era",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-15T17:58:58Z"
   }
 }
