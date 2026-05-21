@@ -8447,5 +8447,598 @@
       "llm_progress"
     ],
     "updated": "2026-05-18T17:59:52Z"
+  },
+  "2605.20636": {
+    "authors": [
+      "Zheli Xiong"
+    ],
+    "canonical_id": "2605.20636",
+    "categories": [
+      "q-fin.PM"
+    ],
+    "content_hash": "5e6f3b69d3e5b7e00fa44cc61b141e89461e61773f8656c4a52f9f8469810dd0",
+    "first_seen_date": "2026-05-21",
+    "last_reported_date": "2026-05-21",
+    "last_seen_date": "2026-05-21",
+    "latest_version": 1,
+    "primary_category": "q-fin.PM",
+    "priority": "unscored",
+    "published": "2026-05-20T02:45:07Z",
+    "report_count": 1,
+    "title": "Continuous Timing Signals for Growth-Defensive Style Allocation: Factor Attribution, Risk Matching, and Out-of-Sample Evidence",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-05-20T02:45:07Z"
+  },
+  "2605.21367": {
+    "authors": [
+      "Irene Botosaru",
+      "James L. Powell"
+    ],
+    "canonical_id": "2605.21367",
+    "categories": [
+      "econ.EM"
+    ],
+    "content_hash": "889ef62968eadab1684f4bc33990dc42c5c91b3f99cb05d69739085a20738eb8",
+    "first_seen_date": "2026-05-21",
+    "last_reported_date": "2026-05-21",
+    "last_seen_date": "2026-05-21",
+    "latest_version": 1,
+    "primary_category": "econ.EM",
+    "priority": "unscored",
+    "published": "2026-05-20T16:31:42Z",
+    "report_count": 1,
+    "title": "Correlated Random Coefficient Distributions in Linear Panel Models",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-05-20T16:31:42Z"
+  },
+  "2605.21420": {
+    "authors": [
+      "Shreyas Vinaya Sathyanarayana",
+      "Raja Sekhar Pappala",
+      "Deepak Warrier"
+    ],
+    "canonical_id": "2605.21420",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "q-bio.MN"
+    ],
+    "content_hash": "28655855eb03266a0cd71c12368495a447be9f68595586573f7302725fbdb86d",
+    "first_seen_date": "2026-05-21",
+    "last_reported_date": "2026-05-21",
+    "last_seen_date": "2026-05-21",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-20T17:14:46Z",
+    "report_count": 1,
+    "title": "HiRes: Inspectable Precedent Memory for Reaction Condition Recommendation",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-20T17:14:46Z"
+  },
+  "2605.21422": {
+    "authors": [
+      "Qihao Lin",
+      "Guanxu Chen",
+      "Dongrui Liu",
+      "Jing Shao"
+    ],
+    "canonical_id": "2605.21422",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "959564d24d3e39d8b6f18414198abd6c6be63568734580d98855cc0c17c0dee8",
+    "first_seen_date": "2026-05-21",
+    "last_reported_date": "2026-05-21",
+    "last_seen_date": "2026-05-21",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-20T17:15:43Z",
+    "report_count": 1,
+    "title": "Preference-aware Influence-function-based Data Selection Method for Efficient Fine-Tuning",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-20T17:15:43Z"
+  },
+  "2605.21427": {
+    "authors": [
+      "Can Hankendi",
+      "Rana Shahout",
+      "Minlan Yu",
+      "Ayse K. Coskun"
+    ],
+    "canonical_id": "2605.21427",
+    "categories": [
+      "cs.AI",
+      "cs.DC"
+    ],
+    "content_hash": "624cebe044f0c97452fbee69ee2fdfa48ab6987927bca8b306c7da8327a2c606",
+    "first_seen_date": "2026-05-21",
+    "last_reported_date": "2026-05-21",
+    "last_seen_date": "2026-05-21",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-20T17:19:20Z",
+    "report_count": 1,
+    "title": "PALS: Power-Aware LLM Serving for Mixture-of-Experts Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-20T17:19:20Z"
+  },
+  "2605.21429": {
+    "authors": [
+      "Elle Miller",
+      "Jayaram Reddy",
+      "Ayush Deshmukh",
+      "Trevor McInroe",
+      "David Abel",
+      "Oisin Mac Aodha",
+      "Sethu Vijayakumar"
+    ],
+    "canonical_id": "2605.21429",
+    "categories": [
+      "cs.RO",
+      "cs.LG"
+    ],
+    "content_hash": "8639720157f4b6b3d742add94fdb19b2c211fb6f3e660f09ce44694081977a7c",
+    "first_seen_date": "2026-05-21",
+    "last_reported_date": "2026-05-21",
+    "last_seen_date": "2026-05-21",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-05-20T17:22:33Z",
+    "report_count": 1,
+    "title": "roto 2.0: The Robot Tactile Olympiad",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-20T17:22:33Z"
+  },
+  "2605.21442": {
+    "authors": [
+      "Mark Obozov",
+      "Maxime Griot",
+      "Joseph Cummings",
+      "Evan Smothers",
+      "Felipe Mello",
+      "Rafi Ayub",
+      "Philip John Bontrager",
+      "Salman Mohammadi",
+      "Ariel Kwiatkowski",
+      "Nathan Azrak",
+      "Mircea Mironenco"
+    ],
+    "canonical_id": "2605.21442",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "27af2a974b1193543615ac43ee466fc8e5e67816dec0fede38d60dd25c3edfc6",
+    "first_seen_date": "2026-05-21",
+    "last_reported_date": "2026-05-21",
+    "last_seen_date": "2026-05-21",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-20T17:32:08Z",
+    "report_count": 1,
+    "title": "torchtune: PyTorch native post-training library",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-20T17:32:08Z"
+  },
+  "2605.21443": {
+    "authors": [
+      "Yakun Yu",
+      "Ashley Wiens",
+      "Adrián Barahona-Ríos",
+      "Benedict Wilkins",
+      "Saman Zadtootaghaj",
+      "Nabajeet Barman",
+      "Cor-Paul Bezemer"
+    ],
+    "canonical_id": "2605.21443",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "d0804a4e572eba767cfecb66461145d0d894f371e6450e4657741f44d35b2045",
+    "first_seen_date": "2026-05-21",
+    "last_reported_date": "2026-05-21",
+    "last_seen_date": "2026-05-21",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-05-20T17:32:26Z",
+    "report_count": 1,
+    "title": "TempGlitch: Evaluating Vision-Language Models for Temporal Glitch Detection in Gameplay Videos",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-20T17:32:26Z"
+  },
+  "2605.21446": {
+    "authors": [
+      "Abhinaw Priyadershi",
+      "Jelena Frtunikj"
+    ],
+    "canonical_id": "2605.21446",
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "content_hash": "5fde531d108ac9bc36ce10d715b21e7bf97b7687a0931ff767f8156a8b0a854a",
+    "first_seen_date": "2026-05-21",
+    "last_reported_date": "2026-05-21",
+    "last_seen_date": "2026-05-21",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-05-20T17:34:02Z",
+    "report_count": 1,
+    "title": "Lost in Fog: Sensor Perturbations Expose Reasoning Fragility in Driving VLAs",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-20T17:34:02Z"
+  },
+  "2605.21453": {
+    "authors": [
+      "Mohamed Almukhtar",
+      "Anwar Ghammam",
+      "Hua Ming"
+    ],
+    "canonical_id": "2605.21453",
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "content_hash": "e0bd710a391fbaefdf9eceb7f001643a86ad93ce82ffc55bba41a969fe4e4c35",
+    "first_seen_date": "2026-05-21",
+    "last_reported_date": "2026-05-21",
+    "last_seen_date": "2026-05-21",
+    "latest_version": 1,
+    "primary_category": "cs.SE",
+    "priority": "unscored",
+    "published": "2026-05-20T17:43:36Z",
+    "report_count": 1,
+    "title": "Quality and Security Signals in AI-Generated Python Refactoring Pull Requests",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-20T17:43:36Z"
+  },
+  "2605.21460": {
+    "authors": [
+      "Riley Zilka",
+      "Sergey Khlynovskiy",
+      "Allie Wang",
+      "Martin Jagersand"
+    ],
+    "canonical_id": "2605.21460",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.HC"
+    ],
+    "content_hash": "de5c19bd1ca304ae2d21b79b786d17b21b86f1f116f4c423be65dbb3f2010185",
+    "first_seen_date": "2026-05-21",
+    "last_reported_date": "2026-05-21",
+    "last_seen_date": "2026-05-21",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-05-20T17:49:56Z",
+    "report_count": 1,
+    "title": "HITL-D: Human In The Loop Diffusion Assisted Shared Control",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-20T17:49:56Z"
+  },
+  "2605.21463": {
+    "authors": [
+      "Xiaoqiang Wang",
+      "Chao Wang",
+      "Hadi Nekoei",
+      "Christopher Pal",
+      "Alexandre Lacoste",
+      "Spandana Gella",
+      "Bang Liu",
+      "Perouz Taslakian"
+    ],
+    "canonical_id": "2605.21463",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "800776b1d4381f59710fca2b939b71d95c634324cf14d36512625c553c3625a1",
+    "first_seen_date": "2026-05-21",
+    "last_reported_date": "2026-05-21",
+    "last_seen_date": "2026-05-21",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-05-20T17:51:05Z",
+    "report_count": 1,
+    "title": "Mem-$π$: Adaptive Memory through Learning When and What to Generate",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-20T17:51:05Z"
+  },
+  "2605.21465": {
+    "authors": [
+      "Weixing Zhang",
+      "Bowen Jiang",
+      "Rahul Sharma",
+      "Regina Hebig",
+      "Daniel Strüber"
+    ],
+    "canonical_id": "2605.21465",
+    "categories": [
+      "cs.CL",
+      "cs.SE"
+    ],
+    "content_hash": "a4235c4c1dcb2d92e402ab6f72396734e3605a10eb51bb621c6bda6d718d9392",
+    "first_seen_date": "2026-05-21",
+    "last_reported_date": "2026-05-21",
+    "last_seen_date": "2026-05-21",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-05-20T17:51:51Z",
+    "report_count": 1,
+    "title": "Leveraging LLMs for Grammar Adaptation: A Study on Metamodel-Grammar Co-Evolution",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-20T17:51:51Z"
+  },
+  "2605.21467": {
+    "authors": [
+      "Kaiyi Zhang",
+      "Wei Wu",
+      "Yankai Lin"
+    ],
+    "canonical_id": "2605.21467",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "content_hash": "2c07a6b06984b534a70f8327f9360d1ceafd2d5e1e748cd69ecfb6abb1d0103a",
+    "first_seen_date": "2026-05-21",
+    "last_reported_date": "2026-05-21",
+    "last_seen_date": "2026-05-21",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-20T17:53:09Z",
+    "report_count": 1,
+    "title": "DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-20T17:53:09Z"
+  },
+  "2605.21468": {
+    "authors": [
+      "Zhepei Wei",
+      "Xinyu Zhu",
+      "Wei-Lin Chen",
+      "Chengsong Huang",
+      "Jiaxin Huang",
+      "Yu Meng"
+    ],
+    "canonical_id": "2605.21468",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "content_hash": "6167696088fb34f4d3b82fe2423270629c23c26fc8b7ab2b73835317ef4729de",
+    "first_seen_date": "2026-05-21",
+    "last_reported_date": "2026-05-21",
+    "last_seen_date": "2026-05-21",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-20T17:53:20Z",
+    "report_count": 1,
+    "title": "You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-20T17:53:20Z"
+  },
+  "2605.21470": {
+    "authors": [
+      "Caleb Winston",
+      "Ron Yifeng Wang",
+      "Azalia Mirhoseini",
+      "Christos Kozyrakis"
+    ],
+    "canonical_id": "2605.21470",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "5a432b7433a10087e06ca241f71de4a308146ceead2fda649d83fe2eda929d96",
+    "first_seen_date": "2026-05-21",
+    "last_reported_date": "2026-05-21",
+    "last_seen_date": "2026-05-21",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-20T17:54:27Z",
+    "report_count": 1,
+    "title": "Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-20T17:54:27Z"
+  },
+  "2605.21479": {
+    "authors": [
+      "Basel Shbita",
+      "Pengyuan Li",
+      "Anna Lisa Gentile"
+    ],
+    "canonical_id": "2605.21479",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "f774863834cbd0fcb3a4098aa329f67c3f8f351fd053260eea6b62c8942c8084",
+    "first_seen_date": "2026-05-21",
+    "last_reported_date": "2026-05-21",
+    "last_seen_date": "2026-05-21",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-05-20T17:58:24Z",
+    "report_count": 1,
+    "title": "WikiVQABench: A Knowledge-Grounded Visual Question Answering Benchmark from Wikipedia and Wikidata",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-20T17:58:24Z"
+  },
+  "2605.21482": {
+    "authors": [
+      "Sixiong Xie",
+      "Zhuofan Shi",
+      "Haiyang Shen",
+      "Jiuzheng Wang",
+      "Siqi Zhong",
+      "Mugeng Liu",
+      "Chongyang Pan",
+      "Peilun Jia",
+      "Baoqing Sun",
+      "Xiang Jing",
+      "Yun Ma"
+    ],
+    "canonical_id": "2605.21482",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "5e56d34224a04e5ce61eab408089067b3db3b3661999806bfb1562a0ebc8117d",
+    "first_seen_date": "2026-05-21",
+    "last_reported_date": "2026-05-21",
+    "last_seen_date": "2026-05-21",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-20T17:59:03Z",
+    "report_count": 1,
+    "title": "DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-20T17:59:03Z"
+  },
+  "2605.21486": {
+    "authors": [
+      "Dayal Singh Kalra",
+      "Maissam Barkeshli"
+    ],
+    "canonical_id": "2605.21486",
+    "categories": [
+      "cs.LG",
+      "cond-mat.dis-nn",
+      "cs.AI",
+      "stat.ML"
+    ],
+    "content_hash": "a2c256821691b21fc47d8caac64be1d74bacf98141bbe35b6b713d2b43b8f2fb",
+    "first_seen_date": "2026-05-21",
+    "last_reported_date": "2026-05-21",
+    "last_seen_date": "2026-05-21",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-20T17:59:40Z",
+    "report_count": 1,
+    "title": "Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learning Rate",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-20T17:59:40Z"
+  },
+  "2605.21488": {
+    "authors": [
+      "Benhao Huang",
+      "Zhengyang Geng",
+      "Zico Kolter"
+    ],
+    "canonical_id": "2605.21488",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "d10f5b566682ada9ef91d12f78761773973acd1c043c280f4313f393dd658b84",
+    "first_seen_date": "2026-05-21",
+    "last_reported_date": "2026-05-21",
+    "last_seen_date": "2026-05-21",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-20T17:59:48Z",
+    "report_count": 1,
+    "title": "Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-20T17:59:48Z"
+  },
+  "2605.21489": {
+    "authors": [
+      "Jesse Bettencourt",
+      "Xindi Wu",
+      "Matan Atzmon",
+      "James Lucas",
+      "Jonathan Lorraine"
+    ],
+    "canonical_id": "2605.21489",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CV",
+      "stat.CO",
+      "stat.ML"
+    ],
+    "content_hash": "d2519405e236264c9e869eb0320d45c116e0f1ac2f2f6bc53fc8ff6b7e54c42e",
+    "first_seen_date": "2026-05-21",
+    "last_reported_date": "2026-05-21",
+    "last_seen_date": "2026-05-21",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-20T17:59:52Z",
+    "report_count": 1,
+    "title": "Variance Reduction for Expectations with Diffusion Teachers",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-20T17:59:52Z"
   }
 }
