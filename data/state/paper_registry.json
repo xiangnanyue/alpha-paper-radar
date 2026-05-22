@@ -8459,7 +8459,7 @@
     "content_hash": "5e6f3b69d3e5b7e00fa44cc61b141e89461e61773f8656c4a52f9f8469810dd0",
     "first_seen_date": "2026-05-21",
     "last_reported_date": "2026-05-21",
-    "last_seen_date": "2026-05-21",
+    "last_seen_date": "2026-05-22",
     "latest_version": 1,
     "primary_category": "q-fin.PM",
     "priority": "unscored",
@@ -8483,7 +8483,7 @@
     "content_hash": "889ef62968eadab1684f4bc33990dc42c5c91b3f99cb05d69739085a20738eb8",
     "first_seen_date": "2026-05-21",
     "last_reported_date": "2026-05-21",
-    "last_seen_date": "2026-05-21",
+    "last_seen_date": "2026-05-22",
     "latest_version": 1,
     "primary_category": "econ.EM",
     "priority": "unscored",
@@ -9040,5 +9040,825 @@
       "deep_learning_sota"
     ],
     "updated": "2026-05-20T17:59:52Z"
+  },
+  "2605.21846": {
+    "authors": [
+      "SeyedSina Seyedi HasanAbadi",
+      "Fahimeh Arab",
+      "Erfan Nozari",
+      "AmirEmad Ghassami"
+    ],
+    "canonical_id": "2605.21846",
+    "categories": [
+      "stat.ME",
+      "cs.LG",
+      "stat.ML"
+    ],
+    "content_hash": "0dd7c7f3e02ef12abafdb2ac82edbccef8f8457f25edf2c8d4d052f6b715d4d3",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-05-21T00:41:11Z",
+    "report_count": 1,
+    "title": "Causal Discovery in Structural VAR Models Under Equal Noise Variance",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-05-21T00:41:11Z"
+  },
+  "2605.22737": {
+    "authors": [
+      "Youssef Allouah",
+      "Mahdi Haghifam",
+      "Sanmi Koyejo",
+      "Reza Shokri"
+    ],
+    "canonical_id": "2605.22737",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "0cb9e78ef8142f9e8dc05a6b0a65d878c976b7362990e47a42c7ba88a5fa84ef",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-21T17:09:21Z",
+    "report_count": 1,
+    "title": "The Distillation Game: Adaptive Attacks & Efficient Defenses",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-21T17:09:21Z"
+  },
+  "2605.22738": {
+    "authors": [
+      "Santo M. A. R. Thies",
+      "Hubert Baniecki",
+      "R. Teal Witter",
+      "Eyke Hüllermeier",
+      "Maximilian Muschalik",
+      "Fabian Fumagalli"
+    ],
+    "canonical_id": "2605.22738",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "stat.ML"
+    ],
+    "content_hash": "e9cc612d85afe97f19c635cc8142de7fa9f364fd7a4bdace00a176c4ba4340ed",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-21T17:09:45Z",
+    "report_count": 1,
+    "title": "Proxy-Based Approximation of Shapley and Banzhaf Interactions",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-21T17:09:45Z"
+  },
+  "2605.22740": {
+    "authors": [
+      "William Smits"
+    ],
+    "canonical_id": "2605.22740",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "8ce3f0648aaac3015503109e7b78288dbb411322305f09dbdb63c4e552f939c1",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-21T17:11:19Z",
+    "report_count": 1,
+    "title": "Ternary Decision Trees with Locally-Adaptive Uncertainty Zones",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-21T17:11:19Z"
+  },
+  "2605.22743": {
+    "authors": [
+      "Javad Parsa",
+      "Enis Simsar",
+      "Amir Joudaki",
+      "Thomas Hofmann",
+      "André M. H. Teixeira"
+    ],
+    "canonical_id": "2605.22743",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "29112baa6a25aafca5debb10a568c12af1e37228186e5461c73a2cccf7267086",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-21T17:13:49Z",
+    "report_count": 1,
+    "title": "SeqLoRA: Bilevel Orthogonal Adaptation for Continual Multi-Concept Generation",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-21T17:13:49Z"
+  },
+  "2605.22746": {
+    "authors": [
+      "Berk Hayta",
+      "Hannah Laus",
+      "Simon Mittermaier",
+      "Felix Krahmer"
+    ],
+    "canonical_id": "2605.22746",
+    "categories": [
+      "cs.LG",
+      "eess.AS",
+      "stat.ML"
+    ],
+    "content_hash": "8ebc52b58df989b524385a949e7833793e51ff7d0e2d9bbfc51dad5b5d0f9d68",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-21T17:15:10Z",
+    "report_count": 1,
+    "title": "Plug-in Losses for Evidential Deep Learning: A Simplified Framework for Uncertainty Estimation that Includes the Softmax Classifier",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-21T17:15:10Z"
+  },
+  "2605.22748": {
+    "authors": [
+      "Ismail Geles",
+      "Leonard Bauersfeld",
+      "Markus Wulfmeier",
+      "Davide Scaramuzza"
+    ],
+    "canonical_id": "2605.22748",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.LG",
+      "cs.MA"
+    ],
+    "content_hash": "770a8bde4ec25124c1fbe58e59959e4329c096b5851ff4c95a353fc5eb52cb85",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-05-21T17:15:54Z",
+    "report_count": 1,
+    "title": "Superhuman Safe and Agile Racing through Multi-Agent Reinforcement Learning",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-21T17:15:54Z"
+  },
+  "2605.22749": {
+    "authors": [
+      "Adis Alihodžić",
+      "Eva Tuba",
+      "Milan Tuba"
+    ],
+    "canonical_id": "2605.22749",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "917264f806f802f3d1abd6c228ffd28d8647c92d1723de82a616831d8bf31db4",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-21T17:18:57Z",
+    "report_count": 1,
+    "title": "Cyber-Physical Anomaly Detection in IoT-Enabled Smart Grids Using Machine Learning and Metaheuristic Feature Optimization",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-21T17:18:57Z"
+  },
+  "2605.22756": {
+    "authors": [
+      "Christian Janos Lebeda",
+      "David Erb",
+      "Tudor Cebere",
+      "Aurélien Bellet"
+    ],
+    "canonical_id": "2605.22756",
+    "categories": [
+      "cs.LG",
+      "cs.DS"
+    ],
+    "content_hash": "4eefdfebdb4f5556f38483b2dd05f8d179e6044859b2589f953dd821f007c03d",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-21T17:23:04Z",
+    "report_count": 1,
+    "title": "Lumberjack: Better Differentially Private Random Forests through Heavy Hitter Detection in Trees",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-21T17:23:04Z"
+  },
+  "2605.22759": {
+    "authors": [
+      "Girish Narayanswamy",
+      "Maxwell A. Xu",
+      "A. Ali Heydari",
+      "Samy Abdel-Ghaffar",
+      "Marius Guerard",
+      "Kara Vaillancourt",
+      "Zhihan Zhang",
+      "Jake Garrison",
+      "Levi Albuquerque",
+      "Dimitris Spathis",
+      "Hong Yu",
+      "Hamid Palangi",
+      "Xuhai \"Orson\" Xu",
+      "David G. T. Barrett",
+      "Joseph Breda",
+      "Jed McGiffin",
+      "Yubin Kim",
+      "Yuwei Zhang",
+      "Naghmeh Rezaei",
+      "Samuel Solomon",
+      "Karan Ahuja",
+      "Tim Althoff",
+      "Jake Sunshine",
+      "Ming-Zher Poh",
+      "Benjamin Yetton",
+      "Ari Winbush",
+      "Nicholas B. Allen",
+      "James M. Rehg",
+      "Isaac Galatzer-Levy",
+      "Yun Liu",
+      "John Hernandez",
+      "Anupam Pathak",
+      "Conor Heneghan",
+      "Yuzhe Yang",
+      "Ahmed A. Metwally",
+      "Pushmeet Kohli",
+      "Mark Malhotra",
+      "Shwetak Patel",
+      "Xin Liu",
+      "Daniel McDuff"
+    ],
+    "canonical_id": "2605.22759",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "605dd2e3d3400117c3fc4c0458027dda79bb3b719b7b5910b00a4911b5883854",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-21T17:24:06Z",
+    "report_count": 1,
+    "title": "Towards a General Intelligence and Interface for Wearable Health Data",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-21T17:24:06Z"
+  },
+  "2605.22763": {
+    "authors": [
+      "George Tsoukalas",
+      "Anton Kovsharov",
+      "Sergey Shirobokov",
+      "Anja Surina",
+      "Moritz Firsching",
+      "Gergely Bérczi",
+      "Francisco J. R. Ruiz",
+      "Arun Suggala",
+      "Adam Zsolt Wagner",
+      "Eric Wieser",
+      "Lei Yu",
+      "Aja Huang",
+      "Miklós Z. Horváth",
+      "Andrew Ferrauiolo",
+      "Henryk Michalewski",
+      "Codrut Grosu",
+      "Thomas Hubert",
+      "Matej Balog",
+      "Pushmeet Kohli",
+      "Swarat Chaudhuri"
+    ],
+    "canonical_id": "2605.22763",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "47746b6cd1de7c0dfceda29d330e3d9a90a53b2256d96e888ef1d419174b578d",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-21T17:24:57Z",
+    "report_count": 1,
+    "title": "Advancing Mathematics Research with AI-Driven Formal Proof Search",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-21T17:24:57Z"
+  },
+  "2605.22765": {
+    "authors": [
+      "Samson Gourevitch",
+      "Yazid Janati",
+      "Dario Shariatian",
+      "Umut Simsekli",
+      "Eric Moulines",
+      "Eric P. Xing",
+      "Alain Durmus"
+    ],
+    "canonical_id": "2605.22765",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ],
+    "content_hash": "462d192ff492c4a85734b2f8ed18688a0f2a1585bc8ba82778879dc1b177e99a",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-21T17:27:19Z",
+    "report_count": 1,
+    "title": "Uniform Diffusion Models Revisited: Leave-One-Out Denoiser and Absorbing State Reformulation",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-21T17:27:19Z"
+  },
+  "2605.22769": {
+    "authors": [
+      "Pilchen Hippolyte",
+      "Fabre Romain",
+      "Signe Talla Franck",
+      "Perez Patrick",
+      "Grave Edouard"
+    ],
+    "canonical_id": "2605.22769",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "318a2939c1cc1152ff99b147dac5b199fa99530d6070316f0751eab33c6c7db9",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-05-21T17:31:17Z",
+    "report_count": 1,
+    "title": "Understanding Data Temporality Impact on Large Language Models Pre-training",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-21T17:31:17Z"
+  },
+  "2605.22771": {
+    "authors": [
+      "Long Phan",
+      "Devin Kim",
+      "Alexander Pan",
+      "Alice Blair",
+      "Adam Khoja",
+      "Dan Hendrycks"
+    ],
+    "canonical_id": "2605.22771",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "bb6ccebf4c52e66b1e50f917ac9829324499493153e729fcabeb03a7d4510a2f",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-05-21T17:32:40Z",
+    "report_count": 1,
+    "title": "Reducing Political Manipulation with Consistency Training",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-21T17:32:40Z"
+  },
+  "2605.22773": {
+    "authors": [
+      "Yu Tang",
+      "Muhammad Zakwan",
+      "Efe Balta",
+      "John Lygeros",
+      "Alisa Rupenyan"
+    ],
+    "canonical_id": "2605.22773",
+    "categories": [
+      "cs.AI",
+      "math.OC"
+    ],
+    "content_hash": "10e2565458bec3f201d52b70fcf94ed26a40a418ba5a9be8f928ec4f1306ebbc",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-21T17:33:09Z",
+    "report_count": 1,
+    "title": "Deep Reinforcement Learning for Flexible Job Shop Scheduling with Random Job Arrivals",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-21T17:33:09Z"
+  },
+  "2605.22774": {
+    "authors": [
+      "Amir Mousavi",
+      "Mohammad Sadegh Sirjani",
+      "Erfan Nourbakhsh",
+      "Mimi Xie",
+      "Rocky Slavin",
+      "Leslie Neely",
+      "John Davis",
+      "John Quarles"
+    ],
+    "canonical_id": "2605.22774",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.HC"
+    ],
+    "content_hash": "b34ce3da186537caa0399e40a8be2e74aeb04de15ed5f132f8074d7eb88004c7",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-21T17:33:35Z",
+    "report_count": 1,
+    "title": "CogAdapt: Transferring Clinical ECG Foundation Models to Wearable Cognitive Load Assessment via Lead Adaptation",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-21T17:33:35Z"
+  },
+  "2605.22775": {
+    "authors": [
+      "Amir Mousavi",
+      "Mohammad Sadegh Sirjani",
+      "Erfan Nourbakhsh",
+      "Mimi Xie",
+      "Rocky Slavin",
+      "Leslie Neely",
+      "John Davis",
+      "John Quarles"
+    ],
+    "canonical_id": "2605.22775",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.HC"
+    ],
+    "content_hash": "f9013b79fd496bcce8ae9d859721cad20cf8e2004c70c1b620c3245551a3e8f2",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-21T17:33:41Z",
+    "report_count": 1,
+    "title": "MambaGaze: Bidirectional Mamba with Explicit Missing Data Modeling for Cognitive Load Assessment from Eye-Gaze Tracking Data",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-21T17:33:41Z"
+  },
+  "2605.22776": {
+    "authors": [
+      "Stanislav R. Kirpichenko",
+      "Andrei V. Konstantinov",
+      "Lev V. Utkin"
+    ],
+    "canonical_id": "2605.22776",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "stat.CO",
+      "stat.ML"
+    ],
+    "content_hash": "082df4cf4bd085c95b88312906bd52d615557b7768b1a6cc61586b1fc7405718",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-21T17:33:47Z",
+    "report_count": 1,
+    "title": "SDPM: Survival Diffusion Probabilistic Model for Continuous-Time Survival Analysis",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-21T17:33:47Z"
+  },
+  "2605.22779": {
+    "authors": [
+      "Huanchi Wang",
+      "Zihang Huang",
+      "Yifang Tian",
+      "Kristina Dzeparoska",
+      "Hans-Arno Jacobsen",
+      "Alberto Leon-Garcia"
+    ],
+    "canonical_id": "2605.22779",
+    "categories": [
+      "cs.SE",
+      "cs.LG"
+    ],
+    "content_hash": "9fbbea5909988ec7939c673b6d769f2e32febb18bddfa4be61fc8dbf7e8cdafb",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.SE",
+    "priority": "unscored",
+    "published": "2026-05-21T17:34:53Z",
+    "report_count": 1,
+    "title": "FAME: Failure-Aware Mixture-of-Experts for Message-Level Log Anomaly Detection",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-21T17:34:53Z"
+  },
+  "2605.22781": {
+    "authors": [
+      "Yunpeng Dong",
+      "Jingkai He",
+      "Yuze Hou",
+      "Dong Du",
+      "Zhonghu Xu",
+      "Si Yu",
+      "Yubin Xia",
+      "Haibo Chen"
+    ],
+    "canonical_id": "2605.22781",
+    "categories": [
+      "cs.OS",
+      "cs.AI"
+    ],
+    "content_hash": "8462bed8c78ac26469874d4c4880ae77704c2a56e7b01a9bec457c23d31b29d1",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.OS",
+    "priority": "unscored",
+    "published": "2026-05-21T17:36:17Z",
+    "report_count": 1,
+    "title": "DeltaBox: Scaling Stateful AI Agents with Millisecond-Level Sandbox Checkpoint/Rollback",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-21T17:36:17Z"
+  },
+  "2605.22785": {
+    "authors": [
+      "Mirac Suzgun",
+      "Emily Shen",
+      "Federico Bianchi",
+      "Alexander Spangher",
+      "Thomas Icard",
+      "Daniel E. Ho",
+      "Dan Jurafsky",
+      "James Zou"
+    ],
+    "canonical_id": "2605.22785",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "34c60b97ed9589f41ad95363cb758f42f467bd42cdaee35b8cfcb03fda2f63ca",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-05-21T17:42:07Z",
+    "report_count": 1,
+    "title": "Evaluating Commercial AI Chatbots as News Intermediaries",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-21T17:42:07Z"
+  },
+  "2605.22786": {
+    "authors": [
+      "Sadia Asif",
+      "Mohammad Mohammadi Amiri",
+      "Momin Abbas",
+      "Prasanna Sattigeri",
+      "Karthikeyan Natesan Ramamurthy"
+    ],
+    "canonical_id": "2605.22786",
+    "categories": [
+      "cs.AI",
+      "cs.ET",
+      "cs.LG",
+      "cs.MA"
+    ],
+    "content_hash": "aa9e079a12cf9c894b19f3487bae0a38f76dcd76cd17058dba5de3f53221f55c",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-21T17:42:12Z",
+    "report_count": 1,
+    "title": "LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-21T17:42:12Z"
+  },
+  "2605.22791": {
+    "authors": [
+      "Ali Hatamizadeh",
+      "Yejin Choi",
+      "Jan Kautz"
+    ],
+    "canonical_id": "2605.22791",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "d6736219eb03630766707b6b5d28c6e2b6c137c36105111726f82f39da29b2c5",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-21T17:44:57Z",
+    "report_count": 1,
+    "title": "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-21T17:44:57Z"
+  },
+  "2605.22794": {
+    "authors": [
+      "Qianshu Cai",
+      "Yonggang Zhang",
+      "Xianzhang Jia",
+      "Wei Xue",
+      "Jun Song",
+      "Xinmei Tian",
+      "Yike Guo"
+    ],
+    "canonical_id": "2605.22794",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "d10b80a8e40527ffb3f2c8ad926a03698d9a76381733ec2a4d024a986dbbecf3",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-21T17:48:33Z",
+    "report_count": 1,
+    "title": "MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-21T17:48:33Z"
+  },
+  "2605.22800": {
+    "authors": [
+      "Vishal Rajput"
+    ],
+    "canonical_id": "2605.22800",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "stat.ML"
+    ],
+    "content_hash": "9dfced4f5a22d4b9c61e39e9c344ae9601a3b7f58851b8306eb14d4c95ed3d66",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-21T17:53:28Z",
+    "report_count": 1,
+    "title": "The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-21T17:53:28Z"
+  },
+  "2605.22814": {
+    "authors": [
+      "Lily Goli",
+      "Justin Kerr",
+      "Daniele Reda",
+      "Alec Jacobson",
+      "Andrea Tagliasacchi",
+      "Angjoo Kanazawa"
+    ],
+    "canonical_id": "2605.22814",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "d62a17ff78e872148bafdca12610cbc04b24210759d0011eb6b4eb737670bb01",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-21T17:58:06Z",
+    "report_count": 1,
+    "title": "Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-21T17:58:06Z"
+  },
+  "2605.22820": {
+    "authors": [
+      "Carlos Heredia",
+      "Daniel Roncel"
+    ],
+    "canonical_id": "2605.22820",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "05c7c79203a1b6d159b4c985921c2456a39ee6d39ef3f50becf1a3b3d95d08fe",
+    "first_seen_date": "2026-05-22",
+    "last_reported_date": "2026-05-22",
+    "last_seen_date": "2026-05-22",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-21T17:59:47Z",
+    "report_count": 1,
+    "title": "Integrable Elasticity via Neural Demand Potentials",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-21T17:59:47Z"
   }
 }
