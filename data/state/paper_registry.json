@@ -10610,5 +10610,635 @@
       "llm_progress"
     ],
     "updated": "2026-05-22T17:59:50Z"
+  },
+  "2605.24285": {
+    "authors": [
+      "Akash Deep",
+      "Nicholas Appiah",
+      "Svetlozar T. Rachev"
+    ],
+    "canonical_id": "2605.24285",
+    "categories": [
+      "q-fin.ST",
+      "stat.ML"
+    ],
+    "content_hash": "c81dc55ad54fece677127ac63fee649e99c6b82d0e8f5e1cb63b489e17ef4227",
+    "first_seen_date": "2026-05-26",
+    "last_reported_date": "2026-05-26",
+    "last_seen_date": "2026-05-26",
+    "latest_version": 1,
+    "primary_category": "q-fin.ST",
+    "priority": "unscored",
+    "published": "2026-05-22T23:34:00Z",
+    "report_count": 1,
+    "title": "Memory, Roughness, and Information Persistence in Financial Markets: A Structural Approach to Volatility Forecasting",
+    "topics": [
+      "cross_section_time_series",
+      "quant_finance"
+    ],
+    "updated": "2026-05-22T23:34:00Z"
+  },
+  "2605.26035": {
+    "authors": [
+      "Charles Pert",
+      "Dalal Alrajeh",
+      "Alessandra Russo"
+    ],
+    "canonical_id": "2605.26035",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "ac2dce47cbe6dbc9ccace6841651a43524458f5c7d56c290bc53f35db3afe3dc",
+    "first_seen_date": "2026-05-26",
+    "last_reported_date": "2026-05-26",
+    "last_seen_date": "2026-05-26",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-25T17:02:29Z",
+    "report_count": 1,
+    "title": "Length Generalization with Log-Depth Recurrent Units",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-25T17:02:29Z"
+  },
+  "2605.26036": {
+    "authors": [
+      "Junyuan Liu",
+      "Xinglei Wang",
+      "Zichao Zeng",
+      "Jiazhuang Feng",
+      "Quan Qin",
+      "Ilya Ilyankou",
+      "Guangsheng Dong",
+      "Tao Cheng"
+    ],
+    "canonical_id": "2605.26036",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "8deab1600b8d09dbc4c9cf7902e1e3efd668cb59ba69f5b54443c29f35cbba2b",
+    "first_seen_date": "2026-05-26",
+    "last_reported_date": "2026-05-26",
+    "last_seen_date": "2026-05-26",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-25T17:03:46Z",
+    "report_count": 1,
+    "title": "CITYREP: A Unified Benchmark for Urban Representations Across Cities, Tasks, and Modalities",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-25T17:03:46Z"
+  },
+  "2605.26037": {
+    "authors": [
+      "Tianda Sun",
+      "Dimitar Kazakov"
+    ],
+    "canonical_id": "2605.26037",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "63031d4e81e16cca111b82f7e26da98aac010999d9cdcbee7b8e528041efc64d",
+    "first_seen_date": "2026-05-26",
+    "last_reported_date": "2026-05-26",
+    "last_seen_date": "2026-05-26",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-05-25T17:05:35Z",
+    "report_count": 1,
+    "title": "Peak-Then-Collapse and the Four Interface Channels of Knowledge-Graph Tool Use",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-25T17:05:35Z"
+  },
+  "2605.26038": {
+    "authors": [
+      "Xinrui Shi",
+      "Kai Liu",
+      "Ziqing Zhang",
+      "Jianze Li",
+      "Anqi Li",
+      "Yulun Zhang"
+    ],
+    "canonical_id": "2605.26038",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "984cb45ebf338c1021d6d60c8d0e6f37f4c553d9b423e785679754e52ce2b76d",
+    "first_seen_date": "2026-05-26",
+    "last_reported_date": "2026-05-26",
+    "last_seen_date": "2026-05-26",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-05-25T17:05:52Z",
+    "report_count": 1,
+    "title": "DRScaffold: Boosting Dense-Scene Reasoning in Lightweight Vision Language Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-25T17:05:52Z"
+  },
+  "2605.26040": {
+    "authors": [
+      "Jinsheng Guo",
+      "Zhenhao Weng",
+      "Yibo Liu",
+      "Yan Qiao",
+      "Meng Li"
+    ],
+    "canonical_id": "2605.26040",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "b8f4a85e76c93f97dba2dec9a5c24c7a9f35359a748de86fd5b9a76d32fb014a",
+    "first_seen_date": "2026-05-26",
+    "last_reported_date": "2026-05-26",
+    "last_seen_date": "2026-05-26",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-25T17:06:13Z",
+    "report_count": 1,
+    "title": "L2IR: Revealing Latent Intent in Graph Fraud Detection",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-25T17:06:13Z"
+  },
+  "2605.26064": {
+    "authors": [
+      "Ali Rouzbayani",
+      "Bidhan Roy",
+      "Marcos Villagra",
+      "Zhiying Jiang"
+    ],
+    "canonical_id": "2605.26064",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "b0cb2d9b76cae44e6a3cff71017c8224f33911766818dc2d1f43b904b05e3f26",
+    "first_seen_date": "2026-05-26",
+    "last_reported_date": "2026-05-26",
+    "last_seen_date": "2026-05-26",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-05-25T17:27:22Z",
+    "report_count": 1,
+    "title": "Paris 2.0: A Decentralized Diffusion Model for Video Generation",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-25T17:27:22Z"
+  },
+  "2605.26068": {
+    "authors": [
+      "Xu Yao",
+      "Siyuan Zhou",
+      "Wu Zhenbo",
+      "Chaochuan Hou",
+      "Shuang Liang",
+      "Shiping wang",
+      "Hailiang Huang",
+      "Songqiao Han",
+      "Minqi Jiang"
+    ],
+    "canonical_id": "2605.26068",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "d05fecf0f4566e63689fe144b1f045b1cb1cf7beafeb1ba70de8eac6486b6cd7",
+    "first_seen_date": "2026-05-26",
+    "last_reported_date": "2026-05-26",
+    "last_seen_date": "2026-05-26",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-25T17:32:58Z",
+    "report_count": 1,
+    "title": "Rethinking Weak Supervision in Anomaly Detection: A Comprehensive Benchmark",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-25T17:32:58Z"
+  },
+  "2605.26070": {
+    "authors": [
+      "Lingyu Gao",
+      "Will Monroe",
+      "David Smith",
+      "Meghan Jemison",
+      "Jackie Lee"
+    ],
+    "canonical_id": "2605.26070",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "fd5cce10b7025221a7da773f71eac21e851fdd76c3eead3d7e47fb306a249747",
+    "first_seen_date": "2026-05-26",
+    "last_reported_date": "2026-05-26",
+    "last_seen_date": "2026-05-26",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-05-25T17:37:45Z",
+    "report_count": 1,
+    "title": "WhoSaidIt: Human-LLM Collaborative Annotation for Text-Based Multilingual Speaker-Attribute Classification",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-25T17:37:45Z"
+  },
+  "2605.26074": {
+    "authors": [
+      "Yunhua Pei",
+      "Jingyu Hu",
+      "Yiwei Shi",
+      "Hongnan Ma",
+      "Weiru Liu",
+      "John Cartlidge"
+    ],
+    "canonical_id": "2605.26074",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "q-fin.GN"
+    ],
+    "content_hash": "beb11dc28f5f29636daa4c2e9e360eff50deaa0513211e9bb8a09795a9d59257",
+    "first_seen_date": "2026-05-26",
+    "last_reported_date": "2026-05-26",
+    "last_seen_date": "2026-05-26",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-05-25T17:38:30Z",
+    "report_count": 1,
+    "title": "StakeBench: Evaluating Language Understanding Grounded in Market Commitment",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-05-25T17:38:30Z"
+  },
+  "2605.26079": {
+    "authors": [
+      "Junlin Wang",
+      "Federico Bianchi",
+      "Shang Zhu",
+      "Fan Nie",
+      "Yongchan Kwon",
+      "Bhuwan Dhingra",
+      "James Zou"
+    ],
+    "canonical_id": "2605.26079",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "30639e7b6b4fdf9057f3f00b8d410c9483e93bd2bd62c86982d47d9f9022064d",
+    "first_seen_date": "2026-05-26",
+    "last_reported_date": "2026-05-26",
+    "last_seen_date": "2026-05-26",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-05-25T17:44:21Z",
+    "report_count": 1,
+    "title": "Automated Benchmark Auditing for AI Agents and Large Language Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-25T17:44:21Z"
+  },
+  "2605.26081": {
+    "authors": [
+      "Haolang Zhao",
+      "Yunbo Long",
+      "Lukas Beckenbauer",
+      "Alexandra Brintrup"
+    ],
+    "canonical_id": "2605.26081",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "f4dfc5807aeba7af83ec0fffe03bd694bbe733e132393f7b6d3e62cb22499490",
+    "first_seen_date": "2026-05-26",
+    "last_reported_date": "2026-05-26",
+    "last_seen_date": "2026-05-26",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-25T17:46:57Z",
+    "report_count": 1,
+    "title": "VeriTrace: Evolving Mental Models for Deep Research Agents",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-25T17:46:57Z"
+  },
+  "2605.26086": {
+    "authors": [
+      "Yusong Lin",
+      "Xinyuan Liang",
+      "Haiyang Wang",
+      "Qipeng Gu",
+      "Siqi Cheng",
+      "Jiangui Chen",
+      "Shuzhe Wu",
+      "Feiyang Pan",
+      "Lue Fan",
+      "Sanyuan Zhao",
+      "Dandan Tu"
+    ],
+    "canonical_id": "2605.26086",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "d24dae2858c8bf899719df8551c276683a5e9682c3c9d5d406d2b51b8181d3bc",
+    "first_seen_date": "2026-05-26",
+    "last_reported_date": "2026-05-26",
+    "last_seen_date": "2026-05-26",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-25T17:50:04Z",
+    "report_count": 1,
+    "title": "Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-25T17:50:04Z"
+  },
+  "2605.26087": {
+    "authors": [
+      "Matt L. Wiemann",
+      "Lindsay M. Smith",
+      "Peter Melchior",
+      "Siddharth Mishra-Sharma",
+      "Andrew Gordon Wilson",
+      "Pavel Izmailov",
+      "Carolina Cuesta-Lázaro"
+    ],
+    "canonical_id": "2605.26087",
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ],
+    "content_hash": "8aa2b23977438306a3d247f05ab56253966bd75f242e4c2278eb5e2bae79dfd1",
+    "first_seen_date": "2026-05-26",
+    "last_reported_date": "2026-05-26",
+    "last_seen_date": "2026-05-26",
+    "latest_version": 1,
+    "primary_category": "stat.ML",
+    "priority": "unscored",
+    "published": "2026-05-25T17:50:07Z",
+    "report_count": 1,
+    "title": "DiscoverPhysics: Benchmarking LLMs for Out-of-the-Box Scientific Thinking",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-25T17:50:07Z"
+  },
+  "2605.26092": {
+    "authors": [
+      "Maoyang Xiang",
+      "Bo Wang",
+      "Tao Luo"
+    ],
+    "canonical_id": "2605.26092",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "ece7c075e0999e80afc4e91a64485e33c2fd3c982acdf9d960c3144cde88d4fe",
+    "first_seen_date": "2026-05-26",
+    "last_reported_date": "2026-05-26",
+    "last_seen_date": "2026-05-26",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-25T17:52:46Z",
+    "report_count": 1,
+    "title": "OrpQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-Two Transformer Quantization",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-25T17:52:46Z"
+  },
+  "2605.26099": {
+    "authors": [
+      "Sangyun Lee",
+      "Sean McLeish",
+      "Tom Goldstein",
+      "Giulia Fanti"
+    ],
+    "canonical_id": "2605.26099",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "7cda58784aee7347c7c32975b66628b42ff15765f251db75fa2aa12892ec882e",
+    "first_seen_date": "2026-05-26",
+    "last_reported_date": "2026-05-26",
+    "last_seen_date": "2026-05-26",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-05-25T17:55:39Z",
+    "report_count": 1,
+    "title": "Language Models Need Sleep",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-25T17:55:39Z"
+  },
+  "2605.26100": {
+    "authors": [
+      "Bar Weiss",
+      "Antonio Abu-Nassar",
+      "Adi Sosnovich",
+      "Karen Yorav"
+    ],
+    "canonical_id": "2605.26100",
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "content_hash": "8718d5d6bbaa283bc3b2911bec5ec0a8307abb22d4b64948c17691b749bb5845",
+    "first_seen_date": "2026-05-26",
+    "last_reported_date": "2026-05-26",
+    "last_seen_date": "2026-05-26",
+    "latest_version": 1,
+    "primary_category": "cs.SE",
+    "priority": "unscored",
+    "published": "2026-05-25T17:56:46Z",
+    "report_count": 1,
+    "title": "Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-25T17:56:46Z"
+  },
+  "2605.26106": {
+    "authors": [
+      "Sanghyun Lee",
+      "Chunsan Hong",
+      "Seungryong Kim",
+      "Jonghyun Lee",
+      "Jongho Park",
+      "Dongmin Park"
+    ],
+    "canonical_id": "2605.26106",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "3f740fe1253db03222696b0ae1c42a647108f3c068d87e4325e9262f2edf2aff",
+    "first_seen_date": "2026-05-26",
+    "last_reported_date": "2026-05-26",
+    "last_seen_date": "2026-05-26",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-25T17:58:24Z",
+    "report_count": 1,
+    "title": "Looped Diffusion Language Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-25T17:58:24Z"
+  },
+  "2605.26110": {
+    "authors": [
+      "Jun-Tao Tang",
+      "Yu-Cheng Shi",
+      "Zhen-Hao Xie",
+      "Da-Wei Zhou"
+    ],
+    "canonical_id": "2605.26110",
+    "categories": [
+      "cs.LG",
+      "cs.CL",
+      "cs.CV"
+    ],
+    "content_hash": "9406b7a1591e39df44d0a3802d74230d7e7214af7230cc6459758d9fdae8175b",
+    "first_seen_date": "2026-05-26",
+    "last_reported_date": "2026-05-26",
+    "last_seen_date": "2026-05-26",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-05-25T17:59:28Z",
+    "report_count": 1,
+    "title": "Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-25T17:59:28Z"
+  },
+  "2605.26111": {
+    "authors": [
+      "Shuhong Zheng",
+      "Aashish Kumar Misraa",
+      "Yu-Teng Li",
+      "Yu-Jhe Li",
+      "Igor Gilitschenski"
+    ],
+    "canonical_id": "2605.26111",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.GR",
+      "cs.LG",
+      "cs.MM"
+    ],
+    "content_hash": "e83edc678bc6d857c6690d8d56804f5aedfdcfc8760c06a69bae5a77fa5893d7",
+    "first_seen_date": "2026-05-26",
+    "last_reported_date": "2026-05-26",
+    "last_seen_date": "2026-05-26",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-05-25T17:59:35Z",
+    "report_count": 1,
+    "title": "Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-25T17:59:35Z"
+  },
+  "2605.26112": {
+    "authors": [
+      "Shangding Gu"
+    ],
+    "canonical_id": "2605.26112",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "2882b6ca0938c51099e5695ee44adeee6c820585213ebe3a5d8fc1c172fe10d3",
+    "first_seen_date": "2026-05-26",
+    "last_reported_date": "2026-05-26",
+    "last_seen_date": "2026-05-26",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-25T17:59:36Z",
+    "report_count": 1,
+    "title": "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-05-25T17:59:36Z"
+  },
+  "2605.26114": {
+    "authors": [
+      "Dingbang Wu",
+      "Rui Hao",
+      "Haiyang Wang",
+      "Shuzhe Wu",
+      "Han Xiao",
+      "Zhenghong Li",
+      "Bojiang Zhou",
+      "Zheng Ju",
+      "Zichen Liu",
+      "Lue Fan",
+      "Zhaoxiang Zhang"
+    ],
+    "canonical_id": "2605.26114",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "e1d6b3fd87056e08980e592e93b8e114cf9b2cdf6da8f20915a68184999d492f",
+    "first_seen_date": "2026-05-26",
+    "last_reported_date": "2026-05-26",
+    "last_seen_date": "2026-05-26",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-05-25T17:59:49Z",
+    "report_count": 1,
+    "title": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-05-25T17:59:49Z"
   }
 }
