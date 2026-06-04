@@ -15574,5 +15574,463 @@
       "llm_progress"
     ],
     "updated": "2026-06-01T17:59:46Z"
+  },
+  "2606.05079": {
+    "authors": [
+      "Minh An Pham",
+      "Anton Segeler",
+      "Thomas Wiegand",
+      "Wojciech Samek",
+      "Sebastian Lapuschkin",
+      "Patrick Kahardipraja",
+      "Reduan Achtibat"
+    ],
+    "canonical_id": "2606.05079",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "95f30745b76b9275f77680615619c1ce200f016059fea2c7de740b596554b070",
+    "first_seen_date": "2026-06-04",
+    "last_reported_date": "2026-06-04",
+    "last_seen_date": "2026-06-04",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-03T16:36:15Z",
+    "report_count": 1,
+    "title": "Fast & Faithful Function Vectors",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-03T16:36:15Z"
+  },
+  "2606.05080": {
+    "authors": [
+      "Zhangchen Xu",
+      "Junda Chen",
+      "Yue Huang",
+      "Dongfu Jiang",
+      "Jiefeng Chen",
+      "Hang Hua",
+      "Zijian Wu",
+      "Zheyuan Liu",
+      "Zexue He",
+      "Lichi Li",
+      "Shizhe Diao",
+      "Jiaxin Pei",
+      "Jinsung Yoon",
+      "Hao Zhang",
+      "Mengdi Wang",
+      "Radha Poovendran",
+      "Misha Sra",
+      "Alex Pentland",
+      "Zichen Chen"
+    ],
+    "canonical_id": "2606.05080",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "15bd8a1085b315962633f5304b83aa98b674e7102878064607b5b245fa57f3b9",
+    "first_seen_date": "2026-06-04",
+    "last_reported_date": "2026-06-04",
+    "last_seen_date": "2026-06-04",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-06-03T16:36:54Z",
+    "report_count": 1,
+    "title": "AutoLab: Can Frontier Models Solve Long-Horizon Auto Research and Engineering Tasks?",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-03T16:36:54Z"
+  },
+  "2606.05085": {
+    "authors": [
+      "Tohida Rehman",
+      "Debarshi Kumar Sanyal",
+      "Samiran Chattopadhyay"
+    ],
+    "canonical_id": "2606.05085",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "08444be35f43332f482006264aec60e7e9c24d430b5f1152084d3168dbfa0231",
+    "first_seen_date": "2026-06-04",
+    "last_reported_date": "2026-06-04",
+    "last_seen_date": "2026-06-04",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-03T16:49:57Z",
+    "report_count": 1,
+    "title": "Automatic Generation of Titles for Research Papers Using Language Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-03T16:49:57Z"
+  },
+  "2606.05104": {
+    "authors": [
+      "Sheng Jin",
+      "Minghao Liu",
+      "Yunze Xiao",
+      "Zeqi Zhou",
+      "Heli Qi",
+      "Yifan Yao",
+      "Meishu Song",
+      "Kaijing Ma",
+      "Xuan Zhang",
+      "Sicong Jiang",
+      "Yizhe Li",
+      "Ningshan Ma",
+      "Jie Wei",
+      "Ziniu Li",
+      "Minglai Yang",
+      "Bangya Liu",
+      "Yiming Liang",
+      "Xiao Fang",
+      "Qingcheng Zeng",
+      "Jiarui Liu",
+      "Rui Yang",
+      "Shen Yan",
+      "Wenhao Huang",
+      "Jiaheng Liu",
+      "Zihan Wang",
+      "Weihao Xuan",
+      "Ge Zhang"
+    ],
+    "canonical_id": "2606.05104",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "6af6c10c5b8dee76191201996d53365301740341de6b4abf94cc857de7fef50f",
+    "first_seen_date": "2026-06-04",
+    "last_reported_date": "2026-06-04",
+    "last_seen_date": "2026-06-04",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-06-03T17:06:49Z",
+    "report_count": 1,
+    "title": "Knowledge Index of Noah's Ark",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-03T17:06:49Z"
+  },
+  "2606.05106": {
+    "authors": [
+      "Andhika Bernard Lumbantobing",
+      "Hokky Situngkir"
+    ],
+    "canonical_id": "2606.05106",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.CY"
+    ],
+    "content_hash": "7cf5fab265410198a5d3fecf785eb2f4b8903ba7a1fd5d28b3de5699103e1bcd",
+    "first_seen_date": "2026-06-04",
+    "last_reported_date": "2026-06-04",
+    "last_seen_date": "2026-06-04",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-03T17:09:25Z",
+    "report_count": 1,
+    "title": "Arithmetic Pedagogy for Language Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-03T17:09:25Z"
+  },
+  "2606.05107": {
+    "authors": [
+      "Elouan Gardès",
+      "Seung Eun Yi",
+      "Kartik Ahuja",
+      "Théo Moutakanni",
+      "Huy V. Vo",
+      "Piotr Bojanowski",
+      "Wolfgang M. Pernice",
+      "Loïc Landrieu",
+      "Camille Couprie"
+    ],
+    "canonical_id": "2606.05107",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "336fd112e754f5c46047477aa2b8367a32571625b3a0a75fd41d3aacf645fd7d",
+    "first_seen_date": "2026-06-04",
+    "last_reported_date": "2026-06-04",
+    "last_seen_date": "2026-06-04",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-06-03T17:10:11Z",
+    "report_count": 1,
+    "title": "Who Needs Labels? Adapting Vision Foundation Models With the Metadata You Already Have",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-03T17:10:11Z"
+  },
+  "2606.05109": {
+    "authors": [
+      "Vasiliki Rizou",
+      "Pascal Frossard",
+      "Dorina Thanou"
+    ],
+    "canonical_id": "2606.05109",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "a27ca8b2335746faa182bf19267fac9d82a52f8a7fd0bafab1d6fde172941624",
+    "first_seen_date": "2026-06-04",
+    "last_reported_date": "2026-06-04",
+    "last_seen_date": "2026-06-04",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-03T17:10:39Z",
+    "report_count": 1,
+    "title": "RePercENT: Scaling Disentangled Representation Learning Beyond Two Modalities",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-03T17:10:39Z"
+  },
+  "2606.05112": {
+    "authors": [
+      "Cheng Liang",
+      "Pengcheng Qiu",
+      "Ya Zhang",
+      "Yanfeng Wang",
+      "Chaoyi Wu",
+      "Weidi Xie"
+    ],
+    "canonical_id": "2606.05112",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "afe945232f64e1b9868f9f548295429298b23d12825c8ffd4428368d22143f8f",
+    "first_seen_date": "2026-06-04",
+    "last_reported_date": "2026-06-04",
+    "last_seen_date": "2026-06-04",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-03T17:17:16Z",
+    "report_count": 1,
+    "title": "Evaluating Large Language Models in Dynamic Clinical Decision-Making with Standardized Patient Cases",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-03T17:17:16Z"
+  },
+  "2606.05116": {
+    "authors": [
+      "Jose E. Escrig Molina",
+      "Baoquan Chen",
+      "Daniel Probst"
+    ],
+    "canonical_id": "2606.05116",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "ab6b687a99b02fd031de28917396b2d43e662f6ee407c99856f7b8f256ee447b",
+    "first_seen_date": "2026-06-04",
+    "last_reported_date": "2026-06-04",
+    "last_seen_date": "2026-06-04",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-03T17:20:48Z",
+    "report_count": 1,
+    "title": "Graph Set Transformer",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-03T17:20:48Z"
+  },
+  "2606.05122": {
+    "authors": [
+      "XiuYu Zhang",
+      "Yi Shan",
+      "Junfeng Fang",
+      "Zhenkai Liang"
+    ],
+    "canonical_id": "2606.05122",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "b6931af8d92f641ddadc8d7527c5738bb958155e4cdd265811ad9887f1c99e58",
+    "first_seen_date": "2026-06-04",
+    "last_reported_date": "2026-06-04",
+    "last_seen_date": "2026-06-04",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-03T17:27:16Z",
+    "report_count": 1,
+    "title": "Self-Evaluation Is Already There: Eliciting Latent Judge Calibration in Base LLMs with Minimal Data",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-03T17:27:16Z"
+  },
+  "2606.05130": {
+    "authors": [
+      "Linyao Chen",
+      "Qinlao Zhao",
+      "Zechen Li",
+      "Mingming Li",
+      "Likun Ni",
+      "Jinyu Chen",
+      "Yuhao Yao",
+      "Xuan Song",
+      "Noboru Koshizuka",
+      "Hiroki Kobayashi"
+    ],
+    "canonical_id": "2606.05130",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "94d1c2c690cd957cc38edee04cb87c6cdbb1824398ab9d8d42152d6fa20eb84a",
+    "first_seen_date": "2026-06-04",
+    "last_reported_date": "2026-06-04",
+    "last_seen_date": "2026-06-04",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-03T17:34:01Z",
+    "report_count": 1,
+    "title": "Towards Efficient and Evidence-grounded Mobility Prediction with LLM-Driven Agent",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-03T17:34:01Z"
+  },
+  "2606.05145": {
+    "authors": [
+      "Nizar Islah",
+      "Istabrak Abbes",
+      "Irina Rish",
+      "Sarath Chandar",
+      "Eilif B. Muller"
+    ],
+    "canonical_id": "2606.05145",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "37c3ed9a121f29cfd80db5ec0aadddad00e957d28c3537f217d9874b789143c6",
+    "first_seen_date": "2026-06-04",
+    "last_reported_date": "2026-06-04",
+    "last_seen_date": "2026-06-04",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-03T17:50:26Z",
+    "report_count": 1,
+    "title": "Failed Reasoning Traces Tell You What Is Fixable (But Not by Reading Them)",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-03T17:50:26Z"
+  },
+  "2606.05152": {
+    "authors": [
+      "Rishabh Agrawal",
+      "Jacob Fein-Ashley",
+      "Paria Rashidinejad"
+    ],
+    "canonical_id": "2606.05152",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "8eed895163b49fb4fe52147cb852684ba9880492b3d8cfa13ace918d3ef8aae3",
+    "first_seen_date": "2026-06-04",
+    "last_reported_date": "2026-06-04",
+    "last_seen_date": "2026-06-04",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-03T17:54:04Z",
+    "report_count": 1,
+    "title": "Reinforcement Learning from Rich Feedback with Distributional DAgger",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-03T17:54:04Z"
+  },
+  "2606.05158": {
+    "authors": [
+      "Zhen Yang",
+      "Xiaogang Xu",
+      "Wen Wang",
+      "Cong Chen",
+      "Xander Xu",
+      "Ying-Cong Chen"
+    ],
+    "canonical_id": "2606.05158",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.MA"
+    ],
+    "content_hash": "ca6127c5ab2e9bac6c993994f478e83312433d6e6a16f5e4f77fa01c41d47385",
+    "first_seen_date": "2026-06-04",
+    "last_reported_date": "2026-06-04",
+    "last_seen_date": "2026-06-04",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-03T17:57:04Z",
+    "report_count": 1,
+    "title": "Streaming Communication in Multi-Agent Reasoning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-03T17:57:04Z"
+  },
+  "2606.05165": {
+    "authors": [
+      "Rishit Dagli",
+      "Abir Harrasse",
+      "Luke Zhang",
+      "Florent Draye",
+      "Amirali Abdullah",
+      "Bernhard Schölkopf",
+      "Zhijing Jin"
+    ],
+    "canonical_id": "2606.05165",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "content_hash": "19ae52b442c1e9e4681a00034805b74e683e1efeded69ce1a344738bbbad0034",
+    "first_seen_date": "2026-06-04",
+    "last_reported_date": "2026-06-04",
+    "last_seen_date": "2026-06-04",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-03T17:59:36Z",
+    "report_count": 1,
+    "title": "STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-03T17:59:36Z"
   }
 }
