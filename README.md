@@ -136,6 +136,42 @@ PYTHONPATH=src python -m alpha_paper_radar.cli run --date today --dry-run
 PYTHONPATH=src python -m alpha_paper_radar.cli run --date today --max-results-override 10
 ```
 
+
+## BAAI 热门论文工作流（独立于 arXiv）
+
+新增的 BAAI 热门论文流程不会写入 arXiv 的稳定输出路径，而是使用单独目录：
+
+```text
+data/baai_hot/raw/YYYY-MM-DD.jsonl          # 当天从 BAAI 日榜/周榜抓到并去重后的热度论文快照
+data/baai_hot/state/paper_registry.json    # BAAI 热门论文增量状态和热度历史
+reports/baai_hot/YYYY-MM-DD.md             # BAAI 热门论文日报
+```
+
+运行命令：
+
+```bash
+PYTHONPATH=src python -m alpha_paper_radar.cli run-baai-hot --date today
+```
+
+流程设计：
+
+1. 抓取 `https://hub.baai.ac.cn/papers` 的日榜，保留热度值 `>= 50` 的论文。
+2. 抓取 `https://hub.baai.ac.cn/papers?model=hotness&time=week` 的周榜，保留热度值 `>= 500` 的论文。
+3. 按 BAAI 论文详情页 ID 去重；同一论文同时出现在日榜和周榜时，只保留一条记录，并记录来源列表与最高热度。
+4. 读取详情页补充 PDF 链接；如果只想测试列表抓取，可用 `--skip-pdf` 跳过详情页访问。
+5. 复用 `config/topics.yaml` 中已有关键词做主题命中标记，但不复用 arXiv 的抓取、registry 或报告路径。
+6. 增量合并到 `data/baai_hot/state/paper_registry.json`：历史论文不会重复新增，只会更新 `latest_hotness`、`peak_hotness`、`hotness_delta` 和逐日 `observations`。
+7. 生成每日 Markdown 报告，重点列出：
+   - `Fast Rising Papers`：热度相对上次观察上升最快的论文。
+   - `Latest Papers`：近 14 天发表的最新热门论文。
+   - `Topic Matches`：命中既有关注主题关键词的论文。
+
+试运行（不写文件）：
+
+```bash
+PYTHONPATH=src python -m alpha_paper_radar.cli run-baai-hot --date today --dry-run --skip-pdf
+```
+
 ## 测试
 
 ```bash

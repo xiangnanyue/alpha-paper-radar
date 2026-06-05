@@ -4,6 +4,9 @@ import argparse
 from datetime import date, datetime
 from pathlib import Path
 
+from .baai_hot import DAILY_SPEC, WEEKLY_SPEC, dedupe_baai_papers, fetch_baai_hot_papers, match_topics
+from .baai_hot_registry import load_baai_registry, merge_baai_hot_papers, save_baai_registry
+from .baai_hot_report import render_baai_hot_report
 from .config import load_topics_config
 from .fetch_arxiv import fetch_arxiv_papers
 from .filter_papers import filter_papers_by_keywords
@@ -16,6 +19,8 @@ from .storage import save_jsonl
 def resolve_date(raw: str) -> str:
     if raw == "today":
         return date.today().isoformat()
+    if len(raw) == 8 and raw.isdigit():
+        return datetime.strptime(raw, "%Y%m%d").date().isoformat()
     return datetime.strptime(raw, "%Y-%m-%d").date().isoformat()
 
 
@@ -87,6 +92,40 @@ def run(report_date: str, dry_run: bool = False, max_results_override: int | Non
         print("Skipped report generation (new=0 and updated=0)")
 
 
+
+def run_baai_hot(report_date: str, dry_run: bool = False, skip_pdf: bool = False) -> None:
+    cfg = load_topics_config()
+    fetched: list[dict] = []
+    fetch_warnings: list[str] = []
+    for spec in [DAILY_SPEC, WEEKLY_SPEC]:
+        try:
+            fetched.extend(fetch_baai_hot_papers(spec, enrich_pdf=not skip_pdf))
+        except Exception as exc:
+            fetch_warnings.append(f"Failed to fetch BAAI {spec.name} list: {exc}")
+            print(f"[WARN] Failed to fetch BAAI {spec.name} list: {exc}")
+    papers = match_topics(dedupe_baai_papers(fetched), cfg)
+
+    jsonl_path = Path("data/baai_hot/raw") / f"{report_date}.jsonl"
+    report_path = Path("reports/baai_hot") / f"{report_date}.md"
+
+    registry = load_baai_registry()
+    merged_registry, sections, suppressed_duplicate_count = merge_baai_hot_papers(registry, papers, report_date)
+    report_content = render_baai_hot_report(report_date, sections, suppressed_duplicate_count, fetch_warnings=fetch_warnings)
+
+    if dry_run:
+        print(f"[DRY RUN] BAAI unique hot papers: {len(papers)}")
+        print(report_content)
+        return
+
+    save_jsonl(papers, jsonl_path)
+    save_baai_registry(merged_registry)
+    report_path.parent.mkdir(parents=True, exist_ok=True)
+    report_path.write_text(report_content, encoding="utf-8")
+
+    print(f"Saved {len(papers)} BAAI papers -> {jsonl_path}")
+    print("Updated BAAI registry -> data/baai_hot/state/paper_registry.json")
+    print(f"Generated BAAI report -> {report_path}")
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Alpha Paper Radar CLI")
     sub = parser.add_subparsers(dest="command", required=True)
@@ -96,6 +135,11 @@ def main() -> None:
     run_parser.add_argument("--dry-run", action="store_true", help="Print report without writing files")
     run_parser.add_argument("--max-results-override", type=int, default=None, help="Override max_results for all topics")
 
+    baai_parser = sub.add_parser("run-baai-hot", help="Fetch BAAI hot papers and generate separate report")
+    baai_parser.add_argument("--date", default="today", help="today or YYYY-MM-DD")
+    baai_parser.add_argument("--dry-run", action="store_true", help="Print report without writing files")
+    baai_parser.add_argument("--skip-pdf", action="store_true", help="Skip detail-page PDF enrichment")
+
     validate_parser = sub.add_parser("validate-config", help="Validate topic config file")
     validate_parser.add_argument("--path", default="config/topics.yaml", help="Path to topics config")
 
@@ -103,6 +147,8 @@ def main() -> None:
 
     if args.command == "run":
         run(resolve_date(args.date), dry_run=args.dry_run, max_results_override=args.max_results_override)
+    elif args.command == "run-baai-hot":
+        run_baai_hot(resolve_date(args.date), dry_run=args.dry_run, skip_pdf=args.skip_pdf)
     elif args.command == "validate-config":
         cfg = load_topics_config(args.path)
         print(f"Config valid. Topics: {', '.join(cfg['topics'].keys())}")
