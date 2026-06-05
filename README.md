@@ -112,10 +112,18 @@ source .venv/bin/activate
 python -m pip install -e .
 ```
 
-### 2. 生成今天的报告
+### 2. 一键生成今天的合并报告
+
+`run` 会同时执行 arXiv 主题抓取和 BAAI 热门论文抓取，最终只生成一个按日期命名的合并日报：`reports/YYYY-MM-DD.md`。如果 arXiv 与 BAAI 当天都没有新增/更新论文，则不会生成日报。
 
 ```bash
 PYTHONPATH=src python -m alpha_paper_radar.cli run --date today
+```
+
+如果希望跳过 BAAI 详情页 PDF 链接补充以加快运行，可使用：
+
+```bash
+PYTHONPATH=src python -m alpha_paper_radar.cli run --date today --skip-baai-pdf
 ```
 
 ### 3. 指定日期运行
@@ -137,17 +145,17 @@ PYTHONPATH=src python -m alpha_paper_radar.cli run --date today --max-results-ov
 ```
 
 
-## BAAI 热门论文工作流（独立于 arXiv）
+## BAAI 热门论文工作流（独立调试命令）
 
-新增的 BAAI 热门论文流程不会写入 arXiv 的稳定输出路径，而是使用单独目录：
+日常使用建议直接运行 `run` 生成 `reports/YYYY-MM-DD.md` 合并日报；`run-baai-hot` 保留为单独调试 BAAI 抓取和报告渲染的命令。单独运行时，BAAI 流程不会写入 arXiv 的稳定输出路径，而是使用单独目录：
 
 ```text
 data/baai_hot/raw/YYYY-MM-DD.jsonl          # 当天从 BAAI 日榜/周榜抓到并去重后的热度论文快照
 data/baai_hot/state/paper_registry.json    # BAAI 热门论文增量状态和热度历史
-reports/baai_hot/YYYY-MM-DD.md             # BAAI 热门论文日报
+reports/baai_hot/YYYY-MM-DD.md             # 仅 run-baai-hot 单独运行时生成的 BAAI 热门论文日报
 ```
 
-运行命令：
+单独调试命令：
 
 ```bash
 PYTHONPATH=src python -m alpha_paper_radar.cli run-baai-hot --date today
