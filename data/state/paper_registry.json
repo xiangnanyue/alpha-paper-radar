@@ -17677,7 +17677,7 @@
     "content_hash": "13b342a13ac7bf71c76f0d0d7d078025532d700519b37b458821ecab95532e24",
     "first_seen_date": "2026-06-09",
     "last_reported_date": "2026-06-09",
-    "last_seen_date": "2026-06-09",
+    "last_seen_date": "2026-06-10",
     "latest_version": 1,
     "primary_category": "q-fin.ST",
     "priority": "unscored",
@@ -17707,7 +17707,7 @@
     "content_hash": "71b40b4f206f98759a787d00d5a1d2b91ea9b9572f69b6235a08b7695dc5d0b4",
     "first_seen_date": "2026-06-09",
     "last_reported_date": "2026-06-09",
-    "last_seen_date": "2026-06-09",
+    "last_seen_date": "2026-06-10",
     "latest_version": 1,
     "primary_category": "cs.LG",
     "priority": "unscored",
@@ -17733,7 +17733,7 @@
     "content_hash": "11dd257d6b3d6f842e4c6d3025c8d0af81833d03a4edbd9cbb3dc13999d8c765",
     "first_seen_date": "2026-06-09",
     "last_reported_date": "2026-06-09",
-    "last_seen_date": "2026-06-09",
+    "last_seen_date": "2026-06-10",
     "latest_version": 1,
     "primary_category": "math.OC",
     "priority": "unscored",
@@ -18394,5 +18394,745 @@
       "llm_progress"
     ],
     "updated": "2026-06-08T17:59:43Z"
+  },
+  "2606.10409": {
+    "authors": [
+      "Jongwoo Choi",
+      "Neil A. Spencer",
+      "Dipak K. Dey"
+    ],
+    "canonical_id": "2606.10409",
+    "categories": [
+      "stat.ME"
+    ],
+    "content_hash": "d0415a06fa395a8df3da45188406878853df3bf3518d5faf3703bfe182ef3696",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-06-09T04:34:57Z",
+    "report_count": 1,
+    "title": "Robust Bayesian Predictive Model Selection using Bregman Divergence",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-06-09T04:34:57Z"
+  },
+  "2606.10463": {
+    "authors": [
+      "Chuang Xu",
+      "Andrew T. A. Wood",
+      "Yanrong Yang"
+    ],
+    "canonical_id": "2606.10463",
+    "categories": [
+      "math.ST",
+      "stat.ME"
+    ],
+    "content_hash": "70747fcdf7097be965fc891155135931dbd88d13b1d690b9b7a5e99047d30caf",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "math.ST",
+    "priority": "unscored",
+    "published": "2026-06-09T06:25:47Z",
+    "report_count": 1,
+    "title": "Distributionally Robust PCA with Data-Adaptive Wasserstein Geometry",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-06-09T06:25:47Z"
+  },
+  "2606.11047": {
+    "authors": [
+      "Sarah Moon",
+      "Whitney K. Newey"
+    ],
+    "canonical_id": "2606.11047",
+    "categories": [
+      "econ.EM"
+    ],
+    "content_hash": "cc8590d7910189f77022016e6487f4e12350388c56f5a39159b7e65eabc333f4",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "econ.EM",
+    "priority": "unscored",
+    "published": "2026-06-09T16:14:31Z",
+    "report_count": 1,
+    "title": "Panel Data Estimation of Individual Demand in Markets with Many Consumers",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-06-09T16:14:31Z"
+  },
+  "2606.11105": {
+    "authors": [
+      "Haeji Jung",
+      "Hila Gonen"
+    ],
+    "canonical_id": "2606.11105",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "291a7f948db62b05632b07342cc0668d67894dab3920068a04bdea56b723d222",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-09T17:03:19Z",
+    "report_count": 1,
+    "title": "PhantomBench: Benchmarking the Non-existential Threat of Language Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-09T17:03:19Z"
+  },
+  "2606.11106": {
+    "authors": [
+      "Mahmood Alzubaidi",
+      "Uzair Shah",
+      "Raden Muaz",
+      "Ines Abbes",
+      "Nader Mohammed",
+      "Abdullatif Magram",
+      "Khalid Alyafei",
+      "Mowafa Househ",
+      "Marco Agus"
+    ],
+    "canonical_id": "2606.11106",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "684096cb0dfd1e866dfed8e218570dc80b39f89498e6e11da856d7ae66a20608",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-06-09T17:03:37Z",
+    "report_count": 1,
+    "title": "FADA: Accessible fetal ultrasound interpretation and annotation with a selectively distilled unified vision-language model",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-09T17:03:37Z"
+  },
+  "2606.11107": {
+    "authors": [
+      "Wajih ul Islam",
+      "Muhammad Yaqoob",
+      "Javed Ali Khan",
+      "Volker Steuber"
+    ],
+    "canonical_id": "2606.11107",
+    "categories": [
+      "eess.IV",
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "3a5d680f0d2e9a2ec4dfe045b4363b1e042d75d8538027939ecc3a0d7861b343",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "eess.IV",
+    "priority": "unscored",
+    "published": "2026-06-09T17:03:50Z",
+    "report_count": 1,
+    "title": "Multimodal Brain Tumour Classification Using Feature Fusion",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-09T17:03:50Z"
+  },
+  "2606.11117": {
+    "authors": [
+      "Vinamra Sharma",
+      "Xingjian Fu",
+      "Jude Haris",
+      "José Cano"
+    ],
+    "canonical_id": "2606.11117",
+    "categories": [
+      "cs.AR",
+      "cs.AI",
+      "cs.PF"
+    ],
+    "content_hash": "aa0e1abac93133c407dadf651c6827ca6299516127808ee6dc9100d689ba406f",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "cs.AR",
+    "priority": "unscored",
+    "published": "2026-06-09T17:14:44Z",
+    "report_count": 1,
+    "title": "Towards Autonomous Accelerator Design: FPGA Accelerator Generation with SECDA",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-09T17:14:44Z"
+  },
+  "2606.11118": {
+    "authors": [
+      "Rahul Roy",
+      "Nur Sunar",
+      "Jayashankar M. Swaminathan"
+    ],
+    "canonical_id": "2606.11118",
+    "categories": [
+      "cs.LG",
+      "math.OC",
+      "math.PR",
+      "stat.AP",
+      "stat.ML"
+    ],
+    "content_hash": "2e58f84f7f744a3d9515f5d97b9e67b59ff804dd1d6c182290e28b31528dc854",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-09T17:15:10Z",
+    "report_count": 1,
+    "title": "Data-Driven Dynamic Assortment in Online Platforms: Learning about Two Sides",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-09T17:15:10Z"
+  },
+  "2606.11119": {
+    "authors": [
+      "Heming Zou",
+      "Qi Wang",
+      "Yun Qu",
+      "Yuhang Jiang",
+      "Lizhou Cai",
+      "Yixiu Mao",
+      "Ru Peng",
+      "Xin Xu",
+      "Weijie Liu",
+      "Kai Yang",
+      "Saiyong Yang",
+      "Xiangyang Ji"
+    ],
+    "canonical_id": "2606.11119",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "0de0c3820c064a95e9df296f2e12aee5cb1899ba3bcc74366f9b4fd296268f66",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-09T17:16:03Z",
+    "report_count": 1,
+    "title": "TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-09T17:16:03Z"
+  },
+  "2606.11120": {
+    "authors": [
+      "Andrew Kang",
+      "Priya Narasimhan"
+    ],
+    "canonical_id": "2606.11120",
+    "categories": [
+      "cs.AI",
+      "cs.CV"
+    ],
+    "content_hash": "15e214e10d02164288a38f547b0184e585f399e8d88900ff3e129e2ebaddf6b9",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-06-09T17:16:30Z",
+    "report_count": 1,
+    "title": "Monte Carlo Pass Search: Using Trajectory Generation for 3D Counterfactual Pass Evaluation in Football",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-09T17:16:30Z"
+  },
+  "2606.11123": {
+    "authors": [
+      "Gauthier Boeshertz",
+      "Razvan Pascanu",
+      "Claudia Clopath"
+    ],
+    "canonical_id": "2606.11123",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "84a1c186e3ed9ffdf5e3922de54911a9efac903dfae1a82fab27f131c70fac68",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-09T17:21:25Z",
+    "report_count": 1,
+    "title": "Overcoming Rank Collapse in Feedback Alignment",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-09T17:21:25Z"
+  },
+  "2606.11125": {
+    "authors": [
+      "Yidan Shen",
+      "Neville Mathew",
+      "Maham Rahimi",
+      "Deependra Dhakal",
+      "George Zouridakis",
+      "Xin Fu",
+      "Renjie Hu"
+    ],
+    "canonical_id": "2606.11125",
+    "categories": [
+      "eess.SP",
+      "cs.LG"
+    ],
+    "content_hash": "b44cb7b80b0ea53825607f84abff892204c5641f962432f68b95d9f15aa6355d",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "eess.SP",
+    "priority": "unscored",
+    "published": "2026-06-09T17:23:07Z",
+    "report_count": 1,
+    "title": "DMT: Demographic Conditioning, Morphology-Enhanced Transformer for Cuffless Blood Pressure Estimation from PPG Signals",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-09T17:23:07Z"
+  },
+  "2606.11138": {
+    "authors": [
+      "Shreya Jha",
+      "Timo Schorlepp",
+      "Nicholas Geissler",
+      "Jules Berman",
+      "Benjamin Peherstorfer"
+    ],
+    "canonical_id": "2606.11138",
+    "categories": [
+      "cs.LG",
+      "math.NA"
+    ],
+    "content_hash": "10e7bf5d6411cb86ec1d3b71fbe290234a468cbd70f01c6c4cbe52984d89cf0b",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-09T17:29:05Z",
+    "report_count": 1,
+    "title": "First-Order Trajectory Matching: Fast Ensemble Predictions of Chaotic, Turbulent, Stochastic Systems",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-09T17:29:05Z"
+  },
+  "2606.11140": {
+    "authors": [
+      "Guido Di Federico",
+      "Wenchao Teng",
+      "Louis J. Durlofsky"
+    ],
+    "canonical_id": "2606.11140",
+    "categories": [
+      "physics.geo-ph",
+      "cs.AI",
+      "cs.LG",
+      "stat.AP",
+      "stat.ML"
+    ],
+    "content_hash": "b17ca45b2300d77dbc655e62c93ecab5eb18854e07ed911b318758875679b886",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "physics.geo-ph",
+    "priority": "unscored",
+    "published": "2026-06-09T17:29:47Z",
+    "report_count": 1,
+    "title": "Data assimilation for subsurface flow using latent diffusion model parameterization: performance of ensemble-Kalman and Monte Carlo techniques",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-09T17:29:47Z"
+  },
+  "2606.11144": {
+    "authors": [
+      "Abhijoy Sarkar",
+      "Aarchi Singh Thakur"
+    ],
+    "canonical_id": "2606.11144",
+    "categories": [
+      "cs.LG",
+      "q-bio.GN",
+      "q-bio.QM",
+      "stat.AP"
+    ],
+    "content_hash": "e812b3384929902ba20a13ee580bffacc4147e0f114011d185a51c1b5e8029fc",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-09T17:33:24Z",
+    "report_count": 1,
+    "title": "OncoTraj: a public benchmark for longitudinal resistance prediction in EGFR-mutant non-small-cell lung cancer on osimertinib",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-09T17:33:24Z"
+  },
+  "2606.11150": {
+    "authors": [
+      "Andrew Bo Liu",
+      "Samira Nedungadi",
+      "Bryce Cai",
+      "Alex Kleinman",
+      "Harmon Bhasin",
+      "Seth Donoughe"
+    ],
+    "canonical_id": "2606.11150",
+    "categories": [
+      "cs.AI",
+      "cs.CY"
+    ],
+    "content_hash": "b0cbcaf77482dcf60d193adef2541d40afe84f24a333b40ff9742a4baaab45d2",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-06-09T17:35:37Z",
+    "report_count": 1,
+    "title": "ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-09T17:35:37Z"
+  },
+  "2606.11156": {
+    "authors": [
+      "Zhengkai Pan",
+      "Peter Potaptchik",
+      "Wenxi Yao",
+      "Michael S. Albergo",
+      "Jakiw Pidstrigach"
+    ],
+    "canonical_id": "2606.11156",
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ],
+    "content_hash": "12ddd28050bbe64e0e0c03f4cc9ef84b98a6599f84b1359d8d25b375da3d3977",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "stat.ML",
+    "priority": "unscored",
+    "published": "2026-06-09T17:39:22Z",
+    "report_count": 1,
+    "title": "Itô maps for any-step SDEs",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-09T17:39:22Z"
+  },
+  "2606.11164": {
+    "authors": [
+      "Wenhao Liu",
+      "Hao Shi",
+      "Yunhe Li",
+      "Weizhi Fei",
+      "Xiangyuan Wang",
+      "Mengzhe Ruan",
+      "Hanxu Hou",
+      "Peisong Wang",
+      "Linqi Song",
+      "Shuang Qiu"
+    ],
+    "canonical_id": "2606.11164",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "9bcd24dac6bbf9fc0fa1b6e76efc984a232e68586e4f116fd55ed92b0d484376",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-06-09T17:44:23Z",
+    "report_count": 1,
+    "title": "ReasonAlloc: Hierarchical Decoding-Time KV Cache Budget Allocation for Reasoning Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-09T17:44:23Z"
+  },
+  "2606.11166": {
+    "authors": [
+      "George Perrett",
+      "Javae Elliott",
+      "Jennifer Hill",
+      "Marc Scott"
+    ],
+    "canonical_id": "2606.11166",
+    "categories": [
+      "stat.OT",
+      "cs.AI"
+    ],
+    "content_hash": "7f14296df502cef979c8321274e0f3276d9fa8e27b39cb365e13f4baa8808fe8",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "stat.OT",
+    "priority": "unscored",
+    "published": "2026-06-09T17:46:10Z",
+    "report_count": 1,
+    "title": "Flaws in the LLM Automation Narrative",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-09T17:46:10Z"
+  },
+  "2606.11169": {
+    "authors": [
+      "Megan Frisella",
+      "Shubham Tiwari",
+      "Andy Ruan",
+      "Yi Pan",
+      "Parker Gustafson",
+      "Mat Jacob",
+      "Gilbert Bernstein",
+      "Stephanie Wang"
+    ],
+    "canonical_id": "2606.11169",
+    "categories": [
+      "cs.DC",
+      "cs.AI"
+    ],
+    "content_hash": "7c6c2d2d5cfa89d707e0df2f70dc607e062708191e2cca6c326e819ac9a604d1",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "cs.DC",
+    "priority": "unscored",
+    "published": "2026-06-09T17:48:41Z",
+    "report_count": 1,
+    "title": "Piper: A Programmable Distributed Training System",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-09T17:48:41Z"
+  },
+  "2606.11172": {
+    "authors": [
+      "Evgenii Kortukov",
+      "Piotr Komorowski",
+      "Florian Klein",
+      "Paula Engl",
+      "Gabriele Sarti",
+      "Seong Joon Oh",
+      "Sebastian Lapuschkin",
+      "Wojciech Samek"
+    ],
+    "canonical_id": "2606.11172",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "5413c09c2be59175cd9e4859859d162640bfcdd001d6df8b0b172f4d43088979",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-09T17:49:24Z",
+    "report_count": 1,
+    "title": "Predicting Future Behaviors in Reasoning Models Enables Better Steering",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-09T17:49:24Z"
+  },
+  "2606.11173": {
+    "authors": [
+      "Semih Kara",
+      "Oğuzhan Ersoy"
+    ],
+    "canonical_id": "2606.11173",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "a581531c2a5ecbbbaa7ec13cab8a7512c0d06ece4241df54402403f5571e3a8b",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-06-09T17:50:09Z",
+    "report_count": 1,
+    "title": "The Role of Feedback Alignment in Self-Distillation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-09T17:50:09Z"
+  },
+  "2606.11176": {
+    "authors": [
+      "Kevin Qinghong Lin",
+      "Batu EI",
+      "Yuhong Shi",
+      "Pan Lu",
+      "Philip Torr",
+      "James Zou"
+    ],
+    "canonical_id": "2606.11176",
+    "categories": [
+      "cs.CV",
+      "cs.CL",
+      "cs.CY",
+      "cs.HC"
+    ],
+    "content_hash": "fbd39e69cb0bdf1a494e9b70df71849f007f0ce8cb0b1267830c46bda8ab9160",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-06-09T17:51:55Z",
+    "report_count": 1,
+    "title": "Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-09T17:51:55Z"
+  },
+  "2606.11182": {
+    "authors": [
+      "Weixian Xu",
+      "Shilong Liu",
+      "Mengdi Wang"
+    ],
+    "canonical_id": "2606.11182",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "4acf00642900e1591e88b34fcc5f4d557eef94310470b7f38bbde0713fc11621",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-09T17:57:16Z",
+    "report_count": 1,
+    "title": "EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-09T17:57:16Z"
+  },
+  "2606.11189": {
+    "authors": [
+      "Tong Xie",
+      "Yuanhao Ban",
+      "Yunqi Hong",
+      "Sohyun An",
+      "Yihang Chen",
+      "Cho-Jui Hsieh"
+    ],
+    "canonical_id": "2606.11189",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "b477f067605882494e36c4711b16bafce0da9430fa84583218a00c8e3ea2844b",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-09T17:59:54Z",
+    "report_count": 1,
+    "title": "A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-09T17:59:54Z"
+  },
+  "2606.11190": {
+    "authors": [
+      "Ilay Kamai",
+      "Hugues Van Assel",
+      "Aviv Regev",
+      "Hagai B. Perets",
+      "Randall Balestriero"
+    ],
+    "canonical_id": "2606.11190",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "70d9772c5619c6c75712e2da3eba00667f3b8c7f1ba4c55082d0284b949018b3",
+    "first_seen_date": "2026-06-10",
+    "last_reported_date": "2026-06-10",
+    "last_seen_date": "2026-06-10",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-09T17:59:58Z",
+    "report_count": 1,
+    "title": "When to Align, When to Predict: A Phase Diagram for Multimodal Learning",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-09T17:59:58Z"
   }
 }
