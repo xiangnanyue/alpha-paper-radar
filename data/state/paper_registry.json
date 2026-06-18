@@ -23038,5 +23038,818 @@
       "llm_progress"
     ],
     "updated": "2026-06-16T17:59:03Z"
+  },
+  "2606.18512": {
+    "authors": [
+      "Dennis Shen"
+    ],
+    "canonical_id": "2606.18512",
+    "categories": [
+      "econ.EM",
+      "stat.ME"
+    ],
+    "content_hash": "581dee2260943ced51845628361df62ab8b946742485f7f0d153b9ab482f96dd",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "econ.EM",
+    "priority": "unscored",
+    "published": "2026-06-16T22:04:18Z",
+    "report_count": 1,
+    "title": "Causal Forecasting in Panel Data: A Two-Way Synthetic Forecasting Approach",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-06-16T22:04:18Z"
+  },
+  "2606.18949": {
+    "authors": [
+      "Zhenjie Qin",
+      "Rongmao Zhang",
+      "Wenyang Zhang",
+      "Yang Zu"
+    ],
+    "canonical_id": "2606.18949",
+    "categories": [
+      "stat.ME"
+    ],
+    "content_hash": "4eea58e471b0bcf91c3401680db9490bb5e16b40298448c5b45c564ea6190f34",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-06-17T11:32:16Z",
+    "report_count": 1,
+    "title": "Feature Screening for High-Dimensional Structural Break Predictive Regression",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-06-17T11:32:16Z"
+  },
+  "2606.19065": {
+    "authors": [
+      "Teresa Bortolotti",
+      "Roberta Troilo",
+      "Francesco Casu",
+      "Simone Vantini",
+      "Alessandra Menafoglio"
+    ],
+    "canonical_id": "2606.19065",
+    "categories": [
+      "stat.ME",
+      "stat.AP"
+    ],
+    "content_hash": "af11a25824865b4fc8f3fee11783559884b916757204c4301e20a09edf866ccd",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-06-17T13:40:02Z",
+    "report_count": 1,
+    "title": "Regularized covariance estimation from partially observed interferometric data",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-06-17T13:40:02Z"
+  },
+  "2606.19245": {
+    "authors": [
+      "Hannah Le",
+      "Ramesh Ramasamy",
+      "Alex Urrutia",
+      "Mahsa Yazdani",
+      "Tim Proctor",
+      "Kenny Workman"
+    ],
+    "canonical_id": "2606.19245",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "ef1af946bf32a7fdd8a011fc189eda0ead4b2cdc2fc57be336cd2a07302a540d",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-06-17T16:23:45Z",
+    "report_count": 1,
+    "title": "TxBench-PP: Analyzing AI Agent Performance on Small-Molecule Preclinical Pharmacology",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-17T16:23:45Z"
+  },
+  "2606.19249": {
+    "authors": [
+      "Kaustubh Kapil",
+      "Kishor P. Upla"
+    ],
+    "canonical_id": "2606.19249",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "70a6e350a990e9118f501960043d6e0dfb48f0a3a717919e40c4f2dadc381907",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-06-17T16:26:59Z",
+    "report_count": 1,
+    "title": "Transformer Geometry Observatory TGO-I: Spectral Geometry Observatory",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-17T16:26:59Z"
+  },
+  "2606.19251": {
+    "authors": [
+      "Eric Chillón",
+      "Artur K. Lidtke",
+      "Nguyen Anh Khoa Doan",
+      "Bernat Font"
+    ],
+    "canonical_id": "2606.19251",
+    "categories": [
+      "physics.comp-ph",
+      "cs.LG",
+      "physics.flu-dyn"
+    ],
+    "content_hash": "4a6264e0e3bf4e37b59e05355dbcce17b3ee55c1777052db0b1cdbc333dfe7cf",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "physics.comp-ph",
+    "priority": "unscored",
+    "published": "2026-06-17T16:27:28Z",
+    "report_count": 1,
+    "title": "Acceleration of an algebraic multigrid pressure solver using graph neural networks",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-17T16:27:28Z"
+  },
+  "2606.19253": {
+    "authors": [
+      "Bartłomiej Baranowski",
+      "Dave Zhenyu Chen",
+      "Matthias Nießner"
+    ],
+    "canonical_id": "2606.19253",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.LG",
+      "cs.RO"
+    ],
+    "content_hash": "af00a531c8eef10d2a74504440b90967f150a7fb093b62f9c5e81b6fb91466a9",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-06-17T16:29:19Z",
+    "report_count": 1,
+    "title": "OneCanvas: 3D Scene Understanding via Panoramic Reprojection",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-17T16:29:19Z"
+  },
+  "2606.19255": {
+    "authors": [
+      "Xingze Zheng",
+      "Hanyin Cheng",
+      "Siyuan Wang",
+      "Yiting Hao",
+      "Peng Chen",
+      "Yuan Jun",
+      "Yang Shu"
+    ],
+    "canonical_id": "2606.19255",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "e3cf58e0fac0b7897cd00e3c2c2de2a1d1948f097b17f51caa81428ea930fa15",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-17T16:30:16Z",
+    "report_count": 1,
+    "title": "SCAN: Enhance Time Series Anomaly Detection via Multi-Scale Neighborhood-Centered Clustering",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-17T16:30:16Z"
+  },
+  "2606.19256": {
+    "authors": [
+      "Haodong Chen",
+      "Xuanhe Zhou",
+      "Wei Zhou",
+      "Xinyue Shao",
+      "Yanbing Zhu",
+      "Bo Wang",
+      "Jiawei Hong",
+      "Anya Jia",
+      "Fan Wu"
+    ],
+    "canonical_id": "2606.19256",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "f13fff5d29e050dc780e7a2422c39cb1a495a6cda0e0e01be338d43e6b19a0ce",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-06-17T16:30:26Z",
+    "report_count": 1,
+    "title": "X+Slides: Benchmarking Audience-Conditioned Slide Generation",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-17T16:30:26Z"
+  },
+  "2606.19257": {
+    "authors": [
+      "Zirui Wu",
+      "Lin Zheng",
+      "Jiacheng Ye",
+      "Shansan Gong",
+      "Xueliang Zhao",
+      "Yansong Feng",
+      "Wei Bi",
+      "Lingpeng Kong"
+    ],
+    "canonical_id": "2606.19257",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "c2f8f53d260872230bfe24c1699f9f67c50a37b985e18de28d658d9721a2b0ab",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-17T16:34:02Z",
+    "report_count": 1,
+    "title": "DreamReasoner-8B: Block-Size Curriculum Learning for Diffusion Reasoning Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-17T16:34:02Z"
+  },
+  "2606.19259": {
+    "authors": [
+      "Yijin Wang",
+      "Shuyi Wang",
+      "Wenhan Zhang",
+      "Yuqi Ouyang"
+    ],
+    "canonical_id": "2606.19259",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "f85123cd5b3271d88f10f2f65dde930b1a77a3fa790f541583a765b11308a268",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-06-17T16:37:16Z",
+    "report_count": 1,
+    "title": "A Multi-Domain Benchmark for Detecting AI-Generated Text-Rich Images from GPT-Image-2",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-17T16:37:16Z"
+  },
+  "2606.19264": {
+    "authors": [
+      "Sanghyeok Choi",
+      "Henry Gouk",
+      "Esmeralda S. Whitammer"
+    ],
+    "canonical_id": "2606.19264",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "content_hash": "678a1463897f0dc6b355f7e39dd377632a66318a20662f132cb932dd7ce9fd29",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-17T16:40:32Z",
+    "report_count": 1,
+    "title": "Structured Inference with Large Language Gibbs",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-17T16:40:32Z"
+  },
+  "2606.19266": {
+    "authors": [
+      "Ikram Belmadani",
+      "Oumaima El Khettari",
+      "Carlos Ramisch",
+      "Frederic Bechet",
+      "Richard Dufour",
+      "Benoit Favre"
+    ],
+    "canonical_id": "2606.19266",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "9279c0059b49e31319cb4d262494c8c70f3d4a256c1d852818c09b4f3618c865",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-17T16:42:22Z",
+    "report_count": 1,
+    "title": "Trade-offs in Medical LLM Adaptation: An Empirical Study in French QA",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-17T16:42:22Z"
+  },
+  "2606.19270": {
+    "authors": [
+      "Mark A. Anastasio"
+    ],
+    "canonical_id": "2606.19270",
+    "categories": [
+      "eess.IV",
+      "cs.LG",
+      "physics.med-ph"
+    ],
+    "content_hash": "7c008c75fb73789aaf0981416fea83075bdbd37f2b197d4abf9560f014149262",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "eess.IV",
+    "priority": "unscored",
+    "published": "2026-06-17T16:48:27Z",
+    "report_count": 1,
+    "title": "Beyond Algorithms: Conceptual Innovation in Medical Imaging AI",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-17T16:48:27Z"
+  },
+  "2606.19279": {
+    "authors": [
+      "Daniel Romero Schellhorn",
+      "Till Mossakowski",
+      "Björn Gehrke"
+    ],
+    "canonical_id": "2606.19279",
+    "categories": [
+      "cs.AI",
+      "cs.LG",
+      "cs.LO",
+      "math.CT",
+      "math.LO",
+      "math.PR"
+    ],
+    "content_hash": "76a49daabbc5e2da69f26588dcb8f506a0735274c2d69ed0b85ee70b6bf76a34",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-06-17T16:56:31Z",
+    "report_count": 1,
+    "title": "NeSyCat Torch: A Differentiable Tensor Implementation of Categorical Semantics for Neurosymbolic Learning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-17T16:56:31Z"
+  },
+  "2606.19297": {
+    "authors": [
+      "Nikita Kachaev",
+      "Andrey Moskalenko",
+      "Matvey Skripkin",
+      "Nikita Kurlaev",
+      "Daria Pugacheva",
+      "Albina Burlova",
+      "Mikhail Kolosov",
+      "Denis Shepelev",
+      "Andrey Kuznetsov",
+      "Elena Tutubalina",
+      "Aleksandr I. Panov",
+      "Alexey K. Kovalev",
+      "Vlad Shakhuro"
+    ],
+    "canonical_id": "2606.19297",
+    "categories": [
+      "cs.LG",
+      "cs.RO"
+    ],
+    "content_hash": "75b0ece0e6b18f2fecb8b538a2e5f9ca93693de6cd338f24d3dc44838ba95c01",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-17T17:20:46Z",
+    "report_count": 1,
+    "title": "Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision-Language-Action Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-17T17:20:46Z"
+  },
+  "2606.19300": {
+    "authors": [
+      "Xin Ci Wong",
+      "Duygu Sarikaya",
+      "Kieran Zucker",
+      "Marc De Kamps",
+      "Nishant Ravikumar"
+    ],
+    "canonical_id": "2606.19300",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "5fca604086f257810b85759d2c1417543292696641012564fa68bb66c3560169",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-06-17T17:24:41Z",
+    "report_count": 1,
+    "title": "Confidence is Not Reliability: Rethinking MC Dropout in Brain Tumour Segmentation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-17T17:24:41Z"
+  },
+  "2606.19302": {
+    "authors": [
+      "Christopher B. Womack",
+      "Shahine Bouabid",
+      "Andrei Sokolov",
+      "Popat Salunke",
+      "Glenn Flierl",
+      "Sebastian D. Eastham",
+      "Noelle E. Selin"
+    ],
+    "canonical_id": "2606.19302",
+    "categories": [
+      "physics.ao-ph",
+      "cs.LG"
+    ],
+    "content_hash": "3e27d5c89544f0201ecf0d1b766a3139aadd3a1817d8b24452337dddeb716f4b",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "physics.ao-ph",
+    "priority": "unscored",
+    "published": "2026-06-17T17:26:22Z",
+    "report_count": 1,
+    "title": "Optimal scenario design for climate emulation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-17T17:26:22Z"
+  },
+  "2606.19308": {
+    "authors": [
+      "Leyang Shen",
+      "Yang Zhang",
+      "Xiaoyan Zhao",
+      "Chun Kai Ling",
+      "Tat-Seng Chua"
+    ],
+    "canonical_id": "2606.19308",
+    "categories": [
+      "cs.CL",
+      "cs.MA"
+    ],
+    "content_hash": "1cf131755dc74077a2c57debda755c60be71100747e60ae400e994523bf06679",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-17T17:31:06Z",
+    "report_count": 1,
+    "title": "Enhancing Decision-Making with Large Language Models through Multi-Agent Fictitious Play",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-17T17:31:06Z"
+  },
+  "2606.19315": {
+    "authors": [
+      "Ruida Wang",
+      "Rui Pan",
+      "Pengcheng Wang",
+      "Shizhe Diao",
+      "Tong Zhang"
+    ],
+    "canonical_id": "2606.19315",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "3e2726598b6bf6060bdc975b9fca4436a714bd5e8b81ff85ac7c576076557713",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-17T17:38:32Z",
+    "report_count": 1,
+    "title": "Diffusion-Proof: Recipe for Formal Theorem Proving Beyond Auto-Regressive Generation",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-17T17:38:32Z"
+  },
+  "2606.19317": {
+    "authors": [
+      "Amiri Hayes",
+      "Belinda Li",
+      "Jacob Andreas"
+    ],
+    "canonical_id": "2606.19317",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "9af3be1939ee419a2421988bd29f860ee8c845df5cdf230a011f9d561a1b5919",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-17T17:40:55Z",
+    "report_count": 1,
+    "title": "Explaining Attention with Program Synthesis",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-17T17:40:55Z"
+  },
+  "2606.19319": {
+    "authors": [
+      "Anoushka Vyas",
+      "Aarushi Dhanuka",
+      "Sina Khoshfetrat Pakazad",
+      "Henrik Ohlsson"
+    ],
+    "canonical_id": "2606.19319",
+    "categories": [
+      "cs.MA",
+      "cs.AI",
+      "cs.DB"
+    ],
+    "content_hash": "704e1264d815fe50c290b2ff407a5a83de784dcd8a710b3436b0540a9fb80126",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "cs.MA",
+    "priority": "unscored",
+    "published": "2026-06-17T17:45:32Z",
+    "report_count": 1,
+    "title": "Data Intelligence Agents: Interpreting, Modeling, and Querying Enterprise Data via Autonomous Coding Agents",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-17T17:45:32Z"
+  },
+  "2606.19325": {
+    "authors": [
+      "Michael Finkelson",
+      "Daniel Segal",
+      "Eitan Richardson",
+      "Shahar Armon",
+      "Nani Goldring",
+      "Poriya Panet",
+      "Nir Zabari",
+      "Benjamin Brazowski",
+      "Or Patashnik",
+      "Yoav HaCohen"
+    ],
+    "canonical_id": "2606.19325",
+    "categories": [
+      "cs.SD",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "content_hash": "28965dae49f9e9b08ed8dcb125aa1f5ab27609876dbf1be606edd407316bad34",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "cs.SD",
+    "priority": "unscored",
+    "published": "2026-06-17T17:51:50Z",
+    "report_count": 1,
+    "title": "Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-17T17:51:50Z"
+  },
+  "2606.19327": {
+    "authors": [
+      "Siyi Gu",
+      "Jialin Chen",
+      "Sophia Zhou",
+      "Arman Cohan",
+      "Rex Ying"
+    ],
+    "canonical_id": "2606.19327",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "ef4963a46e404c146629cc1e5a7b5b526a34f22677185c87f6807475b7d53813",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-06-17T17:54:04Z",
+    "report_count": 1,
+    "title": "Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-17T17:54:04Z"
+  },
+  "2606.19328": {
+    "authors": [
+      "Mohamed Nabail",
+      "Leo Cheng",
+      "Jingmin Wang",
+      "Nicholas Rhinehart"
+    ],
+    "canonical_id": "2606.19328",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.RO"
+    ],
+    "content_hash": "c4aa3021f7f8c48bde28e89f4afc74f5cbe4164ccc323ccc85b923e1c1d0a4a5",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-17T17:54:32Z",
+    "report_count": 1,
+    "title": "UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-17T17:54:32Z"
+  },
+  "2606.19334": {
+    "authors": [
+      "Denis Peskoff",
+      "Joe Barrow",
+      "Christopher Vu",
+      "Diag Davenport"
+    ],
+    "canonical_id": "2606.19334",
+    "categories": [
+      "cs.CL",
+      "cs.CY",
+      "cs.LG"
+    ],
+    "content_hash": "f5185eeb36c22f5a56f7876ff5495fa2de0c74cb1f0f475b744020dd0a17ecd9",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-17T17:58:22Z",
+    "report_count": 1,
+    "title": "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-17T17:58:22Z"
+  },
+  "2606.19336": {
+    "authors": [
+      "Yingshan Susan Wang",
+      "Cedegao E. Zhang",
+      "Linlu Qiu",
+      "Zexue He",
+      "Pengyuan Li",
+      "Alex Pentland",
+      "Roger P. Levy",
+      "Yoon Kim"
+    ],
+    "canonical_id": "2606.19336",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "02b83b72d7cfd50a7299a31425c1bd3c656884b5d20cb09da466d825b14ed67e",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-17T17:58:48Z",
+    "report_count": 1,
+    "title": "Learning User Simulators with Turing Rewards",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-17T17:58:48Z"
+  },
+  "2606.19341": {
+    "authors": [
+      "Zhenghao Xing",
+      "Ruiyang Xu",
+      "Yuxuan Wang",
+      "Jinzheng He",
+      "Ziyang Ma",
+      "Qize Yang",
+      "Yunfei Chu",
+      "Jin Xu",
+      "Junyang Lin",
+      "Chi-Wing Fu",
+      "Pheng-Ann Heng"
+    ],
+    "canonical_id": "2606.19341",
+    "categories": [
+      "cs.CV",
+      "cs.CL",
+      "cs.SD"
+    ],
+    "content_hash": "ef35c525746fb33b7d5cce80e034d4dbe93ac9dd1b78fdddd035513aded23381",
+    "first_seen_date": "2026-06-18",
+    "last_reported_date": "2026-06-18",
+    "last_seen_date": "2026-06-18",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-06-17T17:59:56Z",
+    "report_count": 1,
+    "title": "Native Active Perception as Reasoning for Omni-Modal Understanding",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-17T17:59:56Z"
   }
 }
