@@ -23865,7 +23865,7 @@
     "content_hash": "e7df132cc6a5ce96508aa58aa8cdbc16528fb4acdc626d3dee2afe723a43b7e1",
     "first_seen_date": "2026-06-19",
     "last_reported_date": "2026-06-19",
-    "last_seen_date": "2026-06-22",
+    "last_seen_date": "2026-06-23",
     "latest_version": 1,
     "primary_category": "q-fin.CP",
     "priority": "unscored",
@@ -24614,5 +24614,721 @@
       "llm_progress"
     ],
     "updated": "2026-06-18T17:59:46Z"
+  },
+  "2606.20903": {
+    "authors": [
+      "Sebastien Lleo",
+      "Wolfgang Runggaldier"
+    ],
+    "canonical_id": "2606.20903",
+    "categories": [
+      "q-fin.PM",
+      "math.OC"
+    ],
+    "content_hash": "bf259cbbf0f5263f0de789e23e07f5e4bec1e47f3d45fd7d5e2cf19d1543e851",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "q-fin.PM",
+    "priority": "unscored",
+    "published": "2026-06-18T19:58:15Z",
+    "report_count": 1,
+    "title": "Reinforcement Learning for Risk-Sensitive Investment Management: a Free Energy--Entropy Duality Approach",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-06-18T19:58:15Z"
+  },
+  "2606.22850": {
+    "authors": [
+      "Anna Elisabeth Riha",
+      "Leevi Lindgren",
+      "David Kohns",
+      "Paul-Christian Bürkner",
+      "Aki Vehtari"
+    ],
+    "canonical_id": "2606.22850",
+    "categories": [
+      "stat.ME"
+    ],
+    "content_hash": "e7711caf41aacbf6ae61b8d298688a7fa677ba6d23f1c12951a325c390111dbc",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-06-22T04:52:33Z",
+    "report_count": 1,
+    "title": "To select or not to select: predictively consistent priors instead of model selection",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-06-22T04:52:33Z"
+  },
+  "2606.23009": {
+    "authors": [
+      "Arwen Nugteren",
+      "Mahdi Abolghasemi",
+      "Kerrie Mengersen",
+      "Christopher Drovandi"
+    ],
+    "canonical_id": "2606.23009",
+    "categories": [
+      "stat.ME"
+    ],
+    "content_hash": "8eca5bb1581ae42bf30a2efe0f74ea3dd1aa464ba4aa4878634e72bb282e32bc",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-06-22T08:22:13Z",
+    "report_count": 1,
+    "title": "Hierarchical Bayes meets hierarchical forecasting: A flexible framework for level-focused forecasts",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-06-22T08:22:13Z"
+  },
+  "2606.23367": {
+    "authors": [
+      "Debdoot Ghosh"
+    ],
+    "canonical_id": "2606.23367",
+    "categories": [
+      "q-fin.CP",
+      "cs.CE",
+      "cs.DC",
+      "math.OC",
+      "q-fin.PM"
+    ],
+    "content_hash": "e60f70e2b1ac3263c1322d5e0de1ed5e77b77f621c2d97e9df1c90a3a270fa06",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "q-fin.CP",
+    "priority": "unscored",
+    "published": "2026-06-22T14:03:54Z",
+    "report_count": 1,
+    "title": "Asymmetry PRISM: A CPU/GPU Portfolio Optimization Engine for Deadline-Bounded Institutional Rebalancing",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-06-22T14:03:54Z"
+  },
+  "2606.23603": {
+    "authors": [
+      "Aarya Vasantlal",
+      "Joshua Zolla"
+    ],
+    "canonical_id": "2606.23603",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "db9c89aece63c3010dcd045505dbfbacbb938f4aa8d1c2c1f680b3bfa9a54a16",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-22T17:06:30Z",
+    "report_count": 1,
+    "title": "MORL-A2C: Multi-Objective Reinforcement Learning Reranker for Optimizing Healthiness in MOPI-HFRS",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-22T17:06:30Z"
+  },
+  "2606.23604": {
+    "authors": [
+      "Mohamed Nagy",
+      "Naoufel Werghi",
+      "Jorge Dias",
+      "Majid Khonji"
+    ],
+    "canonical_id": "2606.23604",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "0fdd659fe666a7ac8fb9b20bb872f654e11d42871ccf233150e4790ca8cb94ed",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-06-22T17:06:32Z",
+    "report_count": 1,
+    "title": "Polycepta: Object-Centric Appearance Estimation for Multi-Object Tracking",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-22T17:06:32Z"
+  },
+  "2606.23608": {
+    "authors": [
+      "Yujia Zheng",
+      "Vishal Verma",
+      "Mantej Gill",
+      "Haoyue Dai",
+      "Peter Spirtes",
+      "Kun Zhang"
+    ],
+    "canonical_id": "2606.23608",
+    "categories": [
+      "cs.AI",
+      "cs.LG",
+      "cs.SE",
+      "stat.AP"
+    ],
+    "content_hash": "8d8f68f7f9a2b9aa9f41301028384408a15b27de792b3d4fb171005be4091d50",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-06-22T17:09:22Z",
+    "report_count": 1,
+    "title": "Causal Discovery in the Era of Agents",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-22T17:09:22Z"
+  },
+  "2606.23609": {
+    "authors": [
+      "Ankur Garg",
+      "Ulrich Aïvodji",
+      "Samira Ebrahimi Kahou",
+      "Vincent Michalski"
+    ],
+    "canonical_id": "2606.23609",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "content_hash": "589bd59a997ae5742cffd66a6ad38197b1f3fd1ab011328d054a17239764ec64",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-22T17:09:35Z",
+    "report_count": 1,
+    "title": "Discovering Latent Groups for Robust Classification",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-22T17:09:35Z"
+  },
+  "2606.23615": {
+    "authors": [
+      "Nathan Senyard",
+      "Salem Hamdani",
+      "Astrid Zhang",
+      "Derek Wang",
+      "Evan Shelhamer",
+      "Mathias Lécuyer",
+      "Joséphine Gantois"
+    ],
+    "canonical_id": "2606.23615",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "f9dfc431618928da4898c282d4c4427d96b1fe30ac894eba62e7787a63172a2e",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-06-22T17:12:35Z",
+    "report_count": 1,
+    "title": "Hedgementation = Hedgerow Segmentation: A Remote Sensing Benchmark",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-22T17:12:35Z"
+  },
+  "2606.23617": {
+    "authors": [
+      "Ulas Berk Karli",
+      "Tesca Fitzgerald"
+    ],
+    "canonical_id": "2606.23617",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "ea86d7ce1546e14890616246e1db70b3b6c2f5393db1465add658cbcd4e27f17",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-06-22T17:12:50Z",
+    "report_count": 1,
+    "title": "RECALL: Recovery Experience Collection for Active Lifelong Learning in Vision-Language-Action Models",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-22T17:12:50Z"
+  },
+  "2606.23626": {
+    "authors": [
+      "Yuanming Yang",
+      "Guoqing Ma",
+      "Bo Wang",
+      "Yuan Zhang",
+      "Wei Tang",
+      "Chenyi Li",
+      "Haoyang Huang",
+      "Nan Duan"
+    ],
+    "canonical_id": "2606.23626",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "fefc07925ac3882d6ed4ae32fc7cd287b4199d189da1c294251f705a181d0a8b",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-22T17:19:58Z",
+    "report_count": 1,
+    "title": "DiT-Reward: Generative Representations for Text-to-Image Reward Modeling",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-22T17:19:58Z"
+  },
+  "2606.23627": {
+    "authors": [
+      "Changxiao Cai",
+      "Yuchen Jiao",
+      "Gen Li"
+    ],
+    "canonical_id": "2606.23627",
+    "categories": [
+      "stat.ML",
+      "cs.LG",
+      "math.ST"
+    ],
+    "content_hash": "73b4e10201aa295d781788a4fad220f5a9f634b1cbda6aad6caaf1b859f4de97",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "stat.ML",
+    "priority": "unscored",
+    "published": "2026-06-22T17:20:56Z",
+    "report_count": 1,
+    "title": "Diffusion Models Adapt to Low-Dimensional Structure Under Flexible Coefficient Choices",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-22T17:20:56Z"
+  },
+  "2606.23633": {
+    "authors": [
+      "Campbell Lund",
+      "Thomas Euyang",
+      "Zanele Munyikwa",
+      "Marzieh Fadaee"
+    ],
+    "canonical_id": "2606.23633",
+    "categories": [
+      "cs.AI",
+      "econ.GN"
+    ],
+    "content_hash": "721a4c3112c1fc34df2f1416b6057f6e8a89b2e7f25fea961d52296c80b3246b",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-06-22T17:23:33Z",
+    "report_count": 1,
+    "title": "AI Exposure Scores: what they measure, what they miss, and what comes next",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-22T17:23:33Z"
+  },
+  "2606.23637": {
+    "authors": [
+      "Florian Hübler",
+      "Kai Lion",
+      "Antonio Orvieto",
+      "Niao He"
+    ],
+    "canonical_id": "2606.23637",
+    "categories": [
+      "cs.LG",
+      "math.OC"
+    ],
+    "content_hash": "fd451ed79e42947f5848e83176e69fb1bc98a079b7be99f7612d19020ea705d2",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-22T17:28:45Z",
+    "report_count": 1,
+    "title": "Muown Implicitly Performs Angular Step-size Decay",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-22T17:28:45Z"
+  },
+  "2606.23643": {
+    "authors": [
+      "Hengji Zhou",
+      "Ye Liu",
+      "Yufeng Liu",
+      "Si Wu",
+      "Lianghao Xia",
+      "Liqiang Nie"
+    ],
+    "canonical_id": "2606.23643",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "225579a05b9dd1cd2b652e710cc956301ff1103c4adba8b1b9c6d52ce922c038",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-06-22T17:31:21Z",
+    "report_count": 1,
+    "title": "TailorMind: Towards Preference-Aligned Multimodal Content Generation",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-22T17:31:21Z"
+  },
+  "2606.23654": {
+    "authors": [
+      "Jincheng Zhong",
+      "Weizhi Wang",
+      "Che Jiang",
+      "Kai Tian",
+      "Zhenzhao Yuan",
+      "Junlin Yang",
+      "Dianqiao Lei",
+      "Kaiyan Zhang"
+    ],
+    "canonical_id": "2606.23654",
+    "categories": [
+      "cs.CL",
+      "cs.SE"
+    ],
+    "content_hash": "61a8abc33afa1d30d1b3f13b25adeb25133556263ef2d77275e5fd57464a587c",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-22T17:39:43Z",
+    "report_count": 1,
+    "title": "EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-22T17:39:43Z"
+  },
+  "2606.23655": {
+    "authors": [
+      "Prashant Gokhale",
+      "Mikhail Khodak",
+      "Sandeep Silwal"
+    ],
+    "canonical_id": "2606.23655",
+    "categories": [
+      "cs.LG",
+      "cs.DS"
+    ],
+    "content_hash": "946de0a371142acab819688897a04c07eac70d9af2a3ddac14a74e2d99715243",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-22T17:40:49Z",
+    "report_count": 1,
+    "title": "Dynamic estimation of slowly varying sequences",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-22T17:40:49Z"
+  },
+  "2606.23664": {
+    "authors": [
+      "Juyang Bai",
+      "Laixi Shi"
+    ],
+    "canonical_id": "2606.23664",
+    "categories": [
+      "cs.LG",
+      "cs.MA"
+    ],
+    "content_hash": "db758418bf83ac269f0c95ef5e4d1e1dd411364e3f4bbc697700f8d901dbf6d5",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-22T17:48:40Z",
+    "report_count": 1,
+    "title": "MAS-PromptBench: When Does Prompt Optimization Improve Multi-Agent LLM Systems?",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-22T17:48:40Z"
+  },
+  "2606.23668": {
+    "authors": [
+      "David Mguni",
+      "Julian Ma",
+      "Jun Wang"
+    ],
+    "canonical_id": "2606.23668",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "1c24e46ebb5538a1ba2bcc8a51dd79fa2a1457c7d4196329e9435010b37a5dff",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-22T17:52:59Z",
+    "report_count": 1,
+    "title": "On the Limits of Prompt-Conditioned Language Models as General-Purpose Learners",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-22T17:52:59Z"
+  },
+  "2606.23670": {
+    "authors": [
+      "Reza Bayat",
+      "Ali Behrouz",
+      "Aaron Courville"
+    ],
+    "canonical_id": "2606.23670",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "59fd310671d65ee45ed831cdaf5ae6b5c18eff547abdea11a0c0ecfe65c4ae2c",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-22T17:56:25Z",
+    "report_count": 1,
+    "title": "Tapered Language Models",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-22T17:56:25Z"
+  },
+  "2606.23671": {
+    "authors": [
+      "Quang Minh Nguyen",
+      "Uzair Ahmed",
+      "Taegyoon Kim"
+    ],
+    "canonical_id": "2606.23671",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "6b8eea7399ec4f1eb6f7404158c630348586954bb2cc131d7606fb488731f4fb",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-22T17:56:30Z",
+    "report_count": 1,
+    "title": "Can LLMs Reliably Self-Report Adversarial Prefills, and How?",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-22T17:56:30Z"
+  },
+  "2606.23672": {
+    "authors": [
+      "Prateek Agnihotri",
+      "Sanchit Jain",
+      "Prabhat Agnihotri",
+      "Aditya Prasad",
+      "Shubham Jain"
+    ],
+    "canonical_id": "2606.23672",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "efe5339aa9e18dfc6d1792f7687275b8f98ece15de5c318b2253ba9ed13fff00",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-06-22T17:57:08Z",
+    "report_count": 1,
+    "title": "Teaching LLMs String Matching, Backtracking, and Error Recovery to Deduce Bases and Truth Tables for the Combinatorially Exploding Bit Manipulation Puzzles",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-22T17:57:08Z"
+  },
+  "2606.23676": {
+    "authors": [
+      "Dingzhi Yu",
+      "Hongyi Tao",
+      "Yuanyu Wan",
+      "Luo Luo",
+      "Lijun Zhang"
+    ],
+    "canonical_id": "2606.23676",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "math.OC",
+      "stat.ML"
+    ],
+    "content_hash": "58dab5ee2359e278c9ec6b07f4d8284f32140d5e6a2edcfd22237df3b9a8bdc2",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-22T17:58:52Z",
+    "report_count": 1,
+    "title": "Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-22T17:58:52Z"
+  },
+  "2606.23678": {
+    "authors": [
+      "Cong Han",
+      "Xiaohan Lan",
+      "Haibo Qiu",
+      "Yujie Zhong"
+    ],
+    "canonical_id": "2606.23678",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "801df7ff27ca751de8513db4c4125933ad055d89bcd509764dd1ee1e2084b999",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-06-22T17:58:54Z",
+    "report_count": 1,
+    "title": "AIR: Adaptive Interleaved Reasoning with Code in MLLMs",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-22T17:58:54Z"
+  },
+  "2606.23679": {
+    "authors": [
+      "Sara Dorfman",
+      "Maya Vishnevsky",
+      "Omer Dahary",
+      "Or Patashnik",
+      "Daniel Cohen-Or"
+    ],
+    "canonical_id": "2606.23679",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.GR",
+      "cs.LG"
+    ],
+    "content_hash": "90b86e7467f05ae65a543591580e1945d7172b072636197172f369241f8b3ca1",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-06-22T17:59:17Z",
+    "report_count": 1,
+    "title": "Semantic Browsing: Controllable Diversity for Image Generation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-22T17:59:17Z"
+  },
+  "2606.23687": {
+    "authors": [
+      "Manas Mehta",
+      "Fangcong Yin",
+      "Greg Durrett"
+    ],
+    "canonical_id": "2606.23687",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "50b7dae3250876bb259bd185199edbdd2191822bc61354bddb61173a7a598f57",
+    "first_seen_date": "2026-06-23",
+    "last_reported_date": "2026-06-23",
+    "last_seen_date": "2026-06-23",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-22T17:59:53Z",
+    "report_count": 1,
+    "title": "Randomized YaRN Improves Length Generalization for Long-Context Reasoning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-22T17:59:53Z"
   }
 }
