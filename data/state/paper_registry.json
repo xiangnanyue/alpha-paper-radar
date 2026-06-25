@@ -24708,7 +24708,7 @@
     "content_hash": "e60f70e2b1ac3263c1322d5e0de1ed5e77b77f621c2d97e9df1c90a3a270fa06",
     "first_seen_date": "2026-06-23",
     "last_reported_date": "2026-06-23",
-    "last_seen_date": "2026-06-24",
+    "last_seen_date": "2026-06-25",
     "latest_version": 1,
     "primary_category": "q-fin.CP",
     "priority": "unscored",
@@ -25394,7 +25394,7 @@
     "content_hash": "6de6930a31f2f65d94cd98a4689ba3e10c21e5a44477e621b0efa154c05dabc4",
     "first_seen_date": "2026-06-24",
     "last_reported_date": "2026-06-24",
-    "last_seen_date": "2026-06-24",
+    "last_seen_date": "2026-06-25",
     "latest_version": 1,
     "primary_category": "stat.ME",
     "priority": "unscored",
@@ -25421,7 +25421,7 @@
     "content_hash": "e1240ed28cd14011a73c4f8dae2bca2f2061c2986c897388872ac2a7f2cdf9f0",
     "first_seen_date": "2026-06-24",
     "last_reported_date": "2026-06-24",
-    "last_seen_date": "2026-06-24",
+    "last_seen_date": "2026-06-25",
     "latest_version": 1,
     "primary_category": "stat.CO",
     "priority": "unscored",
@@ -26159,5 +26159,700 @@
       "deep_learning_sota"
     ],
     "updated": "2026-06-23T17:52:21Z"
+  },
+  "2606.25292": {
+    "authors": [
+      "Degui Li",
+      "Yuying Sun",
+      "Boyao Wu"
+    ],
+    "canonical_id": "2606.25292",
+    "categories": [
+      "econ.EM"
+    ],
+    "content_hash": "ec5a9e0cbb089cb9cca32d4990c09f92aa409b5c48be30bf9ff8e5613101b8ed",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "econ.EM",
+    "priority": "unscored",
+    "published": "2026-06-24T01:55:13Z",
+    "report_count": 1,
+    "title": "Time-Varying Model Averaging of Multi-layer Network Vector Autoregressions",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-06-24T01:55:13Z"
+  },
+  "2606.25696": {
+    "authors": [
+      "Giacomo di Tollo",
+      "Massimiliano Kaucic",
+      "Filippo Piccotto"
+    ],
+    "canonical_id": "2606.25696",
+    "categories": [
+      "cs.CE",
+      "q-fin.CP",
+      "q-fin.PM"
+    ],
+    "content_hash": "cce47acb59b07ad5717da71b7f6423a2a090a0a96deee852f6157ff65fedd2ea",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "cs.CE",
+    "priority": "unscored",
+    "published": "2026-06-24T11:07:49Z",
+    "report_count": 1,
+    "title": "A Two-Stage Decision Support System for Sustainability-Aware Long Short Portfolio Optimization",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-06-24T11:07:49Z"
+  },
+  "2606.25942": {
+    "authors": [
+      "Long Feng",
+      "Le Zhou",
+      "Xiaoyi Wang"
+    ],
+    "canonical_id": "2606.25942",
+    "categories": [
+      "stat.ME"
+    ],
+    "content_hash": "65b57ae0523c4e125fd0c793190b1fd2cdfd64b6c2e95d3a6e81511aa89cbd28",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-06-24T15:19:15Z",
+    "report_count": 1,
+    "title": "Elliptical Regularized Hotelling Testing for High Dimensional Data",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-06-24T15:19:15Z"
+  },
+  "2606.25978": {
+    "authors": [
+      "Thiago Thomas",
+      "Gabriel de Oliveira Ramos",
+      "Felipe Meneguzzi"
+    ],
+    "canonical_id": "2606.25978",
+    "categories": [
+      "cs.MA",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "5d99ea4e506d83e26df337d906a0bb9ae16bfa6ce37ecf6c71199a80d26183aa",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "cs.MA",
+    "priority": "unscored",
+    "published": "2026-06-24T15:50:39Z",
+    "report_count": 1,
+    "title": "Multi-Agent Goal Recognition with Team- and Goal-Conditioned Reinforcement Learning and Factorized Branch-and-Bound",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-24T15:50:39Z"
+  },
+  "2606.25984": {
+    "authors": [
+      "Mingguang Chen",
+      "Bo Qu"
+    ],
+    "canonical_id": "2606.25984",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "3fef2bf63dd6fc4c0b2acee13fd3a986f226789a7046ef283c076285e723292f",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-06-24T15:53:20Z",
+    "report_count": 1,
+    "title": "InvestPhilBench: A Multi-Layer Dynamic Benchmark for Evaluating Large Language Model Procedural Reasoning in Expert Investment Philosophy",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-24T15:53:20Z"
+  },
+  "2606.25986": {
+    "authors": [
+      "C. Evans Hedges"
+    ],
+    "canonical_id": "2606.25986",
+    "categories": [
+      "cs.LG",
+      "q-fin.ST",
+      "q-fin.TR"
+    ],
+    "content_hash": "88a5bb84c0c09ba520c1d7bfcd7aa32d85aabc3d2422bdbbcf888e8a258b53b1",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-24T15:54:09Z",
+    "report_count": 1,
+    "title": "The Inference-Compute Frontier and a Latency-Efficient Architecture for Limit Order Book Prediction",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-24T15:54:09Z"
+  },
+  "2606.25990": {
+    "authors": [
+      "Liang-Yuan Wu",
+      "Zih-Ching Chen",
+      "Tongshuang Wu",
+      "Chao-Han Huck Yang",
+      "Hua Shen"
+    ],
+    "canonical_id": "2606.25990",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.SD"
+    ],
+    "content_hash": "c16187e5160a637ae82c129f94dbf7196b66a682fb512439c1a8203301d7b9a6",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-24T16:03:38Z",
+    "report_count": 1,
+    "title": "SpeechEQ: Benchmarking Emotional Intelligence Quotient in Socially Aware Voice Conversational Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-24T16:03:38Z"
+  },
+  "2606.25996": {
+    "authors": [
+      "Ilia Kulikov",
+      "Chenxi Whitehouse",
+      "Tianhao Wu",
+      "Yixin Nie",
+      "Swarnadeep Saha",
+      "Eryk Helenowski",
+      "Weizhe Yuan",
+      "Olga Golovneva",
+      "Jack Lanchantin",
+      "Yoram Bachrach",
+      "Jakob Foerster",
+      "Xian Li",
+      "Han Fang",
+      "Sainbayar Sukhbaatar",
+      "Jason Weston"
+    ],
+    "canonical_id": "2606.25996",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "bc827e9035b1684c51f475b80a262618b46ad89a68df0795a0ca10033de14723",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-06-24T16:08:31Z",
+    "report_count": 1,
+    "title": "Autodata: An agentic data scientist to create high quality synthetic data",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-24T16:08:31Z"
+  },
+  "2606.26002": {
+    "authors": [
+      "Kamar Hibatallah Baghdadi",
+      "Kawther Guoual Belhamidi",
+      "Sara Belhadj",
+      "Aissa Boulmerka",
+      "Nadir Farhi"
+    ],
+    "canonical_id": "2606.26002",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "math.OC"
+    ],
+    "content_hash": "8c9bf14bab2685b40b7d88c9cf41b4e9de2c400ff227c2b7ab84eff1e7aa8a02",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-24T16:19:29Z",
+    "report_count": 1,
+    "title": "Hierarchical Reinforcement Learning for Neural Network Compression (HiReLC): Pruning and Quantization",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-24T16:19:29Z"
+  },
+  "2606.26003": {
+    "authors": [
+      "Dihia Lanasri",
+      "Fairouz Taki",
+      "Asma Kemmoum"
+    ],
+    "canonical_id": "2606.26003",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "5b453ac2f888c3b73bf594474a43a8b747103bdb36c1ce1976148c022869d36b",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-24T16:19:31Z",
+    "report_count": 1,
+    "title": "Dziri Voicebot: An End-to-End Low-Resource Speech-to-Speech Conversational System for Algerian Dialect",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-24T16:19:31Z"
+  },
+  "2606.26006": {
+    "authors": [
+      "Shuyi Zhang",
+      "Yunfan Lou",
+      "Hongyang Cheng",
+      "Yichen Guo",
+      "Chuyao Fu",
+      "Yaoxu Lyu",
+      "Xiaojie Zhang",
+      "Haoran Li",
+      "Pengwei Wang",
+      "Zhongyuan Wang",
+      "Shanghang Zhang"
+    ],
+    "canonical_id": "2606.26006",
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "content_hash": "d0b8b409672e31e749cc97c80dfc8b488c4d33545a473f27219cabcde0f5a5c9",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-06-24T16:23:18Z",
+    "report_count": 1,
+    "title": "FORCE: Efficient VLA Reinforcement Fine-Tuning via Value-Calibrated Warm-up and Self-Distillation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-24T16:23:18Z"
+  },
+  "2606.26021": {
+    "authors": [
+      "Tânia Carvalho",
+      "Maxime Cordy"
+    ],
+    "canonical_id": "2606.26021",
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "content_hash": "0b3fd77760ae2833cf01d20101e0b2f0f1f7e292b5fe0d6d7e67c0e1a693f577",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "cs.CR",
+    "priority": "unscored",
+    "published": "2026-06-24T16:42:21Z",
+    "report_count": 1,
+    "title": "Privacy Vulnerabilities of Attention Layers in Tabular Foundation Models and Protection of High-Risk Queries",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-24T16:42:21Z"
+  },
+  "2606.26027": {
+    "authors": [
+      "Yupu Hao",
+      "Zhuoran Jin",
+      "Huanxuan Liao",
+      "Kang Liu",
+      "Jun Zhao"
+    ],
+    "canonical_id": "2606.26027",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "be9c5f79a6c73603be0897cde579bbed2085f1877bfd40e2160dc4ef9f2597ec",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-24T16:55:56Z",
+    "report_count": 1,
+    "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-24T16:55:56Z"
+  },
+  "2606.26028": {
+    "authors": [
+      "Xihan Xiong",
+      "Zelin Li",
+      "Wei Wei",
+      "Qin Wang",
+      "William Knottenbelt",
+      "Zhipeng Wang"
+    ],
+    "canonical_id": "2606.26028",
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.MA"
+    ],
+    "content_hash": "d1b87432f7d84c67b0a4b0e0f801e8e7606d6b54c8c36bd905e8e18c35080ea3",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "cs.CR",
+    "priority": "unscored",
+    "published": "2026-06-24T16:57:49Z",
+    "report_count": 1,
+    "title": "Can Trustless Agents Be Trusted? An Empirical Study of the ERC-8004 Decentralized AI Agent Ecosystem",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-24T16:57:49Z"
+  },
+  "2606.26029": {
+    "authors": [
+      "Yu-Yang Chen",
+      "Lan-Zhe Guo"
+    ],
+    "canonical_id": "2606.26029",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "52d1b6f1ee0506c2433da2148f102d33f0f20bc5c8304b71fb61e33f639d7802",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-06-24T17:00:05Z",
+    "report_count": 1,
+    "title": "TriViewBench: Controlled Complexity Scaling for Multi-View Structural Reasoning in MLLMs",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-24T17:00:05Z"
+  },
+  "2606.26036": {
+    "authors": [
+      "Poojitha Thota",
+      "Shirin Nilizadeh"
+    ],
+    "canonical_id": "2606.26036",
+    "categories": [
+      "cs.CL",
+      "cs.CR"
+    ],
+    "content_hash": "468b5ec4d0d990b79ce98e50b33c14cf9a8f6dcdc8e999ae34ea22f5edb2d1a9",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-24T17:12:42Z",
+    "report_count": 1,
+    "title": "Detect, Unlearn, Restore: Defending Text Summarization Models Against Data Poisoning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-24T17:12:42Z"
+  },
+  "2606.26040": {
+    "authors": [
+      "Yves Ferstler",
+      "Adam Podoxin",
+      "Ty Brassington",
+      "Roman Grundkiewicz",
+      "Maite Taboada",
+      "Marzena Karpinska"
+    ],
+    "canonical_id": "2606.26040",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "3db51af062cccdd41cca5c527ed40de84d46eb5ad0e48639a640eebafa36e39d",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-24T17:15:14Z",
+    "report_count": 1,
+    "title": "AI translation of literary texts is \"fine\", but readers still prefer human translations",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-24T17:15:14Z"
+  },
+  "2606.26041": {
+    "authors": [
+      "Yuxing Cheng",
+      "Yuan Wu",
+      "Yi Chang"
+    ],
+    "canonical_id": "2606.26041",
+    "categories": [
+      "cs.CV",
+      "cs.CL"
+    ],
+    "content_hash": "5ab5c8d0ce309489b0a19f4118811ebf2371584ebe89a9feef7366f071bb2a26",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-06-24T17:15:42Z",
+    "report_count": 1,
+    "title": "How Robust is OCR-Reasoning? Evaluating OCR-Reasoning Robustness of Vision-Language Models under Visual Perturbations",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-24T17:15:42Z"
+  },
+  "2606.26057": {
+    "authors": [
+      "Seth Dobrin",
+      "Łukasz Chmiel"
+    ],
+    "canonical_id": "2606.26057",
+    "categories": [
+      "cs.AI",
+      "cs.CR",
+      "cs.LG"
+    ],
+    "content_hash": "5a47d7c84c9c9fda91f2693d1a96610532c1ad8103325f88e2a1abe24c48a728",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-06-24T17:32:27Z",
+    "report_count": 1,
+    "title": "The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Other Escapable AI Systems",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-24T17:32:27Z"
+  },
+  "2606.26071": {
+    "authors": [
+      "Aditya Singh",
+      "Gerson Kroiz",
+      "Senthooran Rajamanoharan",
+      "Neel Nanda"
+    ],
+    "canonical_id": "2606.26071",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "c51f76ab421161110a824020a8936d65e1f0dd9c37e00b6f66cfe28b818451c2",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-24T17:45:47Z",
+    "report_count": 1,
+    "title": "Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-24T17:45:47Z"
+  },
+  "2606.26078": {
+    "authors": [
+      "Sen Li",
+      "Haichao Cui",
+      "Chendong Shao",
+      "Yaqi Wang",
+      "Xinhua Tang"
+    ],
+    "canonical_id": "2606.26078",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "0245d11a68057665a774aa9f25b33ce2222812c5da348d3fef5fd6305aa98121",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-06-24T17:52:57Z",
+    "report_count": 1,
+    "title": "A cross-process welding penetration status prediction algorithm based on unsupervised domain adaptation in laser and TIG welding",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-24T17:52:57Z"
+  },
+  "2606.26079": {
+    "authors": [
+      "Akshay Paruchuri",
+      "Sanmi Koyejo",
+      "Ehsan Adeli"
+    ],
+    "canonical_id": "2606.26079",
+    "categories": [
+      "cs.CL",
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "0ab18c2819dd4d1748ac5b85a8740e3fa6b29ebed120750f9344a6a8639ef37d",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-24T17:53:26Z",
+    "report_count": 1,
+    "title": "Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-24T17:53:26Z"
+  },
+  "2606.26080": {
+    "authors": [
+      "Changdae Oh",
+      "Wendi Li",
+      "Seongheon Park",
+      "Samuel Yeh",
+      "Tanwi Mallick",
+      "Sharon Li"
+    ],
+    "canonical_id": "2606.26080",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "009a1e510d0ccbafe44886b1aa867df8798a3704b05ca280ac4b19d6c60c8a4b",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-24T17:54:08Z",
+    "report_count": 1,
+    "title": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-24T17:54:08Z"
+  },
+  "2606.26091": {
+    "authors": [
+      "Andrei Liviu Nicolicioiu",
+      "Mohammad Pezeshki",
+      "Aaron Courville"
+    ],
+    "canonical_id": "2606.26091",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "6067427d4c5419b5cc6b2fd1cb66df31039ab70cbc2f214061bde4675f6c5545",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-24T17:59:02Z",
+    "report_count": 1,
+    "title": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-24T17:59:02Z"
+  },
+  "2606.26094": {
+    "authors": [
+      "Babak Rahmani",
+      "Sebastian Dziadzio",
+      "Joschka Strüber",
+      "Sergio Hernández-Gutiérrez",
+      "Matthias Bethge"
+    ],
+    "canonical_id": "2606.26094",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "57b721c8c50b4f4d8a1b51552050aad2cdf361153630b3479b8d395b252ccd36",
+    "first_seen_date": "2026-06-25",
+    "last_reported_date": "2026-06-25",
+    "last_seen_date": "2026-06-25",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-24T17:59:46Z",
+    "report_count": 1,
+    "title": "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-24T17:59:46Z"
   }
 }
