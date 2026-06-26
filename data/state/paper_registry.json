@@ -25394,7 +25394,7 @@
     "content_hash": "6de6930a31f2f65d94cd98a4689ba3e10c21e5a44477e621b0efa154c05dabc4",
     "first_seen_date": "2026-06-24",
     "last_reported_date": "2026-06-24",
-    "last_seen_date": "2026-06-25",
+    "last_seen_date": "2026-06-26",
     "latest_version": 1,
     "primary_category": "stat.ME",
     "priority": "unscored",
@@ -26200,7 +26200,7 @@
     "content_hash": "cce47acb59b07ad5717da71b7f6423a2a090a0a96deee852f6157ff65fedd2ea",
     "first_seen_date": "2026-06-25",
     "last_reported_date": "2026-06-25",
-    "last_seen_date": "2026-06-25",
+    "last_seen_date": "2026-06-26",
     "latest_version": 1,
     "primary_category": "cs.CE",
     "priority": "unscored",
@@ -26854,5 +26854,630 @@
       "llm_progress"
     ],
     "updated": "2026-06-24T17:59:46Z"
+  },
+  "2606.26625": {
+    "authors": [
+      "Nicholas Appiah",
+      "Ali Jaffri",
+      "Dilmi C. W. Hettiachchi-Halpe-Kankanamalage",
+      "Svetlozar T. Rachev"
+    ],
+    "canonical_id": "2606.26625",
+    "categories": [
+      "q-fin.PM",
+      "q-fin.RM"
+    ],
+    "content_hash": "56fda484e67e1e69911c5b5a91fe9212bef2b74b5a2fae95fdd53c25cfbf16ea",
+    "first_seen_date": "2026-06-26",
+    "last_reported_date": "2026-06-26",
+    "last_seen_date": "2026-06-26",
+    "latest_version": 1,
+    "primary_category": "q-fin.PM",
+    "priority": "unscored",
+    "published": "2026-06-25T05:40:06Z",
+    "report_count": 1,
+    "title": "Portfolio Optimization for Commodity ETFs under Heavy-Tailed Returns",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-06-25T05:40:06Z"
+  },
+  "2606.26630": {
+    "authors": [
+      "Hengshi Yu"
+    ],
+    "canonical_id": "2606.26630",
+    "categories": [
+      "stat.ME"
+    ],
+    "content_hash": "272856629fc01acfceaeb9b96a6f29537ffc09b133dcbcd8e2c3a21a7dc55892",
+    "first_seen_date": "2026-06-26",
+    "last_reported_date": "2026-06-26",
+    "last_seen_date": "2026-06-26",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-06-25T05:47:33Z",
+    "report_count": 1,
+    "title": "Doubly Robust Quadratic Inference Functions for Causal Inference in Cluster Randomized Trials",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-06-25T05:47:33Z"
+  },
+  "2606.27247": {
+    "authors": [
+      "Parmitha Vangapandu",
+      "Sai Ganesh Mokkapati",
+      "Sathwik Narkedimilli",
+      "MSVPJ Sathvik",
+      "Timothy Liu",
+      "Simon See",
+      "Johannes C. Eichstaedt"
+    ],
+    "canonical_id": "2606.27247",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "e3bd4782400a1d2a69fc1cbf9dda134d19fe76729ccb65d1e5811e1e2eaa52d1",
+    "first_seen_date": "2026-06-26",
+    "last_reported_date": "2026-06-26",
+    "last_seen_date": "2026-06-26",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-25T16:33:57Z",
+    "report_count": 1,
+    "title": "RSPC: A Benchmark for Modeling Stress and Psychiatric Conditions in Digitally Mediated Relationships using Psychiatrist Annotations",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-25T16:33:57Z"
+  },
+  "2606.27268": {
+    "authors": [
+      "Wen Ye",
+      "Peiyan Li",
+      "Tingyu Yuan",
+      "Yuan Xu",
+      "Xiangnan Wu",
+      "Chaoyang Zhao",
+      "Jing Liu",
+      "Nianfeng Liu",
+      "Yan Huang",
+      "Liang Wang"
+    ],
+    "canonical_id": "2606.27268",
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "content_hash": "89aac1e14209a622187bbb89f35f1b52fa29ff66ade29727a27512d23d0e0212",
+    "first_seen_date": "2026-06-26",
+    "last_reported_date": "2026-06-26",
+    "last_seen_date": "2026-06-26",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-06-25T16:50:21Z",
+    "report_count": 1,
+    "title": "E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-25T16:50:21Z"
+  },
+  "2606.27269": {
+    "authors": [
+      "Graham Gibson",
+      "John Tipton",
+      "Kellin Rumsey",
+      "Natalie Klein"
+    ],
+    "canonical_id": "2606.27269",
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ],
+    "content_hash": "122064f07799c66b139b947cb1d9c3e9220b9138da4f3fd8cb3f3892e6c87338",
+    "first_seen_date": "2026-06-26",
+    "last_reported_date": "2026-06-26",
+    "last_seen_date": "2026-06-26",
+    "latest_version": 1,
+    "primary_category": "stat.ML",
+    "priority": "unscored",
+    "published": "2026-06-25T16:51:18Z",
+    "report_count": 1,
+    "title": "Ribbon: Scalable Approximation and Robust Uncertainty Quantification",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-25T16:51:18Z"
+  },
+  "2606.27274": {
+    "authors": [
+      "MSVPJ Sathvik",
+      "Parmitha Vangapadu",
+      "Nishit Rane",
+      "Sathwik Narkedimilli",
+      "Mark Lee",
+      "Akrati Saxena"
+    ],
+    "canonical_id": "2606.27274",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "065f8c84aa98e9500a1f48c6bf43d606a434d94050314c2a89b527e4d85e74ae",
+    "first_seen_date": "2026-06-26",
+    "last_reported_date": "2026-06-26",
+    "last_seen_date": "2026-06-26",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-25T16:51:53Z",
+    "report_count": 1,
+    "title": "BetXplain: An Explanation-Annotated Dataset for Detecting Manipulative Betting Advertisements on Social Media",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-25T16:51:53Z"
+  },
+  "2606.27275": {
+    "authors": [
+      "Maria Levchenko"
+    ],
+    "canonical_id": "2606.27275",
+    "categories": [
+      "cs.CL",
+      "cs.DL"
+    ],
+    "content_hash": "409ce7b6e8f87cbae89b5d589eeb15d805885e93c395345602d883ac202a437b",
+    "first_seen_date": "2026-06-26",
+    "last_reported_date": "2026-06-26",
+    "last_seen_date": "2026-06-26",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-25T16:52:21Z",
+    "report_count": 1,
+    "title": "How Surprising Is Historical Italian to Language Models? Tokenization Tax, Comprehension Tax, and a Simple Mitigation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-25T16:52:21Z"
+  },
+  "2606.27277": {
+    "authors": [
+      "Junwei Luo",
+      "Shuai Yuan",
+      "Zhenya Yang",
+      "Yansheng Li",
+      "Zhe Liu",
+      "Hengshuang Zhao"
+    ],
+    "canonical_id": "2606.27277",
+    "categories": [
+      "cs.AI",
+      "cs.CV"
+    ],
+    "content_hash": "8360c7544357c360fa7dae5140384f0c1b1a8f692edf770c1208622a4233e8e9",
+    "first_seen_date": "2026-06-26",
+    "last_reported_date": "2026-06-26",
+    "last_seen_date": "2026-06-26",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-06-25T16:53:30Z",
+    "report_count": 1,
+    "title": "EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-25T16:53:30Z"
+  },
+  "2606.27282": {
+    "authors": [
+      "Lang Huang",
+      "Jinglue Xu",
+      "Luke Darlow"
+    ],
+    "canonical_id": "2606.27282",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "3f607700f0a1af38c36f1bd92dec5b4ba957319c6a68caac089060e79b3fa27f",
+    "first_seen_date": "2026-06-26",
+    "last_reported_date": "2026-06-26",
+    "last_seen_date": "2026-06-26",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-25T16:57:50Z",
+    "report_count": 1,
+    "title": "How Good Can Linear Models Be for Time-Series Forecasting?",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-25T16:57:50Z"
+  },
+  "2606.27286": {
+    "authors": [
+      "Alina Bazarova",
+      "Johann Fredrik Jadebeck",
+      "Henrik Zunker",
+      "Carolina J. Klett-Tammen",
+      "Torben Heinsohn",
+      "Wolfgang Wiechert",
+      "Katharina Noeh",
+      "Stefan Kesselheim"
+    ],
+    "canonical_id": "2606.27286",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "3ec1d8c3e72c94583228a11037363ebd0ee0f64f8f66668f14dc4b9535c0b9f6",
+    "first_seen_date": "2026-06-26",
+    "last_reported_date": "2026-06-26",
+    "last_seen_date": "2026-06-26",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-06-25T17:03:30Z",
+    "report_count": 1,
+    "title": "Simulation-based inference for rapid Bayesian parameter estimation in epidemiological models: a comparison with MCMC",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-25T17:03:30Z"
+  },
+  "2606.27287": {
+    "authors": [
+      "Preet Baxi",
+      "Jiannan Xu",
+      "Jane Yi Jiang",
+      "Stefanus Jasin"
+    ],
+    "canonical_id": "2606.27287",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "fa8950bdfadb2bf80140d26d6d3b73fece4130988ec115f61f54ccc3698d1cc1",
+    "first_seen_date": "2026-06-26",
+    "last_reported_date": "2026-06-26",
+    "last_seen_date": "2026-06-26",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-06-25T17:04:51Z",
+    "report_count": 1,
+    "title": "Prompt Injection in Automated Résumé Screening with Large Language Models: Single and Multi-Injection Settings",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-25T17:04:51Z"
+  },
+  "2606.27288": {
+    "authors": [
+      "Josef Chen"
+    ],
+    "canonical_id": "2606.27288",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "589f0c7e9e89a3bcb0847f7742059e4f4445b7054486877a2211367afeb9f9a1",
+    "first_seen_date": "2026-06-26",
+    "last_reported_date": "2026-06-26",
+    "last_seen_date": "2026-06-26",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-06-25T17:06:06Z",
+    "report_count": 1,
+    "title": "When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-25T17:06:06Z"
+  },
+  "2606.27306": {
+    "authors": [
+      "Arnav Mazumder",
+      "Dengjia Zhang",
+      "Shuyue Stella Li",
+      "Yulia Tsvetkov",
+      "Niyati Bafna"
+    ],
+    "canonical_id": "2606.27306",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "465e89b7a01d6a66fb439c04907f4ab9e0a02752cc4774c259e1f456ff050ee3",
+    "first_seen_date": "2026-06-26",
+    "last_reported_date": "2026-06-26",
+    "last_seen_date": "2026-06-26",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-25T17:26:46Z",
+    "report_count": 1,
+    "title": "Multilingual Reasoning Cascades Need More Context",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-25T17:26:46Z"
+  },
+  "2606.27316": {
+    "authors": [
+      "Serhii Hamotskyi",
+      "Akash Kumar Gautam",
+      "Christian Hänig"
+    ],
+    "canonical_id": "2606.27316",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "31f4202d81c64f72dbc49ef5233cd5bacc2b53a15e123d7089c4a1c1394d15a3",
+    "first_seen_date": "2026-06-26",
+    "last_reported_date": "2026-06-26",
+    "last_seen_date": "2026-06-26",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-25T17:29:58Z",
+    "report_count": 1,
+    "title": "LLM-Based Examination of Eligibility Criteria from Securities Prospectuses at the German Central Bank",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-25T17:29:58Z"
+  },
+  "2606.27321": {
+    "authors": [
+      "Nathanaël Jacquier",
+      "Maria Vakalopoulou",
+      "Mahdi S. Hosseini"
+    ],
+    "canonical_id": "2606.27321",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "20858db9f7b47e10ea1110d995ca0d7c443c8e859f89f52e7aea4f168a3c8fcf",
+    "first_seen_date": "2026-06-26",
+    "last_reported_date": "2026-06-26",
+    "last_seen_date": "2026-06-26",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-25T17:34:39Z",
+    "report_count": 1,
+    "title": "Beyond the Hard Budget: Sparsity Regularizers for More Interpretable Top-k Sparse Autoencoders",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-25T17:34:39Z"
+  },
+  "2606.27326": {
+    "authors": [
+      "Nicklas Hansen",
+      "Xiaolong Wang"
+    ],
+    "canonical_id": "2606.27326",
+    "categories": [
+      "cs.LG",
+      "cs.CV",
+      "cs.RO"
+    ],
+    "content_hash": "fbd3ad185a3f607eaffdc4889b81658b6cb51e737abda4e353c9fa8c78e1f17f",
+    "first_seen_date": "2026-06-26",
+    "last_reported_date": "2026-06-26",
+    "last_seen_date": "2026-06-26",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-25T17:38:45Z",
+    "report_count": 1,
+    "title": "Hallucination in World Models is Predictable and Preventable",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-25T17:38:45Z"
+  },
+  "2606.27330": {
+    "authors": [
+      "Tianyi Men",
+      "Zhuoran Jin",
+      "Pengfei Cao",
+      "Yubo Chen",
+      "Kang Liu",
+      "Jun Zhao"
+    ],
+    "canonical_id": "2606.27330",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "edfd0a1e6b57d4b103cb26d0cff8aea104497848bf1310c396f2743da0de926d",
+    "first_seen_date": "2026-06-26",
+    "last_reported_date": "2026-06-26",
+    "last_seen_date": "2026-06-26",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-25T17:44:48Z",
+    "report_count": 1,
+    "title": "Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-25T17:44:48Z"
+  },
+  "2606.27334": {
+    "authors": [
+      "Mohammad Mehdi Hosseini",
+      "Mohammad H. Mahoor",
+      "Hiroko H. Dodge"
+    ],
+    "canonical_id": "2606.27334",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "ff061531ade3ecf19e6e3ecea51b1407ec44b8d25fb822f38cbe68de35a3354f",
+    "first_seen_date": "2026-06-26",
+    "last_reported_date": "2026-06-26",
+    "last_seen_date": "2026-06-26",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-06-25T17:45:53Z",
+    "report_count": 1,
+    "title": "Language-Based Digital Twins for Elderly Cognitive Assistance",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-25T17:45:53Z"
+  },
+  "2606.27342": {
+    "authors": [
+      "Nicholas Pulsone",
+      "Gregory Goren",
+      "Roee Shraga"
+    ],
+    "canonical_id": "2606.27342",
+    "categories": [
+      "cs.DB",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "4794dd1926a874ee72d1ce6472de2c29e96eee4c8b684c8bed8770579717f5e4",
+    "first_seen_date": "2026-06-26",
+    "last_reported_date": "2026-06-26",
+    "last_seen_date": "2026-06-26",
+    "latest_version": 1,
+    "primary_category": "cs.DB",
+    "priority": "unscored",
+    "published": "2026-06-25T17:49:48Z",
+    "report_count": 1,
+    "title": "Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-06-25T17:49:48Z"
+  },
+  "2606.27347": {
+    "authors": [
+      "Kirill Solovev",
+      "Jana Lasser"
+    ],
+    "canonical_id": "2606.27347",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "d9aac876a9c020dda65bd8fc7117b01a75d5b6474933fab05ec9b63e50ba3e3a",
+    "first_seen_date": "2026-06-26",
+    "last_reported_date": "2026-06-26",
+    "last_seen_date": "2026-06-26",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-06-25T17:51:59Z",
+    "report_count": 1,
+    "title": "Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-06-25T17:51:59Z"
+  },
+  "2606.27359": {
+    "authors": [
+      "Johannes Zenn",
+      "Jonas Geiping"
+    ],
+    "canonical_id": "2606.27359",
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ],
+    "content_hash": "8fd729f30b932e0dd2335b528ffa6f88949951d8daa7e13b0ec196f06d9116b6",
+    "first_seen_date": "2026-06-26",
+    "last_reported_date": "2026-06-26",
+    "last_seen_date": "2026-06-26",
+    "latest_version": 1,
+    "primary_category": "stat.ML",
+    "priority": "unscored",
+    "published": "2026-06-25T17:58:02Z",
+    "report_count": 1,
+    "title": "When are likely answers right? On Sequence Probability and Correctness in LLMs",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-25T17:58:02Z"
+  },
+  "2606.27361": {
+    "authors": [
+      "Danyal Rehman",
+      "Charlie B. Tan",
+      "Yoshua Bengio",
+      "Avishek Joey Bose",
+      "Alexander Tong"
+    ],
+    "canonical_id": "2606.27361",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "d28765d76567018af4df9c87abb178b5e3ad56bf28206e2fa3b95b065180ad29",
+    "first_seen_date": "2026-06-26",
+    "last_reported_date": "2026-06-26",
+    "last_seen_date": "2026-06-26",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-25T17:58:21Z",
+    "report_count": 1,
+    "title": "Autoregressive Boltzmann Generators",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-25T17:58:21Z"
+  },
+  "2606.27369": {
+    "authors": [
+      "Yingyu Lin",
+      "Qiyue Gao",
+      "Nikki Lijing Kuang",
+      "Xunpeng Huang",
+      "Kun Zhou",
+      "Tongtong Liang",
+      "Zhewei Yao",
+      "Yi-An Ma",
+      "Yuxiong He"
+    ],
+    "canonical_id": "2606.27369",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "40c168b3a03e5429dd6a5784ba185e6273bd40026c9c991d74b11d4a914137f5",
+    "first_seen_date": "2026-06-26",
+    "last_reported_date": "2026-06-26",
+    "last_seen_date": "2026-06-26",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-06-25T17:59:36Z",
+    "report_count": 1,
+    "title": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-06-25T17:59:36Z"
   }
 }
