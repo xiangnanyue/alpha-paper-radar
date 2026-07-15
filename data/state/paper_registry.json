@@ -34804,7 +34804,7 @@
     "content_hash": "ce0e98d58215457bd0a1591e3ccdabe19387cc5c21f089c99aed1b7f51129d92",
     "first_seen_date": "2026-07-13",
     "last_reported_date": "2026-07-13",
-    "last_seen_date": "2026-07-14",
+    "last_seen_date": "2026-07-15",
     "latest_version": 1,
     "primary_category": "cs.CE",
     "priority": "unscored",
@@ -34832,7 +34832,7 @@
     "content_hash": "528b9c942ca2f150012ed15fd1bd61e3545f72bb3db628ace4da7d959d18d8e4",
     "first_seen_date": "2026-07-13",
     "last_reported_date": "2026-07-13",
-    "last_seen_date": "2026-07-14",
+    "last_seen_date": "2026-07-15",
     "latest_version": 1,
     "primary_category": "cs.CE",
     "priority": "unscored",
@@ -35356,7 +35356,7 @@
     "content_hash": "7a340adba989558fd73a2560f2d04e43bf3b61cd7d2e981474b87db8812371c4",
     "first_seen_date": "2026-07-14",
     "last_reported_date": "2026-07-14",
-    "last_seen_date": "2026-07-14",
+    "last_seen_date": "2026-07-15",
     "latest_version": 1,
     "primary_category": "stat.ME",
     "priority": "unscored",
@@ -36104,5 +36104,571 @@
       "deep_learning_sota"
     ],
     "updated": "2026-07-13T17:58:50Z"
+  },
+  "2607.12248": {
+    "authors": [
+      "Taizhen Cheung",
+      "SA Kwon"
+    ],
+    "canonical_id": "2607.12248",
+    "categories": [
+      "q-fin.ST",
+      "cs.LG"
+    ],
+    "content_hash": "2406d29879187d8c72307bfbd1e27ba830796e0cd91786fdbb9cdb55014ca1cd",
+    "first_seen_date": "2026-07-15",
+    "last_reported_date": "2026-07-15",
+    "last_seen_date": "2026-07-15",
+    "latest_version": 1,
+    "primary_category": "q-fin.ST",
+    "priority": "unscored",
+    "published": "2026-07-14T01:23:51Z",
+    "report_count": 1,
+    "title": "When Directional Accuracy Lies: A Base-Rate-Honest Benchmark for LoRA-Adapted TimesFM on Equity Forecasting",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-07-14T01:23:51Z"
+  },
+  "2607.12568": {
+    "authors": [
+      "A. Montañés",
+      "E. Ruiz"
+    ],
+    "canonical_id": "2607.12568",
+    "categories": [
+      "econ.EM"
+    ],
+    "content_hash": "b0976c47fb40888195f084ce557c2e846c1eead9dccf2544f0b69c49dabb54bc",
+    "first_seen_date": "2026-07-15",
+    "last_reported_date": "2026-07-15",
+    "last_seen_date": "2026-07-15",
+    "latest_version": 1,
+    "primary_category": "econ.EM",
+    "priority": "unscored",
+    "published": "2026-07-14T09:39:14Z",
+    "report_count": 1,
+    "title": "Interpreting (and testing) factor loadings",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-07-14T09:39:14Z"
+  },
+  "2607.12868": {
+    "authors": [
+      "Sigma Jahan"
+    ],
+    "canonical_id": "2607.12868",
+    "categories": [
+      "cs.SE",
+      "cs.LG"
+    ],
+    "content_hash": "326798f17c37806f8bb3064f4b60a411e9057189f5889c22662d0017de437b8c",
+    "first_seen_date": "2026-07-15",
+    "last_reported_date": "2026-07-15",
+    "last_seen_date": "2026-07-15",
+    "latest_version": 1,
+    "primary_category": "cs.SE",
+    "priority": "unscored",
+    "published": "2026-07-14T15:20:16Z",
+    "report_count": 1,
+    "title": "Deep4ge: DNN Training Trajectories for Fault Detection and Diagnosis",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-07-14T15:20:16Z"
+  },
+  "2607.12884": {
+    "authors": [
+      "Monica Munnangi",
+      "Saiph Savage"
+    ],
+    "canonical_id": "2607.12884",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "7b3be42eaa173f3351fc42a0bba6f3d5cfe8dfcf02f9b77569a9715625b7e849",
+    "first_seen_date": "2026-07-15",
+    "last_reported_date": "2026-07-15",
+    "last_seen_date": "2026-07-15",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-07-14T15:30:37Z",
+    "report_count": 1,
+    "title": "Evaluating Large Language Models on Misconceptions in Multi-Turn Medical Conversations",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-14T15:30:37Z"
+  },
+  "2607.12886": {
+    "authors": [
+      "Cameron Cagan",
+      "Pedram Fard",
+      "Jiazi Tian",
+      "Jingya Cheng",
+      "Shawn N. Murphy",
+      "Hossein Estiri"
+    ],
+    "canonical_id": "2607.12886",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "0e804b86fd00104c2cee25c6a0ebfde2c28dce40e3d21a3569492a4d84d813e0",
+    "first_seen_date": "2026-07-15",
+    "last_reported_date": "2026-07-15",
+    "last_seen_date": "2026-07-15",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-07-14T15:32:07Z",
+    "report_count": 1,
+    "title": "A Multi-Agent System for Autonomous, Fine-Tuning-Free Clinical Symptom Detection: Development and Validation Study",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-14T15:32:07Z"
+  },
+  "2607.12893": {
+    "authors": [
+      "Xixuan Hao",
+      "Zeyu Zhang",
+      "Zehao Lin",
+      "Yihang Sun",
+      "Ziliang Guo",
+      "Xichong Zhang",
+      "Yuxuan Liang",
+      "Feiyu Xiong",
+      "Zhiyu Li"
+    ],
+    "canonical_id": "2607.12893",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "2ba512aff41585f34197a097221874fd5865ceb822e9c140461c92018049421a",
+    "first_seen_date": "2026-07-15",
+    "last_reported_date": "2026-07-15",
+    "last_seen_date": "2026-07-15",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-07-14T15:33:44Z",
+    "report_count": 1,
+    "title": "MemOps: Benchmarking Lifecycle Memory Operations in Long-Horizon Conversations",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-14T15:33:44Z"
+  },
+  "2607.12902": {
+    "authors": [
+      "Siddharth Mitra",
+      "Vishwak Srinivasan",
+      "Xiuyuan Wang",
+      "Andre Wibisono"
+    ],
+    "canonical_id": "2607.12902",
+    "categories": [
+      "stat.ML",
+      "cs.DS",
+      "cs.LG",
+      "math.PR",
+      "math.ST",
+      "stat.CO"
+    ],
+    "content_hash": "935e02b4e966408dd128166e99d628bf183cb469ec712e2ed51b4e67b2998208",
+    "first_seen_date": "2026-07-15",
+    "last_reported_date": "2026-07-15",
+    "last_seen_date": "2026-07-15",
+    "latest_version": 1,
+    "primary_category": "stat.ML",
+    "priority": "unscored",
+    "published": "2026-07-14T15:38:04Z",
+    "report_count": 1,
+    "title": "Accelerated Mixing Time of Randomized Hamiltonian Monte Carlo",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-14T15:38:04Z"
+  },
+  "2607.12916": {
+    "authors": [
+      "Blanca Cano-Camarero",
+      "Ángela Fernández-Pascual",
+      "José R. Dorronsoro"
+    ],
+    "canonical_id": "2607.12916",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "018518767410173190980db19cc0e74fdb90247e39209a47cc820fdee6f5280b",
+    "first_seen_date": "2026-07-15",
+    "last_reported_date": "2026-07-15",
+    "last_seen_date": "2026-07-15",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-14T15:51:41Z",
+    "report_count": 1,
+    "title": "Contrastive-Collapsed Loss for Flexible and Geometrically Optimal Embeddings and Faster Convergence",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-14T15:51:41Z"
+  },
+  "2607.12924": {
+    "authors": [
+      "Jonas Ehrhardt",
+      "René Heesch",
+      "Oliver Niggemann"
+    ],
+    "canonical_id": "2607.12924",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "c57cc6f912e6ca434e9879ea3f122f82b70c954ff66607c0356597114de80081",
+    "first_seen_date": "2026-07-15",
+    "last_reported_date": "2026-07-15",
+    "last_seen_date": "2026-07-15",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-07-14T15:57:25Z",
+    "report_count": 1,
+    "title": "Knowledge- and Gradient-Guided Reinforcement Learning for Parametrized Action Markov Decision Processes",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-14T15:57:25Z"
+  },
+  "2607.12946": {
+    "authors": [
+      "Minh Hoang Nguyen"
+    ],
+    "canonical_id": "2607.12946",
+    "categories": [
+      "cs.IR",
+      "cs.AI"
+    ],
+    "content_hash": "af088ade71e7bf7fcafc796998a95d25546f0a5ac5a0b3202b883d0e1be0ca5b",
+    "first_seen_date": "2026-07-15",
+    "last_reported_date": "2026-07-15",
+    "last_seen_date": "2026-07-15",
+    "latest_version": 1,
+    "primary_category": "cs.IR",
+    "priority": "unscored",
+    "published": "2026-07-14T16:28:40Z",
+    "report_count": 1,
+    "title": "ViHoRec: A Quality-Controlled Vietnamese Hotel Recommendation Dataset and Cold-Start Benchmark",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-07-14T16:28:40Z"
+  },
+  "2607.12963": {
+    "authors": [
+      "Yanzhe Zhang",
+      "Sanmi Koyejo",
+      "Diyi Yang"
+    ],
+    "canonical_id": "2607.12963",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "5383069dfa72d8a5203b60642fb365c39547546fc7e4ee04498dd08d1074c1e3",
+    "first_seen_date": "2026-07-15",
+    "last_reported_date": "2026-07-15",
+    "last_seen_date": "2026-07-15",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-07-14T17:01:12Z",
+    "report_count": 1,
+    "title": "The Illusion of Robustness: Aggregate Accuracy Hides Prediction Flips under Task-Irrelevant Context",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-14T17:01:12Z"
+  },
+  "2607.12982": {
+    "authors": [
+      "Ruoran Xu",
+      "Wending Gao",
+      "Qiufeng Wang"
+    ],
+    "canonical_id": "2607.12982",
+    "categories": [
+      "cs.AI",
+      "cs.MA",
+      "cs.SC"
+    ],
+    "content_hash": "df30307081f0eaf034fc81d56ca90ecee3c881ba8300041516591f1497c5f4e4",
+    "first_seen_date": "2026-07-15",
+    "last_reported_date": "2026-07-15",
+    "last_seen_date": "2026-07-15",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-07-14T17:24:57Z",
+    "report_count": 1,
+    "title": "FormalAnalyticGeo: A Neural-Symbolic Based Framework for Multimodal Analytic Geometry Problem Generation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-14T17:24:57Z"
+  },
+  "2607.12985": {
+    "authors": [
+      "Sen Yang",
+      "Yuen-Hei Yeung"
+    ],
+    "canonical_id": "2607.12985",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "393b0323b7b183f29819e41aa77983b704b2468e0435a6f430aa98a7a915486f",
+    "first_seen_date": "2026-07-15",
+    "last_reported_date": "2026-07-15",
+    "last_seen_date": "2026-07-15",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-07-14T17:28:25Z",
+    "report_count": 1,
+    "title": "Resist and Update: Counterfactual Report Coordinates for Incentive-Compatible LLMs",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-07-14T17:28:25Z"
+  },
+  "2607.13006": {
+    "authors": [
+      "Mert Onur Cakiroglu",
+      "Mehmet Dalkilic",
+      "Hasan Kurban"
+    ],
+    "canonical_id": "2607.13006",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "7f6f05b83806426b89fda76498f0cd2c5b8b4d8c088b982d276c6f1aef1074ff",
+    "first_seen_date": "2026-07-15",
+    "last_reported_date": "2026-07-15",
+    "last_seen_date": "2026-07-15",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-14T17:50:28Z",
+    "report_count": 1,
+    "title": "The Spectrum Is Not Enough: When Context Helps Time-Series Forecasting",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-14T17:50:28Z"
+  },
+  "2607.13007": {
+    "authors": [
+      "Jakub Kowalski",
+      "Adam Ciężkowski",
+      "Artur Krzyżyński",
+      "Mark H. M. Winands"
+    ],
+    "canonical_id": "2607.13007",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "0906e6eb128bd2e2d96ef086fc4d265af705f74dff674f656bc5225e673a9f5b",
+    "first_seen_date": "2026-07-15",
+    "last_reported_date": "2026-07-15",
+    "last_seen_date": "2026-07-15",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-07-14T17:51:15Z",
+    "report_count": 1,
+    "title": "Dynamic Resource Allocation for Ensemble Determinization MCTS",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-07-14T17:51:15Z"
+  },
+  "2607.13013": {
+    "authors": [
+      "Harsha Vardhan Khurdula",
+      "Abhinav Kumar Singh",
+      "Yoeven D Khemlani",
+      "Vineet Agarwal"
+    ],
+    "canonical_id": "2607.13013",
+    "categories": [
+      "cs.AI",
+      "cs.SD"
+    ],
+    "content_hash": "6ad068a40d6d5b85d17052cd5f462bc1250268310ba86d3276718c7c5bb8b487",
+    "first_seen_date": "2026-07-15",
+    "last_reported_date": "2026-07-15",
+    "last_seen_date": "2026-07-15",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-07-14T17:53:22Z",
+    "report_count": 1,
+    "title": "Audio-Native Speech Recognition with a Frozen Discrete-Diffusion Language Model",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-07-14T17:53:22Z"
+  },
+  "2607.13022": {
+    "authors": [
+      "Gianluca Galletti",
+      "Gerald Gutenbrunner",
+      "William Hornsby",
+      "Lorenzo Zanisi",
+      "Naomi Carey",
+      "Stanislas Pamela",
+      "Johannes Brandstetter",
+      "Fabian Paischer"
+    ],
+    "canonical_id": "2607.13022",
+    "categories": [
+      "physics.plasm-ph",
+      "cs.LG"
+    ],
+    "content_hash": "c690b870b8e70c81d18def3eb831d67ede26edc44c6fe52ce1080d435c676d91",
+    "first_seen_date": "2026-07-15",
+    "last_reported_date": "2026-07-15",
+    "last_seen_date": "2026-07-15",
+    "latest_version": 1,
+    "primary_category": "physics.plasm-ph",
+    "priority": "unscored",
+    "published": "2026-07-14T17:58:13Z",
+    "report_count": 1,
+    "title": "A Shortcut to Statistically Steady-State Turbulence with Flow Matching",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-14T17:58:13Z"
+  },
+  "2607.13027": {
+    "authors": [
+      "Hongru Cai",
+      "Yongqi Li",
+      "Ran Wei",
+      "Wenjie Li"
+    ],
+    "canonical_id": "2607.13027",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "e1a4f4d4a5f4245658843d98df74c81ffe2f99b9cae8431fa8345ccf04a5cd16",
+    "first_seen_date": "2026-07-15",
+    "last_reported_date": "2026-07-15",
+    "last_seen_date": "2026-07-15",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-07-14T17:58:57Z",
+    "report_count": 1,
+    "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-14T17:58:57Z"
+  },
+  "2607.13028": {
+    "authors": [
+      "Zhouchonghao Wu",
+      "Akshay Rangesh",
+      "Weixin Li",
+      "Wei-Jer Chang",
+      "Zachary Lee",
+      "Tim Wang",
+      "Wei Zhan"
+    ],
+    "canonical_id": "2607.13028",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.RO"
+    ],
+    "content_hash": "ed164ae82f363addda357d96f4a62d0052985be98f06e4b85a5224ecc8a241fc",
+    "first_seen_date": "2026-07-15",
+    "last_reported_date": "2026-07-15",
+    "last_seen_date": "2026-07-15",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-14T17:59:02Z",
+    "report_count": 1,
+    "title": "TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-14T17:59:02Z"
+  },
+  "2607.13031": {
+    "authors": [
+      "Jorge Diaz Chao",
+      "Konpat Preechakul",
+      "Yuxi Liu",
+      "Yutong Bai"
+    ],
+    "canonical_id": "2607.13031",
+    "categories": [
+      "cs.LG",
+      "cs.CV"
+    ],
+    "content_hash": "3c8b8d2312ef58acf50ef483f86ddf5e42b54403d6e02b8905ff0ad1cb963b90",
+    "first_seen_date": "2026-07-15",
+    "last_reported_date": "2026-07-15",
+    "last_seen_date": "2026-07-15",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-14T17:59:22Z",
+    "report_count": 1,
+    "title": "The Seriality Gap in Video Diffusion Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-14T17:59:22Z"
+  },
+  "2607.13034": {
+    "authors": [
+      "Junjie Yin",
+      "Xinyu Feng"
+    ],
+    "canonical_id": "2607.13034",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.SE",
+      "eess.SY"
+    ],
+    "content_hash": "3af006d2807da7ba05e8acfbb989b36678f306abca649a5b5ff0a2e9308b5bb1",
+    "first_seen_date": "2026-07-15",
+    "last_reported_date": "2026-07-15",
+    "last_seen_date": "2026-07-15",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-07-14T17:59:31Z",
+    "report_count": 1,
+    "title": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-14T17:59:31Z"
   }
 }
