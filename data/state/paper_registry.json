@@ -37535,7 +37535,7 @@
     "content_hash": "65bd3afdc021e21b42b8671104ce02b55719f1ab1aaa11f2ea18ec8c61d8f819",
     "first_seen_date": "2026-07-17",
     "last_reported_date": "2026-07-17",
-    "last_seen_date": "2026-07-18",
+    "last_seen_date": "2026-07-20",
     "latest_version": 1,
     "primary_category": "q-fin.PM",
     "priority": "unscored",
@@ -38223,5 +38223,630 @@
       "llm_progress"
     ],
     "updated": "2026-07-16T17:59:06Z"
+  },
+  "2607.16057": {
+    "authors": [
+      "Ajay Patel",
+      "Kartik Hosanagar",
+      "Ramayya Krishnan",
+      "Chris Callison-Burch",
+      "Karim Lakhani",
+      "Mitch Weiss"
+    ],
+    "canonical_id": "2607.16057",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "3230bacad2b3f4a9ce099c2b5231c73c9b835d571c62775df0618f149bb6a182",
+    "first_seen_date": "2026-07-20",
+    "last_reported_date": "2026-07-20",
+    "last_seen_date": "2026-07-20",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-07-17T15:34:51Z",
+    "report_count": 1,
+    "title": "Frontier AI performance across the business disciplines: a case-grounded benchmark of knowledge work and analytical reasoning",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-07-17T15:34:51Z"
+  },
+  "2607.16062": {
+    "authors": [
+      "S. Aaron McClendon"
+    ],
+    "canonical_id": "2607.16062",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "c9413847232c4bea21a9677ce8b011c98b9faf554f53d8fbd837b06ad5aec59a",
+    "first_seen_date": "2026-07-20",
+    "last_reported_date": "2026-07-20",
+    "last_seen_date": "2026-07-20",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-17T15:41:09Z",
+    "report_count": 1,
+    "title": "When Model Merging Rivals Joint Multi-Task Reinforcement Learning: A Task-Vector Geometry Analysis",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-17T15:41:09Z"
+  },
+  "2607.16065": {
+    "authors": [
+      "Iker Moran-Cavero",
+      "Monica Hernandez",
+      "Elvira Mayordomo",
+      "Naiara Artiaga",
+      "Beatriz Pardiñas",
+      "Beatriz Cordon",
+      "Elena Garcia-Martin"
+    ],
+    "canonical_id": "2607.16065",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "70c12b4fd523036fb033c08720e43aafd2973685fa90a39e605df60a9150722d",
+    "first_seen_date": "2026-07-20",
+    "last_reported_date": "2026-07-20",
+    "last_seen_date": "2026-07-20",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-07-17T15:47:18Z",
+    "report_count": 1,
+    "title": "Spatial Normalization for Cross-Domain Retinal Layer Segmentation in Optical Coherence Tomography",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-07-17T15:47:18Z"
+  },
+  "2607.16066": {
+    "authors": [
+      "Mazene Ameur",
+      "Abdelkader Mekrache",
+      "Bouziane Brik",
+      "Adlen Ksentini"
+    ],
+    "canonical_id": "2607.16066",
+    "categories": [
+      "cs.NI",
+      "cs.AI"
+    ],
+    "content_hash": "eae6e91e6e5d7303b109b3494fd09912cf3a3bf2ab019d25adfe6b443ad1e8ef",
+    "first_seen_date": "2026-07-20",
+    "last_reported_date": "2026-07-20",
+    "last_seen_date": "2026-07-20",
+    "latest_version": 1,
+    "primary_category": "cs.NI",
+    "priority": "unscored",
+    "published": "2026-07-17T15:47:23Z",
+    "report_count": 1,
+    "title": "LLM-Powered Agentic AI for 5G/6G Networks: A Tutorial and Survey on Architectures, Protocols, and Standardization",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-17T15:47:23Z"
+  },
+  "2607.16072": {
+    "authors": [
+      "Haodong Wen",
+      "Yiran Zhang",
+      "Yingfa Chen",
+      "Kaifeng Lyu"
+    ],
+    "canonical_id": "2607.16072",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "ab9a2c2b08396edbbc1a059a037cf327813a197498f503a19dd2a31648f22a07",
+    "first_seen_date": "2026-07-20",
+    "last_reported_date": "2026-07-20",
+    "last_seen_date": "2026-07-20",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-07-17T15:56:52Z",
+    "report_count": 1,
+    "title": "Frontier Language Models Struggle to Copy: Text Can Be Better Viewed in 2D",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-17T15:56:52Z"
+  },
+  "2607.16076": {
+    "authors": [
+      "Bhavana Verma",
+      "Priyanka Meel",
+      "Dinesh Kumar Vishwakarma"
+    ],
+    "canonical_id": "2607.16076",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "ebbbd992feb92d80f18b6c70abfbe15f29561c431105e4ddb69a8cc040ff9b2a",
+    "first_seen_date": "2026-07-20",
+    "last_reported_date": "2026-07-20",
+    "last_seen_date": "2026-07-20",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-07-17T16:02:46Z",
+    "report_count": 1,
+    "title": "HCIG: A Hierarchical Cross-Modal Incongruity Graph Network for Multimodal Sarcasm and Cyberbullying Detection",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-17T16:02:46Z"
+  },
+  "2607.16090": {
+    "authors": [
+      "Hanyang Chen",
+      "Anirudh Satheesh",
+      "Longchao Da",
+      "Hua Wei"
+    ],
+    "canonical_id": "2607.16090",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "7616f2694e9dcbe1f138a2151056f324cf1b661e65ce273c38a3a8e969c1c5a5",
+    "first_seen_date": "2026-07-20",
+    "last_reported_date": "2026-07-20",
+    "last_seen_date": "2026-07-20",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-17T16:20:08Z",
+    "report_count": 1,
+    "title": "DADiff: Diffusion-Driven Cross-Domain Policy Adaptation for Reinforcement Learning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-17T16:20:08Z"
+  },
+  "2607.16097": {
+    "authors": [
+      "Jingyan Shen",
+      "Ang Li",
+      "Salman Rahman",
+      "Yifan Sun",
+      "Micah Goldblum",
+      "Matus Telgarsky",
+      "Pavel Izmailov"
+    ],
+    "canonical_id": "2607.16097",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "0626672b18433f18471652a9415607797aec8d401b12c795f836a70acf2e3904",
+    "first_seen_date": "2026-07-20",
+    "last_reported_date": "2026-07-20",
+    "last_seen_date": "2026-07-20",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-17T16:31:58Z",
+    "report_count": 1,
+    "title": "Understanding Reasoning from Pretraining to Post-Training",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-17T16:31:58Z"
+  },
+  "2607.16109": {
+    "authors": [
+      "Jun He",
+      "Deying Yu"
+    ],
+    "canonical_id": "2607.16109",
+    "categories": [
+      "cs.LG",
+      "cs.DC",
+      "cs.MA"
+    ],
+    "content_hash": "c413f7af072eb9d6f6a8103d82139e8b0228f0b102c18a2bab74aaec5330b7aa",
+    "first_seen_date": "2026-07-20",
+    "last_reported_date": "2026-07-20",
+    "last_seen_date": "2026-07-20",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-17T16:43:00Z",
+    "report_count": 1,
+    "title": "The Honest Quorum Problem: Epistemic Byzantine Fault Tolerance for Agentic Infrastructure",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-17T16:43:00Z"
+  },
+  "2607.16122": {
+    "authors": [
+      "Vipul Gupta",
+      "Zihao Wang",
+      "Razvan-Gabriel Dumitru",
+      "MohammadHossein Rezaei",
+      "Aakash Sabharwal",
+      "Yunzhong He"
+    ],
+    "canonical_id": "2607.16122",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "c4dc6fbc63ee2e66b4f26445c8de069e2ba45b4f06e6dac2858445ae8a4b3188",
+    "first_seen_date": "2026-07-20",
+    "last_reported_date": "2026-07-20",
+    "last_seen_date": "2026-07-20",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-07-17T17:00:38Z",
+    "report_count": 1,
+    "title": "CRAFT: Clustering Rubrics to Diagnose Weak LLM Capabilities and Generate Targeted Fine-Tuning Data",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-17T17:00:38Z"
+  },
+  "2607.16131": {
+    "authors": [
+      "Binglin Zhou",
+      "Peng Shi",
+      "Ryo Kamoi",
+      "Nan Zhang",
+      "Rui Zhang"
+    ],
+    "canonical_id": "2607.16131",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "b9e58f92f69d6daec8f7c057f80bfbc7c90ade220041f55727dd767eadf64e93",
+    "first_seen_date": "2026-07-20",
+    "last_reported_date": "2026-07-20",
+    "last_seen_date": "2026-07-20",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-07-17T17:11:50Z",
+    "report_count": 1,
+    "title": "ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-17T17:11:50Z"
+  },
+  "2607.16133": {
+    "authors": [
+      "Wendi Yu",
+      "Lianhao Zhou",
+      "Xiangjue Dong",
+      "Sai Sudarshan Barath",
+      "Declan Staunton",
+      "Byung-Jun Yoon",
+      "Xiaoning Qian",
+      "James Caverlee",
+      "Shuiwang Ji"
+    ],
+    "canonical_id": "2607.16133",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "b323e3c4c3d67fdd9f17703eb7e94568fc1578f9ad99d2129e9f2b1e2ac05a3d",
+    "first_seen_date": "2026-07-20",
+    "last_reported_date": "2026-07-20",
+    "last_seen_date": "2026-07-20",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-17T17:13:44Z",
+    "report_count": 1,
+    "title": "When Do Multi-Agent Systems Help? An Information Bottleneck Perspective",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-17T17:13:44Z"
+  },
+  "2607.16138": {
+    "authors": [
+      "Ole-Christian Galbo Engstrøm"
+    ],
+    "canonical_id": "2607.16138",
+    "categories": [
+      "cs.LG",
+      "cs.DS"
+    ],
+    "content_hash": "a7717b54b84d4b6c0bc6c4aea3f6633f7fb4132167961f424de30568e3a0dccc",
+    "first_seen_date": "2026-07-20",
+    "last_reported_date": "2026-07-20",
+    "last_seen_date": "2026-07-20",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-17T17:19:04Z",
+    "report_count": 1,
+    "title": "Improving Improved Kernel PLS",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-07-17T17:19:04Z"
+  },
+  "2607.16156": {
+    "authors": [
+      "Tam Bang",
+      "Hussam Abubakr",
+      "Emiliano de la Garza Villarreal",
+      "Truc Phuong Nguyen",
+      "Austin Harris",
+      "Toru Hirano",
+      "Mina Sartipi",
+      "Yunfei Xu",
+      "Hoang H. Nguyen"
+    ],
+    "canonical_id": "2607.16156",
+    "categories": [
+      "cs.LG",
+      "eess.SY"
+    ],
+    "content_hash": "546a5f219ee1b29e744a8cc16fabb3d01126b855ba0ffeb661ba4234ea2ff3fa",
+    "first_seen_date": "2026-07-20",
+    "last_reported_date": "2026-07-20",
+    "last_seen_date": "2026-07-20",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-17T17:35:23Z",
+    "report_count": 1,
+    "title": "PRISA: Proactive Infrastructure LiDAR Framework for Intersection Safety Assessment",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-17T17:35:23Z"
+  },
+  "2607.16165": {
+    "authors": [
+      "Jiarui Zhang",
+      "Muzi Tao",
+      "Shangshang Wang",
+      "Ollie Liu",
+      "Xuezhe Ma",
+      "Willie Neiswanger"
+    ],
+    "canonical_id": "2607.16165",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "0ead4af1c418cb6c29eb6389713b98ed25307c9a8597f4fd8792536f79d81945",
+    "first_seen_date": "2026-07-20",
+    "last_reported_date": "2026-07-20",
+    "last_seen_date": "2026-07-20",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-07-17T17:46:23Z",
+    "report_count": 1,
+    "title": "An Exam for Active Observers",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-17T17:46:23Z"
+  },
+  "2607.16168": {
+    "authors": [
+      "Ramin Soleimani",
+      "Andrea Visentin",
+      "Dirk Pesch"
+    ],
+    "canonical_id": "2607.16168",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "7ee68db9adf92e20d3f215535d3260a47dfc3afcacf34460e23389c8e21fbd91",
+    "first_seen_date": "2026-07-20",
+    "last_reported_date": "2026-07-20",
+    "last_seen_date": "2026-07-20",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-17T17:48:22Z",
+    "report_count": 1,
+    "title": "Behaviour-Conditioned Neural Processes for Adaptive Residential Short-Term Load Forecasting",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-17T17:48:22Z"
+  },
+  "2607.16169": {
+    "authors": [
+      "Kai Ruan",
+      "Jinghao Lin",
+      "Zihe Huang",
+      "Ziqi Zhou",
+      "Qianshan Wei",
+      "Xuan Wang",
+      "Hao Sun"
+    ],
+    "canonical_id": "2607.16169",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "31e72f069f7fe2402ae79647b98407b5d9e0163c01907bcf9ffcb0774d924f5f",
+    "first_seen_date": "2026-07-20",
+    "last_reported_date": "2026-07-20",
+    "last_seen_date": "2026-07-20",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-17T17:49:05Z",
+    "report_count": 1,
+    "title": "When Does Muon Help Agentic Reinforcement Learning?",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-17T17:49:05Z"
+  },
+  "2607.16175": {
+    "authors": [
+      "Md Erfan",
+      "Ahmed Ryan",
+      "Md Kamal Hossain Chowdhury",
+      "Md Rayhanur Rahman"
+    ],
+    "canonical_id": "2607.16175",
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "content_hash": "4b90c1a91a36934750629d63f09a11dea9a3415db4d035ac34d7e2a4e36a2d59",
+    "first_seen_date": "2026-07-20",
+    "last_reported_date": "2026-07-20",
+    "last_seen_date": "2026-07-20",
+    "latest_version": 1,
+    "primary_category": "cs.CR",
+    "priority": "unscored",
+    "published": "2026-07-17T17:55:19Z",
+    "report_count": 1,
+    "title": "Evaluating Open-Weight LLMs for Generating Structured Threat Information for Autonomous Vehicle Vulnerabilities",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-17T17:55:19Z"
+  },
+  "2607.16177": {
+    "authors": [
+      "Matteo Tomasetto",
+      "Nicolò Botteghi",
+      "Gabriele Bruni",
+      "Andrea Manzoni"
+    ],
+    "canonical_id": "2607.16177",
+    "categories": [
+      "cs.LG",
+      "math.OC"
+    ],
+    "content_hash": "aacc8d9f05a8a03473b82694ad38f32ded674a73da61fe823a310a1c3b368be7",
+    "first_seen_date": "2026-07-20",
+    "last_reported_date": "2026-07-20",
+    "last_seen_date": "2026-07-20",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-17T17:56:05Z",
+    "report_count": 1,
+    "title": "Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-17T17:56:05Z"
+  },
+  "2607.16178": {
+    "authors": [
+      "Gabriel Samberg",
+      "YoonHaeng Hur",
+      "Yuehaw Khoo",
+      "Nir Sharon"
+    ],
+    "canonical_id": "2607.16178",
+    "categories": [
+      "stat.ML",
+      "cs.LG",
+      "math.NA",
+      "stat.ME"
+    ],
+    "content_hash": "d5b481b97e30982822371009e3f5cbeeca1048ab87dadd825b970a7ce6f26045",
+    "first_seen_date": "2026-07-20",
+    "last_reported_date": "2026-07-20",
+    "last_seen_date": "2026-07-20",
+    "latest_version": 1,
+    "primary_category": "stat.ML",
+    "priority": "unscored",
+    "published": "2026-07-17T17:56:51Z",
+    "report_count": 1,
+    "title": "Cluster-Aware Matching via Laplacian Optimal Transport",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-17T17:56:51Z"
+  },
+  "2607.16183": {
+    "authors": [
+      "Owen Lockwood",
+      "Jérémy Béjanin",
+      "Joost Bus",
+      "Christopher Chamberland",
+      "Patrick Huembeli",
+      "Frank Schäfer",
+      "Guillaume Verdon"
+    ],
+    "canonical_id": "2607.16183",
+    "categories": [
+      "cs.LG",
+      "cs.ET",
+      "physics.app-ph"
+    ],
+    "content_hash": "462f074bcfb58cf25a9e2bc5b5e9e4c18197d90d0790f2a21106cbb6e3cedbd9",
+    "first_seen_date": "2026-07-20",
+    "last_reported_date": "2026-07-20",
+    "last_seen_date": "2026-07-20",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-17T17:57:49Z",
+    "report_count": 1,
+    "title": "A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynamic Computing",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-17T17:57:49Z"
+  },
+  "2607.16184": {
+    "authors": [
+      "Yuchen Yang",
+      "Yifan Zhao",
+      "Anisha Dasgupta",
+      "Sasa Misailovic"
+    ],
+    "canonical_id": "2607.16184",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "e3177de1f7f5a93a9b2ea31913d1e2ca7f4db04bc850e9e6c77355ba533c3b5f",
+    "first_seen_date": "2026-07-20",
+    "last_reported_date": "2026-07-20",
+    "last_seen_date": "2026-07-20",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-17T17:58:29Z",
+    "report_count": 1,
+    "title": "PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-17T17:58:29Z"
   }
 }
