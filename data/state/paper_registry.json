@@ -37535,7 +37535,7 @@
     "content_hash": "65bd3afdc021e21b42b8671104ce02b55719f1ab1aaa11f2ea18ec8c61d8f819",
     "first_seen_date": "2026-07-17",
     "last_reported_date": "2026-07-17",
-    "last_seen_date": "2026-07-20",
+    "last_seen_date": "2026-07-21",
     "latest_version": 1,
     "primary_category": "q-fin.PM",
     "priority": "unscored",
@@ -38848,5 +38848,782 @@
       "llm_progress"
     ],
     "updated": "2026-07-17T17:58:29Z"
+  },
+  "2607.16450": {
+    "authors": [
+      "Ting-Jung Lee",
+      "Abootaleb Shirvani",
+      "Farzana Afroz",
+      "Svetlozar T. Rachev",
+      "Frank J. Fabozzi"
+    ],
+    "canonical_id": "2607.16450",
+    "categories": [
+      "q-fin.PM"
+    ],
+    "content_hash": "8287789d700e9142a50357aa8135a0826ada3a2929341fa977e176a05bd48b7c",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "q-fin.PM",
+    "priority": "unscored",
+    "published": "2026-07-17T18:48:58Z",
+    "report_count": 1,
+    "title": "Portfolio Optimization under Heavy Tails and Asymmetric Volatility: Evidence from Taiwan-Exposed ETFs",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-07-17T18:48:58Z"
+  },
+  "2607.18001": {
+    "authors": [
+      "Boris Belyakov"
+    ],
+    "canonical_id": "2607.18001",
+    "categories": [
+      "q-fin.PM",
+      "q-fin.CP"
+    ],
+    "content_hash": "760145c50437ec062d205059dd07eec79efb7454c942430f838de4ddae29c04e",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "q-fin.PM",
+    "priority": "unscored",
+    "published": "2026-07-20T14:33:47Z",
+    "report_count": 1,
+    "title": "AlphaZeroBeta: Deep Reinforcement Learning for Market-Neutral Portfolios",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-07-20T14:33:47Z"
+  },
+  "2607.18116": {
+    "authors": [
+      "Lopez Jhon",
+      "Hinojosa Carlos",
+      "Ghanem Bernard"
+    ],
+    "canonical_id": "2607.18116",
+    "categories": [
+      "cs.AI",
+      "cs.CV",
+      "cs.GR",
+      "cs.MA",
+      "cs.MM"
+    ],
+    "content_hash": "a2c99032eec6cb3c44d9f6f0f240142bd4fe2bbb007bb1c6c29030e6f1351a82",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-07-20T16:11:19Z",
+    "report_count": 1,
+    "title": "SGA: Plug&Play Geometric Verification for Educational Video Synthesis",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-07-20T16:11:19Z"
+  },
+  "2607.18119": {
+    "authors": [
+      "Kyungseon Lee",
+      "Hankyo Jeong",
+      "Kunwoong Kim",
+      "Kwanho Lee",
+      "Yongdai Kim"
+    ],
+    "canonical_id": "2607.18119",
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ],
+    "content_hash": "999cff7be1ae4da0cd0bfb7b4a02d9e4d26bbda1aa5d54a58b06c0d9d5b38361",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "stat.ML",
+    "priority": "unscored",
+    "published": "2026-07-20T16:14:13Z",
+    "report_count": 1,
+    "title": "COVAriance-Induced Fairness Gap Penalty for Subgroup-Fair Clustering",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-07-20T16:14:13Z"
+  },
+  "2607.18127": {
+    "authors": [
+      "Thu T. H. Doan",
+      "Mohammad Saiful Islam",
+      "Andriy Miranskyy",
+      "Ngoc-Thanh Nguyen",
+      "Rogardt Heldal",
+      "Patrizio Pelliccione"
+    ],
+    "canonical_id": "2607.18127",
+    "categories": [
+      "cs.NI",
+      "cs.LG"
+    ],
+    "content_hash": "68e92b6678596431e4d4d02457c3655705d299facaa3834021e013d66087c2e0",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "cs.NI",
+    "priority": "unscored",
+    "published": "2026-07-20T16:20:26Z",
+    "report_count": 1,
+    "title": "ClouDens: Operational Context-Aware Anomaly Detection for Large-scale Cloud System Monitoring",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-20T16:20:26Z"
+  },
+  "2607.18130": {
+    "authors": [
+      "Valentijn Oldenburg",
+      "Floris de Kam",
+      "Bente Zuijdam",
+      "Lieve Eberson",
+      "Nicky van Zutphen",
+      "Stef de Wildt",
+      "Ivo Verhoeven"
+    ],
+    "canonical_id": "2607.18130",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "66fcecf21a91d0b4032a350af746cb923e70e8059d07bc39463b4058493c03dd",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-20T16:24:17Z",
+    "report_count": 1,
+    "title": "Manifold-Constrained Hyper-Connections for Parameter-Efficient Finetuning",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-07-20T16:24:17Z"
+  },
+  "2607.18142": {
+    "authors": [
+      "Mei Yuan",
+      "Qi Long",
+      "Qifeng Wu",
+      "Zhenyang Li",
+      "Yizhou Zhao",
+      "Lei Wang",
+      "Yang Liu",
+      "Min Xu"
+    ],
+    "canonical_id": "2607.18142",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.CL",
+      "cs.MA"
+    ],
+    "content_hash": "16ee8bfd4bef593cfacdba1f9604e542298b90d15bc0d87243ad2c38349a59dd",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-07-20T16:36:00Z",
+    "report_count": 1,
+    "title": "O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-20T16:36:00Z"
+  },
+  "2607.18144": {
+    "authors": [
+      "Thomas MacDougall",
+      "Maksim Kuznetsov",
+      "Roman Schutski",
+      "Rim Shayakhmetov",
+      "Maxim Malkov",
+      "Vladimir Aladinskiy",
+      "Alex Aliper",
+      "Alex Zhavoronkov"
+    ],
+    "canonical_id": "2607.18144",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "a91fed6caef51ab9f6c3b65b44f74d323b0055e40970f535004013bf0fdf2a54",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-20T16:43:54Z",
+    "report_count": 1,
+    "title": "Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-20T16:43:54Z"
+  },
+  "2607.18147": {
+    "authors": [
+      "Daniela Rojas",
+      "Abdulwahab Albassam",
+      "Aidan G. Leung",
+      "Jett Ngo",
+      "Ryan Luo",
+      "Peter R. Quawas",
+      "Junpyung Kim",
+      "Kangkai Liang",
+      "Mansi Nanavati",
+      "Jonathan Mai",
+      "Meng-Chi Tsai",
+      "Yun-Tong Tsai",
+      "Yize Chen",
+      "Yuanyuan Shi"
+    ],
+    "canonical_id": "2607.18147",
+    "categories": [
+      "eess.SY",
+      "cs.AI"
+    ],
+    "content_hash": "f0fcd5b97465f7edd509eeea62cab4c131b32d7129c122bab0f661c620b49894",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "eess.SY",
+    "priority": "unscored",
+    "published": "2026-07-20T16:45:13Z",
+    "report_count": 1,
+    "title": "LLMs and Agentic AI Systems for Smart Grids: A Tutorial on Architectures and Applications",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-20T16:45:13Z"
+  },
+  "2607.18161": {
+    "authors": [
+      "Alex Mathai",
+      "Shobini Iyer",
+      "Aleksandr Nogikh",
+      "Petros Maniatis",
+      "Franjo Ivancic",
+      "Junfeng Yang",
+      "Baishakhi Ray"
+    ],
+    "canonical_id": "2607.18161",
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.OS"
+    ],
+    "content_hash": "d2de324704c16ab1a509125622d872e43d9f59d77ed139932397ad1c9e5531c2",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "cs.SE",
+    "priority": "unscored",
+    "published": "2026-07-20T17:06:19Z",
+    "report_count": 1,
+    "title": "TRIM: Reducing AI-Generated CodeSlop via Agent Trajectory Minimization",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-20T17:06:19Z"
+  },
+  "2607.18162": {
+    "authors": [
+      "Shreyas Pradeepkumar Khandale"
+    ],
+    "canonical_id": "2607.18162",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "7f6ad079bc0fc755863b410596656ba46dc36dcb801aca10a6062f67a7ad7099",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-20T17:07:26Z",
+    "report_count": 1,
+    "title": "The Calibration Channel Determines the Bayes-Error Proxy: An Exact Law for Temperature-Induced Distortion",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-20T17:07:26Z"
+  },
+  "2607.18163": {
+    "authors": [
+      "Chinmay Rane",
+      "Kanishka Tyagi",
+      "Michael Manry"
+    ],
+    "canonical_id": "2607.18163",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "82e079f74ba3c134d540ea0c5b91792f4160ca7674461ae0b58c30ded60e8400",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-20T17:07:40Z",
+    "report_count": 1,
+    "title": "OR Else: A Differentiable Trust Region for Policy Optimization",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-20T17:07:40Z"
+  },
+  "2607.18171": {
+    "authors": [
+      "Krish Agarwal",
+      "Zhuoming Chen",
+      "Yanyuan Qin",
+      "Zhenyu Gu",
+      "Atri Rudra",
+      "Beidi Chen"
+    ],
+    "canonical_id": "2607.18171",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "d0ff2266d5527ec88d76df428d6a595ce8e0ab8f2235ac509fedfd0051594215",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-20T17:12:28Z",
+    "report_count": 1,
+    "title": "FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-20T17:12:28Z"
+  },
+  "2607.18187": {
+    "authors": [
+      "Kaiyuan Tang",
+      "Maizhe Yang",
+      "Chaoli Wang"
+    ],
+    "canonical_id": "2607.18187",
+    "categories": [
+      "cs.GR",
+      "cs.DB",
+      "cs.LG"
+    ],
+    "content_hash": "c88ea0fd05b2df858441746d29e63266a438794d5c36a9939156ddf7ce3f32cc",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "cs.GR",
+    "priority": "unscored",
+    "published": "2026-07-20T17:26:21Z",
+    "report_count": 1,
+    "title": "EVOLVE: Efficient Learned Volume Compression with Variable-Rate Encoding on a Cross-Domain Database",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-20T17:26:21Z"
+  },
+  "2607.18195": {
+    "authors": [
+      "Benedikt Brückner",
+      "Alessio Lomuscio"
+    ],
+    "canonical_id": "2607.18195",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "09ace58b8a56b7fd5ed50a0d76e8df59777806b89f98f0f56e32349bf932e888",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-07-20T17:36:05Z",
+    "report_count": 1,
+    "title": "Certified Training for Convolutional Perturbations",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-20T17:36:05Z"
+  },
+  "2607.18199": {
+    "authors": [
+      "Hang Zhang",
+      "Warren J. Gross"
+    ],
+    "canonical_id": "2607.18199",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "6144d7c31ba686cbe09430299dc34b8e981a01a8a70a96ec1794442a2c377bd0",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-07-20T17:38:38Z",
+    "report_count": 1,
+    "title": "PPL-Factory: Task-Aware and Budget-Aware Data Selection from Language Modeling to Reasoning",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-20T17:38:38Z"
+  },
+  "2607.18209": {
+    "authors": [
+      "Yihong Gu",
+      "Katherine Liao",
+      "Tianxi Cai"
+    ],
+    "canonical_id": "2607.18209",
+    "categories": [
+      "math.ST",
+      "cs.LG",
+      "stat.ME",
+      "stat.ML"
+    ],
+    "content_hash": "a648dca17c048b4d9f969756f794b3e7e44d3cd17c37c8adbe7c2426b6bda10f",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "math.ST",
+    "priority": "unscored",
+    "published": "2026-07-20T17:44:57Z",
+    "report_count": 1,
+    "title": "Unveiling Invariant and Transferable Latent Factors Across Heterogeneous Environments via ATLAS",
+    "topics": [
+      "cross_section_time_series",
+      "llm_progress"
+    ],
+    "updated": "2026-07-20T17:44:57Z"
+  },
+  "2607.18213": {
+    "authors": [
+      "Yuhang Wang",
+      "Yuling Shi",
+      "Shaoqiu Zhang",
+      "Jialiang Liang",
+      "Shilin He",
+      "Siyu Ye",
+      "Yuting Chen",
+      "Kai Cai",
+      "Xiaodong Gu"
+    ],
+    "canonical_id": "2607.18213",
+    "categories": [
+      "cs.CL",
+      "cs.SE"
+    ],
+    "content_hash": "acb9486c45996efa57190d67aac78ce3b8e4b760d46f6575b83cb557f371ab9c",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-07-20T17:47:44Z",
+    "report_count": 1,
+    "title": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-20T17:47:44Z"
+  },
+  "2607.18218": {
+    "authors": [
+      "Naoto Usuyama",
+      "Jeya Maria Jose Valanarasu",
+      "Sicong Yao",
+      "Hanwen Xu",
+      "Jaspreet Bagga",
+      "Guanghui Qin",
+      "Robert E. Kramer",
+      "Cliff Wong",
+      "Soohee Lee",
+      "Hao Qiu",
+      "Theodore Zhengde Zhao",
+      "Racheli Ben Shimol",
+      "Angela Crabtree",
+      "Kevin Matlock",
+      "Eduardo Alejandro Lozano Garcia",
+      "Naiteek Sangani",
+      "Alberto Santamaria-Pang",
+      "Jason Entenmann",
+      "Alexandra Q. Bartlett",
+      "Bill J. Wright",
+      "Bernard A. Fox",
+      "Brian Piening",
+      "Sheng Zhang",
+      "Sheng Wang",
+      "Tristan Naumann",
+      "Carlo Bifulco",
+      "Hoifung Poon"
+    ],
+    "canonical_id": "2607.18218",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "e1d511f4ed6cb5a1b8387ed34727d126c3a37a43b13bef2fe29db05b0f29ac88",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-07-20T17:52:33Z",
+    "report_count": 1,
+    "title": "GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-20T17:52:33Z"
+  },
+  "2607.18225": {
+    "authors": [
+      "Masahiro Kato",
+      "Taka Kato"
+    ],
+    "canonical_id": "2607.18225",
+    "categories": [
+      "econ.EM",
+      "cs.LG",
+      "math.ST",
+      "stat.ME",
+      "stat.ML"
+    ],
+    "content_hash": "e00d43b7ebf2f9b840ecd9f7b4a86d0c3113ef8433acfcfc4083c060fe62300b",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "econ.EM",
+    "priority": "unscored",
+    "published": "2026-07-20T17:57:20Z",
+    "report_count": 1,
+    "title": "Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-20T17:57:20Z"
+  },
+  "2607.18226": {
+    "authors": [
+      "Martim Penim",
+      "Ricardo Ribeiro Pereira",
+      "Jacopo Bono",
+      "Hugo Ferreira",
+      "Mário A. T. Figueiredo",
+      "Pedro Bizarro"
+    ],
+    "canonical_id": "2607.18226",
+    "categories": [
+      "cs.LG",
+      "stat.ME"
+    ],
+    "content_hash": "4592b54a90a9829f8c98da5100339bef8ab6cc5d21ad8c0bb6bd50aa5c93c261",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-20T17:57:45Z",
+    "report_count": 1,
+    "title": "Causal Discovery on Irregular Time Series",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-07-20T17:57:45Z"
+  },
+  "2607.18228": {
+    "authors": [
+      "Brian K Chen"
+    ],
+    "canonical_id": "2607.18228",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "bddfd207248807acc54206d22575cd11e3458adb28c6c6a763499689e5aceabd",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-07-20T17:58:05Z",
+    "report_count": 1,
+    "title": "Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-20T17:58:05Z"
+  },
+  "2607.18230": {
+    "authors": [
+      "Yi Tang",
+      "Xinyi Shang",
+      "Jiacheng Cui",
+      "Sondos Mahmoud Bsharat",
+      "Jiacheng Liu",
+      "Xiaohan Zhao",
+      "Tran Dinh Tien",
+      "Ahmed Elhagry",
+      "Salwa K. Al Khatib",
+      "Tianjun Yao",
+      "Yonina C. Eldar",
+      "Jing-Hao Xue",
+      "Hao Li",
+      "Salman Khan",
+      "Zhiqiang Shen"
+    ],
+    "canonical_id": "2607.18230",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "8a05dd54dc034fc37d6457982dfb9219d0d8bd8c608c701b8a51c6bcda7362d8",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-07-20T17:58:13Z",
+    "report_count": 1,
+    "title": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-20T17:58:13Z"
+  },
+  "2607.18232": {
+    "authors": [
+      "Kevin Du",
+      "Clara Kümpel",
+      "Michelle Wastl",
+      "Alex Warstadt"
+    ],
+    "canonical_id": "2607.18232",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "f4b612062231039ef76c3fd8b6789aa4ee87a4ca54a43ac9c7ed982df8aaae2a",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-07-20T17:58:31Z",
+    "report_count": 1,
+    "title": "It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-20T17:58:31Z"
+  },
+  "2607.18236": {
+    "authors": [
+      "Gaoyue Zhou",
+      "Zichen Jeff Cui",
+      "Ada Langford",
+      "Bowen Tan",
+      "Yann LeCun",
+      "Lerrel Pinto"
+    ],
+    "canonical_id": "2607.18236",
+    "categories": [
+      "cs.RO",
+      "cs.LG"
+    ],
+    "content_hash": "f96f0cbf0d777bd15caaa62afc2186469dc373f5647f82598211a38347ba699f",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-07-20T17:59:41Z",
+    "report_count": 1,
+    "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-20T17:59:41Z"
+  },
+  "2607.18237": {
+    "authors": [
+      "Sheng-Yu Wang",
+      "Yotam Nitzan",
+      "Aaron Hertzmann",
+      "Jun-Yan Zhu",
+      "Eli Shechtman",
+      "Alexei A. Efros",
+      "Richard Zhang"
+    ],
+    "canonical_id": "2607.18237",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "c0e7549c74215e6fa12c373c39755842a22891860228140f640e7ec7d7bc4914",
+    "first_seen_date": "2026-07-21",
+    "last_reported_date": "2026-07-21",
+    "last_seen_date": "2026-07-21",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-07-20T17:59:51Z",
+    "report_count": 1,
+    "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-20T17:59:51Z"
   }
 }
