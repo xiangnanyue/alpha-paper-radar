@@ -38888,7 +38888,7 @@
     "content_hash": "760145c50437ec062d205059dd07eec79efb7454c942430f838de4ddae29c04e",
     "first_seen_date": "2026-07-21",
     "last_reported_date": "2026-07-21",
-    "last_seen_date": "2026-07-22",
+    "last_seen_date": "2026-07-23",
     "latest_version": 1,
     "primary_category": "q-fin.PM",
     "priority": "unscored",
@@ -39639,7 +39639,7 @@
     "content_hash": "048d7d8ab2af1a6543800d09dff3746e83229ac70acd0890331f6d06724eeef4",
     "first_seen_date": "2026-07-22",
     "last_reported_date": "2026-07-22",
-    "last_seen_date": "2026-07-22",
+    "last_seen_date": "2026-07-23",
     "latest_version": 1,
     "primary_category": "q-fin.MF",
     "priority": "unscored",
@@ -39998,7 +39998,7 @@
     "content_hash": "845e8591b5cb7a6502996a32d5ad138bf3c94ef3959803184ef56dd42a52adfa",
     "first_seen_date": "2026-07-22",
     "last_reported_date": "2026-07-22",
-    "last_seen_date": "2026-07-22",
+    "last_seen_date": "2026-07-23",
     "latest_version": 1,
     "primary_category": "stat.ME",
     "priority": "unscored",
@@ -40371,5 +40371,604 @@
       "llm_progress"
     ],
     "updated": "2026-07-21T17:59:21Z"
+  },
+  "2607.19825": {
+    "authors": [
+      "Hamid Karamikabir",
+      "Mohammad Arashi"
+    ],
+    "canonical_id": "2607.19825",
+    "categories": [
+      "stat.ME",
+      "math.ST"
+    ],
+    "content_hash": "d41111f018a01acf6bb9937933af0f20a78f3f6ebebbc2a97dfd54010c5744e1",
+    "first_seen_date": "2026-07-23",
+    "last_reported_date": "2026-07-23",
+    "last_seen_date": "2026-07-23",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-07-22T06:58:00Z",
+    "report_count": 1,
+    "title": "Mens: Nonlinear shrinkage estimation in nonparanormal models for financial applications",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-07-22T06:58:00Z"
+  },
+  "2607.20093": {
+    "authors": [
+      "Adam Darmanin"
+    ],
+    "canonical_id": "2607.20093",
+    "categories": [
+      "q-fin.ST",
+      "q-fin.RM",
+      "q-fin.TR"
+    ],
+    "content_hash": "6f01c74484355270085899feec32ccbd56733ae0994fc69041a5dd31d3179418",
+    "first_seen_date": "2026-07-23",
+    "last_reported_date": "2026-07-23",
+    "last_seen_date": "2026-07-23",
+    "latest_version": 1,
+    "primary_category": "q-fin.ST",
+    "priority": "unscored",
+    "published": "2026-07-22T12:47:56Z",
+    "report_count": 1,
+    "title": "Retail Trader's Ruin: An Anatomy of Popular Signal Failure",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-07-22T12:47:56Z"
+  },
+  "2607.20156": {
+    "authors": [
+      "Viviana Celli",
+      "Augusto Cerqua",
+      "Guido Pellegrini"
+    ],
+    "canonical_id": "2607.20156",
+    "categories": [
+      "econ.EM"
+    ],
+    "content_hash": "089646a11a57a92af7e51f3d0d32e1f3a119ceca92188d181a0ca5b86b6fa0e7",
+    "first_seen_date": "2026-07-23",
+    "last_reported_date": "2026-07-23",
+    "last_seen_date": "2026-07-23",
+    "latest_version": 1,
+    "primary_category": "econ.EM",
+    "priority": "unscored",
+    "published": "2026-07-22T13:53:43Z",
+    "report_count": 1,
+    "title": "Identifying Treatment and Spillover Effects with Control-Based and Forecast-Based Counterfactuals",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-07-22T13:53:43Z"
+  },
+  "2607.20265": {
+    "authors": [
+      "Ahmad Pouramini",
+      "Mahsa Afsharzadeh"
+    ],
+    "canonical_id": "2607.20265",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "df3251f19e4f5ec769989c7c6774eb051ec6d000f27d85d3cce69c127a2c7ce6",
+    "first_seen_date": "2026-07-23",
+    "last_reported_date": "2026-07-23",
+    "last_seen_date": "2026-07-23",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-07-22T15:19:23Z",
+    "report_count": 1,
+    "title": "The Maskability Index: Predicting Task-Objective Alignment in Pretrained Language Models",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-07-22T15:19:23Z"
+  },
+  "2607.20268": {
+    "authors": [
+      "Anmol Kankariya",
+      "Sercan Ö. Arık"
+    ],
+    "canonical_id": "2607.20268",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "d0700a10163f556bf29994896c321832cbea37d41834fad78e93ae42831a4796",
+    "first_seen_date": "2026-07-23",
+    "last_reported_date": "2026-07-23",
+    "last_seen_date": "2026-07-23",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-07-22T15:20:53Z",
+    "report_count": 1,
+    "title": "PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-07-22T15:20:53Z"
+  },
+  "2607.20274": {
+    "authors": [
+      "Soroosh Tayebi Arasteh",
+      "Sebastian Ziegelmayer",
+      "Mahshad Lotfinia",
+      "Lisa Adams",
+      "Sven Nebelung",
+      "Jakob Nikolas Kather",
+      "Daniel Truhn"
+    ],
+    "canonical_id": "2607.20274",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "38d18c2a364724e38c69fd8ba0c6420276a1c3d29d43f98d04cb6c7f9fc118c5",
+    "first_seen_date": "2026-07-23",
+    "last_reported_date": "2026-07-23",
+    "last_seen_date": "2026-07-23",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-07-22T15:25:05Z",
+    "report_count": 1,
+    "title": "Self-supervision drives representational convergence in medical foundation models more than clinical supervision",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-22T15:25:05Z"
+  },
+  "2607.20286": {
+    "authors": [
+      "Mahdi Nazeri",
+      "Anne-Kathrin Schmuck",
+      "Sadegh Soudjani",
+      "Alessandro Abate"
+    ],
+    "canonical_id": "2607.20286",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "8dbcbd7c8911b6aedf2fbdbfa14fa79771f33a6cd5aa4a04faaa60698ab8554c",
+    "first_seen_date": "2026-07-23",
+    "last_reported_date": "2026-07-23",
+    "last_seen_date": "2026-07-23",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-07-22T15:31:28Z",
+    "report_count": 1,
+    "title": "Sound Probabilistic Safety Bounds for Large Language Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-22T15:31:28Z"
+  },
+  "2607.20289": {
+    "authors": [
+      "Md Ridwan Hossain Talukder",
+      "Roshan Dhakal",
+      "Elizabeth Phillips",
+      "Gregory J. Stein"
+    ],
+    "canonical_id": "2607.20289",
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "content_hash": "f668acfca12e41a960984c45d995b09e6f396b7e987a8a8799ead67cd6819fdc",
+    "first_seen_date": "2026-07-23",
+    "last_reported_date": "2026-07-23",
+    "last_seen_date": "2026-07-23",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-07-22T15:36:11Z",
+    "report_count": 1,
+    "title": "Courteous Anticipation: Improving Long-Lived Task Planning in Persistent Shared Environments",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-22T15:36:11Z"
+  },
+  "2607.20301": {
+    "authors": [
+      "Abigail Woodring",
+      "Adrian Chan",
+      "Rana Muhammad Shahroz Khan",
+      "Sukwon Yun",
+      "Chau-Wai Wong",
+      "Tianlong Chen"
+    ],
+    "canonical_id": "2607.20301",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "content_hash": "2b9c95ae532faa24ac0eaedbbafa092fe1adf4f8ac4f7b0f1588caf98901a82e",
+    "first_seen_date": "2026-07-23",
+    "last_reported_date": "2026-07-23",
+    "last_seen_date": "2026-07-23",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-22T15:48:39Z",
+    "report_count": 1,
+    "title": "The Blessing of Dimensionality: How Near-Orthogonality in High-Dimensional Spaces Explains Temporal Portability",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-22T15:48:39Z"
+  },
+  "2607.20302": {
+    "authors": [
+      "Ivan Ge",
+      "Sagar Addepalli",
+      "Abhilasha Dave",
+      "Julia Gonski"
+    ],
+    "canonical_id": "2607.20302",
+    "categories": [
+      "cs.LG",
+      "hep-ph",
+      "physics.ins-det"
+    ],
+    "content_hash": "24db5ece1e5f714b7dac7313e88f551952727e4b0d98e50da82f8c84bd992561",
+    "first_seen_date": "2026-07-23",
+    "last_reported_date": "2026-07-23",
+    "last_seen_date": "2026-07-23",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-22T15:50:22Z",
+    "report_count": 1,
+    "title": "Classical Hardware Acceleration of Quantum Autoencoders for Real-Time Anomaly Detection in Collider Experiments",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-22T15:50:22Z"
+  },
+  "2607.20321": {
+    "authors": [
+      "Tianyu Li",
+      "Zhiwei Cao",
+      "Qingang Zhang",
+      "Ruihang Wang",
+      "Binyang Song",
+      "Yonggang Wen"
+    ],
+    "canonical_id": "2607.20321",
+    "categories": [
+      "physics.flu-dyn",
+      "cs.LG"
+    ],
+    "content_hash": "b750c4d7eef78195f4b6901860a662112bb4163489b1b3e8f236655cf2a08e4b",
+    "first_seen_date": "2026-07-23",
+    "last_reported_date": "2026-07-23",
+    "last_seen_date": "2026-07-23",
+    "latest_version": 1,
+    "primary_category": "physics.flu-dyn",
+    "priority": "unscored",
+    "published": "2026-07-22T16:07:09Z",
+    "report_count": 1,
+    "title": "Label-Free Finite-Volume-Residual Training of Attention Graph Neural Networks for Coupled Thermo-Fluid Fields",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-22T16:07:09Z"
+  },
+  "2607.20323": {
+    "authors": [
+      "Sandro Kuppel",
+      "Julian Hoßbach",
+      "Samuel Tovey",
+      "Christian Holm"
+    ],
+    "canonical_id": "2607.20323",
+    "categories": [
+      "cs.LG",
+      "physics.comp-ph",
+      "q-bio.BM"
+    ],
+    "content_hash": "0dbf0f3164a3de46b491286e25a19f37428d03f5bd22fa197cfc7a23fb6e4664",
+    "first_seen_date": "2026-07-23",
+    "last_reported_date": "2026-07-23",
+    "last_seen_date": "2026-07-23",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-22T16:09:34Z",
+    "report_count": 1,
+    "title": "Multi-modal transformer for signal classification in nanopore blockade experiments",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-07-22T16:09:34Z"
+  },
+  "2607.20327": {
+    "authors": [
+      "Niqi Lyu",
+      "Pengtao Shi",
+      "Wei Qiu",
+      "Jianlin Zhong",
+      "Sicong Xia",
+      "Jianyao Ma",
+      "Yicheng Ding"
+    ],
+    "canonical_id": "2607.20327",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "02b151896b152132625196100a644f9f58911797930bdf05add21d33a31a6985",
+    "first_seen_date": "2026-07-23",
+    "last_reported_date": "2026-07-23",
+    "last_seen_date": "2026-07-23",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-07-22T16:14:26Z",
+    "report_count": 1,
+    "title": "PyroDash: Cost-Efficient Token-Level Small-Large Language Model Collaborative Inference",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-22T16:14:26Z"
+  },
+  "2607.20345": {
+    "authors": [
+      "Roger Sala Sisó",
+      "Tiago Silvério",
+      "Jakob Sand",
+      "Tran Nguyen Le"
+    ],
+    "canonical_id": "2607.20345",
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "content_hash": "e427ad8c2fd50c77eb55a488b4551a9b04a89a481f7670e5504f2b82e0fe202c",
+    "first_seen_date": "2026-07-23",
+    "last_reported_date": "2026-07-23",
+    "last_seen_date": "2026-07-23",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-07-22T16:30:51Z",
+    "report_count": 1,
+    "title": "Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-07-22T16:30:51Z"
+  },
+  "2607.20372": {
+    "authors": [
+      "Chang Liu",
+      "Xinyu Li",
+      "Artur Dubrawski"
+    ],
+    "canonical_id": "2607.20372",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "f1c0a242298348ecc9c0c345789c4d0ed47a64d53191f119016c800b7770ef2d",
+    "first_seen_date": "2026-07-23",
+    "last_reported_date": "2026-07-23",
+    "last_seen_date": "2026-07-23",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-07-22T17:02:34Z",
+    "report_count": 1,
+    "title": "Notes to Self: Can LLMs Benefit from Experiential Abstractions?",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-22T17:02:34Z"
+  },
+  "2607.20374": {
+    "authors": [
+      "Andrea Napoli"
+    ],
+    "canonical_id": "2607.20374",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "a0e56f595c7e45ba5341bfd32c7ab69fbb118197d68cc0cc510753dc6ff4edcc",
+    "first_seen_date": "2026-07-23",
+    "last_reported_date": "2026-07-23",
+    "last_seen_date": "2026-07-23",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-22T17:04:29Z",
+    "report_count": 1,
+    "title": "Online Variance Reduction for Domain Adaptation on Streaming Data",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-22T17:04:29Z"
+  },
+  "2607.20378": {
+    "authors": [
+      "Amirhossein Sadr",
+      "Nima Soltani",
+      "Vahideh Moghtadaiee",
+      "Aida Pakniyat",
+      "Dara Rahmati",
+      "Saeid Gorgin"
+    ],
+    "canonical_id": "2607.20378",
+    "categories": [
+      "cs.LG",
+      "math.NA"
+    ],
+    "content_hash": "bf8e3b9d41b5ec27c47f53a5e289974c12970242f506819d10d3267fec0f782d",
+    "first_seen_date": "2026-07-23",
+    "last_reported_date": "2026-07-23",
+    "last_seen_date": "2026-07-23",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-22T17:08:29Z",
+    "report_count": 1,
+    "title": "PG-KINN: A Physics-Informed Petrov-Galerkin Kolmogorov-Arnold Network for Solving Forward and Inverse PDEs",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-07-22T17:08:29Z"
+  },
+  "2607.20382": {
+    "authors": [
+      "Eva McCord",
+      "Ernest Pedapati",
+      "Zag ElSayed"
+    ],
+    "canonical_id": "2607.20382",
+    "categories": [
+      "cs.HC",
+      "cs.AI",
+      "cs.ET",
+      "physics.med-ph",
+      "q-bio.NC"
+    ],
+    "content_hash": "a2e286abf0edc64dbacc91aae670a5f3dc3ec2c621c75c8190aec07e5481d199",
+    "first_seen_date": "2026-07-23",
+    "last_reported_date": "2026-07-23",
+    "last_seen_date": "2026-07-23",
+    "latest_version": 1,
+    "primary_category": "cs.HC",
+    "priority": "unscored",
+    "published": "2026-07-22T17:11:52Z",
+    "report_count": 1,
+    "title": "FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-22T17:11:52Z"
+  },
+  "2607.20385": {
+    "authors": [
+      "Pouria Mahdi",
+      "Haq Nawaz Malik"
+    ],
+    "canonical_id": "2607.20385",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "02b68e7b4111bc0c14a14cc618079a31632cd417ada1c70b6eef63bf3f389708",
+    "first_seen_date": "2026-07-23",
+    "last_reported_date": "2026-07-23",
+    "last_seen_date": "2026-07-23",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-07-22T17:13:25Z",
+    "report_count": 1,
+    "title": "Persian Pixel: A large-scale synthetic OCR dataset for Persian language",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-22T17:13:25Z"
+  },
+  "2607.20399": {
+    "authors": [
+      "Nicolas Kosanovic",
+      "Jordan Dowdy",
+      "Jean Chagas Vaz"
+    ],
+    "canonical_id": "2607.20399",
+    "categories": [
+      "cs.RO",
+      "cs.HC",
+      "cs.LG"
+    ],
+    "content_hash": "4963e92c02a528121e138cee5158102ee2d00456e5a881854f32fe31fde9c17f",
+    "first_seen_date": "2026-07-23",
+    "last_reported_date": "2026-07-23",
+    "last_seen_date": "2026-07-23",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-07-22T17:35:43Z",
+    "report_count": 1,
+    "title": "Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-22T17:35:43Z"
+  },
+  "2607.20402": {
+    "authors": [
+      "Wael AbdAlmageed"
+    ],
+    "canonical_id": "2607.20402",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "f56114ce9b11c5f9bd21a66359bc99f85d70c8cc130270fcffa9c9f41d284285",
+    "first_seen_date": "2026-07-23",
+    "last_reported_date": "2026-07-23",
+    "last_seen_date": "2026-07-23",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-07-22T17:38:39Z",
+    "report_count": 1,
+    "title": "SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-22T17:38:39Z"
+  },
+  "2607.20410": {
+    "authors": [
+      "Nethmi Muthugala",
+      "Supryadi",
+      "Surangika Ranathunga",
+      "Nisansa de Silva",
+      "Ruijie Tao",
+      "Ovindu Gunatunga",
+      "Pengyun Zhu",
+      "Shaowei Zhang",
+      "Jingting Zheng",
+      "Deyi Xiong"
+    ],
+    "canonical_id": "2607.20410",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "97dc7d2c4e085a2a01a179b5fe3cc63243682d4af1028c781713431202fba291",
+    "first_seen_date": "2026-07-23",
+    "last_reported_date": "2026-07-23",
+    "last_seen_date": "2026-07-23",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-07-22T17:49:37Z",
+    "report_count": 1,
+    "title": "LKValues: Aligning Large Language Models with Sri Lankan Societal Values",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-22T17:49:37Z"
   }
 }
