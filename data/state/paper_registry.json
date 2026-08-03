@@ -44350,7 +44350,7 @@
     "content_hash": "095db073e11e7c33b097922b7b98f5d83a7c2a171f2bd8f9c8a3c1f5380db94f",
     "first_seen_date": "2026-07-30",
     "last_reported_date": "2026-07-30",
-    "last_seen_date": "2026-08-02",
+    "last_seen_date": "2026-08-03",
     "latest_version": 1,
     "primary_category": "stat.AP",
     "priority": "unscored",
@@ -44997,7 +44997,7 @@
     "content_hash": "ac73c8412ff1029da56959f5c24b02f2cc1966b74acdc624ae4959f4be2db021",
     "first_seen_date": "2026-07-31",
     "last_reported_date": "2026-07-31",
-    "last_seen_date": "2026-08-02",
+    "last_seen_date": "2026-08-03",
     "latest_version": 1,
     "primary_category": "q-fin.PM",
     "priority": "unscored",
@@ -45901,5 +45901,568 @@
       "deep_learning_sota"
     ],
     "updated": "2026-07-30T17:59:56Z"
+  },
+  "2607.29527": {
+    "authors": [
+      "Carlos Rodriguez-Pardo",
+      "Massimo Tavoni"
+    ],
+    "canonical_id": "2607.29527",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CY",
+      "econ.EM",
+      "stat.ML"
+    ],
+    "content_hash": "7a0f639eec4e5820d8fc70c22a10246ec7ac493db0560b93fe3e7f191533ffc1",
+    "first_seen_date": "2026-08-03",
+    "last_reported_date": "2026-08-03",
+    "last_seen_date": "2026-08-03",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-31T15:27:26Z",
+    "report_count": 1,
+    "title": "TerraNova: A Foundation Model for the Anthropocene",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-07-31T15:27:26Z"
+  },
+  "2607.29530": {
+    "authors": [
+      "Ranveer Singh",
+      "Pranuthi Tenali",
+      "Saurabh Mathur",
+      "Ameet Soni",
+      "Vaishali Phatak",
+      "Karla Lynch",
+      "Daniel Murman",
+      "Matthew Rizzo",
+      "Sriraam Natarajan"
+    ],
+    "canonical_id": "2607.29530",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "f55780fe1666e0981ad3e3e139beccbca7ef71560b27fce5a64b8b956f3cb924",
+    "first_seen_date": "2026-08-03",
+    "last_reported_date": "2026-08-03",
+    "last_seen_date": "2026-08-03",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-31T15:29:22Z",
+    "report_count": 1,
+    "title": "A Neurosymbolic Approach for Explainable Early Diagnosis of Alzheimer's Disease",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-07-31T15:29:22Z"
+  },
+  "2607.29539": {
+    "authors": [
+      "Gaetano Perrone",
+      "Simon Pietro Romano"
+    ],
+    "canonical_id": "2607.29539",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "4756703919975a59a47b9499da59f613bdb2ecf782e4ad1907e3200f4530c9a7",
+    "first_seen_date": "2026-08-03",
+    "last_reported_date": "2026-08-03",
+    "last_seen_date": "2026-08-03",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-07-31T15:35:57Z",
+    "report_count": 1,
+    "title": "ARB: A Matched Authorship-Rewriting Benchmark Dataset for AI-Text Detector Evaluation",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-31T15:35:57Z"
+  },
+  "2607.29549": {
+    "authors": [
+      "Rui Zou",
+      "Yutao Zhu",
+      "Mengqi Wei",
+      "Ji-Rong Wen"
+    ],
+    "canonical_id": "2607.29549",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "94ef14403ad23b0e1065b6c9429a98900f8b45a192d92b334a43a50dbcc9cf23",
+    "first_seen_date": "2026-08-03",
+    "last_reported_date": "2026-08-03",
+    "last_seen_date": "2026-08-03",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-07-31T15:42:00Z",
+    "report_count": 1,
+    "title": "AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-31T15:42:00Z"
+  },
+  "2607.29559": {
+    "authors": [
+      "Manith Adikari",
+      "Bei Peng",
+      "Samuele Vinanzi",
+      "Angelo Cangelosi"
+    ],
+    "canonical_id": "2607.29559",
+    "categories": [
+      "cs.AI",
+      "cs.RO"
+    ],
+    "content_hash": "a4032a8193df6ee0af5488776d1874c54684698efc60e74f7525f0decdbfc16c",
+    "first_seen_date": "2026-08-03",
+    "last_reported_date": "2026-08-03",
+    "last_seen_date": "2026-08-03",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-07-31T15:50:29Z",
+    "report_count": 1,
+    "title": "LEMUR: Learning to Align with Multi-Objective Reinforcement Learning from Preference Feedback",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-31T15:50:29Z"
+  },
+  "2607.29561": {
+    "authors": [
+      "Boxiao Wang",
+      "Runxiang Wang",
+      "Kai Li",
+      "Chongming Li",
+      "Zhiwei Chen",
+      "Yifan Zhang",
+      "Jian Cheng"
+    ],
+    "canonical_id": "2607.29561",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "f8e7504a8bf59b57fd454acdf4a0105b0388016dd434063857ac3b2b788279a1",
+    "first_seen_date": "2026-08-03",
+    "last_reported_date": "2026-08-03",
+    "last_seen_date": "2026-08-03",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-31T15:52:07Z",
+    "report_count": 1,
+    "title": "MOT-SR: Multi-Objective Tool-Augmented Scientific Equation Discovery with Large Language Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-31T15:52:07Z"
+  },
+  "2607.29577": {
+    "authors": [
+      "Ismayil Ismayilov",
+      "Atakan Kara",
+      "Kaan Oktay"
+    ],
+    "canonical_id": "2607.29577",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "ae27ace42d947d9b7bf870c9139233369eec2947d9bf31c81f796d7cab177846",
+    "first_seen_date": "2026-08-03",
+    "last_reported_date": "2026-08-03",
+    "last_seen_date": "2026-08-03",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-07-31T16:03:38Z",
+    "report_count": 1,
+    "title": "DungeonBench: A Benchmark for Rules-Rich Tactical Reasoning in Dungeons & Dragons Combat",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-31T16:03:38Z"
+  },
+  "2607.29586": {
+    "authors": [
+      "Binnan Liu",
+      "Yechi Ma",
+      "Tian Xie",
+      "Wei Hua"
+    ],
+    "canonical_id": "2607.29586",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "6b796e8a2875e3ad02fe7e72fb0c95622b7edae586bd5adabb171f5dc597065e",
+    "first_seen_date": "2026-08-03",
+    "last_reported_date": "2026-08-03",
+    "last_seen_date": "2026-08-03",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-07-31T16:09:44Z",
+    "report_count": 1,
+    "title": "TraceViT: Grounded Trace Supervision for Visual Abstract Reasoning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-31T16:09:44Z"
+  },
+  "2607.29591": {
+    "authors": [
+      "Yuhang Zhan",
+      "Lisi Chen",
+      "Shuo Shang"
+    ],
+    "canonical_id": "2607.29591",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "ef38f0217b606469294714b55f43e230f2a054a0f7217ff768945f66edf7110e",
+    "first_seen_date": "2026-08-03",
+    "last_reported_date": "2026-08-03",
+    "last_seen_date": "2026-08-03",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-07-31T16:16:45Z",
+    "report_count": 1,
+    "title": "ResKV: Reconstructing Omitted Attention Contributions for Fixed-Budget KV Cache Compression",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-31T16:16:45Z"
+  },
+  "2607.29601": {
+    "authors": [
+      "Jiajia Tang",
+      "Sizhe Yuen",
+      "Francisco Gomez Medina",
+      "Yali Du",
+      "Adam Sobey"
+    ],
+    "canonical_id": "2607.29601",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "9e1b8ed677b7af3125f72f288e4a348fb157e27dca7c16e87029496e16b41a29",
+    "first_seen_date": "2026-08-03",
+    "last_reported_date": "2026-08-03",
+    "last_seen_date": "2026-08-03",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-31T16:33:18Z",
+    "report_count": 1,
+    "title": "The Parts Are Greater Than the Sum: Automated Task Sequencing for Efficient Training of Multi-Policy LLMs",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-31T16:33:18Z"
+  },
+  "2607.29602": {
+    "authors": [
+      "Jeffrey M. Girard",
+      "Jason Z. Zheng",
+      "Jacqueline R. Vertino",
+      "Antony D'Avirro",
+      "Benjamin Peloquin"
+    ],
+    "canonical_id": "2607.29602",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.CV",
+      "cs.HC"
+    ],
+    "content_hash": "c38a46cdae71f8d3516fd22d00ed18c9c4747c98efac3a9180edf27298ea65db",
+    "first_seen_date": "2026-08-03",
+    "last_reported_date": "2026-08-03",
+    "last_seen_date": "2026-08-03",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-07-31T16:33:39Z",
+    "report_count": 1,
+    "title": "FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-31T16:33:39Z"
+  },
+  "2607.29606": {
+    "authors": [
+      "Hakan Ferhatosmanoglu",
+      "Kushal Kumar",
+      "Tal Wagner",
+      "Andy Warfield"
+    ],
+    "canonical_id": "2607.29606",
+    "categories": [
+      "cs.IR",
+      "cs.LG"
+    ],
+    "content_hash": "3b0b6c6938dbdb120d9612e812ca631a1a3eef7a9bcddfd27d8110f0af4cc57e",
+    "first_seen_date": "2026-08-03",
+    "last_reported_date": "2026-08-03",
+    "last_seen_date": "2026-08-03",
+    "latest_version": 1,
+    "primary_category": "cs.IR",
+    "priority": "unscored",
+    "published": "2026-07-31T16:38:47Z",
+    "report_count": 1,
+    "title": "QASP: Query-Adaptive Robust Vector Search Policy",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-31T16:38:47Z"
+  },
+  "2607.29617": {
+    "authors": [
+      "Luca Viano",
+      "Antoine Moulin",
+      "Audrey Huang",
+      "Volkan Cevher",
+      "Philip Amortila",
+      "Dylan J. Foster"
+    ],
+    "canonical_id": "2607.29617",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "stat.ML"
+    ],
+    "content_hash": "1b50f75e7f994f8871496be7022f6566ee6790193ec0c196fa8cb09df9633c5a",
+    "first_seen_date": "2026-08-03",
+    "last_reported_date": "2026-08-03",
+    "last_seen_date": "2026-08-03",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-31T16:52:47Z",
+    "report_count": 1,
+    "title": "When Does On-Policy Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-31T16:52:47Z"
+  },
+  "2607.29621": {
+    "authors": [
+      "Antonia Holzapfel",
+      "Andres Felipe Posada Moreno",
+      "Sebastian Trimpe"
+    ],
+    "canonical_id": "2607.29621",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "f45d5b2c151e26364dbc37f21aa8f0625040a041a477e48b795dbf6142c49b1d",
+    "first_seen_date": "2026-08-03",
+    "last_reported_date": "2026-08-03",
+    "last_seen_date": "2026-08-03",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-31T16:56:27Z",
+    "report_count": 1,
+    "title": "CENDRe: Concept Extraction with Natural Domain Representations",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-07-31T16:56:27Z"
+  },
+  "2607.29626": {
+    "authors": [
+      "Tianyu Huai",
+      "Tingshuo Fan",
+      "Xinchi Chen",
+      "Yining Zheng",
+      "Yuxin Wang",
+      "Shuang Chen",
+      "Jie Zhou",
+      "Xuanjing Huang"
+    ],
+    "canonical_id": "2607.29626",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "7d6d7abbe0b5b1e3da708a95e042536638d3708d7d193ba3f91a5fd9583188e9",
+    "first_seen_date": "2026-08-03",
+    "last_reported_date": "2026-08-03",
+    "last_seen_date": "2026-08-03",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-07-31T16:58:00Z",
+    "report_count": 1,
+    "title": "AgentHPOBench: A Benchmark For Evaluating LLM Agents as Sequential Hyperparameter Optimizers",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-31T16:58:00Z"
+  },
+  "2607.29657": {
+    "authors": [
+      "Yimin Chen",
+      "Brian Fricke",
+      "Bo Shen",
+      "Jamie Lian",
+      "Mingkan Zhang",
+      "James Lo",
+      "Yun Zhang",
+      "Shi Ye",
+      "Jiajing Huang",
+      "Han Hu",
+      "Chujie Lu",
+      "Rui Tang",
+      "George Zhuang"
+    ],
+    "canonical_id": "2607.29657",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "90a4bfa7137a5ea8b1c3a696141b30f28f5788fa58f0e6f3847e926cebe5da0c",
+    "first_seen_date": "2026-08-03",
+    "last_reported_date": "2026-08-03",
+    "last_seen_date": "2026-08-03",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-07-31T17:37:34Z",
+    "report_count": 1,
+    "title": "Development of FDD-ON: an Ontology for VAV HVAC System Fault Detection and Diagnostics",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-31T17:37:34Z"
+  },
+  "2607.29659": {
+    "authors": [
+      "Idan Roth",
+      "Lutz Lampe"
+    ],
+    "canonical_id": "2607.29659",
+    "categories": [
+      "cs.LG",
+      "cs.DC",
+      "eess.SP"
+    ],
+    "content_hash": "1de3a99669b8795b79613d5e3b6c489d244d949489c9893dfa135ea30bac9144",
+    "first_seen_date": "2026-08-03",
+    "last_reported_date": "2026-08-03",
+    "last_seen_date": "2026-08-03",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-07-31T17:40:27Z",
+    "report_count": 1,
+    "title": "GQ-FSL: Green Quantized Federated Split Learning",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-07-31T17:40:27Z"
+  },
+  "2607.29675": {
+    "authors": [
+      "Arkajyoti Bhattacharjee",
+      "Arnab Auddy"
+    ],
+    "canonical_id": "2607.29675",
+    "categories": [
+      "math.ST",
+      "cs.LG",
+      "stat.ME",
+      "stat.ML"
+    ],
+    "content_hash": "e38264a76e5583f13e6b0d8c1f4634dece81c84d81b60568cd2854030eeefe8d",
+    "first_seen_date": "2026-08-03",
+    "last_reported_date": "2026-08-03",
+    "last_seen_date": "2026-08-03",
+    "latest_version": 1,
+    "primary_category": "math.ST",
+    "priority": "unscored",
+    "published": "2026-07-31T17:55:02Z",
+    "report_count": 1,
+    "title": "Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-31T17:55:02Z"
+  },
+  "2607.29677": {
+    "authors": [
+      "Boyang Zhang",
+      "Adrian Lyjak",
+      "Eli Stewart",
+      "Zhaoqi Li",
+      "Simon Suo"
+    ],
+    "canonical_id": "2607.29677",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "945be8905cd3533fa50401862df8f567d836d1b1105e8abe5cbeecc1308cf272",
+    "first_seen_date": "2026-08-03",
+    "last_reported_date": "2026-08-03",
+    "last_seen_date": "2026-08-03",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-07-31T17:55:58Z",
+    "report_count": 1,
+    "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-07-31T17:55:58Z"
+  },
+  "2607.29678": {
+    "authors": [
+      "Zhenyu Zhang",
+      "Zhichao Cao"
+    ],
+    "canonical_id": "2607.29678",
+    "categories": [
+      "cs.CL",
+      "cs.DC",
+      "cs.PF"
+    ],
+    "content_hash": "74789366337bc1731e684e1a60591ea7d4ccaab4848abdc5e8aeae16166e335b",
+    "first_seen_date": "2026-08-03",
+    "last_reported_date": "2026-08-03",
+    "last_seen_date": "2026-08-03",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-07-31T17:56:30Z",
+    "report_count": 1,
+    "title": "TokTier: Exact Stateful Tokenization for Agentic LLM Serving",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-07-31T17:56:30Z"
   }
 }
