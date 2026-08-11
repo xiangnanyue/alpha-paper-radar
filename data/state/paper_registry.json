@@ -50605,5 +50605,947 @@
       "llm_progress"
     ],
     "updated": "2026-08-07T17:58:10Z"
+  },
+  "2608.09213": {
+    "authors": [
+      "Charisios Grivas",
+      "Mikkel Mandrup",
+      "Orimar Sauri"
+    ],
+    "canonical_id": "2608.09213",
+    "categories": [
+      "econ.EM"
+    ],
+    "content_hash": "ec20f208b37b22d43587d39f39fa48e0ff3d1eacc9817075e0b08e1603f363bc",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "econ.EM",
+    "priority": "unscored",
+    "published": "2026-08-10T07:39:22Z",
+    "report_count": 1,
+    "title": "A Comparison of High-Dimensional Variable Selection Procedures for Electricity Spot Price Forecasting",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-08-10T07:39:22Z"
+  },
+  "2608.09218": {
+    "authors": [
+      "Fabrizio Lillo",
+      "Giulia Livieri",
+      "Gianluca Palmari"
+    ],
+    "canonical_id": "2608.09218",
+    "categories": [
+      "cs.LG",
+      "math.ST",
+      "stat.ME",
+      "stat.ML"
+    ],
+    "content_hash": "842a88cb8f6640a72e492e8a7f15a112ff609b80ac1124541a52c2690984e577",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-10T07:43:38Z",
+    "report_count": 1,
+    "title": "Online Learning of Scale Parameters in Score-Driven Filters",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-08-10T07:43:38Z"
+  },
+  "2608.09534": {
+    "authors": [
+      "Giancarlo Vercellino"
+    ],
+    "canonical_id": "2608.09534",
+    "categories": [
+      "stat.ME"
+    ],
+    "content_hash": "6fa3b0abbbaba150478a452a26515833167694ed234d14858b6d3a1f27745aea",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-08-10T12:34:04Z",
+    "report_count": 1,
+    "title": "Conditional Regime Analog Forecasting with Trajectories: A Nonparametric Framework for Multivariate Probabilistic",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-08-10T12:34:04Z"
+  },
+  "2608.09819": {
+    "authors": [
+      "Mind Lab",
+      ":",
+      "Vin Bo",
+      "Asher Cai",
+      "Jingwei Cao",
+      "Song Cao",
+      "Vic Cao",
+      "Amelia Chen",
+      "Andrew Chen",
+      "Kaijie Chen",
+      "Cleon Cheng",
+      "Steven Chiang",
+      "Kaixuan Fan",
+      "Hera Feng",
+      "Huan Feng",
+      "Arthur Fu",
+      "Jun Gao",
+      "Pyke Han",
+      "Nolan Ho",
+      "Ori Hong",
+      "Hailee Hou",
+      "Piers Hua",
+      "Charles Huang",
+      "Miles Jiang",
+      "Nora Jiang",
+      "Yuyi Jiang",
+      "Qiuyu Jin",
+      "Fancy Kong",
+      "Kuss Koo",
+      "Jaron Lee",
+      "Andrew Lei",
+      "Alexy Li",
+      "Dawn Li",
+      "Lucian Li",
+      "Ray Li",
+      "Ricardo Li",
+      "Smith Li",
+      "Theo Li",
+      "Allen Lin",
+      "Elliot Lin",
+      "Fan Lin",
+      "Chen Ling",
+      "Kairus Liu",
+      "Kieran Liu",
+      "Logan Liu",
+      "Neo Liu",
+      "Xiang Liu",
+      "Yuxin Lu",
+      "Maeve Luo",
+      "Pony Ma",
+      "Verity Niu",
+      "Cole Qiao",
+      "Guian Qiu",
+      "Vince Qu",
+      "Sentry",
+      "Niko Song",
+      "Vincent Wang",
+      "Bo Wu",
+      "Rio Yang",
+      "Evelyn Ye",
+      "Fiona Ye",
+      "Ina Ye",
+      "Regis Ye",
+      "Josh Ying",
+      "Atlas Zeng",
+      "Danney Zeng",
+      "Salmon Zhan",
+      "Anya Zhang",
+      "Di Zhang",
+      "Mia Zhang",
+      "Sueky Zhang",
+      "Wei Zhao",
+      "Ada Zhou",
+      "Adrian Zhou",
+      "Yuhua Zhou",
+      "Juno Zhu",
+      "Murphy Zhuang"
+    ],
+    "canonical_id": "2608.09819",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "content_hash": "443cd001932d1a1f0d5d42e2294a10ad68345a5ad03f7728b1af7645d3fb6046",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-10T16:39:55Z",
+    "report_count": 1,
+    "title": "Macaron-V1: Towards Open Continual Learning with Self-Improvement and Mixture-of-LoRA",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-10T16:39:55Z"
+  },
+  "2608.09826": {
+    "authors": [
+      "Yubo Jiang",
+      "Fengying Xie",
+      "Zhiguo Jiang",
+      "Haopeng Zhang"
+    ],
+    "canonical_id": "2608.09826",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "d3385471bb30de4afc6039379f73c6091e73a99eda4f2e0158296eec0e2de747",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-10T16:43:18Z",
+    "report_count": 1,
+    "title": "Distill Skills into Weights, Not Prompts: Abstract Skills as Privileged Signals for On-Policy Self-Distillation",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-10T16:43:18Z"
+  },
+  "2608.09828": {
+    "authors": [
+      "Abdullah X"
+    ],
+    "canonical_id": "2608.09828",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.MA"
+    ],
+    "content_hash": "4e4b94c52043399d5786745dbf814eefa194a8a325e28336fcf22c33124b1448",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-10T16:47:01Z",
+    "report_count": 1,
+    "title": "Multi-Agent AI Safety as an Institutional Design Problem",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-10T16:47:01Z"
+  },
+  "2608.09830": {
+    "authors": [
+      "Samaneh Rezaeimanesh",
+      "Mohsen Behradfar",
+      "Mohammad Fili",
+      "Guiping Hu"
+    ],
+    "canonical_id": "2608.09830",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "bc941644f6e11ff3f2908eab3ff0cc380596b7dbb5de53809d288f0c3817512f",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-10T16:48:37Z",
+    "report_count": 1,
+    "title": "Deep Multimodal Wearable Sensor Fusion for Detection of Body-Focused Repetitive Behaviors",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-10T16:48:37Z"
+  },
+  "2608.09836": {
+    "authors": [
+      "Zichao Yu",
+      "Chengzhi Yu",
+      "Shengze Xu",
+      "Yujin Han",
+      "Bingqing Jiang",
+      "Xu Wang",
+      "Difan Zou"
+    ],
+    "canonical_id": "2608.09836",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "5574e445133c08199795f9bf606fec77c270adebfa90c6230eb6f8561bd3db53",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-10T16:53:14Z",
+    "report_count": 1,
+    "title": "Mismatch Matters: On-Policy Distillation Beyond Token Agreement",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-10T16:53:14Z"
+  },
+  "2608.09837": {
+    "authors": [
+      "Angelos Alexopoulos"
+    ],
+    "canonical_id": "2608.09837",
+    "categories": [
+      "econ.EM",
+      "stat.ME"
+    ],
+    "content_hash": "94fc0400bdba1f50d1d229d3fae2011bf1841d3be5ace0cf5fbaaf00e0f80f03",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "econ.EM",
+    "priority": "unscored",
+    "published": "2026-08-10T16:54:29Z",
+    "report_count": 1,
+    "title": "Bias-robust causal inference for panel data",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-08-10T16:54:29Z"
+  },
+  "2608.09848": {
+    "authors": [
+      "Aimilios Hadjiliasi",
+      "Louis Nisiotis"
+    ],
+    "canonical_id": "2608.09848",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "0645ed1da3220edd0f77bec4ef2044e57767beb495add7739b08eef31fbbf77f",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-10T17:07:41Z",
+    "report_count": 1,
+    "title": "CEAA: A Cognitive Embodied Agents Architecture for Interactive Computing Systems",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-10T17:07:41Z"
+  },
+  "2608.09853": {
+    "authors": [
+      "Dongchi Huang",
+      "Hongyin Zhang",
+      "Bohan Hou",
+      "Siteng Huang",
+      "Zhian Su",
+      "Hang Guo",
+      "Tong Lu",
+      "Zhaofeng Xu",
+      "Jiahao Tang",
+      "Jianfei Yang",
+      "Donglin Wang",
+      "Peixi Peng",
+      "Mingxiu Chen",
+      "Deli Zhao",
+      "Xin Li"
+    ],
+    "canonical_id": "2608.09853",
+    "categories": [
+      "cs.RO",
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "25f962a4c62b8544491e25eacb7d73e7f2947bd84779f76cb70a50eed5b69cea",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-08-10T17:09:37Z",
+    "report_count": 1,
+    "title": "RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-10T17:09:37Z"
+  },
+  "2608.09855": {
+    "authors": [
+      "Yifeng He",
+      "Jicheng Wang",
+      "Yinzhe Zhao",
+      "Jiachen Liu",
+      "Hao Chen"
+    ],
+    "canonical_id": "2608.09855",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "3ba8c369381d11ae5af118b26712a324dfeff998f639b2db9bd4754c49fc75bb",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-10T17:13:02Z",
+    "report_count": 1,
+    "title": "Agentic Auto-Research is Fuzz Testing",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-10T17:13:02Z"
+  },
+  "2608.09857": {
+    "authors": [
+      "Rohan Bhagra",
+      "Mahantesh Halapannavar",
+      "Uddhav Bhattarai"
+    ],
+    "canonical_id": "2608.09857",
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "content_hash": "c222e5b5141484e04dd237c9ede7ac3a7dcb3661539df0e586793cdf1b10c2bd",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-08-10T17:15:55Z",
+    "report_count": 1,
+    "title": "Agentic Harnesses: LLM-Driven Verification Layers for Robot Autonomy",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-10T17:15:55Z"
+  },
+  "2608.09861": {
+    "authors": [
+      "Mahvish Nagda",
+      "Jihyeon Lee",
+      "Matthew Thompson",
+      "Chunjong Park",
+      "Tim Strother",
+      "Valentin Liévin",
+      "Roma Ruparel",
+      "Akshay Goel",
+      "Teya Bergamaschi",
+      "Suhana Bedi",
+      "Meet Shah",
+      "Pavel Dubov",
+      "Liviu Panait",
+      "Toshiyuki Fukuzawa",
+      "Sam Schmidgall",
+      "Craig Schiff",
+      "Joseph Xu",
+      "Aliya Rysbek",
+      "Yana Lunts",
+      "Jan Freyberg",
+      "Rebecca Hemengway",
+      "Sunny Virmani",
+      "David Racz",
+      "Carey Radebaugh",
+      "Joëlle Barral",
+      "Kavi Goel",
+      "Dale R. Webster",
+      "Katherine Chou",
+      "Avinatan Hassidim",
+      "Yossi Matias",
+      "James Manyika",
+      "Gregory Wayne",
+      "Tao Tu",
+      "Yun Liu",
+      "Ethan Goh",
+      "Christina Chen",
+      "Ryutaro Tanno",
+      "Po-Hsuan Cameron Chen",
+      "Mike Schaekermann",
+      "Anil Palepu"
+    ],
+    "canonical_id": "2608.09861",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.CV"
+    ],
+    "content_hash": "94f938f185013492f4ffa6662c8ea4c15996b6660be74cab91ad6a8c47c2d370",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-10T17:19:31Z",
+    "report_count": 1,
+    "title": "Towards Expert-level Medical AI for Real-time Video Consultations",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-10T17:19:31Z"
+  },
+  "2608.09867": {
+    "authors": [
+      "Alexander Panfilov",
+      "David Schmotz",
+      "Ilia Shumailov",
+      "Luca Beurer-Kellner",
+      "Joachim Schaeffer",
+      "Ameya Prabhu",
+      "Jonas Geiping",
+      "Maksym Andriushchenko"
+    ],
+    "canonical_id": "2608.09867",
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "3571c4f6c180f73a099c98f5ff8c0dd1bc57fcd75195fcfc2a91c1407f508816",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.CR",
+    "priority": "unscored",
+    "published": "2026-08-10T17:24:50Z",
+    "report_count": 1,
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-10T17:24:50Z"
+  },
+  "2608.09873": {
+    "authors": [
+      "Diandian Zhang",
+      "Tingyu Song",
+      "Lin Fu",
+      "Zheyuan Yang",
+      "Yilun Zhao"
+    ],
+    "canonical_id": "2608.09873",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "ff86d1cd3eb1e9a26c97bdf10f28fbf7921aaa0351939f26842b99ebe3496e80",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-10T17:27:32Z",
+    "report_count": 1,
+    "title": "Sci-VBench: Evaluating Knowledge- and Reasoning-Intensive Video Generation in Science Domains",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-10T17:27:32Z"
+  },
+  "2608.09874": {
+    "authors": [
+      "Abraham Gonzalez",
+      "Raghav Gupta",
+      "Akanksha Jain",
+      "Hanna Alam",
+      "Alexander Novikov",
+      "Po-Sen Huang",
+      "Matej Balog",
+      "Marvin Eisenberger",
+      "Sergey Shirobokov",
+      "Ngân Vũ",
+      "Hank Levy",
+      "Borivoje Nikolić",
+      "Sagar Karandikar",
+      "Martin Dixon",
+      "Parthasarathy Ranganathan"
+    ],
+    "canonical_id": "2608.09874",
+    "categories": [
+      "cs.AI",
+      "cs.AR"
+    ],
+    "content_hash": "88723478cafb7e627d780196bf34c384954795fa8c806bb9a6a9469f1ff24fa7",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-10T17:28:05Z",
+    "report_count": 1,
+    "title": "ArchAgent v2: A Case Study with the Data Prefetching Championship",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-10T17:28:05Z"
+  },
+  "2608.09876": {
+    "authors": [
+      "Yapeng Liu",
+      "Yuanzhao Zhai",
+      "Bo Ding",
+      "Huaimin Wang",
+      "Lin Wang"
+    ],
+    "canonical_id": "2608.09876",
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "content_hash": "d394da27250487c84227750f6ed5e587853556648e305a77e8b3e4e1f593139f",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-08-10T17:31:18Z",
+    "report_count": 1,
+    "title": "Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World Motion Planning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-10T17:31:18Z"
+  },
+  "2608.09885": {
+    "authors": [
+      "Wanying Qu",
+      "Qinghua Mao",
+      "Yu Li",
+      "Jiyao Liu",
+      "Xin Zhang",
+      "Dadi Guo",
+      "Yanxu Zhu",
+      "Qingyu Liu",
+      "Leitao Yuan",
+      "Xi Lin",
+      "Shanfeng Zhu",
+      "Yanwei Fu",
+      "Jing Shao",
+      "Xia Hu",
+      "Dongrui Liu"
+    ],
+    "canonical_id": "2608.09885",
+    "categories": [
+      "cs.AI",
+      "cs.CV"
+    ],
+    "content_hash": "31034eebc48489a5830bfea4288b992fb8d1ec1ad961e70f2159abf70ac16dd6",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-10T17:35:08Z",
+    "report_count": 1,
+    "title": "SHE: Trajectory-driven Safety Harness Evolution for LLM Agents",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-10T17:35:08Z"
+  },
+  "2608.09888": {
+    "authors": [
+      "Björn Engdahl",
+      "Adrian Kosowski",
+      "Jan Chorowski",
+      "Zuzanna Stamirowska",
+      "Przemysław Uznański",
+      "Junlin Jiang",
+      "Rohan Phadke",
+      "Remigiusz Kinas",
+      "Richard Zhong"
+    ],
+    "canonical_id": "2608.09888",
+    "categories": [
+      "cs.NE",
+      "cs.AI",
+      "cs.LG",
+      "stat.ML"
+    ],
+    "content_hash": "34670f9b1c024920c83ea1ecb56b7da18c08a5fd5b31ebacabbfdeadeb1a9ba6",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.NE",
+    "priority": "unscored",
+    "published": "2026-08-10T17:39:16Z",
+    "report_count": 1,
+    "title": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-10T17:39:16Z"
+  },
+  "2608.09893": {
+    "authors": [
+      "Congfeng Cao",
+      "Pengyu Zhang",
+      "Jelke Bloem"
+    ],
+    "canonical_id": "2608.09893",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "c6b6c6f254a7bee6ab153fcca680001e2f293673a9ac7e029c826aafa97bf6e0",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-10T17:41:19Z",
+    "report_count": 1,
+    "title": "Fusion Training for Mathematical Generalization in Large Language Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-10T17:41:19Z"
+  },
+  "2608.09898": {
+    "authors": [
+      "Lecheng Kong",
+      "Like Hui",
+      "Haitao Mao",
+      "Jun Huan"
+    ],
+    "canonical_id": "2608.09898",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "26a8a39b9e4825f5e897507d948cad753508c5b280b3d3f5528002f8433c30b4",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-10T17:45:44Z",
+    "report_count": 1,
+    "title": "Consilience for Verifier-Free Test-Time Scaling",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-10T17:45:44Z"
+  },
+  "2608.09900": {
+    "authors": [
+      "Tadanobu Chuyo Kamijo",
+      "Ori Rottenstreich",
+      "Javier Conde",
+      "Gonzalo Martínez",
+      "Pedro Reviriego"
+    ],
+    "canonical_id": "2608.09900",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "063a453ae6b462641da58895295ec805eadae2cbab3f7ffb7a59b2adddf76b9c",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-10T17:47:24Z",
+    "report_count": 1,
+    "title": "Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-10T17:47:24Z"
+  },
+  "2608.09902": {
+    "authors": [
+      "Derin Gezgin",
+      "Jim O'Connor",
+      "Tanner Goodwin",
+      "Gary B. Parker"
+    ],
+    "canonical_id": "2608.09902",
+    "categories": [
+      "cs.AI",
+      "cs.NE"
+    ],
+    "content_hash": "0c430f744419bfabc812d010ea3956af32205fdfa92bcc54de7609fca843ec67",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-10T17:48:45Z",
+    "report_count": 1,
+    "title": "DSLE: A Learning Environment for Dark Souls Boss Encounters",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-10T17:48:45Z"
+  },
+  "2608.09921": {
+    "authors": [
+      "Alban Puech",
+      "Matteo Mazzonelli",
+      "Tamara R. Govindasamy",
+      "Mangaliso Mngomezulu",
+      "Héctor Maeso-García",
+      "Thomas Tolhurst",
+      "Javad Bayazi",
+      "Ali Moeini",
+      "Naomi Simumba",
+      "Celia Cintas",
+      "David Nelischer",
+      "Romeo Kienzler",
+      "Jonas Weiss",
+      "Anna Varbella",
+      "Florian Dörfler",
+      "Gabriela Hug",
+      "Martin Mevissen",
+      "Juan Bernabé-Moreno",
+      "François Mirallès",
+      "Hendrik F. Hamann",
+      "Etienne Vos",
+      "Thomas Brunschwiler"
+    ],
+    "canonical_id": "2608.09921",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "18a406205a9193719dc6e98f9d6f89aa09082b2171f5301819f209a94cc8184e",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-10T17:57:49Z",
+    "report_count": 1,
+    "title": "GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-10T17:57:49Z"
+  },
+  "2608.09925": {
+    "authors": [
+      "Laurens Samson",
+      "Iva Gornishka",
+      "Gossa Lô",
+      "Yuki M. Asano",
+      "Sennay Ghebreab"
+    ],
+    "canonical_id": "2608.09925",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "3439592fe692ad9ef57575d4fe2bbb729c1e858f2de2965f8f0f7fb1f1068ebe",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-10T17:59:05Z",
+    "report_count": 1,
+    "title": "From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-10T17:59:05Z"
+  },
+  "2608.09928": {
+    "authors": [
+      "Hunar Batra",
+      "Lachin Naghashyar",
+      "Ashkan Khakzar",
+      "Philip Torr",
+      "Christian Schroeder de Witt",
+      "Constantin Venhoff",
+      "Ronald Clark"
+    ],
+    "canonical_id": "2608.09928",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "cf867945f1b91f7c45124f2a1e511d90707cfd72639dc9536e61576167dbd788",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-10T17:59:30Z",
+    "report_count": 1,
+    "title": "Multimodal Model Diffing for Feature Discovery and Control",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-10T17:59:30Z"
+  },
+  "2608.09930": {
+    "authors": [
+      "Oluwanifemi Bamgbose",
+      "Simon Rosen",
+      "Jash Shah",
+      "Lindsay Devon Brin",
+      "Hoang H Nguyen",
+      "Anke Koelzer",
+      "Rachel Hansen",
+      "Tara Bogavelli",
+      "Fanny Riols"
+    ],
+    "canonical_id": "2608.09930",
+    "categories": [
+      "cs.SD",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "fa730144667e6fbcf4727ce4da6a73b8abfe907feae0b0c1a1a53444ccf948ac",
+    "first_seen_date": "2026-08-11",
+    "last_reported_date": "2026-08-11",
+    "last_seen_date": "2026-08-11",
+    "latest_version": 1,
+    "primary_category": "cs.SD",
+    "priority": "unscored",
+    "published": "2026-08-10T17:59:51Z",
+    "report_count": 1,
+    "title": "Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-10T17:59:51Z"
   }
 }
