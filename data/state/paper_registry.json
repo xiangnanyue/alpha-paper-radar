@@ -51547,5 +51547,551 @@
       "llm_progress"
     ],
     "updated": "2026-08-10T17:59:51Z"
+  },
+  "2608.11061": {
+    "authors": [
+      "Artyom Sabitov",
+      "Daniil Volkov",
+      "Alexey Zaytsev"
+    ],
+    "canonical_id": "2608.11061",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "de6d56ca64f295127b0553f13cd44d1ce9934e03a647cc9fc0ed5460ed5f6e8d",
+    "first_seen_date": "2026-08-12",
+    "last_reported_date": "2026-08-12",
+    "last_seen_date": "2026-08-12",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-11T15:29:01Z",
+    "report_count": 1,
+    "title": "Batch Size or Negatives? A Selection Rule for Memory-Constrained Recommender Training",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-11T15:29:01Z"
+  },
+  "2608.11079": {
+    "authors": [
+      "Xiaofan Bai",
+      "Hongqiang Lin",
+      "Chao Liu",
+      "Yantao Zhang",
+      "Xuan Jin",
+      "Xipeng Cao",
+      "Yuhong Li"
+    ],
+    "canonical_id": "2608.11079",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "e957acb59ac3e66f41db38027eef37d5c678e9aff39ca7bf797d029b74118257",
+    "first_seen_date": "2026-08-12",
+    "last_reported_date": "2026-08-12",
+    "last_seen_date": "2026-08-12",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-11T15:41:19Z",
+    "report_count": 1,
+    "title": "SkillZip: Evaluation-Free Skill Compression for Self-Evolving Agents by Discovering Reusable Structure",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-11T15:41:19Z"
+  },
+  "2608.11083": {
+    "authors": [
+      "Robert Bitterling",
+      "Christian Nettersheim",
+      "Jörn Hees",
+      "Michael Rademacher"
+    ],
+    "canonical_id": "2608.11083",
+    "categories": [
+      "cs.NI",
+      "cs.LG"
+    ],
+    "content_hash": "35a3b507bac83ba4dd327917e39bf68e95efbc8a3d4690d4968e6dcec49d9b2c",
+    "first_seen_date": "2026-08-12",
+    "last_reported_date": "2026-08-12",
+    "last_seen_date": "2026-08-12",
+    "latest_version": 1,
+    "primary_category": "cs.NI",
+    "priority": "unscored",
+    "published": "2026-08-11T15:48:54Z",
+    "report_count": 1,
+    "title": "A Systematic Sample Size Analysis of ML-Based Path Loss Prediction for LPWAN",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-11T15:48:54Z"
+  },
+  "2608.11093": {
+    "authors": [
+      "Songlin Du",
+      "Xiaoyong Lu",
+      "Zeyu Wu",
+      "Xiaobo Lu",
+      "Guobao Xiao",
+      "Bin Fan",
+      "Jiayi Ma",
+      "Takeshi Ikenaga"
+    ],
+    "canonical_id": "2608.11093",
+    "categories": [
+      "cs.LG",
+      "cs.CV"
+    ],
+    "content_hash": "5c521711f373f72f6be2707f213e23ebc4e86202ad953354619dac34787bbf3a",
+    "first_seen_date": "2026-08-12",
+    "last_reported_date": "2026-08-12",
+    "last_seen_date": "2026-08-12",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-11T16:00:40Z",
+    "report_count": 1,
+    "title": "Cross-View Feature Matching: Survey, Benchmarking, and Foundation-Model Perspectives",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-11T16:00:40Z"
+  },
+  "2608.11095": {
+    "authors": [
+      "Kushal Chakrabarti"
+    ],
+    "canonical_id": "2608.11095",
+    "categories": [
+      "cs.AI",
+      "cs.LG",
+      "cs.SE"
+    ],
+    "content_hash": "39bd82974f0cb528a02e847746d58f1a333f3faa8f24676fd1e2f374342b4ae0",
+    "first_seen_date": "2026-08-12",
+    "last_reported_date": "2026-08-12",
+    "last_seen_date": "2026-08-12",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-11T16:00:55Z",
+    "report_count": 1,
+    "title": "Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-11T16:00:55Z"
+  },
+  "2608.11110": {
+    "authors": [
+      "Sourabrata Mukherjee",
+      "Kalika Bali",
+      "Sunayana Sitaram"
+    ],
+    "canonical_id": "2608.11110",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "673a29c94a2a3ae18738fb066a15b24e0c489f6e9b9c1aff8d96a2ef96f51e61",
+    "first_seen_date": "2026-08-12",
+    "last_reported_date": "2026-08-12",
+    "last_seen_date": "2026-08-12",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-11T16:18:34Z",
+    "report_count": 1,
+    "title": "Actions Speak Louder than Words: Measuring Cross-Lingual Policy Retention in Tool-Using Agents",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-11T16:18:34Z"
+  },
+  "2608.11114": {
+    "authors": [
+      "Kiran Madhusudhanan",
+      "Christian Klötergens",
+      "Lars Schmidt-Thieme",
+      "Vijaya Krishna Yalavarthi"
+    ],
+    "canonical_id": "2608.11114",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "367a634b6264d7c733681823806a268d58aa52cff625ef6b95f6fd5e4a10b5dc",
+    "first_seen_date": "2026-08-12",
+    "last_reported_date": "2026-08-12",
+    "last_seen_date": "2026-08-12",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-11T16:22:47Z",
+    "report_count": 1,
+    "title": "Two-stage Odd Residual Flows for Mean-Preserving Probabilistic Time Series Forecasting",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-11T16:22:47Z"
+  },
+  "2608.11136": {
+    "authors": [
+      "Davide Rinaldi",
+      "Luciano Serafini"
+    ],
+    "canonical_id": "2608.11136",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "0f4842db7532d7a617019e467deda6e7257c3b8e5763f8965f699f223d63b0a1",
+    "first_seen_date": "2026-08-12",
+    "last_reported_date": "2026-08-12",
+    "last_seen_date": "2026-08-12",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-11T16:58:38Z",
+    "report_count": 1,
+    "title": "sLTN: Structural Logic Tensor Networks",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-11T16:58:38Z"
+  },
+  "2608.11138": {
+    "authors": [
+      "Minsoo Kim",
+      "Sungyoung Ji",
+      "Kisung Moon",
+      "Ilyong Yoon"
+    ],
+    "canonical_id": "2608.11138",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "d51ba8a86aabe2de6b5f236f6eaccca72db57919a1a381220864977bc5da4e6b",
+    "first_seen_date": "2026-08-12",
+    "last_reported_date": "2026-08-12",
+    "last_seen_date": "2026-08-12",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-11T16:59:02Z",
+    "report_count": 1,
+    "title": "Attention-Path Fragility as an Uncertainty Signal in Large Language Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-11T16:59:02Z"
+  },
+  "2608.11143": {
+    "authors": [
+      "Kaan Buyukkalayci",
+      "Kyle Pak",
+      "Merve Karakas",
+      "Christina Fragouli"
+    ],
+    "canonical_id": "2608.11143",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "5ae8247f63a444edddccc57c748015d4ab4de36224c6455e1b0e2d506d885abc",
+    "first_seen_date": "2026-08-12",
+    "last_reported_date": "2026-08-12",
+    "last_seen_date": "2026-08-12",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-11T17:01:44Z",
+    "report_count": 1,
+    "title": "A Recommendation System Approach for Interference-Robust Sensor Subset Selection",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-11T17:01:44Z"
+  },
+  "2608.11146": {
+    "authors": [
+      "Abigail Oppong",
+      "P Sam Sahil",
+      "Tadesse Destaw Belay",
+      "Maryam Ibrahim Mukhtar",
+      "Esmael Ahmed Abdu",
+      "Tassallah Abdullahi",
+      "Jessica Oparebea",
+      "Saminu Mohammad Aliyu",
+      "Idris Abdulmumin",
+      "Abubakar Juma Chilala",
+      "Nicholaus Dismas Ladislaus",
+      "Alfred Malengo Kondoro",
+      "Lemofouet Valdini Douglace",
+      "Shamsuddeen Hassan Muhammad",
+      "Seid Muhie Yimam"
+    ],
+    "canonical_id": "2608.11146",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "e7bc35bbdd173062fd9479d8242867078883598db15eb6d8d1962b42679a1649",
+    "first_seen_date": "2026-08-12",
+    "last_reported_date": "2026-08-12",
+    "last_seen_date": "2026-08-12",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-11T17:05:26Z",
+    "report_count": 1,
+    "title": "The Illusion of Cross-Lingual Safety in Low-Resource Languages",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-11T17:05:26Z"
+  },
+  "2608.11152": {
+    "authors": [
+      "Zetao Hong",
+      "Song Yuan",
+      "Yuanhao Ding",
+      "Yibo Zhu",
+      "Daxin Jiang",
+      "Zhibin Wang",
+      "Chen Tian"
+    ],
+    "canonical_id": "2608.11152",
+    "categories": [
+      "cs.DC",
+      "cs.LG"
+    ],
+    "content_hash": "ac975e4adb6b5009b591eb126ec14f44d12d6b998f4018db2c609f635b8e1eab",
+    "first_seen_date": "2026-08-12",
+    "last_reported_date": "2026-08-12",
+    "last_seen_date": "2026-08-12",
+    "latest_version": 1,
+    "primary_category": "cs.DC",
+    "priority": "unscored",
+    "published": "2026-08-11T17:10:50Z",
+    "report_count": 1,
+    "title": "Scheduling Mixed RL Rollouts Beyond Prefix Locality",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-11T17:10:50Z"
+  },
+  "2608.11154": {
+    "authors": [
+      "Shiqi Huang",
+      "Jiani He",
+      "Dingyan Shang",
+      "Yihua Xu",
+      "Jize Li",
+      "Yan Lyu",
+      "Lashimi Muraleedharan Nair"
+    ],
+    "canonical_id": "2608.11154",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "a6e10d52fd9116d1c37a3fc33d38fb468c2c4bf246f7bee4e13a80e7dc91e6c7",
+    "first_seen_date": "2026-08-12",
+    "last_reported_date": "2026-08-12",
+    "last_seen_date": "2026-08-12",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-11T17:12:08Z",
+    "report_count": 1,
+    "title": "DACRI: Decision-Aware Causal Intervention Ranking for Critical Supply Chains",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-11T17:12:08Z"
+  },
+  "2608.11162": {
+    "authors": [
+      "Nguyen Thai Anh",
+      "Truong Viet Vu",
+      "Tran Thien Thanh",
+      "Vo Nguyen Quoc Bao",
+      "Ngo Hoang Tu"
+    ],
+    "canonical_id": "2608.11162",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "d9766a8a043705e16f06a74df274b8040490a267afcfaf2969d3ccc6de6f410f",
+    "first_seen_date": "2026-08-12",
+    "last_reported_date": "2026-08-12",
+    "last_seen_date": "2026-08-12",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-11T17:21:31Z",
+    "report_count": 1,
+    "title": "Hierarchical Empirical-Bayes Naive Bayes: Minimax Smoothing and Calibration with AODE Extension",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-11T17:21:31Z"
+  },
+  "2608.11167": {
+    "authors": [
+      "Changhao Xiang",
+      "Shangyu Xing",
+      "Zhen Wu",
+      "Jianbing Zhang",
+      "Xinyu Dai"
+    ],
+    "canonical_id": "2608.11167",
+    "categories": [
+      "cs.CV",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "979e0597e1d7f71fd2b00232a0d5cd3532f0d860804a739ef9d5758a3846db03",
+    "first_seen_date": "2026-08-12",
+    "last_reported_date": "2026-08-12",
+    "last_seen_date": "2026-08-12",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-11T17:28:52Z",
+    "report_count": 1,
+    "title": "MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-11T17:28:52Z"
+  },
+  "2608.11171": {
+    "authors": [
+      "Rahul Gupta",
+      "Abhinav Mohanty",
+      "Anaelia Ovalle",
+      "Anil Ramakrishna",
+      "Anubrata Das",
+      "Apurv Verma",
+      "Jwala Dhamala",
+      "Ninareh Mehrabi",
+      "Tharindu Kumarage",
+      "Yada Pruksachatkun",
+      "Yang Trista Cao",
+      "Kai-Wei Chang",
+      "Aram Galstyan"
+    ],
+    "canonical_id": "2608.11171",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.CY"
+    ],
+    "content_hash": "64199bbe15ed0d806ab148baa3617eb574b76771f63157362307a694e70d8015",
+    "first_seen_date": "2026-08-12",
+    "last_reported_date": "2026-08-12",
+    "last_seen_date": "2026-08-12",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-11T17:30:16Z",
+    "report_count": 1,
+    "title": "From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-11T17:30:16Z"
+  },
+  "2608.11191": {
+    "authors": [
+      "Shiyu Xuan",
+      "Zechao Li"
+    ],
+    "canonical_id": "2608.11191",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "5a3f042a18eaf66358582d6a496c4b600df19b8581be03cf478e0b95488c65e5",
+    "first_seen_date": "2026-08-12",
+    "last_reported_date": "2026-08-12",
+    "last_seen_date": "2026-08-12",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-11T17:50:25Z",
+    "report_count": 1,
+    "title": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-11T17:50:25Z"
+  },
+  "2608.11195": {
+    "authors": [
+      "Alan Li",
+      "Rahul Saha",
+      "Anton Xue",
+      "Swarat Chaudhuri",
+      "Adam Klivans",
+      "Pravesh K Kothari",
+      "Raghu Meka"
+    ],
+    "canonical_id": "2608.11195",
+    "categories": [
+      "cs.AI",
+      "cs.CC",
+      "cs.HC",
+      "math.FA"
+    ],
+    "content_hash": "18251863654d7d3da8b1e848d6869ec03bc3d33388c188af60695ae7c1a2b176",
+    "first_seen_date": "2026-08-12",
+    "last_reported_date": "2026-08-12",
+    "last_seen_date": "2026-08-12",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-11T17:53:48Z",
+    "report_count": 1,
+    "title": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-11T17:53:48Z"
+  },
+  "2608.11204": {
+    "authors": [
+      "Wenrui Bao",
+      "Tianyun Jiang",
+      "Zhiben Chen",
+      "Ser-Nam Lim",
+      "Peter D. Peng",
+      "Yuzhang Shang"
+    ],
+    "canonical_id": "2608.11204",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "content_hash": "d92cf851f55ee69d87f2fb019526f370ab1e95edfecc5bc83207ac8d1eb41db9",
+    "first_seen_date": "2026-08-12",
+    "last_reported_date": "2026-08-12",
+    "last_seen_date": "2026-08-12",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-08-11T17:59:13Z",
+    "report_count": 1,
+    "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-11T17:59:13Z"
   }
 }
