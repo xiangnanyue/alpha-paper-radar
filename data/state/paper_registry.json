@@ -52093,5 +52093,788 @@
       "llm_progress"
     ],
     "updated": "2026-08-11T17:59:13Z"
+  },
+  "2608.12194": {
+    "authors": [
+      "Zhao Su",
+      "Yuxin Xia",
+      "Haoran Li",
+      "Jun Shen",
+      "Qi Zhu",
+      "Qingguo Zhou",
+      "Binbin Yong"
+    ],
+    "canonical_id": "2608.12194",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "66c2dfba18f3afe1560543454dc1058be05757bb5bd4e1bf79bc1b5d8150180a",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-12T15:48:36Z",
+    "report_count": 1,
+    "title": "HYDRA: Hyperbolic Dynamic Representation Architecture for Kolmogorov-Arnold Networks",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-12T15:48:36Z"
+  },
+  "2608.12196": {
+    "authors": [
+      "Jing Zhu",
+      "Ye Wang",
+      "Fumin Wang"
+    ],
+    "canonical_id": "2608.12196",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "751d1f6da129fbd4729bfbc0b1dd743a5db7b26b044ffcd418fde8aa68d3b491",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-12T15:51:07Z",
+    "report_count": 1,
+    "title": "M-Net: Integrating Spectral Features and Physical Field Operators into Deep Learning for Medical Image Segmentation",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-12T15:51:07Z"
+  },
+  "2608.12197": {
+    "authors": [
+      "Jiarui Ma",
+      "Jianghan Wang",
+      "Yuheng Ma",
+      "Ziyi Zhuang",
+      "Xiaoguang Liu"
+    ],
+    "canonical_id": "2608.12197",
+    "categories": [
+      "eess.SY",
+      "cs.AI"
+    ],
+    "content_hash": "d0dd4e03b73e5ba842097e1500ea68e84a34e5b748318f2b8ba10e8708b4056d",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "eess.SY",
+    "priority": "unscored",
+    "published": "2026-08-12T15:51:52Z",
+    "report_count": 1,
+    "title": "NetlistBench: Evaluating LLM Reliability in SPICE Netlist Recognition and Manipulation",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-12T15:51:52Z"
+  },
+  "2608.12198": {
+    "authors": [
+      "Jean-Pierre Busch",
+      "Guido Linden",
+      "Jan Bergmann",
+      "Lutz Eckstein"
+    ],
+    "canonical_id": "2608.12198",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "ae5b38b970682c3cf24df388bfe1902ea448210963f1b19532196832a7be0da6",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-08-12T15:52:18Z",
+    "report_count": 1,
+    "title": "Learning-Based Behavior Planning for Automated Driving: Real-World Integration and Deployment",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-12T15:52:18Z"
+  },
+  "2608.12218": {
+    "authors": [
+      "Arda Uzunoglu",
+      "Benjamin van Durme",
+      "Daniel Khashabi"
+    ],
+    "canonical_id": "2608.12218",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "d004f128b22772ab6eaf0b975a1c7b2f99e7870bff7f3e41b679e091581ab9a4",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-12T16:13:05Z",
+    "report_count": 1,
+    "title": "Information Abundance Paradox: Long-Context Training Undermines Parametric Knowledge",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-12T16:13:05Z"
+  },
+  "2608.12219": {
+    "authors": [
+      "Antoine de Mathelin",
+      "Christopher Tosh",
+      "Wesley Tansey"
+    ],
+    "canonical_id": "2608.12219",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "562ae7cf63e870966710801ffa3de2ad284959ecbf1425bb9b24615adf9e5efd",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-12T16:13:50Z",
+    "report_count": 1,
+    "title": "ScreenShot: A Foundation Model for Few-Shot Combination Drug Screening",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-12T16:13:50Z"
+  },
+  "2608.12220": {
+    "authors": [
+      "Zile Zhou",
+      "Huining Yuan",
+      "Weichen Zhang",
+      "Xinlei Chen",
+      "Xiao-ping Zhang"
+    ],
+    "canonical_id": "2608.12220",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "1b45c3c8361d9ea2f31bfa0ca917a70fd12def0701323c0e22d71daef396ebdd",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-12T16:14:25Z",
+    "report_count": 1,
+    "title": "SCOUT: Unlocking Enhanced Spatial Reasoning via Structured Chain-of-Thought and Multi-Objective Process Reward",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-12T16:14:25Z"
+  },
+  "2608.12227": {
+    "authors": [
+      "Kazi Nabiul Alam",
+      "Pooneh Bagheri Zadeh",
+      "Akbar Sheikh-Akbari"
+    ],
+    "canonical_id": "2608.12227",
+    "categories": [
+      "eess.IV",
+      "cs.AI",
+      "cs.CV",
+      "eess.SP"
+    ],
+    "content_hash": "a73c02244cfd5b95de79c1bc9bf5b897289cb8f9658aae221f6e6ac40f7407e7",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "eess.IV",
+    "priority": "unscored",
+    "published": "2026-08-12T16:25:19Z",
+    "report_count": 1,
+    "title": "Domain-Aware Lightweight Spectral-Grouped Convolutions for Hyperspectral Fish Freshness Classification",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-12T16:25:19Z"
+  },
+  "2608.12230": {
+    "authors": [
+      "Kazi Nabiul Alam",
+      "Pooneh Bagheri Zadeh",
+      "Akbar Sheikh-Akbari"
+    ],
+    "canonical_id": "2608.12230",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "eess.IV",
+      "eess.SP"
+    ],
+    "content_hash": "73cc364868c21e1ddeaca5ab130c35f722525e07e4dff8ee5db01ddc6fa1d2e1",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-12T16:28:01Z",
+    "report_count": 1,
+    "title": "Few-Shot Ordinal Learning for Day-Wise Freshness Estimation with Hyperspectral Fish Images",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-12T16:28:01Z"
+  },
+  "2608.12246": {
+    "authors": [
+      "Jin Lu",
+      "Xuening Han",
+      "Yang Zhong",
+      "Lin Tan",
+      "Kevin Luo",
+      "Andrew Gacek",
+      "Neha Rungta"
+    ],
+    "canonical_id": "2608.12246",
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.CL",
+      "cs.SE"
+    ],
+    "content_hash": "a484be833991101382477708f9cf6827727dc592adbf8381c1e2861397740ee7",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "cs.CR",
+    "priority": "unscored",
+    "published": "2026-08-12T16:45:49Z",
+    "report_count": 1,
+    "title": "VICBench: A Multi-Language Benchmark for Code Vulnerability Detection",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-12T16:45:49Z"
+  },
+  "2608.12249": {
+    "authors": [
+      "Yuzhong Shen",
+      "Masha Sosonkina",
+      "Peng Xu",
+      "Mark S. Gordon"
+    ],
+    "canonical_id": "2608.12249",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "e7bbbf19e89232f076b03f5deab0adfaf1c702807b5fe230b2677ed1b614c695",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-12T16:48:47Z",
+    "report_count": 1,
+    "title": "An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-12T16:48:47Z"
+  },
+  "2608.12251": {
+    "authors": [
+      "Junyi Ye",
+      "Gargi Vijay Borde"
+    ],
+    "canonical_id": "2608.12251",
+    "categories": [
+      "q-fin.ST",
+      "cs.LG"
+    ],
+    "content_hash": "fb230c065e1c2dcc861edfa94db5c320db053a7bcae48417b5e33be3a2811800",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "q-fin.ST",
+    "priority": "unscored",
+    "published": "2026-08-12T16:51:51Z",
+    "report_count": 1,
+    "title": "Regime-Gated Residual Mixture-of-Experts for Cross-Sectional Volatility Forecasting",
+    "topics": [
+      "cross_section_time_series",
+      "deep_learning_sota",
+      "quant_finance"
+    ],
+    "updated": "2026-08-12T16:51:51Z"
+  },
+  "2608.12253": {
+    "authors": [
+      "Simon Yu",
+      "Nicholas Tomlin",
+      "Marwa Abdulhai",
+      "Ximing Lu",
+      "Derek Chong",
+      "Abe Hou",
+      "Dilara Soylu",
+      "Sergey Levine",
+      "Christopher D. Manning",
+      "Weiyan Shi"
+    ],
+    "canonical_id": "2608.12253",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "f28f0dc1afbb513ccaaddd55e4f8d7f9577d490dad0855dc26ed53a096a7226f",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-12T16:55:50Z",
+    "report_count": 1,
+    "title": "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-12T16:55:50Z"
+  },
+  "2608.12259": {
+    "authors": [
+      "Junyi Ye",
+      "Ivy Gateri Wanjiku"
+    ],
+    "canonical_id": "2608.12259",
+    "categories": [
+      "cs.LG",
+      "q-fin.ST"
+    ],
+    "content_hash": "5871ec3cc35957153855118398287461a5f0f1bf6e6dcfa33c7ef8faba5262f1",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-12T17:02:06Z",
+    "report_count": 1,
+    "title": "Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting",
+    "topics": [
+      "cross_section_time_series",
+      "quant_finance"
+    ],
+    "updated": "2026-08-12T17:02:06Z"
+  },
+  "2608.12262": {
+    "authors": [
+      "Weihao Bo",
+      "Shan Zhang",
+      "Yanpeng Sun",
+      "Jie Liu",
+      "Yongke Yao",
+      "Jinhao Du",
+      "Wei He",
+      "Kai Zou",
+      "Zechao Li",
+      "Jingdong Wang"
+    ],
+    "canonical_id": "2608.12262",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "8d575795282b839daf043f403d6c322e5a30b436faebf5b0bdf80d97a09daec9",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-12T17:04:13Z",
+    "report_count": 1,
+    "title": "Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-12T17:04:13Z"
+  },
+  "2608.12271": {
+    "authors": [
+      "Pedro Sousa",
+      "Will Tebbutt",
+      "Sadiq Jaffer",
+      "Robin Young",
+      "Anil Madhavapeddy",
+      "Richard E. Turner"
+    ],
+    "canonical_id": "2608.12271",
+    "categories": [
+      "cs.LG",
+      "physics.ao-ph"
+    ],
+    "content_hash": "7d6d21d2482ed4bd37e1fe63db2f1e43c1103df870640f38edf7c7c1fc8a8185",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-12T17:10:42Z",
+    "report_count": 1,
+    "title": "Earth observation embeddings are effective sub-grid descriptors for probabilistic weather downscaling",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-12T17:10:42Z"
+  },
+  "2608.12273": {
+    "authors": [
+      "Junliang Liu",
+      "Ruoyu Li",
+      "Wenxin Tang",
+      "Jingyu Xiao",
+      "Zhenyu Liu",
+      "Jingheng Xu",
+      "Laizhong Cui"
+    ],
+    "canonical_id": "2608.12273",
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "content_hash": "fde222c12119b1ced811f0e1c2ea469a55e7524e859f9284fb6a0031dc759db9",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "cs.CR",
+    "priority": "unscored",
+    "published": "2026-08-12T17:12:49Z",
+    "report_count": 1,
+    "title": "Convergent Detour Hijacking: Task-Preserving Resource Amplification in Skill-Based LLM Agents",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-12T17:12:49Z"
+  },
+  "2608.12274": {
+    "authors": [
+      "Rafi Ibn Sultan",
+      "Chengyin Li",
+      "Yiannos Demetriou",
+      "Ahmed I. Ghanem",
+      "Joshua P. Kim",
+      "Justine Cunningham",
+      "Hassan Bagher-Ebadian",
+      "Dongxiao Zhu",
+      "Kundan S. Thind"
+    ],
+    "canonical_id": "2608.12274",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "d06c20eac979217f73b054bd7ab6daf40ab98409adc6bafc73432362c01e33ed",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-12T17:13:59Z",
+    "report_count": 1,
+    "title": "A Neighborhood Attention Transformer Network for Enhanced 3D Segmentation of the Left Anterior Descending Artery",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-12T17:13:59Z"
+  },
+  "2608.12278": {
+    "authors": [
+      "Avijit Roy",
+      "Proma Roy"
+    ],
+    "canonical_id": "2608.12278",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.CY"
+    ],
+    "content_hash": "52ce836c91fba885594304582243f9aa9b167757000e6158d6be382c252fdcda",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-12T17:17:25Z",
+    "report_count": 1,
+    "title": "Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-12T17:17:25Z"
+  },
+  "2608.12282": {
+    "authors": [
+      "Ankita Rajaram Naik",
+      "Anupama Murthi",
+      "Benjamin Elder",
+      "Siyu Huo",
+      "Raavi Gupta",
+      "Abhinav Jain",
+      "Praveen Venkateswaran",
+      "Abdulhamid Adebayo",
+      "Danish Contractor"
+    ],
+    "canonical_id": "2608.12282",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "5b1a389a2bac76a2f968a30171f5a390207420f0618bc6c9abd95fab3d4840bf",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-12T17:27:27Z",
+    "report_count": 1,
+    "title": "VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-12T17:27:27Z"
+  },
+  "2608.12283": {
+    "authors": [
+      "Alireza Kargarzadeh",
+      "Nariman Khaledian",
+      "Navid Parvini",
+      "Arman Khaledian"
+    ],
+    "canonical_id": "2608.12283",
+    "categories": [
+      "q-fin.PM",
+      "cs.CL"
+    ],
+    "content_hash": "dd0f2a28bf88a9d159e2b792d745397f739086ffc138d4edc859b0fb0d0b9e75",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "q-fin.PM",
+    "priority": "unscored",
+    "published": "2026-08-12T17:28:03Z",
+    "report_count": 1,
+    "title": "Large Language Model-Driven Small-Capitalization Trading: Integrating Financial News Sentiment, Macroeconomic Indicators, and Technical Signals",
+    "topics": [
+      "llm_progress",
+      "quant_finance"
+    ],
+    "updated": "2026-08-12T17:28:03Z"
+  },
+  "2608.12290": {
+    "authors": [
+      "Aman Tyagi",
+      "Hemanth Boinpally",
+      "Jonathan Chen",
+      "Douglas Gebert",
+      "Steven Hickson"
+    ],
+    "canonical_id": "2608.12290",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.MM"
+    ],
+    "content_hash": "990b2ef271eda14f13657afb956acb39c67b0ae52729714fba9bba0a19c64d04",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-12T17:35:16Z",
+    "report_count": 1,
+    "title": "Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-12T17:35:16Z"
+  },
+  "2608.12299": {
+    "authors": [
+      "AmirHossein Eshghi",
+      "Hamid Saadatfar",
+      "Seyyed Ali Hoseini",
+      "AmirMohsen Eshghi",
+      "Siavash Arjomand Bigdel"
+    ],
+    "canonical_id": "2608.12299",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "8a96ad4c0d2f9146a53b881b0bd9e9213ce03624dcee9ce23ddda3d8d901a252",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-12T17:45:03Z",
+    "report_count": 1,
+    "title": "Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-12T17:45:03Z"
+  },
+  "2608.12304": {
+    "authors": [
+      "Saman Marandi",
+      "Yu-Shu Hu",
+      "Mohammad Modarres"
+    ],
+    "canonical_id": "2608.12304",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "8c29115ce001ee708c5f78e97e44d3fded991ac898558162360dd52493665a33",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-12T17:50:39Z",
+    "report_count": 1,
+    "title": "Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-12T17:50:39Z"
+  },
+  "2608.12307": {
+    "authors": [
+      "Cheng Qian",
+      "Wenting Zhao",
+      "Liangwei Yang",
+      "Heng Wang",
+      "Jielin Qiu",
+      "Heng Ji",
+      "Silvio Savarese",
+      "Huan Wang",
+      "Shelby Heinecke"
+    ],
+    "canonical_id": "2608.12307",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "6916a20c194bd90b615f08d5f7faa61e1dd5eb0139337cd9f34a02d340a9ddb7",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-12T17:53:18Z",
+    "report_count": 1,
+    "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-12T17:53:18Z"
+  },
+  "2608.12308": {
+    "authors": [
+      "Yan Deng",
+      "Fei Xu"
+    ],
+    "canonical_id": "2608.12308",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "c19cebbbb00f3d5e1dab1a893c6f62ee864b6d08ddf0dc2185c190d34c479001",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-12T17:54:33Z",
+    "report_count": 1,
+    "title": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-12T17:54:33Z"
+  },
+  "2608.12313": {
+    "authors": [
+      "Chuyue Li",
+      "Jinpeng Yu",
+      "Haozhe Wang",
+      "Tian Xueyun",
+      "Zhijing Zhang",
+      "Bingnan Li",
+      "Shuqi Gu",
+      "Kan Ren",
+      "Jiaming Liu",
+      "Ruihua Hua"
+    ],
+    "canonical_id": "2608.12313",
+    "categories": [
+      "cs.CV",
+      "cs.CL"
+    ],
+    "content_hash": "be22b2313fc2ec83364629178b28f6a0644720c41f96b6e4b95f3b3aac474fdf",
+    "first_seen_date": "2026-08-13",
+    "last_reported_date": "2026-08-13",
+    "last_seen_date": "2026-08-13",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-12T17:58:02Z",
+    "report_count": 1,
+    "title": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-12T17:58:02Z"
   }
 }
