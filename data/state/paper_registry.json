@@ -52415,7 +52415,7 @@
     "content_hash": "fb230c065e1c2dcc861edfa94db5c320db053a7bcae48417b5e33be3a2811800",
     "first_seen_date": "2026-08-13",
     "last_reported_date": "2026-08-13",
-    "last_seen_date": "2026-08-13",
+    "last_seen_date": "2026-08-14",
     "latest_version": 1,
     "primary_category": "q-fin.ST",
     "priority": "unscored",
@@ -52477,7 +52477,7 @@
     "content_hash": "5871ec3cc35957153855118398287461a5f0f1bf6e6dcfa33c7ef8faba5262f1",
     "first_seen_date": "2026-08-13",
     "last_reported_date": "2026-08-13",
-    "last_seen_date": "2026-08-13",
+    "last_seen_date": "2026-08-14",
     "latest_version": 1,
     "primary_category": "cs.LG",
     "priority": "unscored",
@@ -52688,7 +52688,7 @@
     "content_hash": "dd0f2a28bf88a9d159e2b792d745397f739086ffc138d4edc859b0fb0d0b9e75",
     "first_seen_date": "2026-08-13",
     "last_reported_date": "2026-08-13",
-    "last_seen_date": "2026-08-13",
+    "last_seen_date": "2026-08-14",
     "latest_version": 1,
     "primary_category": "q-fin.PM",
     "priority": "unscored",
@@ -52876,5 +52876,666 @@
       "llm_progress"
     ],
     "updated": "2026-08-12T17:58:02Z"
+  },
+  "2608.12634": {
+    "authors": [
+      "Abdulrahman Qadi",
+      "Akash Sharma",
+      "Francesca Medda"
+    ],
+    "canonical_id": "2608.12634",
+    "categories": [
+      "q-fin.ST",
+      "q-fin.GN",
+      "q-fin.RM"
+    ],
+    "content_hash": "256d0fbbaa0a2b20e120d96d7ffcc378099fd5c6947a926d597b50c1b528437b",
+    "first_seen_date": "2026-08-14",
+    "last_reported_date": "2026-08-14",
+    "last_seen_date": "2026-08-14",
+    "latest_version": 1,
+    "primary_category": "q-fin.ST",
+    "priority": "unscored",
+    "published": "2026-08-12T22:49:26Z",
+    "report_count": 1,
+    "title": "The Price of Permission: Classification Uncertainty in Constrained Capital Markets",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-08-12T22:49:26Z"
+  },
+  "2608.13463": {
+    "authors": [
+      "Daniel Perkins",
+      "John Squires",
+      "Janou Milligan",
+      "Chandra Raskoti",
+      "Linda Ungerboeck"
+    ],
+    "canonical_id": "2608.13463",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "6cbf5b3b09f5199e0fb0dd5e533c1bd7d83885d71fa1c1f926e9a4db3d8c415a",
+    "first_seen_date": "2026-08-14",
+    "last_reported_date": "2026-08-14",
+    "last_seen_date": "2026-08-14",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-13T16:45:24Z",
+    "report_count": 1,
+    "title": "MLLM-Routed Heterogeneous Ensembles for Robust Cross-Dataset Image Classification",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-13T16:45:24Z"
+  },
+  "2608.13467": {
+    "authors": [
+      "Yuchen Xin",
+      "Zhihua Zhang"
+    ],
+    "canonical_id": "2608.13467",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "d8d96c4d8f4334faa46fcdce5c7c6b8be1b97334615ea8182645a146767f0fd0",
+    "first_seen_date": "2026-08-14",
+    "last_reported_date": "2026-08-14",
+    "last_seen_date": "2026-08-14",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-13T16:47:41Z",
+    "report_count": 1,
+    "title": "Active-Trace Complexity Bounds for Moreau--Yosida Unadjusted Langevin Sampling",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-13T16:47:41Z"
+  },
+  "2608.13472": {
+    "authors": [
+      "Mohammed Ayman Habib",
+      "Rylan Hart",
+      "Morteza Fayazi"
+    ],
+    "canonical_id": "2608.13472",
+    "categories": [
+      "eess.SY",
+      "cs.AI"
+    ],
+    "content_hash": "c6e238879a84beb6e9efc8d70bf5bc0659e02105b050884d3e2ed1d39e66403d",
+    "first_seen_date": "2026-08-14",
+    "last_reported_date": "2026-08-14",
+    "last_seen_date": "2026-08-14",
+    "latest_version": 1,
+    "primary_category": "eess.SY",
+    "priority": "unscored",
+    "published": "2026-08-13T16:57:07Z",
+    "report_count": 1,
+    "title": "AaLLM: An End-to-End Analog Circuit Design Framework from Topology Generation to Sizing Using Large Language Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-13T16:57:07Z"
+  },
+  "2608.13476": {
+    "authors": [
+      "Saisha Shetty",
+      "Satvik Tripathi",
+      "Austin Lin",
+      "Colin Zhao",
+      "Theodore Kim",
+      "Don Enwerem",
+      "Jacinta Arnold",
+      "Shahriar Faghani",
+      "Tessa S Cook"
+    ],
+    "canonical_id": "2608.13476",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "208481820b712076c461d580f251853acd50164524df5299de7b2fc9d4c7be18",
+    "first_seen_date": "2026-08-14",
+    "last_reported_date": "2026-08-14",
+    "last_seen_date": "2026-08-14",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-13T17:00:08Z",
+    "report_count": 1,
+    "title": "MARC v1: An Open-Source Multi-Agent Framework for Clinical AI Reasoning and Coordination",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-13T17:00:08Z"
+  },
+  "2608.13484": {
+    "authors": [
+      "Dananjay Srinivas",
+      "Saksham Khatwani",
+      "Maria Pacheco"
+    ],
+    "canonical_id": "2608.13484",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "fc1cd9e75ae700ed7e6309af1c79e6ea5c408c296887bd42fe092e5479c537d7",
+    "first_seen_date": "2026-08-14",
+    "last_reported_date": "2026-08-14",
+    "last_seen_date": "2026-08-14",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-13T17:13:41Z",
+    "report_count": 1,
+    "title": "Toward a Gricean Retreat: Probing LLMs for Knowledge Boundaries and Referent Specificity",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-13T17:13:41Z"
+  },
+  "2608.13495": {
+    "authors": [
+      "Yi-Chung Chen",
+      "Philip Jacobson",
+      "Tom Lampo",
+      "Yiren Lu",
+      "Jin Yao",
+      "David I. Inouye",
+      "Jing Gao",
+      "Danhua Guo",
+      "Burhan Yaman"
+    ],
+    "canonical_id": "2608.13495",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "3408d9ae2fe7b59fb272c1c5287ea768bb780775517bb0cc266e1d22d280978a",
+    "first_seen_date": "2026-08-14",
+    "last_reported_date": "2026-08-14",
+    "last_seen_date": "2026-08-14",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-13T17:24:23Z",
+    "report_count": 1,
+    "title": "TraVEL: Trajectory-Guided Video Embedding Learning for Driving-Video Retrieval",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-13T17:24:23Z"
+  },
+  "2608.13505": {
+    "authors": [
+      "Lei Bai",
+      "Jiaqi Cao",
+      "Chiyu Chen",
+      "Guanzhou Chen",
+      "Kai Chen",
+      "Guangran Cheng",
+      "Erfei Cui",
+      "Xuanlang Dai",
+      "Shengyuan Ding",
+      "Shangheng Du",
+      "Yanhui Duan",
+      "Yue Fan",
+      "Youqing Fang",
+      "Quan Gan",
+      "Yuanyuan Gao",
+      "Jiaye Ge",
+      "Lixin Gu",
+      "Yuzhe Gu",
+      "Qipeng Guo",
+      "Junjun He",
+      "Xin Hong",
+      "Ming Hu",
+      "Zhouqi Hua",
+      "Haian Huang",
+      "Junhao Huang",
+      "Zixian Huang",
+      "Minxi Jin",
+      "Lingkai Kong",
+      "Alexander Lam",
+      "Zehao Li",
+      "Zonglin Li",
+      "Tianhao Liang",
+      "Dahua Lin",
+      "Junyao Lin",
+      "Tianyang Lin",
+      "Zhouhan Lin",
+      "Jiangning Liu",
+      "Jin Liu",
+      "Kuikun Liu",
+      "Wenran Liu",
+      "Yifei Liu",
+      "Yuhong Liu",
+      "Yuhong Liu",
+      "Zhoumianze Liu",
+      "Ziyan Liu",
+      "Ziyu Liu",
+      "Haijun Lv",
+      "Han Lv",
+      "Chengqi Lyu",
+      "Le Ma",
+      "Ningsheng Ma",
+      "Zerun Ma",
+      "Haoyang Peng",
+      "Runyu Peng",
+      "Jifei Shan",
+      "Zixin Shang",
+      "Kou Shi",
+      "Xiang Shi",
+      "Qisheng Su",
+      "Xuerui Su",
+      "Hao Sun",
+      "Xiao Sun",
+      "Yanan Sun",
+      "Yu Sun",
+      "Huanze Tang",
+      "Yinghao Tang",
+      "Wenhui Tian",
+      "Zhongbo Tian",
+      "Bingli Wang",
+      "Haomin Wang",
+      "Jiarui Wang",
+      "Jingzhi Wang",
+      "Rui Wang",
+      "Xiquan Wang",
+      "Yi Wang",
+      "Zhecan Wang",
+      "Ziyi Wang",
+      "Zun Wang",
+      "Rubin Wei",
+      "Lianyi Wu",
+      "Wen Wu",
+      "Yue Wu",
+      "Yuhan Wu",
+      "Zhenyu Wu",
+      "Zijian Wu",
+      "Shuhao Xing",
+      "Jun Xu",
+      "Xingle Xu",
+      "Xuenan Xu",
+      "Xiangchao Yan",
+      "Ziang Yan",
+      "Bowen Yang",
+      "Danni Yang",
+      "Lin Yang",
+      "Zhiqi Yang",
+      "Qian Yao",
+      "Haochen Ye",
+      "Peng Ye",
+      "Jinhui Yin",
+      "Jiashuo Yu",
+      "Dingbo Yuan",
+      "Fei Yuan",
+      "Yuhang Zang",
+      "Bo Zhang",
+      "Chao Zhang",
+      "Chen Zhang",
+      "Hongjie Zhang",
+      "Junming Zhang",
+      "Wenlong Zhang",
+      "Wenwei Zhang",
+      "Yiming Zhang",
+      "Zhuo Zhang",
+      "Ziyang Zhang",
+      "Haiteng Zhao",
+      "Penghao Zhao",
+      "Yibo Zhao",
+      "Zhonghan Zhao",
+      "Zhihang Zhong",
+      "Bowen Zhou",
+      "Peiheng Zhou",
+      "Xin Zhou",
+      "Xinyu Zhou",
+      "Yunhua Zhou",
+      "Dongsheng Zhu",
+      "Yicheng Zou"
+    ],
+    "canonical_id": "2608.13505",
+    "categories": [
+      "cs.LG",
+      "cs.CL",
+      "cs.CV"
+    ],
+    "content_hash": "97543010ef327a2bf427aae1bbb1b299b41806fda6d9a882a490d3714e5a215d",
+    "first_seen_date": "2026-08-14",
+    "last_reported_date": "2026-08-14",
+    "last_seen_date": "2026-08-14",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-13T17:31:28Z",
+    "report_count": 1,
+    "title": "Intern-S2-Preview: Scientific Agentic Foundation Model",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-13T17:31:28Z"
+  },
+  "2608.13510": {
+    "authors": [
+      "Nestor R. Barraza",
+      "Gabriel Pena"
+    ],
+    "canonical_id": "2608.13510",
+    "categories": [
+      "math.ST",
+      "cs.LG"
+    ],
+    "content_hash": "5c6199a2f4016f7d14f5bb2c59c7a55807656cd62b029e0f3d960aaff6e148e2",
+    "first_seen_date": "2026-08-14",
+    "last_reported_date": "2026-08-14",
+    "last_seen_date": "2026-08-14",
+    "latest_version": 1,
+    "primary_category": "math.ST",
+    "priority": "unscored",
+    "published": "2026-08-13T17:34:41Z",
+    "report_count": 1,
+    "title": "On the Structural Limits of Machine Learning Decision Systems: An Information-Theoretic, Interaction-Based, and Stochastic-Dynamical Perspective",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-13T17:34:41Z"
+  },
+  "2608.13513": {
+    "authors": [
+      "David Chushig-Muzo",
+      "María Ángeles Rodríguez de Cara",
+      "Eva Milara",
+      "Francisco J. Lara-Abelenda",
+      "Luis Zhinin-Vera",
+      "Diego H. Peluffo-Ordóñez"
+    ],
+    "canonical_id": "2608.13513",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "14c39adb5122a36a597eee734a62032b4a81374069badf4115057360b4bcc4df",
+    "first_seen_date": "2026-08-14",
+    "last_reported_date": "2026-08-14",
+    "last_seen_date": "2026-08-14",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-13T17:35:37Z",
+    "report_count": 1,
+    "title": "TabSOM: A tabular-to-image encoding method based on self-organizing maps",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-13T17:35:37Z"
+  },
+  "2608.13517": {
+    "authors": [
+      "Peter Schneider-Kamp",
+      "Jacob Nielsen",
+      "Gianluca Barmina",
+      "Kenneth Enevoldsen",
+      "Lukas Galke Poech"
+    ],
+    "canonical_id": "2608.13517",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "69690d3e49d8d9e981204f7a38322a89e703d88db6917659fc6a1ff918f142a5",
+    "first_seen_date": "2026-08-14",
+    "last_reported_date": "2026-08-14",
+    "last_seen_date": "2026-08-14",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-13T17:37:53Z",
+    "report_count": 1,
+    "title": "DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-13T17:37:53Z"
+  },
+  "2608.13522": {
+    "authors": [
+      "Zhe Ye",
+      "Hantao Lou",
+      "Yuechun Sun",
+      "Peiyang Song",
+      "Zhengxu Yan",
+      "Timothe Kasriel",
+      "Qingyang Zhang",
+      "Kaiyu Yang",
+      "Soonho Kong",
+      "Jingxuan He",
+      "Dawn Song"
+    ],
+    "canonical_id": "2608.13522",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.LO",
+      "cs.PL",
+      "cs.SE"
+    ],
+    "content_hash": "3653150f2d32b17210cdd7a4cbd21871809d468430db36342927083027fa8a8b",
+    "first_seen_date": "2026-08-14",
+    "last_reported_date": "2026-08-14",
+    "last_seen_date": "2026-08-14",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-13T17:41:27Z",
+    "report_count": 1,
+    "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-13T17:41:27Z"
+  },
+  "2608.13524": {
+    "authors": [
+      "Tianyi Li",
+      "Yaxin Luo",
+      "Xinyi Shang",
+      "Zhiqiang Shen"
+    ],
+    "canonical_id": "2608.13524",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "a8c5802ffff76a8b7f845540ec22f53cc6d72a3122f3f531a2ca53e04940f0c1",
+    "first_seen_date": "2026-08-14",
+    "last_reported_date": "2026-08-14",
+    "last_seen_date": "2026-08-14",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-13T17:43:44Z",
+    "report_count": 1,
+    "title": "DARTree: Speculative Diffusion Decoding with Autoregressive Draft Trees",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-13T17:43:44Z"
+  },
+  "2608.13538": {
+    "authors": [
+      "Weihan Meng",
+      "Hongzhu Guo",
+      "Yi Jing",
+      "Dewen Liu",
+      "Zijun Yao",
+      "Xiaozhi Wang",
+      "Lei Hou",
+      "Juanzi Li"
+    ],
+    "canonical_id": "2608.13538",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "5100ddd067c426578d6d20b2f52f8f8db0c647d286edacad87d0db603ab394a5",
+    "first_seen_date": "2026-08-14",
+    "last_reported_date": "2026-08-14",
+    "last_seen_date": "2026-08-14",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-13T17:54:11Z",
+    "report_count": 1,
+    "title": "SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representation Verbalization",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-13T17:54:11Z"
+  },
+  "2608.13547": {
+    "authors": [
+      "Shangao Li",
+      "Yao Zhang",
+      "Volker Tresp",
+      "Yuanyuan Yang"
+    ],
+    "canonical_id": "2608.13547",
+    "categories": [
+      "cs.AI",
+      "cs.SE"
+    ],
+    "content_hash": "6445f1d169cb338228d0df09aef8f79f74cb054f6797b99f84ee34567d4cbc03",
+    "first_seen_date": "2026-08-14",
+    "last_reported_date": "2026-08-14",
+    "last_seen_date": "2026-08-14",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-13T17:57:20Z",
+    "report_count": 1,
+    "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-13T17:57:20Z"
+  },
+  "2608.13555": {
+    "authors": [
+      "Dairu Liu",
+      "Zekun Qi",
+      "Jiayu Zeng",
+      "Ruixi Yu",
+      "Yu Guan",
+      "Yintianrun Zhang",
+      "Xuchuan Chen",
+      "Sikai Liang",
+      "Zekai Li",
+      "Chenghuai Lin",
+      "Xinqiang Yu",
+      "Wenyao Zhang",
+      "He Wang",
+      "Li Yi"
+    ],
+    "canonical_id": "2608.13555",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "content_hash": "6c20cfafa8178af87689e3603607ad8b9872649b0f490312915009d8e6e55901",
+    "first_seen_date": "2026-08-14",
+    "last_reported_date": "2026-08-14",
+    "last_seen_date": "2026-08-14",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-08-13T17:59:40Z",
+    "report_count": 1,
+    "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-13T17:59:40Z"
+  },
+  "2608.13558": {
+    "authors": [
+      "Bobo Li",
+      "Hao Fei",
+      "Tianjie Ju",
+      "Mong-Li Lee",
+      "Wynne Hsu"
+    ],
+    "canonical_id": "2608.13558",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "c3f1355a105738f0afbd92b8c58ae384e5427d4b1ac989964b1512ccb774ec64",
+    "first_seen_date": "2026-08-14",
+    "last_reported_date": "2026-08-14",
+    "last_seen_date": "2026-08-14",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-13T17:59:52Z",
+    "report_count": 1,
+    "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-13T17:59:52Z"
+  },
+  "2608.13560": {
+    "authors": [
+      "Yaxin Luo",
+      "Haobin Jiang",
+      "Jialv Zou",
+      "Xu Huang",
+      "Wenhao Yan",
+      "Haodong Li",
+      "Zhengrong Yue",
+      "Jing Li",
+      "Xiaofu Chen",
+      "Xiaohan Zhao",
+      "Jiacheng Liu",
+      "Jiacheng Cui",
+      "Zhiqiang Shen",
+      "Xiaotong Li"
+    ],
+    "canonical_id": "2608.13560",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "c941f85fd4b5513024ceff4db905da129e8baf8e6c0dd928d4fabf3bc2deb3b6",
+    "first_seen_date": "2026-08-14",
+    "last_reported_date": "2026-08-14",
+    "last_seen_date": "2026-08-14",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-13T17:59:57Z",
+    "report_count": 1,
+    "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-13T17:59:57Z"
   }
 }
