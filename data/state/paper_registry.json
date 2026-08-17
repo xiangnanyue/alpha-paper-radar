@@ -52688,7 +52688,7 @@
     "content_hash": "dd0f2a28bf88a9d159e2b792d745397f739086ffc138d4edc859b0fb0d0b9e75",
     "first_seen_date": "2026-08-13",
     "last_reported_date": "2026-08-13",
-    "last_seen_date": "2026-08-16",
+    "last_seen_date": "2026-08-17",
     "latest_version": 1,
     "primary_category": "q-fin.PM",
     "priority": "unscored",
@@ -53537,5 +53537,718 @@
       "llm_progress"
     ],
     "updated": "2026-08-13T17:59:57Z"
+  },
+  "2608.13880": {
+    "authors": [
+      "Xufei Tang",
+      "Dan Zhuang",
+      "Houlin Zhou"
+    ],
+    "canonical_id": "2608.13880",
+    "categories": [
+      "stat.ME"
+    ],
+    "content_hash": "f82cb938f5fa2eecf9f0feb06f3123bdb8af1565019c6cfb80f82f9fc943f944",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-08-14T02:09:28Z",
+    "report_count": 1,
+    "title": "Change-Point Detection for Heterogeneous High-Dimensional Functional Time Series",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-08-14T02:09:28Z"
+  },
+  "2608.13886": {
+    "authors": [
+      "Xixi Li",
+      "Zijia Chen",
+      "James W. Taylor",
+      "Xiaojie Mao"
+    ],
+    "canonical_id": "2608.13886",
+    "categories": [
+      "stat.ME"
+    ],
+    "content_hash": "2c34749d1f6498015cfcfd3cff5f3f758dd52d09e6430069f91c17880610f601",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-08-14T02:24:01Z",
+    "report_count": 1,
+    "title": "A Forecast Combination Framework for Hierarchical and Grouped Time Series Reconciliatio",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-08-14T02:24:01Z"
+  },
+  "2608.13953": {
+    "authors": [
+      "Laura Liu",
+      "Mikkel Plagborg-Møller",
+      "Nelson Matthew P. Tan"
+    ],
+    "canonical_id": "2608.13953",
+    "categories": [
+      "econ.EM"
+    ],
+    "content_hash": "26ce9cbac357e56fb2d17f021024be2c38d6345125946f7de4d6aed880dcea30",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "econ.EM",
+    "priority": "unscored",
+    "published": "2026-08-14T04:48:40Z",
+    "report_count": 1,
+    "title": "Limited-Information Estimation of Heterogeneous Agent Models",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-08-14T04:48:40Z"
+  },
+  "2608.14134": {
+    "authors": [
+      "Nirvik Sahoo",
+      "Chyng Wen Tee",
+      "Paul Robert Griffin"
+    ],
+    "canonical_id": "2608.14134",
+    "categories": [
+      "quant-ph",
+      "q-fin.PM"
+    ],
+    "content_hash": "8b68172bc6caf35e6e61c7401c35fb650ae61c336ee5b13f7be80c644773fba0",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "quant-ph",
+    "priority": "unscored",
+    "published": "2026-08-14T09:40:58Z",
+    "report_count": 1,
+    "title": "Photonic Quantum Computing vs. Classical Solvers in Constrained Factor Portfolio Optimization",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-08-14T09:40:58Z"
+  },
+  "2608.14171": {
+    "authors": [
+      "Neha Gupta",
+      "Nishit Soni",
+      "Aditya Maheshwari"
+    ],
+    "canonical_id": "2608.14171",
+    "categories": [
+      "stat.AP"
+    ],
+    "content_hash": "fe64120a4d982286274479b7803918551df07d99b613563eb549cf045381fbfb",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "stat.AP",
+    "priority": "unscored",
+    "published": "2026-08-14T10:34:51Z",
+    "report_count": 1,
+    "title": "Spillover-Informed Network Architecture for Global Volatility Forecasting",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-08-14T10:34:51Z"
+  },
+  "2608.14323": {
+    "authors": [
+      "Hongyu Lin",
+      "Yulin Chen",
+      "Yuanrong Wang",
+      "Antonio Briola",
+      "Tomaso Aste"
+    ],
+    "canonical_id": "2608.14323",
+    "categories": [
+      "q-fin.ST"
+    ],
+    "content_hash": "6c4a8b3d27f43a943dfb22ede1d349f78ad647cf26c6dd74adc408c6d6da14e2",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "q-fin.ST",
+    "priority": "unscored",
+    "published": "2026-08-14T14:07:29Z",
+    "report_count": 1,
+    "title": "Dependence-Informed Sparse Neural Architecture for Stock Return Prediction",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-08-14T14:07:29Z"
+  },
+  "2608.14408": {
+    "authors": [
+      "Yang Peng",
+      "Liangyu Zhang"
+    ],
+    "canonical_id": "2608.14408",
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ],
+    "content_hash": "d3cfb53562027050b4e92cee60e5502b9d9ec876a5309f5277b6d20e9f7e4aa0",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "stat.ML",
+    "priority": "unscored",
+    "published": "2026-08-14T15:51:50Z",
+    "report_count": 1,
+    "title": "Online Inference in Distributional Temporal-Difference Learning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-14T15:51:50Z"
+  },
+  "2608.14414": {
+    "authors": [
+      "Syed Abdul Haseeb Qadri",
+      "Bjarne C. Hiller",
+      "Felix Blanke",
+      "Vanja Sophie Cangalovic",
+      "Kutalmış Coşkun",
+      "Amin Mirzaei",
+      "Tom Siegl",
+      "Sebastian Bader",
+      "Thomas Kirste",
+      "Martin Becker"
+    ],
+    "canonical_id": "2608.14414",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "c3bc4750dc9bcd68ab73349dd9b2199387a75cddbfdf5a962ddaa672ee3fcbc8",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-14T15:57:35Z",
+    "report_count": 1,
+    "title": "CytoBERT: A Foundation Model for Cytometry Data",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-14T15:57:35Z"
+  },
+  "2608.14420": {
+    "authors": [
+      "Haohui Yang",
+      "Jiaxing Sun",
+      "Xiujun Ma"
+    ],
+    "canonical_id": "2608.14420",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "68a848f26cf99362e7581c3fb5d11f0b7aacd00490784677bace68060d19583b",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-14T16:01:10Z",
+    "report_count": 1,
+    "title": "More Correct Mass, Worse Answers: Why Power Sampling Can Fail and How to Fix It",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-14T16:01:10Z"
+  },
+  "2608.14425": {
+    "authors": [
+      "Toby D. Pilditch"
+    ],
+    "canonical_id": "2608.14425",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "681529d69bfb779fe2c2c17d58c4524e4334455e8bf013acf3b3dadfde1e2745",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-14T16:06:41Z",
+    "report_count": 1,
+    "title": "Knowing When to Stop: Bayesian Optimal Stopping for LLM Evaluations",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-14T16:06:41Z"
+  },
+  "2608.14430": {
+    "authors": [
+      "Yixian Xu",
+      "Yuanrui Zhang",
+      "Shengjie Luo",
+      "Liwei Wang",
+      "Di He"
+    ],
+    "canonical_id": "2608.14430",
+    "categories": [
+      "cs.LG",
+      "cs.CV",
+      "stat.ML"
+    ],
+    "content_hash": "85e4eb9ca31c457956a371570438593f6ffbe7e9803c65334ef117a050364545",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-14T16:11:55Z",
+    "report_count": 1,
+    "title": "Designing Reinforcement Learning for Diffusion Models: A Unified Path-Space View",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-14T16:11:55Z"
+  },
+  "2608.14441": {
+    "authors": [
+      "Yuhao Zhan",
+      "Bingxiang He",
+      "Zecong Tang",
+      "Chaojun Xiao"
+    ],
+    "canonical_id": "2608.14441",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "44867b0b87d6b7e85ab1db2d8468dbbd9a8a0e627e1360864601dda689c8ca2b",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-14T16:25:43Z",
+    "report_count": 1,
+    "title": "PACE-Bench: Benchmarking Physics Adaptation via Code Evolution in Dynamic Environments",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-14T16:25:43Z"
+  },
+  "2608.14446": {
+    "authors": [
+      "Beatrice Alessandra Motetti",
+      "Emilien Guandalino",
+      "Daniele Jahier Pagliari",
+      "Alessio Burrello",
+      "Lorenz K. Müller",
+      "Konstantin Berestizshevsky",
+      "Lukas Cavigelli"
+    ],
+    "canonical_id": "2608.14446",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "a95e8ac136aa6d2e15dc764a9efef10793dc348669d1645c5704033e29bb9f59",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-14T16:31:43Z",
+    "report_count": 1,
+    "title": "Wyvern: An Agentic Framework for Generating Grounded Multimodal Reports",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-14T16:31:43Z"
+  },
+  "2608.14452": {
+    "authors": [
+      "Panjing He",
+      "Mingyue Cheng",
+      "Yucong Luo",
+      "Li Li",
+      "Xiaohan Zhang"
+    ],
+    "canonical_id": "2608.14452",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "360d099b0313b7824248896c16bcaa95d0f6b34ce5bbfcf566b7815d43ff2032",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-14T16:39:16Z",
+    "report_count": 1,
+    "title": "SheetCompass: Hierarchical Relation Graphs for Agentic Spreadsheet Reasoning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-14T16:39:16Z"
+  },
+  "2608.14465": {
+    "authors": [
+      "Ziyang Luo",
+      "Zhongyao Chu",
+      "Xinjie He",
+      "Youting Wang",
+      "Xukui Qin",
+      "Runxiong Wu",
+      "Yan-Syuan Chen"
+    ],
+    "canonical_id": "2608.14465",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "89abc76e75bd1633409f6b41a17e10f56a2764581feb86812b1c7f353049d37d",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-14T16:44:35Z",
+    "report_count": 1,
+    "title": "You Only Pass Once: Answering and Abstaining Together in a Single Forward Pass of a Frozen Language Model",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-14T16:44:35Z"
+  },
+  "2608.14466": {
+    "authors": [
+      "Ajith Anil Meera",
+      "Pablo Lanillos",
+      "Wouter Kouw"
+    ],
+    "canonical_id": "2608.14466",
+    "categories": [
+      "cs.RO",
+      "cs.IT",
+      "cs.LG"
+    ],
+    "content_hash": "ad7b08279adeafdefaa2895399b5bd97cf2d3bf569a4bdaa6d4bbb4103948e88",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-08-14T16:46:18Z",
+    "report_count": 1,
+    "title": "Expected Free Energy-based Informative Path Planning for Robotic Mars Exploration",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-14T16:46:18Z"
+  },
+  "2608.14490": {
+    "authors": [
+      "Alexy Skoutnev",
+      "Kirill Acharya",
+      "Gaston Longhitano",
+      "Madeleine Udell",
+      "Kevin Ellis",
+      "Iddo Drori"
+    ],
+    "canonical_id": "2608.14490",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "c1776bb6c10c182056bfa162b41355c13f8787820d25146cf7f57cb0ec9d9d02",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-14T17:06:00Z",
+    "report_count": 1,
+    "title": "Twin: Playing an Unknown Game with a Test-Time Digital Twin",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-14T17:06:00Z"
+  },
+  "2608.14491": {
+    "authors": [
+      "Charitha Nandepu",
+      "Lohitha Kalepu",
+      "Gabriele Ciavarella",
+      "SangWoo Park"
+    ],
+    "canonical_id": "2608.14491",
+    "categories": [
+      "eess.SY",
+      "cs.AI"
+    ],
+    "content_hash": "b8e161355324809858e94f32938bd4c7e551962dbecf0b38da52fe77a854e098",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "eess.SY",
+    "priority": "unscored",
+    "published": "2026-08-14T17:07:14Z",
+    "report_count": 1,
+    "title": "Optimal Scheduling of Road Maintenance Jobs Considering Impact on Traffic Flows",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-14T17:07:14Z"
+  },
+  "2608.14492": {
+    "authors": [
+      "Ben Anson",
+      "Conor Houghton",
+      "Edward Milsom"
+    ],
+    "canonical_id": "2608.14492",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "581d8adf79cc4ee50cb0562831d28766fc4b67f0026b18c3285dfec8955f56b2",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-14T17:07:37Z",
+    "report_count": 1,
+    "title": "Approximate Muon with low-rank adapters",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-14T17:07:37Z"
+  },
+  "2608.14496": {
+    "authors": [
+      "Hao Yan",
+      "Lisa Pilgram",
+      "Dan Liu",
+      "Linglong Kong",
+      "Fida Dankar",
+      "Khaled El Emam"
+    ],
+    "canonical_id": "2608.14496",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "54b8d242224105fbbff546d464ce59e67d8e1273e9de73840820d77999472ada",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-14T17:10:44Z",
+    "report_count": 1,
+    "title": "Generating Benchmark Health Data Using a Tabular Diffusion Transformer",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-14T17:10:44Z"
+  },
+  "2608.14498": {
+    "authors": [
+      "Hanfeng Lu",
+      "Tianyu Feng",
+      "Suyi Li",
+      "Yuheng Zhao",
+      "Wei Gao",
+      "Shaopan Xiong",
+      "Ju Huang",
+      "Siran Yang",
+      "Jiamang Wang",
+      "Lin Qu",
+      "Wei Wang"
+    ],
+    "canonical_id": "2608.14498",
+    "categories": [
+      "cs.LG",
+      "cs.DC"
+    ],
+    "content_hash": "de278a9e00fee390a79487c7c5ced2adc115f8e0b5256315b68a41e4faedd34f",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-14T17:13:34Z",
+    "report_count": 1,
+    "title": "Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-14T17:13:34Z"
+  },
+  "2608.14502": {
+    "authors": [
+      "Juno Nam",
+      "Bowen Deng",
+      "Xiaochen Du",
+      "Luis Barroso-Luque",
+      "Benjamin Kurt Miller",
+      "Rafael Gómez-Bombarelli"
+    ],
+    "canonical_id": "2608.14502",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.stat-mech",
+      "cs.AI",
+      "cs.LG",
+      "physics.chem-ph"
+    ],
+    "content_hash": "f7826529c5ecc6f768c28b91bab8564bdfe27c9457ef5bbec21f6ad9ad8d4c63",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "cond-mat.mtrl-sci",
+    "priority": "unscored",
+    "published": "2026-08-14T17:16:27Z",
+    "report_count": 1,
+    "title": "Universal Thermodynamic Interatomic Potentials for Crystalline Materials",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-14T17:16:27Z"
+  },
+  "2608.14522": {
+    "authors": [
+      "Taenyun Kim",
+      "Edyta Bogucka",
+      "Daniele Quercia"
+    ],
+    "canonical_id": "2608.14522",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "7747654ea3b2ba806482b5f601713a66d84b2f4199294c36dbaae3282331f797",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-14T17:43:16Z",
+    "report_count": 1,
+    "title": "Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-14T17:43:16Z"
+  },
+  "2608.14528": {
+    "authors": [
+      "Masahiro Kato",
+      "Taka Kato"
+    ],
+    "canonical_id": "2608.14528",
+    "categories": [
+      "cs.AI",
+      "econ.EM",
+      "math.ST",
+      "stat.ME",
+      "stat.ML"
+    ],
+    "content_hash": "e3229f088ee9d029c6f05ee62e126128d5429014a6cbba304cf41a9031d8118d",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-14T17:47:13Z",
+    "report_count": 1,
+    "title": "Handover of In-Context Learning State Across Session Boundaries",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-14T17:47:13Z"
+  },
+  "2608.14530": {
+    "authors": [
+      "Zian Meng",
+      "Zhen Li",
+      "Chuanhao Li",
+      "Qiang Li",
+      "Kaipeng Zhang"
+    ],
+    "canonical_id": "2608.14530",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "979d792c36cfdef51c6674aa4e619d69b15d7c0080951acf0cd3f443ddac7070",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-14T17:48:16Z",
+    "report_count": 1,
+    "title": "Marionette: Predicting World States, Rendering Geometry, Painting Appearance",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-14T17:48:16Z"
+  },
+  "2608.14542": {
+    "authors": [
+      "Yijiao Zhang",
+      "Hongzhe Li"
+    ],
+    "canonical_id": "2608.14542",
+    "categories": [
+      "stat.ME",
+      "stat.ML"
+    ],
+    "content_hash": "af9e5878702556894339558a3deddf2023780a012e54fed3a601284fffeceb6b",
+    "first_seen_date": "2026-08-17",
+    "last_reported_date": "2026-08-17",
+    "last_seen_date": "2026-08-17",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-08-14T17:55:48Z",
+    "report_count": 1,
+    "title": "Generation-Powered Inference for Distribution-Valued Outcomes",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-14T17:55:48Z"
   }
 }
