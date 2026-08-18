@@ -53628,7 +53628,7 @@
     "content_hash": "8b68172bc6caf35e6e61c7401c35fb650ae61c336ee5b13f7be80c644773fba0",
     "first_seen_date": "2026-08-17",
     "last_reported_date": "2026-08-17",
-    "last_seen_date": "2026-08-17",
+    "last_seen_date": "2026-08-18",
     "latest_version": 1,
     "primary_category": "quant-ph",
     "priority": "unscored",
@@ -53653,7 +53653,7 @@
     "content_hash": "fe64120a4d982286274479b7803918551df07d99b613563eb549cf045381fbfb",
     "first_seen_date": "2026-08-17",
     "last_reported_date": "2026-08-17",
-    "last_seen_date": "2026-08-17",
+    "last_seen_date": "2026-08-18",
     "latest_version": 1,
     "primary_category": "stat.AP",
     "priority": "unscored",
@@ -54250,5 +54250,607 @@
       "deep_learning_sota"
     ],
     "updated": "2026-08-14T17:55:48Z"
+  },
+  "2608.16537": {
+    "authors": [
+      "David Moriña"
+    ],
+    "canonical_id": "2608.16537",
+    "categories": [
+      "stat.ME",
+      "stat.AP"
+    ],
+    "content_hash": "eb242badec92e1ef546e1cc5f2864c316a81419039d3d576ca98180e3914a9f9",
+    "first_seen_date": "2026-08-18",
+    "last_reported_date": "2026-08-18",
+    "last_seen_date": "2026-08-18",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-08-17T13:12:27Z",
+    "report_count": 1,
+    "title": "Bayesian epidemic alignment for causal evaluation of seasonal infectious-disease interventions",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-08-17T13:12:27Z"
+  },
+  "2608.16791": {
+    "authors": [
+      "Ye Lu",
+      "Shen Wang",
+      "Zhaoyang Zhang",
+      "Yihan Yan",
+      "Li Liu",
+      "Runze Liu",
+      "Fanghui Sun"
+    ],
+    "canonical_id": "2608.16791",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.CR",
+      "cs.MM"
+    ],
+    "content_hash": "cd9b0beec1ff4ddad9984734705659134d0d821127f58782262d0293d2b9500f",
+    "first_seen_date": "2026-08-18",
+    "last_reported_date": "2026-08-18",
+    "last_seen_date": "2026-08-18",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-17T16:47:09Z",
+    "report_count": 1,
+    "title": "Steering the Flow: Inverting Face Recognition Models via Gradient-Guided Flow Matching",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-17T16:47:09Z"
+  },
+  "2608.16794": {
+    "authors": [
+      "Mohammad Albinhassan",
+      "Yuming Feng",
+      "Alessandra Russo",
+      "Pranava Madhyastha"
+    ],
+    "canonical_id": "2608.16794",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "2c542211129d60777cda3939ece4d18f03448aec7dd0637ec5b8416c634872c1",
+    "first_seen_date": "2026-08-18",
+    "last_reported_date": "2026-08-18",
+    "last_seen_date": "2026-08-18",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-08-17T16:50:59Z",
+    "report_count": 1,
+    "title": "Neurosymbolic Embodied Agents",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-17T16:50:59Z"
+  },
+  "2608.16798": {
+    "authors": [
+      "Huatong Song",
+      "Fei Bai",
+      "Ming Yang",
+      "Renyuan Li",
+      "Jia Deng",
+      "Jujie He",
+      "Zhange Zhang",
+      "Daixuan Cheng",
+      "Yan Xing",
+      "Qi Yun",
+      "Xuxing Chen",
+      "Danyang Li",
+      "Feng Chang",
+      "Chuan Hao",
+      "Ran Tao",
+      "Jian Yang",
+      "Bryan Dai",
+      "Wayne Xin Zhao",
+      "Mingjie Tang",
+      "Ji-Rong Wen"
+    ],
+    "canonical_id": "2608.16798",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "90e32b6c920c82d63dbec224893bd92ff50636a6094b87f494988a2bb291a716",
+    "first_seen_date": "2026-08-18",
+    "last_reported_date": "2026-08-18",
+    "last_seen_date": "2026-08-18",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-17T16:53:03Z",
+    "report_count": 1,
+    "title": "ClawGym II: Exploring Black-Box RL on Agent Harness",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-17T16:53:03Z"
+  },
+  "2608.16801": {
+    "authors": [
+      "Giuseppe Destefanis",
+      "Tomaso Aste"
+    ],
+    "canonical_id": "2608.16801",
+    "categories": [
+      "cs.AI",
+      "cs.SE"
+    ],
+    "content_hash": "9a595ac9882d9286d9c56f5e960aae816d899be7c05516dce8b2df69c03e8dd5",
+    "first_seen_date": "2026-08-18",
+    "last_reported_date": "2026-08-18",
+    "last_seen_date": "2026-08-18",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-17T16:57:38Z",
+    "report_count": 1,
+    "title": "When Agents Coordinate: Measuring Coordination in Multi-Agent AI Coding",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-17T16:57:38Z"
+  },
+  "2608.16805": {
+    "authors": [
+      "Yuanzhi Xu",
+      "Qian Gao",
+      "Jun Fan",
+      "Guohui Ding",
+      "Zhenyu Yang",
+      "Yuteng Xiao",
+      "Sixue Lin"
+    ],
+    "canonical_id": "2608.16805",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "6f9d95af9451235a9b8e541f51a1938ff4ffebf9fd2c7d71e7deac439de05a64",
+    "first_seen_date": "2026-08-18",
+    "last_reported_date": "2026-08-18",
+    "last_seen_date": "2026-08-18",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-17T17:01:21Z",
+    "report_count": 1,
+    "title": "Diagnosing Dense Same-Class Attribute Misbinding in Large Vision-Language Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-17T17:01:21Z"
+  },
+  "2608.16806": {
+    "authors": [
+      "Jiawei Liu",
+      "Jiacheng Guo",
+      "Tian Zhang",
+      "Yiwei Xu",
+      "Juan Wang",
+      "Jinlin Fan",
+      "Bowen Xiao",
+      "Chi Guo",
+      "Keyan Guo",
+      "Hongxin Hu"
+    ],
+    "canonical_id": "2608.16806",
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "content_hash": "469b1e62c57406592206b6bcd0b31cd45623cd0cf1fca8ef52c227b4d02068cb",
+    "first_seen_date": "2026-08-18",
+    "last_reported_date": "2026-08-18",
+    "last_seen_date": "2026-08-18",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-08-17T17:02:07Z",
+    "report_count": 1,
+    "title": "When State Becomes an Attack Surface: State-Semantic Injection in LLM-Driven Embodied Agents",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-17T17:02:07Z"
+  },
+  "2608.16813": {
+    "authors": [
+      "Steve Brown"
+    ],
+    "canonical_id": "2608.16813",
+    "categories": [
+      "cs.AI",
+      "cs.DB"
+    ],
+    "content_hash": "13c152f25083145cd9a8aa10376eb9b961cb26ece98e61a9cf1e18d85e6e9b52",
+    "first_seen_date": "2026-08-18",
+    "last_reported_date": "2026-08-18",
+    "last_seen_date": "2026-08-18",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-17T17:04:29Z",
+    "report_count": 1,
+    "title": "Quipu: A Governed Bitemporal Knowledge Graph Store",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-17T17:04:29Z"
+  },
+  "2608.16824": {
+    "authors": [
+      "Junjie Chu",
+      "Ye Leng",
+      "Mingjie Li",
+      "Yun Shen",
+      "Xinyue Shen",
+      "Yang Zhang"
+    ],
+    "canonical_id": "2608.16824",
+    "categories": [
+      "cs.LG",
+      "cs.CR",
+      "cs.IR"
+    ],
+    "content_hash": "5e122fddf8e3826ad3f6d7c8b5dace0b738d4df64f15fd99456e39c54e9d68bc",
+    "first_seen_date": "2026-08-18",
+    "last_reported_date": "2026-08-18",
+    "last_seen_date": "2026-08-18",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-17T17:12:11Z",
+    "report_count": 1,
+    "title": "GEO-Flag: Detecting and Measuring GEO-Optimized Web Content",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-17T17:12:11Z"
+  },
+  "2608.16829": {
+    "authors": [
+      "Jonathan Sadeghi",
+      "Jenny Seidenschwarz",
+      "Jesse Allardice",
+      "Sirish Srinivasan",
+      "Benjamin Graham",
+      "Jeffrey Hawke"
+    ],
+    "canonical_id": "2608.16829",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "ec39fd70079a9f97cafc6b11876cf27e3a1ddb4422898c29c96fce1b52f9aea9",
+    "first_seen_date": "2026-08-18",
+    "last_reported_date": "2026-08-18",
+    "last_seen_date": "2026-08-18",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-17T17:14:50Z",
+    "report_count": 1,
+    "title": "CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-17T17:14:50Z"
+  },
+  "2608.16831": {
+    "authors": [
+      "Minh-Ha Nguyen",
+      "Cathy Shyr"
+    ],
+    "canonical_id": "2608.16831",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "85e6faed7f7bfad4428ed0eeadce5e328496c451186a8ba28456478ca74d6361",
+    "first_seen_date": "2026-08-18",
+    "last_reported_date": "2026-08-18",
+    "last_seen_date": "2026-08-18",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-17T17:16:43Z",
+    "report_count": 1,
+    "title": "Policy Iteration with Human Feedback: Bringing Post-Training RL to In-context Learning",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-17T17:16:43Z"
+  },
+  "2608.16834": {
+    "authors": [
+      "Enric Boix-Adsera",
+      "Benedict Tessler"
+    ],
+    "canonical_id": "2608.16834",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "78ad34482985feb97772d330bb25f9582d4296c4893b487ff10a72a78dcdd6e2",
+    "first_seen_date": "2026-08-18",
+    "last_reported_date": "2026-08-18",
+    "last_seen_date": "2026-08-18",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-17T17:20:10Z",
+    "report_count": 1,
+    "title": "Model Hypnosis: Strong control of AI via additive subliminal effects",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-17T17:20:10Z"
+  },
+  "2608.16837": {
+    "authors": [
+      "Langzhe Gu",
+      "Chengkai Hou",
+      "Meng Li",
+      "Xinhua Wang",
+      "Jiaming Liu",
+      "Xinyuan Lv",
+      "Bowei Zhang",
+      "Shuanghao Bai",
+      "Guangrun Li",
+      "Jingyang He",
+      "Gaole Dai",
+      "Ziluo Ding",
+      "Zhiyuan Xu",
+      "Kuan Cheng",
+      "Jian Tang",
+      "Zhengping Che",
+      "Shanghang Zhang"
+    ],
+    "canonical_id": "2608.16837",
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "content_hash": "af8f2f3dc2d284c43cf8925d14a8eaac6525ee6ab1d350ec12ca81cb31838e6e",
+    "first_seen_date": "2026-08-18",
+    "last_reported_date": "2026-08-18",
+    "last_seen_date": "2026-08-18",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-08-17T17:22:33Z",
+    "report_count": 1,
+    "title": "HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-17T17:22:33Z"
+  },
+  "2608.16844": {
+    "authors": [
+      "Reza Bayat",
+      "Ali Behrouz",
+      "Vahab Mirrokni",
+      "Aaron Courville"
+    ],
+    "canonical_id": "2608.16844",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "cbe38b1b97f25555c5bfb4ad7f1debc753eb182c87f6b283928f6a044351acb6",
+    "first_seen_date": "2026-08-18",
+    "last_reported_date": "2026-08-18",
+    "last_seen_date": "2026-08-18",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-17T17:30:43Z",
+    "report_count": 1,
+    "title": "Proteus: Incremental Memory Activation for Long-Context Sequence Modeling",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-17T17:30:43Z"
+  },
+  "2608.16852": {
+    "authors": [
+      "Saisab Sadhu",
+      "Aadit Sengupta",
+      "Vinay Kumar Sankarapu",
+      "Pratinav Seth"
+    ],
+    "canonical_id": "2608.16852",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "9b12cc71a1cfec476f89863466c6ee6102cf93bf09ce8f1db9fd1c2b9adee67b",
+    "first_seen_date": "2026-08-18",
+    "last_reported_date": "2026-08-18",
+    "last_seen_date": "2026-08-18",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-17T17:37:07Z",
+    "report_count": 1,
+    "title": "What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-17T17:37:07Z"
+  },
+  "2608.16856": {
+    "authors": [
+      "Girish G N",
+      "Ashutosh Sahoo",
+      "Akshay SP",
+      "Gurukiran S",
+      "Dhanashekar Kandaswamy"
+    ],
+    "canonical_id": "2608.16856",
+    "categories": [
+      "q-fin.RM",
+      "cs.LG"
+    ],
+    "content_hash": "795e8f73c39a7776f358dd6040dbd2cd3b9e56f06e50dcc53484edde863c1531",
+    "first_seen_date": "2026-08-18",
+    "last_reported_date": "2026-08-18",
+    "last_seen_date": "2026-08-18",
+    "latest_version": 1,
+    "primary_category": "q-fin.RM",
+    "priority": "unscored",
+    "published": "2026-08-17T17:39:05Z",
+    "report_count": 1,
+    "title": "zLend: A Dual-Scope Cash-Flow Reconstruction Framework for On-Chain Credit Underwriting",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-17T17:39:05Z"
+  },
+  "2608.16864": {
+    "authors": [
+      "Shuai Huang",
+      "Zhe Qu",
+      "Zhaowei Hua",
+      "Guohao Shen",
+      "Rui Tang",
+      "Hongtu Zhu"
+    ],
+    "canonical_id": "2608.16864",
+    "categories": [
+      "stat.ML",
+      "cs.LG",
+      "stat.AP"
+    ],
+    "content_hash": "1e55f6ae6177fc6499fe5f703db855d5c5d53288a6ae6290b5a81753705a9e44",
+    "first_seen_date": "2026-08-18",
+    "last_reported_date": "2026-08-18",
+    "last_seen_date": "2026-08-18",
+    "latest_version": 1,
+    "primary_category": "stat.ML",
+    "priority": "unscored",
+    "published": "2026-08-17T17:46:41Z",
+    "report_count": 1,
+    "title": "Non-Crossing Deep Quantile Regression for Distributional Survival Prediction",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-17T17:46:41Z"
+  },
+  "2608.16876": {
+    "authors": [
+      "Kejia Zhang",
+      "Youran Sun",
+      "Xinyu Ren",
+      "Chugang Yi",
+      "Haizhao Yang"
+    ],
+    "canonical_id": "2608.16876",
+    "categories": [
+      "cs.SC",
+      "cs.AI",
+      "cs.LG",
+      "math.NA"
+    ],
+    "content_hash": "4740f9bbfe13aa6aeca99f7cc8bf260cd4c3778b0470c07f12fb80a3cc0f348f",
+    "first_seen_date": "2026-08-18",
+    "last_reported_date": "2026-08-18",
+    "last_seen_date": "2026-08-18",
+    "latest_version": 1,
+    "primary_category": "cs.SC",
+    "priority": "unscored",
+    "published": "2026-08-17T17:55:26Z",
+    "report_count": 1,
+    "title": "AutoSR: Automatic Symbolic Regression by Searching Research States",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-17T17:55:26Z"
+  },
+  "2608.16884": {
+    "authors": [
+      "Emilien Dupont",
+      "Marvin Eisenberger",
+      "Borislav Kozlovskii",
+      "Abbas Mehrabian",
+      "Francisco J. R. Ruiz",
+      "Abigail See",
+      "Renfei Zhou",
+      "Josh Alman",
+      "Virginia Vassilevska Williams",
+      "Matej Balog"
+    ],
+    "canonical_id": "2608.16884",
+    "categories": [
+      "cs.DS",
+      "cs.AI",
+      "cs.CC",
+      "cs.LG"
+    ],
+    "content_hash": "35e03f5dfefde857ae92af9da781decf1fc376ee74be9e2405d8630e0bd843ea",
+    "first_seen_date": "2026-08-18",
+    "last_reported_date": "2026-08-18",
+    "last_seen_date": "2026-08-18",
+    "latest_version": 1,
+    "primary_category": "cs.DS",
+    "priority": "unscored",
+    "published": "2026-08-17T17:59:05Z",
+    "report_count": 1,
+    "title": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-17T17:59:05Z"
+  },
+  "2608.16889": {
+    "authors": [
+      "Bingxin Xu",
+      "Yuzhang Shang",
+      "Emilio Ferrara"
+    ],
+    "canonical_id": "2608.16889",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "content_hash": "d8a99cc72ce1b493f7f0f0e0fda011566f6e7e191ada6d32776f9b453eb2bade",
+    "first_seen_date": "2026-08-18",
+    "last_reported_date": "2026-08-18",
+    "last_seen_date": "2026-08-18",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-08-17T17:59:57Z",
+    "report_count": 1,
+    "title": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-17T17:59:57Z"
   }
 }
