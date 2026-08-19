@@ -54263,7 +54263,7 @@
     "content_hash": "eb242badec92e1ef546e1cc5f2864c316a81419039d3d576ca98180e3914a9f9",
     "first_seen_date": "2026-08-18",
     "last_reported_date": "2026-08-18",
-    "last_seen_date": "2026-08-18",
+    "last_seen_date": "2026-08-19",
     "latest_version": 1,
     "primary_category": "stat.ME",
     "priority": "unscored",
@@ -54852,5 +54852,620 @@
       "llm_progress"
     ],
     "updated": "2026-08-17T17:59:57Z"
+  },
+  "2608.17941": {
+    "authors": [
+      "Zhizhao Liu",
+      "Zhiliang Tian",
+      "Xi Wang",
+      "Zhihua Wen",
+      "Yihang Xiong",
+      "Zhiquan Lai",
+      "Dongsheng Li"
+    ],
+    "canonical_id": "2608.17941",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "028daedcf9663eab75afd3ee3d178e83783075cf29969065af85b8984a31a3cb",
+    "first_seen_date": "2026-08-19",
+    "last_reported_date": "2026-08-19",
+    "last_seen_date": "2026-08-19",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-18T16:01:00Z",
+    "report_count": 1,
+    "title": "Efficient RLVR Scheduling via Graph-Structured Online Difficulty Estimation",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-18T16:01:00Z"
+  },
+  "2608.17948": {
+    "authors": [
+      "Xuan Zheng",
+      "Kento Uchida",
+      "Shinichi Shirakawa"
+    ],
+    "canonical_id": "2608.17948",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "bad1de9ecb644bc31baac10b7d3771b116403e3fa701ec934140c14d64bafe02",
+    "first_seen_date": "2026-08-19",
+    "last_reported_date": "2026-08-19",
+    "last_seen_date": "2026-08-19",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-18T16:04:18Z",
+    "report_count": 1,
+    "title": "SIGMA: SHAP-Guided Implicit-Trajectory Generation for Metadata-Free LLM-Based AutoFE",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-18T16:04:18Z"
+  },
+  "2608.17957": {
+    "authors": [
+      "Nour Shaheen",
+      "Junwei Ma",
+      "Alex Labach",
+      "Frank Hutter",
+      "Valentin Thomas",
+      "Anthony L. Caterini"
+    ],
+    "canonical_id": "2608.17957",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "c648fa81a237325f091a541cb291d9af145c80d151d720a289f61e01ab47c638",
+    "first_seen_date": "2026-08-19",
+    "last_reported_date": "2026-08-19",
+    "last_seen_date": "2026-08-19",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-18T16:11:08Z",
+    "report_count": 1,
+    "title": "Understanding the Surprising Generalization Properties of Tabular Foundation Models",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-18T16:11:08Z"
+  },
+  "2608.17959": {
+    "authors": [
+      "Isidoro Tamassia",
+      "Lennert De Smet",
+      "Giuseppe Marra"
+    ],
+    "canonical_id": "2608.17959",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "4508301698995224f2c16b1015a6ae1655944a802d1a3b71eddb774ef2d9749d",
+    "first_seen_date": "2026-08-19",
+    "last_reported_date": "2026-08-19",
+    "last_seen_date": "2026-08-19",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-18T16:12:40Z",
+    "report_count": 1,
+    "title": "Towards Zero-Shot Task Transfer with Neurosymbolic World Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-18T16:12:40Z"
+  },
+  "2608.17965": {
+    "authors": [
+      "Bin Li",
+      "Dongdong Wang",
+      "Siyang Lu"
+    ],
+    "canonical_id": "2608.17965",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.SE"
+    ],
+    "content_hash": "4f17a539d39df6e4eed7f50d3c75e0bacb6fa8ce21c9581d20bdb9b5afd4d00d",
+    "first_seen_date": "2026-08-19",
+    "last_reported_date": "2026-08-19",
+    "last_seen_date": "2026-08-19",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-18T16:19:45Z",
+    "report_count": 1,
+    "title": "Too Sure to Be Safe: Model Calibration for Reliable Log Anomaly Detection",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-18T16:19:45Z"
+  },
+  "2608.17981": {
+    "authors": [
+      "Michael C. Mozer",
+      "Shoaib Ahmed Siddiqui",
+      "Danny Sawyer",
+      "Sunny Sanyal",
+      "Rosanne Liu"
+    ],
+    "canonical_id": "2608.17981",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "7b41427060df1a3991e23b3952a66b58231417061592f86cc35d2c9fbb0bb57e",
+    "first_seen_date": "2026-08-19",
+    "last_reported_date": "2026-08-19",
+    "last_seen_date": "2026-08-19",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-18T16:30:21Z",
+    "report_count": 1,
+    "title": "Recirculation",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-18T16:30:21Z"
+  },
+  "2608.17987": {
+    "authors": [
+      "Yijie Xu",
+      "Chao Wang",
+      "Hui Xiong"
+    ],
+    "canonical_id": "2608.17987",
+    "categories": [
+      "cs.SI",
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "48e26df5dcd6b1f534e75d756ca04e7e3e63a328d44eb528454942e86a9c18d2",
+    "first_seen_date": "2026-08-19",
+    "last_reported_date": "2026-08-19",
+    "last_seen_date": "2026-08-19",
+    "latest_version": 1,
+    "primary_category": "cs.SI",
+    "priority": "unscored",
+    "published": "2026-08-18T16:33:32Z",
+    "report_count": 1,
+    "title": "Against Political Polarization: A Unified Framework for Tracing Evolving Political Ideologies on Social Media",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-18T16:33:32Z"
+  },
+  "2608.17994": {
+    "authors": [
+      "Sher Badshah",
+      "Ali Emami",
+      "Hassan Sajjad"
+    ],
+    "canonical_id": "2608.17994",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "d9878858a0afb7a5af73d2a6ce806ef7588fcba7d529602ccfac88d1dd152141",
+    "first_seen_date": "2026-08-19",
+    "last_reported_date": "2026-08-19",
+    "last_seen_date": "2026-08-19",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-18T16:42:02Z",
+    "report_count": 1,
+    "title": "Judge, Retrieve, or Abstain: Uncertainty-Guarded LLM Judging with Provable Risk Guarantees",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-18T16:42:02Z"
+  },
+  "2608.18008": {
+    "authors": [
+      "Christophe D. Hounwanou",
+      "John Emeka Eze",
+      "Yaé U. Gaba"
+    ],
+    "canonical_id": "2608.18008",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "87de392948431a6baa0aa713615a4590bc1c82b7ac14d08ea9645179b04a2ba9",
+    "first_seen_date": "2026-08-19",
+    "last_reported_date": "2026-08-19",
+    "last_seen_date": "2026-08-19",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-18T16:55:46Z",
+    "report_count": 1,
+    "title": "Policy-Invariant Reward Shaping from LLM Feedback: A Framework for Hybrid RL Agents",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-18T16:55:46Z"
+  },
+  "2608.18011": {
+    "authors": [
+      "Eduardo Sánchez",
+      "Rita Berrada",
+      "Dan-Mircea Mirea",
+      "Sara Rajaee",
+      "Alexander Piperski",
+      "Ana Meta Dolinar",
+      "Boris Iomdin",
+      "Andrey Nikulin",
+      "Mariya Shmatova",
+      "Marzieh Fadaee",
+      "Julia Kreutzer"
+    ],
+    "canonical_id": "2608.18011",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "4cc42021dde346c383c6c3356ad36411d1364b9b6a8b764199cca69e8746925c",
+    "first_seen_date": "2026-08-19",
+    "last_reported_date": "2026-08-19",
+    "last_seen_date": "2026-08-19",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-18T17:00:43Z",
+    "report_count": 1,
+    "title": "The IOL-AI Challenge: An Open Challenge towards Advancing Linguistic Reasoning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-18T17:00:43Z"
+  },
+  "2608.18017": {
+    "authors": [
+      "Lu Xu",
+      "Xu Li",
+      "Linjiang Zheng",
+      "Fan Li",
+      "Riquan Zhang",
+      "Jiaxing Shang"
+    ],
+    "canonical_id": "2608.18017",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "4fcd10de65172f18c2c1b64f80bf4c148a5dab928ff1415faf569fbedc0a73e1",
+    "first_seen_date": "2026-08-19",
+    "last_reported_date": "2026-08-19",
+    "last_seen_date": "2026-08-19",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-18T17:11:40Z",
+    "report_count": 1,
+    "title": "Can Large Language Models Explain Flight Safety Events? A Prior-Guided Semantic LLM-based Approach",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-18T17:11:40Z"
+  },
+  "2608.18022": {
+    "authors": [
+      "Jaehyung Choi"
+    ],
+    "canonical_id": "2608.18022",
+    "categories": [
+      "q-fin.PM",
+      "q-fin.RM"
+    ],
+    "content_hash": "a3009c86a51df51dbf1eb2da9c123a68da3eabce8a2d75f3d09b1a1927384127",
+    "first_seen_date": "2026-08-19",
+    "last_reported_date": "2026-08-19",
+    "last_seen_date": "2026-08-19",
+    "latest_version": 1,
+    "primary_category": "q-fin.PM",
+    "priority": "unscored",
+    "published": "2026-08-18T17:14:43Z",
+    "report_count": 1,
+    "title": "Entropic Value-at-Risk portfolio optimization for tempered stable Lévy processes",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-08-18T17:14:43Z"
+  },
+  "2608.18026": {
+    "authors": [
+      "Ali Eslamian",
+      "Qiang Cheng"
+    ],
+    "canonical_id": "2608.18026",
+    "categories": [
+      "cs.LG",
+      "cs.CE"
+    ],
+    "content_hash": "523fc2178a3edd2995f5c4f077192375d66e5feddd573c5d47377298e98456c8",
+    "first_seen_date": "2026-08-19",
+    "last_reported_date": "2026-08-19",
+    "last_seen_date": "2026-08-19",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-18T17:22:49Z",
+    "report_count": 1,
+    "title": "TabNSM: Neural Sparse Mixer for Tabular Regression",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-18T17:22:49Z"
+  },
+  "2608.18027": {
+    "authors": [
+      "Haoqin Tu",
+      "Yunhao Fang",
+      "Yizhong Wang",
+      "Cihang Xie",
+      "Shen Yan"
+    ],
+    "canonical_id": "2608.18027",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "b8a72f1d245fb798bcdfffdd6c90faa3ed2f675dd0825dd52c3f4d2d4955d5df",
+    "first_seen_date": "2026-08-19",
+    "last_reported_date": "2026-08-19",
+    "last_seen_date": "2026-08-19",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-18T17:22:54Z",
+    "report_count": 1,
+    "title": "Chain-of-Experience for Continual LLM Improvement",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-18T17:22:54Z"
+  },
+  "2608.18040": {
+    "authors": [
+      "Travis Zhang",
+      "Christian Belardi",
+      "Justin Lovelace",
+      "Jin Peng Zhou",
+      "Saebyeol Shin",
+      "Carla P. Gomes",
+      "Kilian Q. Weinberger"
+    ],
+    "canonical_id": "2608.18040",
+    "categories": [
+      "cs.LG",
+      "cs.CV"
+    ],
+    "content_hash": "3eec5a1dfae1abde53ac51754eb7047998767a2c194bddca2c8233e490bab014",
+    "first_seen_date": "2026-08-19",
+    "last_reported_date": "2026-08-19",
+    "last_seen_date": "2026-08-19",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-18T17:33:00Z",
+    "report_count": 1,
+    "title": "Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-18T17:33:00Z"
+  },
+  "2608.18041": {
+    "authors": [
+      "Hollis Robbins"
+    ],
+    "canonical_id": "2608.18041",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "0b285dd9d381049908ce3640cd2066ca30583e1fea7685ef81ffbc519a6432c1",
+    "first_seen_date": "2026-08-19",
+    "last_reported_date": "2026-08-19",
+    "last_seen_date": "2026-08-19",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-18T17:34:25Z",
+    "report_count": 1,
+    "title": "Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive Interpretation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-18T17:34:25Z"
+  },
+  "2608.18050": {
+    "authors": [
+      "Yining Hua",
+      "Hongbin Na",
+      "Yifan Zhou",
+      "Akshay Kalose",
+      "Cyrus Ayubcha",
+      "Levi Lian"
+    ],
+    "canonical_id": "2608.18050",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "64f4b7ac03810957b4ba51d10012e6662a897b8dda0bed8b1c0c2bf84eb814a5",
+    "first_seen_date": "2026-08-19",
+    "last_reported_date": "2026-08-19",
+    "last_seen_date": "2026-08-19",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-18T17:44:18Z",
+    "report_count": 1,
+    "title": "StagedWorkspace: A Versioned Workspace for Knowledge-Work Agents",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-18T17:44:18Z"
+  },
+  "2608.18058": {
+    "authors": [
+      "Daria Leshchikova",
+      "Valentina V. Kuskova",
+      "Dmitry Zaytsev",
+      "Valerii Klimov"
+    ],
+    "canonical_id": "2608.18058",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "8119b7d2320b43988a2384fa338c1e4e268d30ae0cdf58a0adc7cbcddc22666b",
+    "first_seen_date": "2026-08-19",
+    "last_reported_date": "2026-08-19",
+    "last_seen_date": "2026-08-19",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-18T17:51:16Z",
+    "report_count": 1,
+    "title": "Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-18T17:51:16Z"
+  },
+  "2608.18062": {
+    "authors": [
+      "Clara Meister"
+    ],
+    "canonical_id": "2608.18062",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "398f8d128d4e7abd3bd369ced6ba7a4603a51effd940d96dffacbbca9225cf2c",
+    "first_seen_date": "2026-08-19",
+    "last_reported_date": "2026-08-19",
+    "last_seen_date": "2026-08-19",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-18T17:52:52Z",
+    "report_count": 1,
+    "title": "TokEval: A Tokenizer Evaluation Suite",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-18T17:52:52Z"
+  },
+  "2608.18066": {
+    "authors": [
+      "Qinyuan Ye",
+      "Yu Li",
+      "Yada Pruksachatkun",
+      "Jiaxin Zhang",
+      "Chien-Sheng Wu"
+    ],
+    "canonical_id": "2608.18066",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "32c8ab4a004316950a304e334bacb1147188b88f702e5f4c45fde9b1a3abe8de",
+    "first_seen_date": "2026-08-19",
+    "last_reported_date": "2026-08-19",
+    "last_seen_date": "2026-08-19",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-18T17:55:07Z",
+    "report_count": 1,
+    "title": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-18T17:55:07Z"
+  },
+  "2608.18072": {
+    "authors": [
+      "Iryna Hartsock",
+      "Cesar Lam",
+      "Christopher Otteni",
+      "Aliya Qayyum",
+      "Robert Gatenby",
+      "Cyrillo Araujo",
+      "Ghulam Rasool"
+    ],
+    "canonical_id": "2608.18072",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "adb50904eb88c2ab2f005b1edf4b88cf6afbd23c0c040d5b2d97cf9e2c7d00de",
+    "first_seen_date": "2026-08-19",
+    "last_reported_date": "2026-08-19",
+    "last_seen_date": "2026-08-19",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-18T17:57:08Z",
+    "report_count": 1,
+    "title": "Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-18T17:57:08Z"
+  },
+  "2608.18076": {
+    "authors": [
+      "Xingjian Wang",
+      "Zhao Wang",
+      "Taihang Hu",
+      "Jun Zheng",
+      "Qing Jin",
+      "Qinye Zhou",
+      "Zhengtao Wu",
+      "Yongchao Du",
+      "Zuan Gao",
+      "Chao Lin",
+      "Yefeng Shen",
+      "Xiaoli Xu",
+      "Zhengze Xu",
+      "Hao Yan",
+      "Yuhang Yu",
+      "Mingzhou Zhang",
+      "Mengting Chen"
+    ],
+    "canonical_id": "2608.18076",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "05c270a69dab511ec56710820d0f28330b1a7b499e4be32af8abe5bf3b86cbb8",
+    "first_seen_date": "2026-08-19",
+    "last_reported_date": "2026-08-19",
+    "last_seen_date": "2026-08-19",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-18T17:59:01Z",
+    "report_count": 1,
+    "title": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-18T17:59:01Z"
   }
 }
