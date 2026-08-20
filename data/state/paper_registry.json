@@ -55172,7 +55172,7 @@
     "content_hash": "a3009c86a51df51dbf1eb2da9c123a68da3eabce8a2d75f3d09b1a1927384127",
     "first_seen_date": "2026-08-19",
     "last_reported_date": "2026-08-19",
-    "last_seen_date": "2026-08-19",
+    "last_seen_date": "2026-08-20",
     "latest_version": 1,
     "primary_category": "q-fin.PM",
     "priority": "unscored",
@@ -55467,5 +55467,500 @@
       "llm_progress"
     ],
     "updated": "2026-08-18T17:59:01Z"
+  },
+  "2608.18443": {
+    "authors": [
+      "Emmanuel Selorm Tsyawo"
+    ],
+    "canonical_id": "2608.18443",
+    "categories": [
+      "econ.EM",
+      "math.ST"
+    ],
+    "content_hash": "1a77a365081e1ede57fc170e4e21d7013b5882a777718076fdac9f44a3bc9d52",
+    "first_seen_date": "2026-08-20",
+    "last_reported_date": "2026-08-20",
+    "last_seen_date": "2026-08-20",
+    "latest_version": 1,
+    "primary_category": "econ.EM",
+    "priority": "unscored",
+    "published": "2026-08-19T02:17:03Z",
+    "report_count": 1,
+    "title": "Limit Theory for U-Statistics under Clustered and Weakly Dependent Data",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-08-19T02:17:03Z"
+  },
+  "2608.19075": {
+    "authors": [
+      "Jihae Jeong",
+      "Junha Choi",
+      "Hwanjo Yu"
+    ],
+    "canonical_id": "2608.19075",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "322bcbadd7716d97c6674e974c77ca9878d0bc13ff0ff1725c54a392f9f870f9",
+    "first_seen_date": "2026-08-20",
+    "last_reported_date": "2026-08-20",
+    "last_seen_date": "2026-08-20",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-19T16:23:56Z",
+    "report_count": 1,
+    "title": "ReWEIGH the Evidence: Calibrating Token-Level Ordinal Visual Evidence to Mitigate Hallucinations in Large Vision-Language Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-19T16:23:56Z"
+  },
+  "2608.19080": {
+    "authors": [
+      "Changshun Wu",
+      "Weicheng He",
+      "Xiaowei Huang",
+      "Saddek Bensalem"
+    ],
+    "canonical_id": "2608.19080",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "58130f53f2d1de938f78c074f8870085846fda237402ac4cb61c2b4a56a96c76",
+    "first_seen_date": "2026-08-20",
+    "last_reported_date": "2026-08-20",
+    "last_seen_date": "2026-08-20",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-19T16:30:06Z",
+    "report_count": 1,
+    "title": "SPK: Eliciting Structured Prior Knowledge for Interpretable Out-of-Distribution Detection in Real-Time Object Detection",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-19T16:30:06Z"
+  },
+  "2608.19085": {
+    "authors": [
+      "Ruiguo Zhong",
+      "Benshan Ma",
+      "Xiaolong Chen",
+      "Lang Zhang",
+      "Mingyue Feng",
+      "Yaonong Wang",
+      "Pei Liu",
+      "Jun Ma"
+    ],
+    "canonical_id": "2608.19085",
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "content_hash": "4b6769a0c5333534c2efd7a68b685a41d2e2012362eb1f7d21184a32a1bcf1ff",
+    "first_seen_date": "2026-08-20",
+    "last_reported_date": "2026-08-20",
+    "last_seen_date": "2026-08-20",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-08-19T16:33:02Z",
+    "report_count": 1,
+    "title": "DA-WAM: Decision-Aligned Future Latents for Driving World Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-19T16:33:02Z"
+  },
+  "2608.19088": {
+    "authors": [
+      "Longtian Wang",
+      "Zhengyu Zhao",
+      "Chenhao Lin",
+      "Le Yang",
+      "Shiwei Wang",
+      "Yuhan Zhi",
+      "Xiaofei Xie",
+      "Chao Shen"
+    ],
+    "canonical_id": "2608.19088",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "8b5df8f56225d0bf4a1452236f9b871f2052f1793614ee0126a77ec4bc16d94e",
+    "first_seen_date": "2026-08-20",
+    "last_reported_date": "2026-08-20",
+    "last_seen_date": "2026-08-20",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-19T16:38:39Z",
+    "report_count": 1,
+    "title": "Detecting Backdoors in Object Detection via Pre-NMS Prediction Distribution Shift",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-19T16:38:39Z"
+  },
+  "2608.19098": {
+    "authors": [
+      "Huan-ang Gao",
+      "Haohan Chi",
+      "Yong Yan",
+      "Shiyuan Feng",
+      "Hanlin Wu",
+      "Zheng Jiang",
+      "Bingxiang He",
+      "Wei-Ying Ma",
+      "Ya-Qin Zhang",
+      "Hao Zhou"
+    ],
+    "canonical_id": "2608.19098",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "6fd6e2b8521d4d0d1c1b3861c4341a9e606b4da7421aa05523e1c72ad1512a35",
+    "first_seen_date": "2026-08-20",
+    "last_reported_date": "2026-08-20",
+    "last_seen_date": "2026-08-20",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-19T16:50:39Z",
+    "report_count": 1,
+    "title": "Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distillation",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-19T16:50:39Z"
+  },
+  "2608.19115": {
+    "authors": [
+      "Jielong Lu",
+      "Zhihao Wu",
+      "Jiajun Yu",
+      "Zhaoliang Chen",
+      "Haishuai Wang"
+    ],
+    "canonical_id": "2608.19115",
+    "categories": [
+      "cs.LG",
+      "cs.MM"
+    ],
+    "content_hash": "ac3bbaab88909887841abf04bb3d9801215180e3a018abcd31aebfa6a439fc2d",
+    "first_seen_date": "2026-08-20",
+    "last_reported_date": "2026-08-20",
+    "last_seen_date": "2026-08-20",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-19T17:10:03Z",
+    "report_count": 1,
+    "title": "Pretraining Reusable Inference Across Views with Synthetic Task Priors",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-19T17:10:03Z"
+  },
+  "2608.19119": {
+    "authors": [
+      "Dongbin Kim",
+      "Seungyun Lee",
+      "Geonwoo Shin",
+      "Jaewook Lee"
+    ],
+    "canonical_id": "2608.19119",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "c87e41884640afe7159a3901a0e8a7255afb1ce54266f3715244e5cb538802bb",
+    "first_seen_date": "2026-08-20",
+    "last_reported_date": "2026-08-20",
+    "last_seen_date": "2026-08-20",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-19T17:16:27Z",
+    "report_count": 1,
+    "title": "Discretizing Continuous Time Series for Imputation with Masked Diffusion Training",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-19T17:16:27Z"
+  },
+  "2608.19128": {
+    "authors": [
+      "Zhenyao Cui",
+      "Siyuan Kan",
+      "Dingkun Liu",
+      "Dongrui Wu"
+    ],
+    "canonical_id": "2608.19128",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "7e8790db62b6cd247f2c1797d81955f31f9c6f78430745926b62ead4d0433bd5",
+    "first_seen_date": "2026-08-20",
+    "last_reported_date": "2026-08-20",
+    "last_seen_date": "2026-08-20",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-19T17:23:30Z",
+    "report_count": 1,
+    "title": "Beyond Trial Averaging: Anchoring Neural and Visual Representations for Few-Repetition Brain-to-Image Retrieval",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-19T17:23:30Z"
+  },
+  "2608.19133": {
+    "authors": [
+      "Steven Morse",
+      "Daniel Runfola",
+      "Trenton W. Ford"
+    ],
+    "canonical_id": "2608.19133",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "202a3886c4e9d45218bd04bff4fc0f58b1b37b9ac120773ac3d52a838b74bb87",
+    "first_seen_date": "2026-08-20",
+    "last_reported_date": "2026-08-20",
+    "last_seen_date": "2026-08-20",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-19T17:27:25Z",
+    "report_count": 1,
+    "title": "Comment-level Topic Drift Analysis in the Reddit Corpus",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-19T17:27:25Z"
+  },
+  "2608.19134": {
+    "authors": [
+      "Zhenyao Cui",
+      "Siyuan Kan",
+      "Siyang Li",
+      "Ziwei Wang",
+      "Dongrui Wu"
+    ],
+    "canonical_id": "2608.19134",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "1c45b2892459f489ff2b7ce80634459688e90c2bdf0addd5a603cf551f0039cf",
+    "first_seen_date": "2026-08-20",
+    "last_reported_date": "2026-08-20",
+    "last_seen_date": "2026-08-20",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-19T17:27:29Z",
+    "report_count": 1,
+    "title": "SCORE: Subject Coordinate Recovery for Label-Free Cross-Subject EEG-to-Image Retrieval",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-19T17:27:29Z"
+  },
+  "2608.19140": {
+    "authors": [
+      "George Andrikopoulos"
+    ],
+    "canonical_id": "2608.19140",
+    "categories": [
+      "cs.AI",
+      "cs.CY",
+      "cs.LG",
+      "cs.SE"
+    ],
+    "content_hash": "3b02d54ef931358a903357fe3438026e7e96f4c295bd233a59edf067539af1d0",
+    "first_seen_date": "2026-08-20",
+    "last_reported_date": "2026-08-20",
+    "last_seen_date": "2026-08-20",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-19T17:29:47Z",
+    "report_count": 1,
+    "title": "Grouping the Stochastic Machine: Precision, Not Capability, as the Frontier Metric for AI Systems",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-19T17:29:47Z"
+  },
+  "2608.19147": {
+    "authors": [
+      "Tate Berenbaum",
+      "Muthaiah Venkatachalam"
+    ],
+    "canonical_id": "2608.19147",
+    "categories": [
+      "cs.DC",
+      "cs.AI",
+      "cs.SE"
+    ],
+    "content_hash": "f0fab057dc3b714f33dbf5985ba713bc760ca3058daa315aa45fcaf518ee2b36",
+    "first_seen_date": "2026-08-20",
+    "last_reported_date": "2026-08-20",
+    "last_seen_date": "2026-08-20",
+    "latest_version": 1,
+    "primary_category": "cs.DC",
+    "priority": "unscored",
+    "published": "2026-08-19T17:33:28Z",
+    "report_count": 1,
+    "title": "Pre-Compiled Pipeline Shards for Distributed LLM Inference on Intel AI PC Fleets",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-19T17:33:28Z"
+  },
+  "2608.19161": {
+    "authors": [
+      "Ramneet Kaur",
+      "Pradyumna Chari",
+      "Ramesh Raskar",
+      "Jugad Singh",
+      "Sumit Kumar Jha",
+      "Anirban Roy"
+    ],
+    "canonical_id": "2608.19161",
+    "categories": [
+      "cs.AI",
+      "cs.CR"
+    ],
+    "content_hash": "bb857a1dfa3ce82fa02e214d40ddd3f48b84d9a5e5edd13714a6007c0e75f943",
+    "first_seen_date": "2026-08-20",
+    "last_reported_date": "2026-08-20",
+    "last_seen_date": "2026-08-20",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-19T17:43:22Z",
+    "report_count": 1,
+    "title": "Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-19T17:43:22Z"
+  },
+  "2608.19171": {
+    "authors": [
+      "Sotirios P. Chatzis",
+      "Loukas Papadoulas"
+    ],
+    "canonical_id": "2608.19171",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "96548be7e53afdb0795cc6ccfd8480e0ddc0f257571c1497ec0f69c704e4fb79",
+    "first_seen_date": "2026-08-20",
+    "last_reported_date": "2026-08-20",
+    "last_seen_date": "2026-08-20",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-19T17:50:16Z",
+    "report_count": 1,
+    "title": "Lévy Attention: Single-Pass Predictive Uncertainty for Continuous-Time Attention",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-19T17:50:16Z"
+  },
+  "2608.19181": {
+    "authors": [
+      "Zhu Zhang",
+      "Jixun Wang",
+      "Xiaoang Xu",
+      "Xiaorong Wang",
+      "Zihan Zhou",
+      "Zhiyuan Wang",
+      "Shuo Wang",
+      "Chaojun Xiao",
+      "Yuezhi Zhou"
+    ],
+    "canonical_id": "2608.19181",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "c139fcdd78b1c2f5b2e7ff25535ed8e86a36c7285e1e914d08a8d03e0a234d58",
+    "first_seen_date": "2026-08-20",
+    "last_reported_date": "2026-08-20",
+    "last_seen_date": "2026-08-20",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-19T17:54:58Z",
+    "report_count": 1,
+    "title": "Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-19T17:54:58Z"
+  },
+  "2608.19197": {
+    "authors": [
+      "Bo Liu",
+      "Simon Yu",
+      "Yiding Jiang",
+      "Ao Qu",
+      "Andrew Zhao",
+      "Zichen Liu",
+      "Junsu Kim",
+      "Zijian Zhou",
+      "Seungone Kim",
+      "Tongzheng Ren",
+      "Mickel Liu",
+      "Hanfei Yu",
+      "Zhaorun Chen",
+      "Weiyan Shi",
+      "Paul Pu Liang",
+      "Luke Zettlemoyer",
+      "Yejin Choi",
+      "Natasha Jaques"
+    ],
+    "canonical_id": "2608.19197",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "92ea3b37e04ca8838070b8c41128c34ab5848cdc9e6a1e8790e52c24dec7c316",
+    "first_seen_date": "2026-08-20",
+    "last_reported_date": "2026-08-20",
+    "last_seen_date": "2026-08-20",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-19T17:58:56Z",
+    "report_count": 1,
+    "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-19T17:58:56Z"
   }
 }
