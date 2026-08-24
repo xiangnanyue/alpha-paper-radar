@@ -55172,7 +55172,7 @@
     "content_hash": "a3009c86a51df51dbf1eb2da9c123a68da3eabce8a2d75f3d09b1a1927384127",
     "first_seen_date": "2026-08-19",
     "last_reported_date": "2026-08-19",
-    "last_seen_date": "2026-08-23",
+    "last_seen_date": "2026-08-24",
     "latest_version": 1,
     "primary_category": "q-fin.PM",
     "priority": "unscored",
@@ -55976,7 +55976,7 @@
     "content_hash": "e6e748e1fc66e6e379908ac78e73e2244984030cff7ad3e9a3cf5da4bc31ecf8",
     "first_seen_date": "2026-08-21",
     "last_reported_date": "2026-08-21",
-    "last_seen_date": "2026-08-23",
+    "last_seen_date": "2026-08-24",
     "latest_version": 1,
     "primary_category": "q-fin.MF",
     "priority": "unscored",
@@ -56003,7 +56003,7 @@
     "content_hash": "90fd8f2a7ebd067b038358c2cb1ad9b582dfad1cd984df4a30c259fed130edd5",
     "first_seen_date": "2026-08-21",
     "last_reported_date": "2026-08-21",
-    "last_seen_date": "2026-08-23",
+    "last_seen_date": "2026-08-24",
     "latest_version": 1,
     "primary_category": "math.OC",
     "priority": "unscored",
@@ -56028,7 +56028,7 @@
     "content_hash": "c871865218a253d6a74c2a2417eb3fcc298e70217e55549bd98efb85b7bfc75d",
     "first_seen_date": "2026-08-21",
     "last_reported_date": "2026-08-21",
-    "last_seen_date": "2026-08-23",
+    "last_seen_date": "2026-08-24",
     "latest_version": 1,
     "primary_category": "stat.ME",
     "priority": "unscored",
@@ -56605,5 +56605,683 @@
       "llm_progress"
     ],
     "updated": "2026-08-20T17:59:57Z"
+  },
+  "2608.21209": {
+    "authors": [
+      "Junseok Kim",
+      "Nakyeong Yang",
+      "Kyomin Jung"
+    ],
+    "canonical_id": "2608.21209",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "c9395dd978f78a736f9646e3783749d0e639ccd50920ca7f74997cbe3ec189e2",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-21T15:22:20Z",
+    "report_count": 1,
+    "title": "Personalized Privacy Control in LLMs via Attention Head Intervention",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-21T15:22:20Z"
+  },
+  "2608.21233": {
+    "authors": [
+      "Swetha Varadarajan",
+      "Darrell Whitley"
+    ],
+    "canonical_id": "2608.21233",
+    "categories": [
+      "cs.AI",
+      "cs.NE"
+    ],
+    "content_hash": "21a1bd13bcdc19d6780ebb667145f710044e49a12e4f0776dc30a5880775d47f",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-21T15:42:05Z",
+    "report_count": 1,
+    "title": "Fine-Grain GPU Parallelization of the Generalized Partition Crossover for Large-Scale Traveling Salesman Problems",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-21T15:42:05Z"
+  },
+  "2608.21236": {
+    "authors": [
+      "Zhibo Zhang",
+      "Zhen Ouyang",
+      "Ling Shi",
+      "Kailong Wang"
+    ],
+    "canonical_id": "2608.21236",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "4fc2e59d10cf30a27ed047ab548704d292acbbe9a0a10f224acbfeb988fcaefc",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-21T15:45:36Z",
+    "report_count": 1,
+    "title": "RARE: Decoupling Representation Steering from Expert Routing in Mixture-of-Experts Language Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-21T15:45:36Z"
+  },
+  "2608.21242": {
+    "authors": [
+      "Jiayi Li",
+      "Sanjana Menon",
+      "Brett Frischmann",
+      "Shomir Wilson",
+      "Sarah Rajtmajer"
+    ],
+    "canonical_id": "2608.21242",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "d58cce0f025d5db76c49d1dd5f95efef3407b6e8597e1617b00a9b1139712a6c",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-21T15:52:20Z",
+    "report_count": 1,
+    "title": "Affective Context Amplifies Sycophancy in LLM Responses",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-21T15:52:20Z"
+  },
+  "2608.21243": {
+    "authors": [
+      "Zichun Jin",
+      "Zihan Zhou",
+      "Yinan Liu",
+      "Bin Wang",
+      "Xiaochun Yang"
+    ],
+    "canonical_id": "2608.21243",
+    "categories": [
+      "cs.IR",
+      "cs.AI"
+    ],
+    "content_hash": "677da2d36ecbc1b028b19036fffebbdc2aa51cf6e99580bdfd3411e92aec3c5c",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "cs.IR",
+    "priority": "unscored",
+    "published": "2026-08-21T15:54:39Z",
+    "report_count": 1,
+    "title": "Adapting Knowledge Graphs for Behavior Denoising in Sequential Recommendation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-21T15:54:39Z"
+  },
+  "2608.21249": {
+    "authors": [
+      "Lekang Jiang",
+      "Wenjun Sun",
+      "Stephan Goetz"
+    ],
+    "canonical_id": "2608.21249",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "ce118ac73680a9cea2c37e64900508ee348f9b19b14871b2477695b7a83aa248",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-21T16:00:52Z",
+    "report_count": 1,
+    "title": "Benchmarking Patent Drafting from Inventor-Style Disclosures",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-21T16:00:52Z"
+  },
+  "2608.21251": {
+    "authors": [
+      "Matthew Faucher"
+    ],
+    "canonical_id": "2608.21251",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ],
+    "content_hash": "d47ced7fbdf6cb9f0b18797ad1bfc03b837372a849fb529f462ad52aff096a8b",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-21T16:01:56Z",
+    "report_count": 1,
+    "title": "TRACE-C: Rank-Calibrated Relational Anomaly Detection for Multi-Stream Operational Telemetry",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-21T16:01:56Z"
+  },
+  "2608.21252": {
+    "authors": [
+      "Xuanyu Meng",
+      "Jiashuo Sun",
+      "Jash Rajesh Parekh",
+      "Jiawei Han"
+    ],
+    "canonical_id": "2608.21252",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.DB",
+      "cs.IR"
+    ],
+    "content_hash": "6987f5b8b3e5fd6d9bd6c1c85f31c1f8e34f134affed120f36d21f0ac1e69d9e",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-21T16:05:00Z",
+    "report_count": 1,
+    "title": "EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-21T16:05:00Z"
+  },
+  "2608.21262": {
+    "authors": [
+      "Adam Noonan"
+    ],
+    "canonical_id": "2608.21262",
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ],
+    "content_hash": "bef30644c29ad77e8f3106e753507de62c671a79b4321549361d6f6c8d0aee1e",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "stat.ML",
+    "priority": "unscored",
+    "published": "2026-08-21T16:19:50Z",
+    "report_count": 1,
+    "title": "The Exceedance Design Effect: Effective Sample Size for Thresholds under Clustering",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-21T16:19:50Z"
+  },
+  "2608.21265": {
+    "authors": [
+      "Simeng Zhang",
+      "Yilong Chen",
+      "Wenyuan Zhang",
+      "Zhenyu Zhang",
+      "Yao Chen",
+      "Junyuan Shang",
+      "Tingwen Liu"
+    ],
+    "canonical_id": "2608.21265",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "2342d4a61759c03c35da76570c67bbb251c13b7ebab31e6b3d86d6a81cac0462",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-21T16:22:36Z",
+    "report_count": 1,
+    "title": "Memory Augmentation Unlocks Efficient Chain-of-Thought Reasoning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-21T16:22:36Z"
+  },
+  "2608.21277": {
+    "authors": [
+      "Yichen Jiang",
+      "Yueqiao Chen",
+      "Dongyu Liu"
+    ],
+    "canonical_id": "2608.21277",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "efe5363ed42570858493003c695e4cf1ff0317e004348c40987363b34a98fd44",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-21T16:35:44Z",
+    "report_count": 1,
+    "title": "ConceptTS: LLM-Guided Concept Bottlenecks for Interpretable Multivariate Time-Series Forecasting",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-21T16:35:44Z"
+  },
+  "2608.21278": {
+    "authors": [
+      "Chengxiao Wang",
+      "Enyi Jiang",
+      "Xiaojing Liao",
+      "Sanmi Koyejo"
+    ],
+    "canonical_id": "2608.21278",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "df1907e668720a281ea71f462ca1b357083d7130faae49389fd4b880b1e237a3",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-21T16:36:10Z",
+    "report_count": 1,
+    "title": "CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-21T16:36:10Z"
+  },
+  "2608.21292": {
+    "authors": [
+      "Huizu Lin",
+      "Chengkai Huang",
+      "Tianqi Gao",
+      "Tao Huang",
+      "Daijiao Liu",
+      "Tongxin Li",
+      "Xiaoyan Sun",
+      "Lina Yao"
+    ],
+    "canonical_id": "2608.21292",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "3a9fdf989d3c0d73de3ba22ab4470899db2bb41d059eebd41c62763ddd3081b3",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-21T16:53:27Z",
+    "report_count": 1,
+    "title": "AUSO: Action-Level Unified Skill Optimization from Internalization to Utilization",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-21T16:53:27Z"
+  },
+  "2608.21305": {
+    "authors": [
+      "Haonan Jia",
+      "Shichao Dong",
+      "Zenghui Sun",
+      "Jiawen Zheng",
+      "Ziqi Miao",
+      "Gege Shi",
+      "Qiuyu Zhao",
+      "Jinsong Lan",
+      "Xiaoyong Zhu",
+      "Bo Zheng"
+    ],
+    "canonical_id": "2608.21305",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "366aa8a8859abce3fe033f6cce5f58c9d4e2b9c038ff29b05eb3ebc0a9ef3dd4",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-21T17:07:41Z",
+    "report_count": 1,
+    "title": "Re$^3$Cap: Retrieval-Guided Refinement for Image Captioning Enhancement via Reinforcement Learning",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-21T17:07:41Z"
+  },
+  "2608.21308": {
+    "authors": [
+      "Zeyun Zhong",
+      "Joya Chen",
+      "Manuel Martin",
+      "Frederik Diederichs",
+      "Juergen Gall",
+      "Juergen Beyerer"
+    ],
+    "canonical_id": "2608.21308",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "d64333952552bc270716443ad18f89bcaea3a49753c646a37412da0ef4425e2d",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-21T17:12:28Z",
+    "report_count": 1,
+    "title": "Rethinking Expressivity and Efficiency in Test-Time Training",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-21T17:12:28Z"
+  },
+  "2608.21315": {
+    "authors": [
+      "Nicolás Vera Zúñiga"
+    ],
+    "canonical_id": "2608.21315",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "2ca9cb4b5fffc2977ab4786af8d8330c16785bcaf8b96ceb380d6c22b0d4ece5",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-21T17:25:18Z",
+    "report_count": 1,
+    "title": "Prompt-Model Interaction Reaches the Fixed Points: A deterministic, task-free structural readout -- and the factorizations of it that failed",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-21T17:25:18Z"
+  },
+  "2608.21317": {
+    "authors": [
+      "Adriana Watson",
+      "Marco Bücheler",
+      "Grant Richards"
+    ],
+    "canonical_id": "2608.21317",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "ad1cdb3c52f4fc9a99a186a7ed012b433da3f7244b302e8db48fd899dcfeb151",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-21T17:27:13Z",
+    "report_count": 1,
+    "title": "From Regulation to Implementation: A Critical Evaluation of LLM-Assisted Regulatory Compliance in Industry",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-21T17:27:13Z"
+  },
+  "2608.21319": {
+    "authors": [
+      "Jingtao Tang",
+      "Hang Ma"
+    ],
+    "canonical_id": "2608.21319",
+    "categories": [
+      "cs.AI",
+      "cs.RO"
+    ],
+    "content_hash": "0379e4d230b46be63f3132c43c075d52317ab14aba5499cf83cb3a8b0a680eee",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-21T17:28:03Z",
+    "report_count": 1,
+    "title": "Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Graphs of Convex Sets",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-21T17:28:03Z"
+  },
+  "2608.21325": {
+    "authors": [
+      "Afonso Baldo",
+      "Hugo Pitorro",
+      "Areti Vassilopoulos",
+      "Anabela C. Areias",
+      "Maya D'Eon",
+      "Fabíola Costa",
+      "Ricardo Rei",
+      "Nuno M. Guerreiro"
+    ],
+    "canonical_id": "2608.21325",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "55309c89fd502431964fb0c1c43e3ddc08aede271b02f7e670683ec1f5edd132",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-21T17:32:38Z",
+    "report_count": 1,
+    "title": "Move by Move: Measuring and Steering How LLMs Conduct Psychotherapy",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-21T17:32:38Z"
+  },
+  "2608.21334": {
+    "authors": [
+      "Pedro Cadahia Delgado"
+    ],
+    "canonical_id": "2608.21334",
+    "categories": [
+      "cs.LG",
+      "econ.EM"
+    ],
+    "content_hash": "6933aa7bc27b17b36396a295ddcb067c1a1d9ea8ce0daa06624dd5efb5e9537a",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-21T17:40:31Z",
+    "report_count": 1,
+    "title": "Across-Design Uncertainty in Short Pricing Panels: Evidence from Simulated Price Trajectories",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-21T17:40:31Z"
+  },
+  "2608.21345": {
+    "authors": [
+      "Zhuoyi Yang",
+      "Ian G. Harris",
+      "Salar Hashemitaheri",
+      "Cassie Huang",
+      "Yuangang Li",
+      "Hyunwoo Oh",
+      "Paul Dourish",
+      "Tony Givargis",
+      "Mohsen Imani",
+      "Li Zhang"
+    ],
+    "canonical_id": "2608.21345",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "cb9342c5030b15d298d176a4cf0fdc7c5d2f76a301f5d9932d64c11e024f33a2",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-21T17:52:17Z",
+    "report_count": 1,
+    "title": "Asymmetric Capacity Allocation in Self-Refinement Pipelines",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-21T17:52:17Z"
+  },
+  "2608.21349": {
+    "authors": [
+      "Yoshitaka Inoue",
+      "Minoh Jeong",
+      "Alfred Hero",
+      "Rui Kuang",
+      "Augustin Luna"
+    ],
+    "canonical_id": "2608.21349",
+    "categories": [
+      "q-bio.QM",
+      "cs.LG"
+    ],
+    "content_hash": "e266e699d7ffc7bb7eb5a631fd7cb4d6ed1f68b64df607597c27ef0ecf0e85d8",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "q-bio.QM",
+    "priority": "unscored",
+    "published": "2026-08-21T17:54:48Z",
+    "report_count": 1,
+    "title": "PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-21T17:54:48Z"
+  },
+  "2608.21356": {
+    "authors": [
+      "Jason Hickey"
+    ],
+    "canonical_id": "2608.21356",
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.AR",
+      "cs.LO"
+    ],
+    "content_hash": "15b30660ecca04b7ab044f25e6c63f7742df8bd596a2cc27c1a9705e2124434b",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "cs.SE",
+    "priority": "unscored",
+    "published": "2026-08-21T17:59:16Z",
+    "report_count": 1,
+    "title": "AI with Authority, from Application to Silicon",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-21T17:59:16Z"
+  },
+  "2608.21357": {
+    "authors": [
+      "Elaine Lau",
+      "Thanuka Udumulla",
+      "Lee Izhaki-Tavor",
+      "Francisco Guzmán",
+      "Nicholas Magazine",
+      "Jonas Mueller"
+    ],
+    "canonical_id": "2608.21357",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "128c386af0b626c206a043fcb4b57bfb158cade08932919bc6bf68e0bebe11ea",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-21T17:59:26Z",
+    "report_count": 1,
+    "title": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-21T17:59:26Z"
+  },
+  "2608.21359": {
+    "authors": [
+      "Nikita Doikov"
+    ],
+    "canonical_id": "2608.21359",
+    "categories": [
+      "math.OC",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "443bf304d08529b72b7ff89d32ae11a3f4cc31300da0c29d8c034b00b08b59f9",
+    "first_seen_date": "2026-08-24",
+    "last_reported_date": "2026-08-24",
+    "last_seen_date": "2026-08-24",
+    "latest_version": 1,
+    "primary_category": "math.OC",
+    "priority": "unscored",
+    "published": "2026-08-21T17:59:37Z",
+    "report_count": 1,
+    "title": "Primal Acceleration of Newton's Method",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-21T17:59:37Z"
   }
 }
