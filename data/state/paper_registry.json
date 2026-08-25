@@ -57283,5 +57283,640 @@
       "llm_progress"
     ],
     "updated": "2026-08-21T17:59:37Z"
+  },
+  "2608.23468": {
+    "authors": [
+      "Noah Dahle",
+      "Anne Tumlin",
+      "Ngoc Tran",
+      "Xenofon Koutsoukos",
+      "Tyler Derr"
+    ],
+    "canonical_id": "2608.23468",
+    "categories": [
+      "cs.LG",
+      "cs.CR",
+      "cs.DB"
+    ],
+    "content_hash": "7795274bd42e634248b87ca1da563d8d1b9de8798484e85f0604778a00733085",
+    "first_seen_date": "2026-08-25",
+    "last_reported_date": "2026-08-25",
+    "last_seen_date": "2026-08-25",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-24T16:36:17Z",
+    "report_count": 1,
+    "title": "RAD: Rule-Augmented Relational Anomaly Detection",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-24T16:36:17Z"
+  },
+  "2608.23471": {
+    "authors": [
+      "Hanling Tian",
+      "Gengyu Zhang",
+      "Zeyang Sha",
+      "Jingying Wang",
+      "Yuhang Liu",
+      "Zhehao Huang",
+      "Kun Yang",
+      "Xiaolin Huang"
+    ],
+    "canonical_id": "2608.23471",
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "content_hash": "53bdec6253f92f9781d6c9f926eb970d8bcf2434f9b25e4c62d576aeeefdc749",
+    "first_seen_date": "2026-08-25",
+    "last_reported_date": "2026-08-25",
+    "last_seen_date": "2026-08-25",
+    "latest_version": 1,
+    "primary_category": "cs.CR",
+    "priority": "unscored",
+    "published": "2026-08-24T16:37:50Z",
+    "report_count": 1,
+    "title": "InjecMEM: Memory Injection Attack on LLM Agent Memory Systems",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-24T16:37:50Z"
+  },
+  "2608.23473": {
+    "authors": [
+      "ChengAo Shen",
+      "Wenchao Yu",
+      "Fangyu Wu",
+      "Dongjin Song",
+      "Hanghang Tong",
+      "Dongsheng Luo",
+      "Wei Cheng",
+      "Haifeng Chen",
+      "Jingchao Ni"
+    ],
+    "canonical_id": "2608.23473",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "a19edb2f55bc32e2aa485c1a9974506218792fa9e96ccacbb400e0d828fe1b1b",
+    "first_seen_date": "2026-08-25",
+    "last_reported_date": "2026-08-25",
+    "last_seen_date": "2026-08-25",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-24T16:40:25Z",
+    "report_count": 1,
+    "title": "MetaCaster: Meta-Harness-Optimized Agent for End-to-End Few-Shot Learning of Lightweight Time Series Forecasters",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-24T16:40:25Z"
+  },
+  "2608.23474": {
+    "authors": [
+      "Marek Hradil",
+      "Danae Sánchez Villegas"
+    ],
+    "canonical_id": "2608.23474",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "content_hash": "3e9c55a2de6a2189ac5c256adf7f6021f1a9e6e540a9f51d782d16a5a0abea08",
+    "first_seen_date": "2026-08-25",
+    "last_reported_date": "2026-08-25",
+    "last_seen_date": "2026-08-25",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-24T16:40:49Z",
+    "report_count": 1,
+    "title": "What's the Catch? Evaluating Temporal Consistency in Vision-Language Models",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-24T16:40:49Z"
+  },
+  "2608.23475": {
+    "authors": [
+      "Jinghan Tan",
+      "Yuanzheng Wang",
+      "Lu Chen",
+      "Zijun Chen",
+      "Yuqian Wang",
+      "Maosong Sun"
+    ],
+    "canonical_id": "2608.23475",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "0edf5ac72cf8be4c60a6aa52c6fc48f02e4351e98de0a51702705a918dc5d88c",
+    "first_seen_date": "2026-08-25",
+    "last_reported_date": "2026-08-25",
+    "last_seen_date": "2026-08-25",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-24T16:41:10Z",
+    "report_count": 1,
+    "title": "StrategyBench: Evaluating Explicit Strategy Induction in Large Language Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-24T16:41:10Z"
+  },
+  "2608.23476": {
+    "authors": [
+      "Miriam Wanner",
+      "Mark Dredze",
+      "William Walden"
+    ],
+    "canonical_id": "2608.23476",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "1a75d7a5c9390c53508206eae4012c9c490bc78290ebff616508d400db90d540",
+    "first_seen_date": "2026-08-25",
+    "last_reported_date": "2026-08-25",
+    "last_seen_date": "2026-08-25",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-24T16:41:52Z",
+    "report_count": 1,
+    "title": "On the Threat Model of Weird Generalization and Emergent Misalignment",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-24T16:41:52Z"
+  },
+  "2608.23478": {
+    "authors": [
+      "Sangoh Lee",
+      "Sangwoo Mo",
+      "Wook-Shin Han"
+    ],
+    "canonical_id": "2608.23478",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "content_hash": "e2efa6c5fbef4c9bbb5cc31a1330ef6fd7d03d8426ab173e71b9f8f1fcf325db",
+    "first_seen_date": "2026-08-25",
+    "last_reported_date": "2026-08-25",
+    "last_seen_date": "2026-08-25",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-08-24T16:42:49Z",
+    "report_count": 1,
+    "title": "Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-24T16:42:49Z"
+  },
+  "2608.23493": {
+    "authors": [
+      "Jialong Liu",
+      "Yuling Shi",
+      "Ning Yang",
+      "Xiaodong Gu",
+      "Zuchao Li"
+    ],
+    "canonical_id": "2608.23493",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "58620bcdab22f4f080e6b18b0be3c86da4f8ca77a6bb8c66fc91d8e4069330d1",
+    "first_seen_date": "2026-08-25",
+    "last_reported_date": "2026-08-25",
+    "last_seen_date": "2026-08-25",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-24T16:55:09Z",
+    "report_count": 1,
+    "title": "SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-24T16:55:09Z"
+  },
+  "2608.23497": {
+    "authors": [
+      "Yipeng Zhao",
+      "Qishun Yang",
+      "Shenzhe Zhu",
+      "Shu Yang",
+      "Di Wang"
+    ],
+    "canonical_id": "2608.23497",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "705a42d04a5e80bf5716ef5f7d91f1f2ab802918e52dfe4c20ccb0ecd714ead3",
+    "first_seen_date": "2026-08-25",
+    "last_reported_date": "2026-08-25",
+    "last_seen_date": "2026-08-25",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-24T16:57:28Z",
+    "report_count": 1,
+    "title": "Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-24T16:57:28Z"
+  },
+  "2608.23507": {
+    "authors": [
+      "Xiang Chen",
+      "Zeyu Zhang"
+    ],
+    "canonical_id": "2608.23507",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "94d0366949357d08d9b06e92a7f0f1cb633c428658d2bf595548578427236f97",
+    "first_seen_date": "2026-08-25",
+    "last_reported_date": "2026-08-25",
+    "last_seen_date": "2026-08-25",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-24T17:10:36Z",
+    "report_count": 1,
+    "title": "When Names Cross Scripts: A Source-Grounded Benchmark for Historical Entity Reconciliation in the Mongol World",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-24T17:10:36Z"
+  },
+  "2608.23525": {
+    "authors": [
+      "Zhiqing Cui",
+      "Xinxiang Yin",
+      "Yihong Tang",
+      "Xinglang Zhang",
+      "Yuanzhe Hu",
+      "Siru Zhong",
+      "Weidong Tang",
+      "Yuxuan Liang",
+      "Weijia Li",
+      "Ming Jin",
+      "Shirui Pan",
+      "Yuhao Kang",
+      "Dingyi Zhuang",
+      "Jinhua Zhao"
+    ],
+    "canonical_id": "2608.23525",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "8fa521c0b649184e8851108d67f7b83ba337dbb86629ad77e4e4609d094a66e8",
+    "first_seen_date": "2026-08-25",
+    "last_reported_date": "2026-08-25",
+    "last_seen_date": "2026-08-25",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-24T17:29:16Z",
+    "report_count": 1,
+    "title": "EarthVerse: Benchmarking Scientific Agents Across Dynamic Earth Systems and Natural Hazards",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-24T17:29:16Z"
+  },
+  "2608.23536": {
+    "authors": [
+      "Kyle Stein",
+      "Guillermo Francia",
+      "III Eman El-Sheikh",
+      "Andrew Arash Mahyari"
+    ],
+    "canonical_id": "2608.23536",
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "content_hash": "9c992f7bda1ddad645fc4fd47632e37ef9d007ffac48fffe043f1e3313c0bd20",
+    "first_seen_date": "2026-08-25",
+    "last_reported_date": "2026-08-25",
+    "last_seen_date": "2026-08-25",
+    "latest_version": 1,
+    "primary_category": "cs.CR",
+    "priority": "unscored",
+    "published": "2026-08-24T17:41:15Z",
+    "report_count": 1,
+    "title": "Adapter-Based Few-Shot Continual Learning for Malicious Packet Recognition",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-24T17:41:15Z"
+  },
+  "2608.23538": {
+    "authors": [
+      "Erin Craig",
+      "Yiling Huang",
+      "Snigdha Panigrahi"
+    ],
+    "canonical_id": "2608.23538",
+    "categories": [
+      "stat.ME",
+      "cs.LG",
+      "stat.ML"
+    ],
+    "content_hash": "989818d35a1e84a194f1115ed4fd6e891fa6a931cbfcdae80e2f1860557a5415",
+    "first_seen_date": "2026-08-25",
+    "last_reported_date": "2026-08-25",
+    "last_seen_date": "2026-08-25",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-08-24T17:43:07Z",
+    "report_count": 1,
+    "title": "Interpretable AI with Local Distillation",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-24T17:43:07Z"
+  },
+  "2608.23541": {
+    "authors": [
+      "Summer Eunhyung Ann",
+      "Haokun Liu",
+      "Chenhao Tan"
+    ],
+    "canonical_id": "2608.23541",
+    "categories": [
+      "cs.MA",
+      "cs.AI"
+    ],
+    "content_hash": "5b654bc73c3c0e6e07d5d8a806efdf723fb98e8f13d2f95e651ff3611d813b6f",
+    "first_seen_date": "2026-08-25",
+    "last_reported_date": "2026-08-25",
+    "last_seen_date": "2026-08-25",
+    "latest_version": 1,
+    "primary_category": "cs.MA",
+    "priority": "unscored",
+    "published": "2026-08-24T17:45:15Z",
+    "report_count": 1,
+    "title": "The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-24T17:45:15Z"
+  },
+  "2608.23543": {
+    "authors": [
+      "Shang Wu",
+      "Catarina G Belem",
+      "Shuyuan Fu",
+      "Mark Steyvers",
+      "Padhraic Smyth"
+    ],
+    "canonical_id": "2608.23543",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "910d0216c866713616d996002ee51543a164593bda7f08ebb7eaff3eec269389",
+    "first_seen_date": "2026-08-25",
+    "last_reported_date": "2026-08-25",
+    "last_seen_date": "2026-08-25",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-24T17:46:11Z",
+    "report_count": 1,
+    "title": "How AI Assistance Affects Human Skill Development: A Study of Learning with Logic Puzzles",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-24T17:46:11Z"
+  },
+  "2608.23546": {
+    "authors": [
+      "Xiaoyang Xie",
+      "Clarence W. Rowley"
+    ],
+    "canonical_id": "2608.23546",
+    "categories": [
+      "math.NA",
+      "cs.LG",
+      "math.DS"
+    ],
+    "content_hash": "b6cede68cd08632489fda9ac972776e635952cde5cf19c2438eb3aa52dcf5731",
+    "first_seen_date": "2026-08-25",
+    "last_reported_date": "2026-08-25",
+    "last_seen_date": "2026-08-25",
+    "latest_version": 1,
+    "primary_category": "math.NA",
+    "priority": "unscored",
+    "published": "2026-08-24T17:49:30Z",
+    "report_count": 1,
+    "title": "Inertial Manifold Neural Operator for Dissipative Time-Dependent Partial Differential Equations",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-24T17:49:30Z"
+  },
+  "2608.23547": {
+    "authors": [
+      "Mustafa Umut Ozbek",
+      "Taiwo Ojo",
+      "Pooria Madani",
+      "Khalil El-Khatib",
+      "Li Yang"
+    ],
+    "canonical_id": "2608.23547",
+    "categories": [
+      "cs.CR",
+      "cs.LG"
+    ],
+    "content_hash": "a42892d1a094ec5a0e00cf876418f8213248141d1cb690e8b9430358019628d9",
+    "first_seen_date": "2026-08-25",
+    "last_reported_date": "2026-08-25",
+    "last_seen_date": "2026-08-25",
+    "latest_version": 1,
+    "primary_category": "cs.CR",
+    "priority": "unscored",
+    "published": "2026-08-24T17:49:36Z",
+    "report_count": 1,
+    "title": "Robustness of Anomaly Detection Models for Industrial Control Systems under Training-Time Data Contamination",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-24T17:49:36Z"
+  },
+  "2608.23552": {
+    "authors": [
+      "Seth Karten",
+      "Alex L. Zhang",
+      "Kevin Thomas",
+      "Sebastian Müller",
+      "Elie Bakouch",
+      "Daniel Auras",
+      "Mika Senghaas",
+      "Fares Obeid",
+      "Konstantin Dunas",
+      "Johannes Hagemann",
+      "Sami Jaghouar"
+    ],
+    "canonical_id": "2608.23552",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.SE"
+    ],
+    "content_hash": "c08006cdbe394403572ea614027e34bc1da770cedd620a6b1ba8bf11be22664a",
+    "first_seen_date": "2026-08-25",
+    "last_reported_date": "2026-08-25",
+    "last_seen_date": "2026-08-25",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-08-24T17:54:19Z",
+    "report_count": 1,
+    "title": "Prime Agent: A Self-Improving RLM Harness",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-24T17:54:19Z"
+  },
+  "2608.23554": {
+    "authors": [
+      "Daniil Dmitriev",
+      "Zhihan Huang",
+      "Yuting Wei"
+    ],
+    "canonical_id": "2608.23554",
+    "categories": [
+      "cs.LG",
+      "cs.IT",
+      "math.ST",
+      "stat.ML"
+    ],
+    "content_hash": "2f190d87f4e91fdceeec05b515be6392b35ba340f9fb2e75ecc5fe92eaf95bf0",
+    "first_seen_date": "2026-08-25",
+    "last_reported_date": "2026-08-25",
+    "last_seen_date": "2026-08-25",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-24T17:54:51Z",
+    "report_count": 1,
+    "title": "Provably adaptive sampling with uniform and remasking discrete diffusion models",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-08-24T17:54:51Z"
+  },
+  "2608.23563": {
+    "authors": [
+      "Md Thamed Bin Zaman Chowdhury",
+      "Moazzem Hossain"
+    ],
+    "canonical_id": "2608.23563",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "940e92c210bb6e2ddf9d4fd987c8f7b22f90708bb7ea83fff953918926fdea7f",
+    "first_seen_date": "2026-08-25",
+    "last_reported_date": "2026-08-25",
+    "last_seen_date": "2026-08-25",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-08-24T17:58:41Z",
+    "report_count": 1,
+    "title": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-24T17:58:41Z"
+  },
+  "2608.23564": {
+    "authors": [
+      "Deyao Hong",
+      "Yizhe Chi",
+      "Wenyi Li",
+      "Xiaoqiu Wang",
+      "Mingju Gao",
+      "Kaisen Yang",
+      "Bingxiang He",
+      "Youjie Zheng",
+      "Calvin Xiao",
+      "Qinhuai Na"
+    ],
+    "canonical_id": "2608.23564",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.SE"
+    ],
+    "content_hash": "d2981093ccb14d7b12f3a7094b09a0a9654e4bae65906833fb134e2d2cd77823",
+    "first_seen_date": "2026-08-25",
+    "last_reported_date": "2026-08-25",
+    "last_seen_date": "2026-08-25",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-08-24T17:59:04Z",
+    "report_count": 1,
+    "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-08-24T17:59:04Z"
+  },
+  "2608.23566": {
+    "authors": [
+      "Penghui Qi",
+      "Xiangxin Zhou",
+      "Wee Sun Lee"
+    ],
+    "canonical_id": "2608.23566",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "bb988c09e01ec0ffbc4144e00e9f9dfd19f874ae31726d9132943f99c4520cb5",
+    "first_seen_date": "2026-08-25",
+    "last_reported_date": "2026-08-25",
+    "last_seen_date": "2026-08-25",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-08-24T17:59:39Z",
+    "report_count": 1,
+    "title": "How to Train a Critic Stably and Efficiently",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-08-24T17:59:39Z"
   }
 }
