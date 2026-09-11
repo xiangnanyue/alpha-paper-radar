@@ -65473,7 +65473,7 @@
     "content_hash": "b30a282f3e6fb0a955845f760b522ae5b90c53ba2fe2a8a63fc08de6e975695d",
     "first_seen_date": "2026-09-10",
     "last_reported_date": "2026-09-10",
-    "last_seen_date": "2026-09-10",
+    "last_seen_date": "2026-09-11",
     "latest_version": 1,
     "primary_category": "math.ST",
     "priority": "unscored",
@@ -66193,5 +66193,621 @@
       "llm_progress"
     ],
     "updated": "2026-09-09T17:59:04Z"
+  },
+  "2609.11575": {
+    "authors": [
+      "Ayla Jungbluth",
+      "Johannes Lederer",
+      "Simon Trimborn"
+    ],
+    "canonical_id": "2609.11575",
+    "categories": [
+      "stat.ME",
+      "econ.EM",
+      "q-fin.RM",
+      "stat.AP"
+    ],
+    "content_hash": "afcc4ad984616d3fb5955771dfca9c527020c12539c5cc24a9ec732b05b63f34",
+    "first_seen_date": "2026-09-11",
+    "last_reported_date": "2026-09-11",
+    "last_seen_date": "2026-09-11",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-09-10T14:10:43Z",
+    "report_count": 1,
+    "title": "Market-Informed Networks for Modeling and Forecast Evaluation of Financial Extremes",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-09-10T14:10:43Z"
+  },
+  "2609.11780": {
+    "authors": [
+      "Richard J. Preen",
+      "Jim Smith"
+    ],
+    "canonical_id": "2609.11780",
+    "categories": [
+      "cs.LG",
+      "cs.CR",
+      "cs.NE"
+    ],
+    "content_hash": "a269c409238ec59fb6de05bbd27efdd8c2ed95a1afca8305b901dd7c57cabd53",
+    "first_seen_date": "2026-09-11",
+    "last_reported_date": "2026-09-11",
+    "last_seen_date": "2026-09-11",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-10T16:34:25Z",
+    "report_count": 1,
+    "title": "Predicting Privacy Leakage from Weight Spectral Density",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-10T16:34:25Z"
+  },
+  "2609.11786": {
+    "authors": [
+      "Chibuzor Okocha",
+      "Christan Earl Grant"
+    ],
+    "canonical_id": "2609.11786",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "dd79fbc2b94f5a4747d998c877253ea2b5091388e0e1fdbe2e55ae14f1ea75a6",
+    "first_seen_date": "2026-09-11",
+    "last_reported_date": "2026-09-11",
+    "last_seen_date": "2026-09-11",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-09-10T16:36:19Z",
+    "report_count": 1,
+    "title": "Beyond Word Error Rate: A Switch Aware Evaluation of ASR and Audio Language Models on English Yoruba Code-Switched Speech",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-10T16:36:19Z"
+  },
+  "2609.11801": {
+    "authors": [
+      "Ayhan Suleymanzade",
+      "Chanhyuk Lee",
+      "Floor Eijkelboom",
+      "Nicholas M. Boffi",
+      "İsmail İlkan Ceylan",
+      "Jinwoo Kim"
+    ],
+    "canonical_id": "2609.11801",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "a63a514976409dfd65fd08835c1a7ee6da6311a02acc8f841cf30146052a1e97",
+    "first_seen_date": "2026-09-11",
+    "last_reported_date": "2026-09-11",
+    "last_seen_date": "2026-09-11",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-10T16:52:54Z",
+    "report_count": 1,
+    "title": "Thinking with Looped Flows",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-10T16:52:54Z"
+  },
+  "2609.11807": {
+    "authors": [
+      "Corentin Pla",
+      "Hugo Richard",
+      "Marc Abeille",
+      "Vianney Perchet"
+    ],
+    "canonical_id": "2609.11807",
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ],
+    "content_hash": "051537380d7ca45175d49dfdc1db37a534c7c67983381aa51dadd8d078272d34",
+    "first_seen_date": "2026-09-11",
+    "last_reported_date": "2026-09-11",
+    "last_seen_date": "2026-09-11",
+    "latest_version": 1,
+    "primary_category": "stat.ML",
+    "priority": "unscored",
+    "published": "2026-09-10T16:58:21Z",
+    "report_count": 1,
+    "title": "Near-Optimal Reinforcement Learning with Multi-Step Transition Lookahead",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-09-10T16:58:21Z"
+  },
+  "2609.11838": {
+    "authors": [
+      "Raad Bin Tareaf",
+      "Murad Al-Rajab",
+      "Samia Loucif",
+      "Samer Ellaham",
+      "Cedric Schmitz"
+    ],
+    "canonical_id": "2609.11838",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "7977c64e5e8a4ce587afcf6c5b6c9293021aa1f6f26d41af96b114a2cec5c621",
+    "first_seen_date": "2026-09-11",
+    "last_reported_date": "2026-09-11",
+    "last_seen_date": "2026-09-11",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-09-10T17:29:15Z",
+    "report_count": 1,
+    "title": "Target leakage, not model class, explains reported accuracy in survey-based cardiovascular screening: a leakage-tiered audit of glass-box and tabular foundation models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-09-10T17:29:15Z"
+  },
+  "2609.11842": {
+    "authors": [
+      "Luyi Jia",
+      "Boyan Zhang",
+      "Yilun Liu",
+      "Steffen Rulands"
+    ],
+    "canonical_id": "2609.11842",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "49e45c62276e130dab3d8f48c82c58fd06a6f67d266146abf6d3917a551580de",
+    "first_seen_date": "2026-09-11",
+    "last_reported_date": "2026-09-11",
+    "last_seen_date": "2026-09-11",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-10T17:30:44Z",
+    "report_count": 1,
+    "title": "Model-Aware Schedules Improve Generation via Fiberwise Optimal Transport",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-09-10T17:30:44Z"
+  },
+  "2609.11860": {
+    "authors": [
+      "Rodion Krjutškov",
+      "Eduard Barbu",
+      "Nikos Sakkas",
+      "Sofia Yfanti"
+    ],
+    "canonical_id": "2609.11860",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "3e973761074a44d5ae9f754bf1f82183441199124ecc5b021367ea9febcb309f",
+    "first_seen_date": "2026-09-11",
+    "last_reported_date": "2026-09-11",
+    "last_seen_date": "2026-09-11",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-09-10T17:40:11Z",
+    "report_count": 1,
+    "title": "Explainability Assistant: A Conversational XAI Interface for Interpreting Energy Consumption Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-09-10T17:40:11Z"
+  },
+  "2609.11864": {
+    "authors": [
+      "Yi-Jen Shih",
+      "Puyuan Peng",
+      "Abdelrahman Mohamed",
+      "David Harwath"
+    ],
+    "canonical_id": "2609.11864",
+    "categories": [
+      "eess.AS",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "41aaebb8777e641723d4f5bfcb36728ac86f8cc72e8b0daf5ab89191311ad757",
+    "first_seen_date": "2026-09-11",
+    "last_reported_date": "2026-09-11",
+    "last_seen_date": "2026-09-11",
+    "latest_version": 1,
+    "primary_category": "eess.AS",
+    "priority": "unscored",
+    "published": "2026-09-10T17:41:53Z",
+    "report_count": 1,
+    "title": "RetroThinker: Enabling Retrospective Thinking in Speech LLMs",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-09-10T17:41:53Z"
+  },
+  "2609.11867": {
+    "authors": [
+      "Francisco Caldas",
+      "Ruben Belo",
+      "Cláudia Soares"
+    ],
+    "canonical_id": "2609.11867",
+    "categories": [
+      "cs.LG",
+      "math.OC"
+    ],
+    "content_hash": "8c6b4225ccc74afd96577351af3599b94d79d2981796e956f3ed6582dc32a1c0",
+    "first_seen_date": "2026-09-11",
+    "last_reported_date": "2026-09-11",
+    "last_seen_date": "2026-09-11",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-10T17:42:50Z",
+    "report_count": 1,
+    "title": "AdamX: Cosine similarity meets gradient descent",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-10T17:42:50Z"
+  },
+  "2609.11872": {
+    "authors": [
+      "Bowen Zhang",
+      "Hsiu-Wen Cheng",
+      "Hongyu Yang",
+      "Evie L. Shen",
+      "Joleen Vansomphone",
+      "Yuna Li",
+      "Kerry Zhou",
+      "Zitian Qu",
+      "Suning Zhao",
+      "Xiangning Deng",
+      "Hua Zhou",
+      "Jin J. Zhou"
+    ],
+    "canonical_id": "2609.11872",
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ],
+    "content_hash": "06d0e4514dd31f89da4e8e9a0ff71221e0fa6e9ae034d79f4c246e2ad1a4299f",
+    "first_seen_date": "2026-09-11",
+    "last_reported_date": "2026-09-11",
+    "last_seen_date": "2026-09-11",
+    "latest_version": 1,
+    "primary_category": "stat.ML",
+    "priority": "unscored",
+    "published": "2026-09-10T17:43:29Z",
+    "report_count": 1,
+    "title": "Evaluating Time-Series Foundation Models and Multimodal Dietary Context for CGM Forecasting",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-10T17:43:29Z"
+  },
+  "2609.11876": {
+    "authors": [
+      "Dong Li",
+      "Zhenming Liu",
+      "Ruoming Jin",
+      "Hao Zhou",
+      "Zhi Liu",
+      "Jing Gao",
+      "Bin Ren"
+    ],
+    "canonical_id": "2609.11876",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "c4d2e0f1d978deb29a51420e35783f2cce3151aedd29ed81e88972bb1b25174d",
+    "first_seen_date": "2026-09-11",
+    "last_reported_date": "2026-09-11",
+    "last_seen_date": "2026-09-11",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-09-10T17:45:06Z",
+    "report_count": 1,
+    "title": "On the Regularization Landscape for the Linear Recommendation Models",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-10T17:45:06Z"
+  },
+  "2609.11877": {
+    "authors": [
+      "Carl Edwards",
+      "Edward De Brouwer",
+      "Xiner Li",
+      "Namkyeong Lee",
+      "Ehsan Hajiramezanali",
+      "Anne Biton",
+      "Sara Mostafavi",
+      "Gabriele Scalia"
+    ],
+    "canonical_id": "2609.11877",
+    "categories": [
+      "q-bio.QM",
+      "cs.AI",
+      "cs.CL",
+      "q-bio.GN"
+    ],
+    "content_hash": "2aa4fb4a378d72b246effcedf20cc3a00eb923d7e249e23a7b774ff3f9c2dc9d",
+    "first_seen_date": "2026-09-11",
+    "last_reported_date": "2026-09-11",
+    "last_seen_date": "2026-09-11",
+    "latest_version": 1,
+    "primary_category": "q-bio.QM",
+    "priority": "unscored",
+    "published": "2026-09-10T17:45:18Z",
+    "report_count": 1,
+    "title": "Biology-in-the-loop: Amortized Adaptive Hit Discovery in CRISPR Screens",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-10T17:45:18Z"
+  },
+  "2609.11878": {
+    "authors": [
+      "Varun Teja Chundru",
+      "Debasmita Biswas"
+    ],
+    "canonical_id": "2609.11878",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "c0cefe9f9f4e55256f3b7b2d9cfbef7c6aebd746686d8af8d9d09b67dc456de5",
+    "first_seen_date": "2026-09-11",
+    "last_reported_date": "2026-09-11",
+    "last_seen_date": "2026-09-11",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-09-10T17:45:36Z",
+    "report_count": 1,
+    "title": "Domain-Specific Hallucination Detection in Large Language Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-09-10T17:45:36Z"
+  },
+  "2609.11892": {
+    "authors": [
+      "Yingzhi Wang",
+      "Reem Alhazzani",
+      "Muhammad Alqurishi"
+    ],
+    "canonical_id": "2609.11892",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "2e0907039e880aea18e63ba19d5857d04a98e4c4a59eed95bfb80aa4c4ed758a",
+    "first_seen_date": "2026-09-11",
+    "last_reported_date": "2026-09-11",
+    "last_seen_date": "2026-09-11",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-09-10T17:50:35Z",
+    "report_count": 1,
+    "title": "Nuha-Speech: Building General-Purpose Arabic Speech-LLMs",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-09-10T17:50:35Z"
+  },
+  "2609.11897": {
+    "authors": [
+      "Zi-Rong Li",
+      "Si-Yang Liu",
+      "Tian-Zuo Wang",
+      "Han-Jia Ye"
+    ],
+    "canonical_id": "2609.11897",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "52d93d04f808fae876dd0cb11403aa398d765b380d1aa1287a4d0e561a0baa1a",
+    "first_seen_date": "2026-09-11",
+    "last_reported_date": "2026-09-11",
+    "last_seen_date": "2026-09-11",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-10T17:53:15Z",
+    "report_count": 1,
+    "title": "CausalArena: Benchmarking Causal Discovery in the Foundation Model Era",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-09-10T17:53:15Z"
+  },
+  "2609.11900": {
+    "authors": [
+      "Yunfei Ge",
+      "Anbang Liu",
+      "Qineng Wang",
+      "Johnalbert Garnica",
+      "Jianwen Lyu",
+      "Zihan Wang",
+      "Reuben Tan",
+      "Jianfeng Gao",
+      "Ruohan Zhang",
+      "Yining Hong",
+      "Jiajun Wu",
+      "Manling Li"
+    ],
+    "canonical_id": "2609.11900",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.CV"
+    ],
+    "content_hash": "43f32e8dea6b2f09bdf3a3ec8c594006f630291fb2ac1c8e45c5cb01f4cffe3f",
+    "first_seen_date": "2026-09-11",
+    "last_reported_date": "2026-09-11",
+    "last_seen_date": "2026-09-11",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-09-10T17:54:32Z",
+    "report_count": 1,
+    "title": "MindTopo: Can Foundation Models Reason in Topological Space?",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-09-10T17:54:32Z"
+  },
+  "2609.11904": {
+    "authors": [
+      "Akshaj Gupta",
+      "Hwi Joo Park",
+      "Andrea Guzman",
+      "Shamak Gowda",
+      "Samhita Konduri",
+      "Jiachen Lian",
+      "Robin Netzorg",
+      "Gopala Anumanchipalli"
+    ],
+    "canonical_id": "2609.11904",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "e83621bb7f51525a3e0fe05991d2ad51cc9454071e671537bf26169384cbce57",
+    "first_seen_date": "2026-09-11",
+    "last_reported_date": "2026-09-11",
+    "last_seen_date": "2026-09-11",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-10T17:55:12Z",
+    "report_count": 1,
+    "title": "TART: A Modular Tool for Technique-Aware Audio-to-Tablature Guitar Transcription",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-09-10T17:55:12Z"
+  },
+  "2609.11905": {
+    "authors": [
+      "Jaehyung Choi"
+    ],
+    "canonical_id": "2609.11905",
+    "categories": [
+      "q-fin.PM",
+      "q-fin.RM"
+    ],
+    "content_hash": "74974bbec397625ff419f5393163c19e8643a5cb00519e92e73a5b2528385221",
+    "first_seen_date": "2026-09-11",
+    "last_reported_date": "2026-09-11",
+    "last_seen_date": "2026-09-11",
+    "latest_version": 1,
+    "primary_category": "q-fin.PM",
+    "priority": "unscored",
+    "published": "2026-09-10T17:56:21Z",
+    "report_count": 1,
+    "title": "Entropic Value-at-Risk parity for tempered stable returns",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-09-10T17:56:21Z"
+  },
+  "2609.11911": {
+    "authors": [
+      "Yakov Pyotr Shkolnikov"
+    ],
+    "canonical_id": "2609.11911",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "9a7b465816805a6defd0ee5b88a46965a4044b75872898c1495835f668ca73e0",
+    "first_seen_date": "2026-09-11",
+    "last_reported_date": "2026-09-11",
+    "last_seen_date": "2026-09-11",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-09-10T17:56:41Z",
+    "report_count": 1,
+    "title": "Artificial Id: Drive and Persistent Alignment in Agentic AI",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-09-10T17:56:41Z"
+  },
+  "2609.11917": {
+    "authors": [
+      "Atindra Jha",
+      "Margaret Li",
+      "Jure Leskovec",
+      "Percy Liang",
+      "Luke Zettlemoyer"
+    ],
+    "canonical_id": "2609.11917",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "content_hash": "fdae0809f140721bf06c5d476f4ea8e6e1d76812abb9e8ca1048b8c6da68b0a7",
+    "first_seen_date": "2026-09-11",
+    "last_reported_date": "2026-09-11",
+    "last_seen_date": "2026-09-11",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-10T17:57:33Z",
+    "report_count": 1,
+    "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-10T17:57:33Z"
+  },
+  "2609.11918": {
+    "authors": [
+      "Hongbo Chen",
+      "Li Charlie Xia"
+    ],
+    "canonical_id": "2609.11918",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "stat.ML"
+    ],
+    "content_hash": "cf5973ac0b72acc7ababbb35c029c0b5b7cc9789ba3bb86c9752d62cbdece93f",
+    "first_seen_date": "2026-09-11",
+    "last_reported_date": "2026-09-11",
+    "last_seen_date": "2026-09-11",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-10T17:57:52Z",
+    "report_count": 1,
+    "title": "General Quantification of Covariate and Concept Shifts",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-09-10T17:57:52Z"
   }
 }
