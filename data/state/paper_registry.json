@@ -68262,5 +68262,288 @@
       "llm_progress"
     ],
     "updated": "2026-09-17T17:59:58Z"
+  },
+  "2609.31506": {
+    "authors": [
+      "Christelle Clervilsson",
+      "Yanzhu Guo"
+    ],
+    "canonical_id": "2609.31506",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "67bfb577a7616eab77648bf85628360556fe8fca70544a9ac1b7f6273b8e021a",
+    "first_seen_date": "2026-09-28",
+    "last_reported_date": "2026-09-28",
+    "last_seen_date": "2026-09-28",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-09-25T16:47:07Z",
+    "report_count": 1,
+    "title": "Evaluating Cultural Awareness of LLMs for Haitian Creole",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-25T16:47:07Z"
+  },
+  "2609.31509": {
+    "authors": [
+      "Xuanzhi Liu",
+      "Xinyi Wu",
+      "Hang Pan",
+      "Wensi Huang",
+      "Zhenyao Wu",
+      "Ruize Han",
+      "Song Wang"
+    ],
+    "canonical_id": "2609.31509",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "9fc3711b883cedee923228ab1805154593a316996793e490ac516e40a76378d1",
+    "first_seen_date": "2026-09-28",
+    "last_reported_date": "2026-09-28",
+    "last_seen_date": "2026-09-28",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-09-25T16:50:46Z",
+    "report_count": 1,
+    "title": "ClearGS: Reliability-Aware Gaussian Splatting from Handheld Videos",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-25T16:50:46Z"
+  },
+  "2609.31539": {
+    "authors": [
+      "Márcio Marques",
+      "Leonardo Mendonça",
+      "Leonardo M. Moreira",
+      "Christian Júnior de Oliveira",
+      "Vitor Balestro",
+      "Tiago Novello",
+      "Daniel Yukimura",
+      "Pavel Petrov",
+      "Lucas Nissenbaum"
+    ],
+    "canonical_id": "2609.31539",
+    "categories": [
+      "cs.LG",
+      "math.NA"
+    ],
+    "content_hash": "deb2a7d7e717bd9e05fb0f38f3aad371db41b69248dcec2af0f33a93eeab1e9c",
+    "first_seen_date": "2026-09-28",
+    "last_reported_date": "2026-09-28",
+    "last_seen_date": "2026-09-28",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-25T17:11:44Z",
+    "report_count": 1,
+    "title": "NEXT: Physics-Informed Neuro-Spectral Exponential Time Differencing Architectures",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-25T17:11:44Z"
+  },
+  "2609.31546": {
+    "authors": [
+      "Mohammad Nur Hossain Khan",
+      "M. S. Krafczyk",
+      "Beverly G. Bolster",
+      "Nancy McElwain",
+      "Mark A. Hasegawa-Johnson",
+      "Bashima Islam"
+    ],
+    "canonical_id": "2609.31546",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "7d03ff2dd86ae8a27ba84acd27d63f30df1530c1863b53f88f67a7a08b6f979c",
+    "first_seen_date": "2026-09-28",
+    "last_reported_date": "2026-09-28",
+    "last_seen_date": "2026-09-28",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-25T17:18:20Z",
+    "report_count": 1,
+    "title": "BeatGraph: Self-Supervised Heartbeat Graphs for Infant ECG Representations from the Home Environment",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-25T17:18:20Z"
+  },
+  "2609.31563": {
+    "authors": [
+      "Carolina Fortuna",
+      "Blaz Bertalanic"
+    ],
+    "canonical_id": "2609.31563",
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "content_hash": "7436ce54551082dc68d05ee692f07a4503c62e60e8143dbcd23416709250e794",
+    "first_seen_date": "2026-09-28",
+    "last_reported_date": "2026-09-28",
+    "last_seen_date": "2026-09-28",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-09-25T17:29:15Z",
+    "report_count": 1,
+    "title": "Multi-agent Scaling Across Disjunctive and Compensatory Tasks",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-25T17:29:15Z"
+  },
+  "2609.31568": {
+    "authors": [
+      "Quang Nguyen",
+      "Hieu Nguyen",
+      "Hien Hoang",
+      "Toan Pham",
+      "Cong Tran",
+      "Nam Vu"
+    ],
+    "canonical_id": "2609.31568",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "f1e3838d98d0a961cebb019a20e54c7b69e21e6293517c28c75a232758023f75",
+    "first_seen_date": "2026-09-28",
+    "last_reported_date": "2026-09-28",
+    "last_seen_date": "2026-09-28",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-09-25T17:33:41Z",
+    "report_count": 1,
+    "title": "DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-25T17:33:41Z"
+  },
+  "2609.31587": {
+    "authors": [
+      "Md Shohel Arman",
+      "Igor Molybog"
+    ],
+    "canonical_id": "2609.31587",
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "8f065bf3fde7f3fb3f8ecc4652c0aec43009cd8d6c090f85e5df774602d786ed",
+    "first_seen_date": "2026-09-28",
+    "last_reported_date": "2026-09-28",
+    "last_seen_date": "2026-09-28",
+    "latest_version": 1,
+    "primary_category": "cs.SE",
+    "priority": "unscored",
+    "published": "2026-09-25T17:42:22Z",
+    "report_count": 1,
+    "title": "Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-25T17:42:22Z"
+  },
+  "2609.31600": {
+    "authors": [
+      "Zeyan Li",
+      "Panqi Yang",
+      "Qirong Guo",
+      "Shengda Zhuo",
+      "SIyuan Qiu",
+      "Hu Xu",
+      "Chun Li",
+      "Jianfeng Xu"
+    ],
+    "canonical_id": "2609.31600",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "aa7009dbb1a7917de60f5738711b89edc10091810c52a0dcba9937e4edbaff8b",
+    "first_seen_date": "2026-09-28",
+    "last_reported_date": "2026-09-28",
+    "last_seen_date": "2026-09-28",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-25T17:54:01Z",
+    "report_count": 1,
+    "title": "New LoRA Skills Should Read but Never Write",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-25T17:54:01Z"
+  },
+  "2609.31612": {
+    "authors": [
+      "Zhifeng Chen",
+      "Chenyang Jiang",
+      "Yazhen Wang"
+    ],
+    "canonical_id": "2609.31612",
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ],
+    "content_hash": "99cc1eba09752eccc6279cd0784d5a8bbca6f0a0c64f2f5be92bc989d49d5bb6",
+    "first_seen_date": "2026-09-28",
+    "last_reported_date": "2026-09-28",
+    "last_seen_date": "2026-09-28",
+    "latest_version": 1,
+    "primary_category": "stat.ML",
+    "priority": "unscored",
+    "published": "2026-09-25T17:57:43Z",
+    "report_count": 1,
+    "title": "First-Order Stationarity of Reverse Diffusions",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-25T17:57:43Z"
+  },
+  "2609.31619": {
+    "authors": [
+      "Parsa Hosseini",
+      "Akasha Tigalappanavara",
+      "Sumit Nawathe",
+      "Chenrui Fan",
+      "Sourya Basu",
+      "Genta Indra Winata",
+      "Anirban Das",
+      "Soheil Feizi",
+      "Nima Chitsazan"
+    ],
+    "canonical_id": "2609.31619",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "394596dd03782b3a2c68a4fb4be35fae62ecfa608796e2a881fd3c6617bb1257",
+    "first_seen_date": "2026-09-28",
+    "last_reported_date": "2026-09-28",
+    "last_seen_date": "2026-09-28",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-09-25T17:59:52Z",
+    "report_count": 1,
+    "title": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-25T17:59:52Z"
   }
 }
