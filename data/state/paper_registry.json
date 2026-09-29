@@ -68545,5 +68545,957 @@
       "deep_learning_sota"
     ],
     "updated": "2026-09-25T17:59:52Z"
+  },
+  "2609.32686": {
+    "authors": [
+      "Wenyuan Wang",
+      "Zuo Quan Xu",
+      "Kaixin Yan"
+    ],
+    "canonical_id": "2609.32686",
+    "categories": [
+      "math.OC",
+      "q-fin.MF",
+      "q-fin.PM"
+    ],
+    "content_hash": "74fca453d7073c7c75df9af0f1a63e5d45975be2b7ea3acddb3b0d04036f5ead",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "math.OC",
+    "priority": "unscored",
+    "published": "2026-09-26T14:48:30Z",
+    "report_count": 1,
+    "title": "Optimal Reinsurance-Dividend Strategy with Fixed Transaction Costs in a Regime-Switching Brownian Risk Model: A Viscosity Solution to the Impulse Control Problem",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-09-26T14:48:30Z"
+  },
+  "2609.34115": {
+    "authors": [
+      "Michael Coppedge",
+      "Dmitry Zaytsev",
+      "Valentina Kuskova"
+    ],
+    "canonical_id": "2609.34115",
+    "categories": [
+      "stat.ME",
+      "cs.LG"
+    ],
+    "content_hash": "e674a24f83ae78d9154a0b8eab65fe8709aca1ce05aa06acc82cebfa59527946",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-09-28T01:53:12Z",
+    "report_count": 1,
+    "title": "Forecast-Necessary Causal Discovery for Nonlinear Political Panel Data: Feedback, Functional Form, and the Dynamics of Democratization",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-09-28T01:53:12Z"
+  },
+  "2609.34169": {
+    "authors": [
+      "Kevin Foley",
+      "Jonathan Hartadi",
+      "Shivesh Prakash",
+      "Swapnil Vatsal"
+    ],
+    "canonical_id": "2609.34169",
+    "categories": [
+      "cs.CE",
+      "q-fin.PM",
+      "q-fin.ST"
+    ],
+    "content_hash": "4a2f8b0ace2217fa01603c4d36052fcf7ee22c6a2eada940495d7639f135823f",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.CE",
+    "priority": "unscored",
+    "published": "2026-09-28T02:45:16Z",
+    "report_count": 1,
+    "title": "From Word Counts to Context: Topic Models for Asset Pricing",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-09-28T02:45:16Z"
+  },
+  "2609.34266": {
+    "authors": [
+      "Udita Goswami",
+      "Shuvashree Mondal"
+    ],
+    "canonical_id": "2609.34266",
+    "categories": [
+      "stat.ME",
+      "stat.AP"
+    ],
+    "content_hash": "daba63c74da75fe53adadf525c09c97cc5078c8dca564decdf5b5258100b033b",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-09-28T04:16:35Z",
+    "report_count": 1,
+    "title": "Adaptive LASSO Penalized Minimum Density Power Divergence Estimation through Least Squares Approximation: Application to Bone Mineral Density Data from the SWAN Study",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-09-28T04:16:35Z"
+  },
+  "2609.34546": {
+    "authors": [
+      "Durba Bhattacharya",
+      "Sourabh Bhattacharya"
+    ],
+    "canonical_id": "2609.34546",
+    "categories": [
+      "stat.ME",
+      "math.ST",
+      "stat.AP"
+    ],
+    "content_hash": "2434379e35d4d717d3a2ce86fcad472afc2af49c6a00eba4b7936cb6bddb1c3a",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-09-28T08:08:18Z",
+    "report_count": 1,
+    "title": "Bayesian Nonparametric Factor Analysis via Marginalized Dirichlet Process Column Clustering with Spike-and-Slab Sparsity",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-09-28T08:08:18Z"
+  },
+  "2609.35086": {
+    "authors": [
+      "Kelvin J. L. Koa",
+      "Xinyang Li",
+      "Ke-Wei Huang"
+    ],
+    "canonical_id": "2609.35086",
+    "categories": [
+      "cs.LG",
+      "q-fin.CP",
+      "q-fin.PM"
+    ],
+    "content_hash": "ecb8fea6d93d981f7e71f5e30c2beca34c59f9b09826e5d2278ce1de7f775558",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-28T13:03:58Z",
+    "report_count": 1,
+    "title": "Retrieval-Augmented Diffusion Modeling for Stochastic Discount Factor Portfolios",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-09-28T13:03:58Z"
+  },
+  "2609.35359": {
+    "authors": [
+      "Davide Graziano"
+    ],
+    "canonical_id": "2609.35359",
+    "categories": [
+      "q-fin.ST"
+    ],
+    "content_hash": "94b0841a10ae58c3d49858e92705b17cdd4c5e5db8b09349779ddc40c1218969",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "q-fin.ST",
+    "priority": "unscored",
+    "published": "2026-09-28T15:06:47Z",
+    "report_count": 1,
+    "title": "From Cointegration to Out-of-Sample Failure: A Pairs-Trading Case Study on PEP-KO",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-09-28T15:06:47Z"
+  },
+  "2609.35686": {
+    "authors": [
+      "Li Zhang",
+      "Chuqin Geng",
+      "Mark Zhang",
+      "Chen Yang",
+      "Luke Zhang",
+      "Haolin Ye",
+      "Xujie Si"
+    ],
+    "canonical_id": "2609.35686",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "9a3f15ec93f886012eaf31b55efe96eb4a0e71a90e216f1d6a5f0afe735abe57",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-28T17:34:45Z",
+    "report_count": 1,
+    "title": "Rethinking Circuit Evaluation: Do Circuits Explain Model Errors?",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-28T17:34:45Z"
+  },
+  "2609.35692": {
+    "authors": [
+      "Guilin Zhang",
+      "Kai Zhao",
+      "Priyanka Mudgal",
+      "Waleed Ammar",
+      "Xiquan Cui",
+      "Xu Chu",
+      "Alet Blanken"
+    ],
+    "canonical_id": "2609.35692",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "d69ff71192434230594c8efcbe339cf836a416b94979811df58bb146ac4b4a55",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-09-28T17:38:37Z",
+    "report_count": 1,
+    "title": "Report: Progressive Disclosure of Agent Skills",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-09-28T17:38:37Z"
+  },
+  "2609.35694": {
+    "authors": [
+      "Xiang Cheng"
+    ],
+    "canonical_id": "2609.35694",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "38fa7abb2caf3bede46bb857c84fa83541280e537af947afa18fdc28f56586cd",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-09-28T17:38:43Z",
+    "report_count": 1,
+    "title": "Reasoning with Continuous Latent Diffusion",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-09-28T17:38:43Z"
+  },
+  "2609.35695": {
+    "authors": [
+      "Qiyao Ma",
+      "Junshan Zhang",
+      "Zhe Zhao"
+    ],
+    "canonical_id": "2609.35695",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "content_hash": "13efe414b0945bae36065361f73631321de074731e9524b3063956a6828a49af",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-28T17:38:53Z",
+    "report_count": 1,
+    "title": "Rethinking Personalized Generation: Test-Time Alignment via Factorized Ranking Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-09-28T17:38:53Z"
+  },
+  "2609.35698": {
+    "authors": [
+      "Hanbin Zhou",
+      "Shangzhe Li",
+      "Alexander Braverman",
+      "Weitong Zhang"
+    ],
+    "canonical_id": "2609.35698",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "8253e764af5560111dc791b31e36c640454a434f6a829e6f56f204b03b4bf4b3",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-28T17:40:11Z",
+    "report_count": 1,
+    "title": "Provable Benefits of Regularization: Fast Rates for Adversarial Imitation Learning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-09-28T17:40:11Z"
+  },
+  "2609.35699": {
+    "authors": [
+      "Shidan Javaheri",
+      "Alexander Panfilov",
+      "Oliver Britton",
+      "Yarin Gal",
+      "Yonatan Gideoni"
+    ],
+    "canonical_id": "2609.35699",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CR"
+    ],
+    "content_hash": "6d975213cd05e0b5f740a633e77d00ae4d5c73746184fbbea59eff43270d88fc",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-28T17:40:32Z",
+    "report_count": 1,
+    "title": "Distillation Defenses Easily Break After Reinforcement Learning",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-09-28T17:40:32Z"
+  },
+  "2609.35701": {
+    "authors": [
+      "Chang-Wei Shi",
+      "Xu Wang",
+      "Wu-Jun Li"
+    ],
+    "canonical_id": "2609.35701",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "445d46fb55b9e0c9dfce3e639c708044e15fe542a4fae13a456311f4f5662801",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-28T17:41:34Z",
+    "report_count": 1,
+    "title": "MeqMuon: Matrix-Equilibrating Muon for LLM Pretraining",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-09-28T17:41:34Z"
+  },
+  "2609.35703": {
+    "authors": [
+      "Fred Xu",
+      "Thomas Markovich",
+      "Florence Regol",
+      "Yizhou Sun"
+    ],
+    "canonical_id": "2609.35703",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "e1d5a0a5ad3824b60d24379c1a6d0e80738635e9ed4c120fbc10a844e2a13f2e",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-28T17:42:52Z",
+    "report_count": 1,
+    "title": "A Unified Uncertainty Representation for Graph Neural Networks via Doubly-Spectral Stochastic Expansion",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-09-28T17:42:52Z"
+  },
+  "2609.35706": {
+    "authors": [
+      "Priyanka Kargupta",
+      "Silviu Cucerzan",
+      "Shweti Mahajan",
+      "Allen Herring",
+      "Jiawei Han",
+      "Ryen W. White",
+      "Sujay Kumar Jauhar"
+    ],
+    "canonical_id": "2609.35706",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "3724720cd7797e4963e1992c5bcc015bf1e7c7df5c5320062f54a402ddb1ed11",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-09-28T17:43:52Z",
+    "report_count": 1,
+    "title": "Reinforcing Agentic Creativity in Scientific Ideation with Night Science",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-09-28T17:43:52Z"
+  },
+  "2609.35707": {
+    "authors": [
+      "Artin Sermaxhaj",
+      "Nastaran Alipour",
+      "Donat Sinani",
+      "Johannes Hog",
+      "Neeratyoy Mallik",
+      "Jenia Jitsev",
+      "Danny Stoll"
+    ],
+    "canonical_id": "2609.35707",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "36afe3654a93049139de9e77b4e248d2519de752bf41e4eef8ac446331644272",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-28T17:44:11Z",
+    "report_count": 1,
+    "title": "ScAn-Bench: Evaluating Scaling Analysis Methodology",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-28T17:44:11Z"
+  },
+  "2609.35732": {
+    "authors": [
+      "Junru Zhu",
+      "Shiming Xie",
+      "Aime Lu Fan Chen",
+      "Xiaoqing Ding",
+      "Chunxin Tang",
+      "Ruoyu Qi",
+      "Yulang Fei"
+    ],
+    "canonical_id": "2609.35732",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "7adfad756dfc8bff3554a875d46f5d83bf59753c2bfff9e9fccd356ee0b8c63e",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-09-28T17:51:41Z",
+    "report_count": 1,
+    "title": "Failure-Transparent Agents: Benchmarking Post-Failure Reporting in Tool-Using Language Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-09-28T17:51:41Z"
+  },
+  "2609.35738": {
+    "authors": [
+      "Alvin Zhang",
+      "Xuecheng Liu",
+      "Zixuan Wang",
+      "Fahim Tajwar",
+      "Daman Arora",
+      "Ruslan Salakhutdinov",
+      "Daniel Khashabi",
+      "Yuda Song",
+      "Andrea Zanette"
+    ],
+    "canonical_id": "2609.35738",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "f68a2dd9f73cebfb6fe40a3494b6d71bda4733d31beea0f0cb733c0939b8b21b",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-09-28T17:52:54Z",
+    "report_count": 1,
+    "title": "Harness Learning Enables Generalizable Test-Time Adaptation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-09-28T17:52:54Z"
+  },
+  "2609.35741": {
+    "authors": [
+      "Jonathan Light",
+      "Christopher Zhang Cui",
+      "Jeonghye Kim",
+      "Roger Creus Castanyer",
+      "Emiliano Penaloza",
+      "Zhengyan Shi",
+      "Alessandro Sordoni",
+      "Marc-Alexandre Côté",
+      "Xingdi Yuan",
+      "Minseon Kim"
+    ],
+    "canonical_id": "2609.35741",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "ae0c124fb0cc84334f955fbddc6ba5d0d1a277a17a4690dcf7f0b27897fd91f1",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-09-28T17:54:24Z",
+    "report_count": 1,
+    "title": "Shockingly Simple Self-retrospection Improves Agentic Models Without RL",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-09-28T17:54:24Z"
+  },
+  "2609.35744": {
+    "authors": [
+      "Hoyoung Lee",
+      "Suyeol Yun",
+      "Jack Haverty",
+      "Yunju Cho",
+      "Meesong Kim",
+      "Daekyung Park",
+      "Sumin Kim",
+      "Jihoon Kwon",
+      "Jasmine Jia Geng",
+      "Andrew Chin",
+      "Yin Luo",
+      "Edward Tong",
+      "Yu Yu",
+      "Zach Golkhou",
+      "Minkyu Kim",
+      "Igor Halperin",
+      "Young Cha",
+      "Alejandro Lopez-Lira",
+      "Chanyeol Choi",
+      "Yongjae Lee"
+    ],
+    "canonical_id": "2609.35744",
+    "categories": [
+      "cs.AI",
+      "q-fin.CP"
+    ],
+    "content_hash": "a3f80aca64a2aa45bc95f1bab6b80b055a5c5e62c829271dfc1c3742aa1768d7",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-09-28T17:55:06Z",
+    "report_count": 1,
+    "title": "FinAutoRubric: Expert-Guided Automatic Rubric Generation for Evaluating Financial Research Agents",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-09-28T17:55:06Z"
+  },
+  "2609.35745": {
+    "authors": [
+      "Huaiyuan Qin",
+      "Muli Yang",
+      "Gabriel James Goenawan",
+      "Shiqi Huang",
+      "Min Kass Chong",
+      "Wahyu Wiratama",
+      "Peng Hu",
+      "Chen Gong",
+      "Wu Liu",
+      "Xi Peng",
+      "Chun Jian Ho",
+      "Hongyuan Zhu"
+    ],
+    "canonical_id": "2609.35745",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "7be0d0eac54e424a829cb703fdf2d950a171de952ff520514b4447ee69f93e75",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-09-28T17:55:21Z",
+    "report_count": 1,
+    "title": "Copy the Same, Distill the Difference: Initializing Linear Vision Transformers",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-28T17:55:21Z"
+  },
+  "2609.35748": {
+    "authors": [
+      "Yichen You",
+      "Tianyu Fu",
+      "Aosong Feng",
+      "Xingtai Lv",
+      "Xuefei Ning",
+      "Ning Ding",
+      "Yu Wang"
+    ],
+    "canonical_id": "2609.35748",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "d60588a6e0dfd543a8a3f58726bed29abb1e95012b3d3bc2d39a77cb18843f38",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-09-28T17:56:55Z",
+    "report_count": 1,
+    "title": "Improving Test-Time Scaling with Adaptive Looped Transformers",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-28T17:56:55Z"
+  },
+  "2609.35749": {
+    "authors": [
+      "Linxiao Gong",
+      "Yijie Xu",
+      "Tianfu Wang",
+      "Yin Wu",
+      "Yili Wang",
+      "Xingbo Yao",
+      "Huizai Yao",
+      "Xilin Xia",
+      "Haowen Yang",
+      "Hui Xiong"
+    ],
+    "canonical_id": "2609.35749",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "0d53f9b83d758f708be0ed58bd789886380ab86977637bfe0b37f1c94f2adf9d",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-09-28T17:57:16Z",
+    "report_count": 1,
+    "title": "Towards Communication-Efficient Social Intelligence in Language Agents",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-09-28T17:57:16Z"
+  },
+  "2609.35750": {
+    "authors": [
+      "Emiliano Penaloza",
+      "Dane Malenfant",
+      "Dheeraj Vattikonda",
+      "Roger Creus Castanyer",
+      "Siddarth Venkatraman",
+      "Abhay Puri",
+      "Jonathan Light",
+      "Matthew James Sargent",
+      "Augustine N. Mavor-Parker",
+      "Massimo Caccia",
+      "Lucas Caccia",
+      "Glen Berseth",
+      "Esmeralda S. Whitammer",
+      "Alessandro Sordoni",
+      "Minseon Kim",
+      "Marc-Alexandre Côté",
+      "Laurent Charlin",
+      "Guillaume Lajoie"
+    ],
+    "canonical_id": "2609.35750",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "cd43b7928f0e519a1e2fb99a3fed5e9c8799a960aa13b413c097aa16e4aef6cf",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-28T17:57:42Z",
+    "report_count": 1,
+    "title": "KV-streams for Efficient Compaction in Agentic Reinforcement Learning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-09-28T17:57:42Z"
+  },
+  "2609.35751": {
+    "authors": [
+      "Shouren Wang",
+      "Chuang Ma",
+      "Mohsen Hariri",
+      "Debargha Ganguly",
+      "Wang Yang",
+      "Xiaoqing Tong",
+      "Qianying Liu",
+      "Xiaotian Han",
+      "Vipin Chaudhary"
+    ],
+    "canonical_id": "2609.35751",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "22874e3729f3856dbf5dc8adb02a69274dc8e0e44ea3a7737550f172ac81665f",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-28T17:58:03Z",
+    "report_count": 1,
+    "title": "How to Loop MoE: Flatten the Experts, Untie the Attention",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-28T17:58:03Z"
+  },
+  "2609.35752": {
+    "authors": [
+      "Jinjin He",
+      "Sinan Wang",
+      "Yuchen Sun",
+      "Bo Zhu"
+    ],
+    "canonical_id": "2609.35752",
+    "categories": [
+      "cs.LG",
+      "math.NA"
+    ],
+    "content_hash": "cdc1e98a0f30346f668871249c2e565e2c78cb63b358c1c66f1e215c7835da88",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-28T17:58:13Z",
+    "report_count": 1,
+    "title": "Neural Harmonic Measure Operator",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-28T17:58:13Z"
+  },
+  "2609.35759": {
+    "authors": [
+      "Zhennan Wan",
+      "Jianfei Chen"
+    ],
+    "canonical_id": "2609.35759",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "380b7f0cbcb43071b466a22f451dec220407acbb5c8be867884e32cae9334ed0",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-09-28T17:59:09Z",
+    "report_count": 1,
+    "title": "Scaling Long-Form Story Generation via Narrative State Tracking",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-09-28T17:59:09Z"
+  },
+  "2609.35760": {
+    "authors": [
+      "Chaoqian Ouyang",
+      "Ling Yue",
+      "Libin Zheng",
+      "Huanghui Guo",
+      "Shengxiang Xu",
+      "YiShu Wang",
+      "Ran Li",
+      "Jian Yin",
+      "Shaowu Pan",
+      "Shimin Di"
+    ],
+    "canonical_id": "2609.35760",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.SE"
+    ],
+    "content_hash": "4145212ede69aa4fec14f75219805175cd3756d630a12542ddead964c7f0ecc9",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-28T17:59:09Z",
+    "report_count": 1,
+    "title": "TokenCast: Forecasting Token Consumption During LLM Agent Execution",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-09-28T17:59:09Z"
+  },
+  "2609.35763": {
+    "authors": [
+      "Chi Zhang",
+      "Haoyang Shi",
+      "Yueyi Liu",
+      "Ruichuan An",
+      "Junkang Zhou",
+      "Chang Li",
+      "Xiuyuan Lu",
+      "Yichi Zhang",
+      "Bo Wang",
+      "Yuhang Wu",
+      "Sen Cui",
+      "Miao Liu"
+    ],
+    "canonical_id": "2609.35763",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "2aed232d8ad5232ec454d41c8b815c2b1fa6bf8d628c23a881e96352f7f0bf14",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-28T17:59:14Z",
+    "report_count": 1,
+    "title": "Unifying Distributional Training for One-Step Visual Generation",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-28T17:59:14Z"
+  },
+  "2609.35768": {
+    "authors": [
+      "Zimo Wang",
+      "Junkun Yuan",
+      "Angtian Wang",
+      "Haotian Yang",
+      "Canyu Zhang",
+      "Siyuan Yuan",
+      "Xingchang Huang",
+      "Bo Liu",
+      "Yizhi Wang",
+      "Yiding Yang",
+      "Chongyang Ma",
+      "Gordon Guocheng Qian"
+    ],
+    "canonical_id": "2609.35768",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "4ef8cffb6454e66f0e7c5e761cec9111370b316b7dff2e6c5e59adde1829d19a",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-09-28T17:59:52Z",
+    "report_count": 1,
+    "title": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-28T17:59:52Z"
+  },
+  "2609.35770": {
+    "authors": [
+      "Srinjay Sarkar",
+      "Prakhar Kaushik",
+      "Soumava Paul",
+      "Alan Yuille"
+    ],
+    "canonical_id": "2609.35770",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.GR"
+    ],
+    "content_hash": "be42e9ba054cce9e0010b40e5fecd402e0998800e26940f05b21c7fd07b6c51b",
+    "first_seen_date": "2026-09-29",
+    "last_reported_date": "2026-09-29",
+    "last_seen_date": "2026-09-29",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-09-28T17:59:58Z",
+    "report_count": 1,
+    "title": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-28T17:59:58Z"
   }
 }
