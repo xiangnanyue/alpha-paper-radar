@@ -70285,5 +70285,528 @@
       "llm_progress"
     ],
     "updated": "2026-09-29T17:59:55Z"
+  },
+  "2609.40236": {
+    "authors": [
+      "Aawez Mansuri",
+      "Kush Mehta",
+      "Mohammadreza Chavoshi",
+      "Jahanzaib Malik",
+      "Theodorus Dapamede",
+      "Frank Li",
+      "Rohan Isaac",
+      "Beatrice Brown-Mulry",
+      "Chiratidzo Rudado Sanyika",
+      "YoungSeok Jeon",
+      "Judy W. Gichoya",
+      "Ali Emami",
+      "Hari Trivedi"
+    ],
+    "canonical_id": "2609.40236",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "d4da3e65e4dfbd7473ebd030cfa7fb7fcff72f8eff093c328469a724ad239e14",
+    "first_seen_date": "2026-10-01",
+    "last_reported_date": "2026-10-01",
+    "last_seen_date": "2026-10-01",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-09-30T17:32:17Z",
+    "report_count": 1,
+    "title": "Comparison of techniques for fine-tuning open-weight models for entity extraction from radiology reports",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-30T17:32:17Z"
+  },
+  "2609.40245": {
+    "authors": [
+      "Nathan Tsoi",
+      "Michael J. Munje",
+      "Tejas Oberoi",
+      "Rishab Maheshwari",
+      "Pengen Zheng",
+      "Tanush Chauhan",
+      "Peter Stone",
+      "Joydeep Biswas"
+    ],
+    "canonical_id": "2609.40245",
+    "categories": [
+      "cs.RO",
+      "cs.LG"
+    ],
+    "content_hash": "4720ecb2251a21f697427eadf7f986a084c31d0595d36117126006e04276499f",
+    "first_seen_date": "2026-10-01",
+    "last_reported_date": "2026-10-01",
+    "last_seen_date": "2026-10-01",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-09-30T17:35:08Z",
+    "report_count": 1,
+    "title": "STARS: From Spatiotemporal Dynamics to Social Representations in Human-Robot Interaction",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-30T17:35:08Z"
+  },
+  "2609.40265": {
+    "authors": [
+      "Tony Chen",
+      "Timo Stoffregen",
+      "Maxwell Xu",
+      "Thomas Kaar",
+      "Martin Maritsch",
+      "Geremia Pompei",
+      "Nicolas Zumarraga",
+      "Robert Jakob",
+      "Paul Schmiedmayer",
+      "Patrick Langer",
+      "Juncheng Liu"
+    ],
+    "canonical_id": "2609.40265",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "ece29dc43c52127f6ea0bec2ad96c7c879cc91167f02a26f3588665f58418449",
+    "first_seen_date": "2026-10-01",
+    "last_reported_date": "2026-10-01",
+    "last_seen_date": "2026-10-01",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-30T17:43:22Z",
+    "report_count": 1,
+    "title": "OpenTSLM TeeMoE: A Unified Time-Series Language Model for Forecasting, Contextual Prediction, and Reasoning",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-30T17:43:22Z"
+  },
+  "2609.40269": {
+    "authors": [
+      "Viraj Parimi",
+      "Shao-Hung Chan",
+      "Han Zhang",
+      "Jingkai Chen",
+      "Brian Williams"
+    ],
+    "canonical_id": "2609.40269",
+    "categories": [
+      "cs.AI",
+      "cs.MA",
+      "cs.RO"
+    ],
+    "content_hash": "7ab73ef3e34ff0219b772bb7561cbf300f9cbc84b6a3f45e26f8ffcff8bf19c5",
+    "first_seen_date": "2026-10-01",
+    "last_reported_date": "2026-10-01",
+    "last_seen_date": "2026-10-01",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-09-30T17:44:19Z",
+    "report_count": 1,
+    "title": "Belief-Aware Multi-Agent Path Finding under Map Uncertainty",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-30T17:44:19Z"
+  },
+  "2609.40284": {
+    "authors": [
+      "Pranjal Aggarwal",
+      "Lawrence Keunho Jang",
+      "Sean Welleck",
+      "Daniel Fried",
+      "Ruslan Salakhutdinov",
+      "Jing Yu Koh"
+    ],
+    "canonical_id": "2609.40284",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "d58b2640498260517ed394b4986f1884bbd6c72d2a5f0c4cd775259bc8d85b63",
+    "first_seen_date": "2026-10-01",
+    "last_reported_date": "2026-10-01",
+    "last_seen_date": "2026-10-01",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-30T17:48:06Z",
+    "report_count": 1,
+    "title": "cua-speedrun: Standardized Benchmarking of the Speed of Computer-Use Agents",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-30T17:48:06Z"
+  },
+  "2609.40286": {
+    "authors": [
+      "Tyler Skow",
+      "Shravan Chaudhari",
+      "Rama Chellappa",
+      "Abhay Yadav"
+    ],
+    "canonical_id": "2609.40286",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "1131d661b3e308db48495f3927a2799b575e8d1e776a0de117bc6b374952abe2",
+    "first_seen_date": "2026-10-01",
+    "last_reported_date": "2026-10-01",
+    "last_seen_date": "2026-10-01",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-09-30T17:48:13Z",
+    "report_count": 1,
+    "title": "Linguistic Loopholes in LLM Unlearning: From a 174-Language Benchmark to Coverage-Aware Unlearning",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-30T17:48:13Z"
+  },
+  "2609.40287": {
+    "authors": [
+      "Zhangyong Liang",
+      "Haibin Ling"
+    ],
+    "canonical_id": "2609.40287",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "6c3e6495faa1063b7c18d2ca38e8b0efd616ada6acefb9a9124fd34b0cb8c660",
+    "first_seen_date": "2026-10-01",
+    "last_reported_date": "2026-10-01",
+    "last_seen_date": "2026-10-01",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-30T17:48:21Z",
+    "report_count": 1,
+    "title": "PMosFM: Preconditioned Manifold Matching for One-Step Physics-Constrained Generation",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-30T17:48:21Z"
+  },
+  "2609.40295": {
+    "authors": [
+      "Jenna Russell",
+      "Ben Glickenhaus",
+      "Katherine Thai",
+      "John Wieting",
+      "Mohit Iyyer",
+      "Max Spero",
+      "Bradley Emi"
+    ],
+    "canonical_id": "2609.40295",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "fae63a2f12055bb0dd62134a6a4c5394ba0cc207290f638eaec9d0007ea3532a",
+    "first_seen_date": "2026-10-01",
+    "last_reported_date": "2026-10-01",
+    "last_seen_date": "2026-10-01",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-09-30T17:50:22Z",
+    "report_count": 1,
+    "title": "How Much Is an AI Token Worth? Scaling Laws for Wild AI-Generated Web Text",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-30T17:50:22Z"
+  },
+  "2609.40303": {
+    "authors": [
+      "Kirill Brilliantov",
+      "Alejandro Hernández-Cano",
+      "Emmanuel Abbé"
+    ],
+    "canonical_id": "2609.40303",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "8c6f56fdc9f4732b17fb1b7098a0ab9d6cd9de50693fad3c049d54ad41d40322",
+    "first_seen_date": "2026-10-01",
+    "last_reported_date": "2026-10-01",
+    "last_seen_date": "2026-10-01",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-09-30T17:51:30Z",
+    "report_count": 1,
+    "title": "How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-30T17:51:30Z"
+  },
+  "2609.40305": {
+    "authors": [
+      "Yong Xien Chng",
+      "Tianyi Chen",
+      "Wenwen Tong",
+      "Haiwen Diao",
+      "Zhongang Cai",
+      "Lei Yang",
+      "Ziwei Liu",
+      "Lewei Lu",
+      "Dahua Lin",
+      "Gao Huang"
+    ],
+    "canonical_id": "2609.40305",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "0e68b2f28e95e85dff19184a975790a6c4e0c5a1c26fd45afa429be3e6132734",
+    "first_seen_date": "2026-10-01",
+    "last_reported_date": "2026-10-01",
+    "last_seen_date": "2026-10-01",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-09-30T17:52:08Z",
+    "report_count": 1,
+    "title": "Looped Diffusion Transformer",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-30T17:52:08Z"
+  },
+  "2609.40316": {
+    "authors": [
+      "Yanbei Chen",
+      "Anirudh Goyal",
+      "Raghuraman Krishnamoorthi"
+    ],
+    "canonical_id": "2609.40316",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "20d23bd7ef3547bb68ab493d7998ea3b0e1269292942978b2baf5e1b8f280319",
+    "first_seen_date": "2026-10-01",
+    "last_reported_date": "2026-10-01",
+    "last_seen_date": "2026-10-01",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-30T17:53:47Z",
+    "report_count": 1,
+    "title": "Scaling Laws for Looped Mixture of Experts",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-30T17:53:47Z"
+  },
+  "2609.40322": {
+    "authors": [
+      "Anson Y. Lam",
+      "Shuqing Li",
+      "Michael R. Lyu"
+    ],
+    "canonical_id": "2609.40322",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.CL",
+      "cs.MM"
+    ],
+    "content_hash": "d2d0fee45f424ccbf127b6146c72124884b8cba817c76401a64c5ed91669bc24",
+    "first_seen_date": "2026-10-01",
+    "last_reported_date": "2026-10-01",
+    "last_seen_date": "2026-10-01",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-09-30T17:55:06Z",
+    "report_count": 1,
+    "title": "MatLoom: Layered Text-to-Material Generation in a Compact Program Space",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-30T17:55:06Z"
+  },
+  "2609.40325": {
+    "authors": [
+      "Ziyan Jiang",
+      "Jingbo Yang",
+      "Jiabao Ji",
+      "Yujian Liu",
+      "Qiucheng Wu",
+      "Tommi Jaakkola",
+      "Yang Zhang",
+      "Shiyu Chang"
+    ],
+    "canonical_id": "2609.40325",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "224448828b308dfc4ff91c2616c4e32829d1c026904869b30f1402f6c6cfe513",
+    "first_seen_date": "2026-10-01",
+    "last_reported_date": "2026-10-01",
+    "last_seen_date": "2026-10-01",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-09-30T17:55:29Z",
+    "report_count": 1,
+    "title": "WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-30T17:55:29Z"
+  },
+  "2609.40330": {
+    "authors": [
+      "Tunyu Zhang",
+      "Hao Wang",
+      "Kai Xu",
+      "Dimitris N. Metaxas"
+    ],
+    "canonical_id": "2609.40330",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "4a9bb7b49c79bb3aff2abfd15652f10a8d8ea1797b0b7986604319ba38c3de01",
+    "first_seen_date": "2026-10-01",
+    "last_reported_date": "2026-10-01",
+    "last_seen_date": "2026-10-01",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-09-30T17:56:09Z",
+    "report_count": 1,
+    "title": "Turbo Harness: Instance-Adaptive Harness Optimization",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-30T17:56:09Z"
+  },
+  "2609.40347": {
+    "authors": [
+      "Owais Iqbal",
+      "Sudipta Sarkar",
+      "Shyam Marjit",
+      "Omprakash Chakraborty",
+      "Anirban Chakraborty",
+      "Abir Das"
+    ],
+    "canonical_id": "2609.40347",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "1234d60cc334a94be3c7047e9c15cb6d04b3b7a9f07c134e8e83f5c70d724e74",
+    "first_seen_date": "2026-10-01",
+    "last_reported_date": "2026-10-01",
+    "last_seen_date": "2026-10-01",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-09-30T17:59:03Z",
+    "report_count": 1,
+    "title": "Image Classifiers are Efficient Self-Supervised Video Representation Learners",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-30T17:59:03Z"
+  },
+  "2609.40356": {
+    "authors": [
+      "Xinghao Chen",
+      "Xiangbo Gao",
+      "Jiongze Yu",
+      "Yuheng Wu",
+      "Zhengzhong Tu"
+    ],
+    "canonical_id": "2609.40356",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "a20dd87f4a857194889d233571672459bc0fc772db7f1874f0534f0df859bf8f",
+    "first_seen_date": "2026-10-01",
+    "last_reported_date": "2026-10-01",
+    "last_seen_date": "2026-10-01",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-09-30T17:59:33Z",
+    "report_count": 1,
+    "title": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-30T17:59:33Z"
+  },
+  "2609.40359": {
+    "authors": [
+      "Dulhan Jayalath",
+      "Oiwi Parker Jones"
+    ],
+    "canonical_id": "2609.40359",
+    "categories": [
+      "cs.LG",
+      "q-bio.NC"
+    ],
+    "content_hash": "852453ed0e4bcf8a9f64bd2bc057bece3f5e67d4e363d0475e85120de0f53c18",
+    "first_seen_date": "2026-10-01",
+    "last_reported_date": "2026-10-01",
+    "last_seen_date": "2026-10-01",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-30T17:59:52Z",
+    "report_count": 1,
+    "title": "Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-30T17:59:52Z"
+  },
+  "2609.40360": {
+    "authors": [
+      "Junshu Pan",
+      "Zhizhang Fu",
+      "Shulin Huang",
+      "Yiran Ding",
+      "Zifan Cheng",
+      "Wenqi Shao",
+      "Qiaosheng Zhang",
+      "Yue Zhang"
+    ],
+    "canonical_id": "2609.40360",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "2065f0faf1b26eb84fdffcf6b5768af8a84a97e80d8a8f2906c49afebe3dc736",
+    "first_seen_date": "2026-10-01",
+    "last_reported_date": "2026-10-01",
+    "last_seen_date": "2026-10-01",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-09-30T17:59:56Z",
+    "report_count": 1,
+    "title": "Semifactual Credit-Augmented Policy Optimization",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-09-30T17:59:56Z"
   }
 }
