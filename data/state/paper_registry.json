@@ -70286,6 +70286,58 @@
     ],
     "updated": "2026-09-29T17:59:55Z"
   },
+  "2609.38765": {
+    "authors": [
+      "Balaji Ramachandran",
+      "Srikanth Iyer",
+      "Shashi Jain"
+    ],
+    "canonical_id": "2609.38765",
+    "categories": [
+      "q-fin.CP",
+      "q-fin.MF",
+      "q-fin.PM",
+      "q-fin.RM"
+    ],
+    "content_hash": "843cd70412148c201049d3f0a3949577e4a12b08b03372c012d2e27707c328aa",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "q-fin.CP",
+    "priority": "unscored",
+    "published": "2026-09-30T01:48:46Z",
+    "report_count": 1,
+    "title": "Multiperiod bond portfolio optimization with transaction costs using a Markov Decision process",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-09-30T01:48:46Z"
+  },
+  "2609.38813": {
+    "authors": [
+      "Siliang Zhang",
+      "Jing Ouyang"
+    ],
+    "canonical_id": "2609.38813",
+    "categories": [
+      "stat.AP"
+    ],
+    "content_hash": "2a7a85e88163a0f7c1cb5af1cefcc8f6d6cc967a06a2ac9f73171c3c37edaa6c",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "stat.AP",
+    "priority": "unscored",
+    "published": "2026-09-30T02:42:24Z",
+    "report_count": 1,
+    "title": "Mental Health Support Hotlines as Capacity-Limited Services: Joint Modeling of Demand, Assessment, and Unassessed Calls",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-09-30T02:42:24Z"
+  },
   "2609.40236": {
     "authors": [
       "Aawez Mansuri",
@@ -70808,5 +70860,773 @@
       "deep_learning_sota"
     ],
     "updated": "2026-09-30T17:59:56Z"
+  },
+  "2610.00589": {
+    "authors": [
+      "Ebrahim Khaled Ebrahim",
+      "Somaia Mohamed Ali",
+      "Ahmed El-Kotory"
+    ],
+    "canonical_id": "2610.00589",
+    "categories": [
+      "stat.ME",
+      "stat.AP"
+    ],
+    "content_hash": "0b946a0e6ddaee5ee795da8fc5b420d9e407d2e0987a13c9a7679422fb086384",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-09-30T18:52:46Z",
+    "report_count": 1,
+    "title": "Foundation or Formula? A Simulation-Based Comparison of Google's TimesFM-3 and Classical Time-Series Models",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-09-30T18:52:46Z"
+  },
+  "2610.00766": {
+    "authors": [
+      "Da Zhao",
+      "Jing Chen"
+    ],
+    "canonical_id": "2610.00766",
+    "categories": [
+      "stat.ME"
+    ],
+    "content_hash": "12c57cd1e0ec62bedbe4e67356faf8f09993a5febc3f97d272574317563097b6",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-09-30T22:02:43Z",
+    "report_count": 1,
+    "title": "Factor Model Estimation for High-Dimensional Time Series with Heteroskedastic Noise",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-09-30T22:02:43Z"
+  },
+  "2610.02136": {
+    "authors": [
+      "Negin Kafee Hernashki",
+      "Soumick Chatterjee"
+    ],
+    "canonical_id": "2610.02136",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "eess.IV",
+      "physics.med-ph"
+    ],
+    "content_hash": "9a8a2c3d5cd8b8b44ee5523a361b3fb133a288273cced6d836b2b4e0870665d4",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-10-01T17:44:22Z",
+    "report_count": 1,
+    "title": "MIRTO: a registration-gated, multiverse-tested evaluation protocol for unsupervised anomaly segmentation in brain MRI",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-01T17:44:22Z"
+  },
+  "2610.02142": {
+    "authors": [
+      "Juan S. Santillana"
+    ],
+    "canonical_id": "2610.02142",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "dd7a5994bdba361e734b1e81c4dc1f89a1c0134194ef5f8bd3e87eba1bc0e3e3",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-10-01T17:46:38Z",
+    "report_count": 1,
+    "title": "Keyword Harnesses Fail Open: A Cheap Diagnostic Ladder for Tool-Use Claims in Small Language Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-01T17:46:38Z"
+  },
+  "2610.02144": {
+    "authors": [
+      "Ali Janati",
+      "Nikita Kuzmin",
+      "Rohit Swamy",
+      "Charles Niu"
+    ],
+    "canonical_id": "2610.02144",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "8a1d356ad7f75eef71f9157ad4b8eebb0b3c6a5451d2dd7293c8c1be7f7ccce3",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-01T17:48:38Z",
+    "report_count": 1,
+    "title": "Faynt: Scaling and Optimizing Policies for Competitive Melee",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-01T17:48:38Z"
+  },
+  "2610.02150": {
+    "authors": [
+      "Lucheng Fu",
+      "Kejing Xia",
+      "Yiyang Wang",
+      "Yiqiao Jin",
+      "Jinjin He",
+      "Xiyuan Yang",
+      "Haoxin Liu",
+      "Ye Yu",
+      "Haibo Jin",
+      "Yijia Xiao",
+      "Wenke Lee",
+      "B. Aditya Prakash",
+      "Haohan Wang"
+    ],
+    "canonical_id": "2610.02150",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "ba26eb4586ac7d856083c3234b4ded52e4574f0cdc538a1cc4952654317d53bb",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-10-01T17:50:16Z",
+    "report_count": 1,
+    "title": "From Knowledge Access to Source Learning: Developing Source-Specific Competence",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-01T17:50:16Z"
+  },
+  "2610.02159": {
+    "authors": [
+      "Scott W. Viteri",
+      "Laura Gomezjurado Gonzalez",
+      "Clark Barrett"
+    ],
+    "canonical_id": "2610.02159",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "c4a5c6c573c5ee2e83b9151846d3940a91da681ad12954c494309dd2cd7d1edd",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-01T17:52:41Z",
+    "report_count": 1,
+    "title": "When Do Intrinsic Rewards Lead to Exploration?",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-01T17:52:41Z"
+  },
+  "2610.02161": {
+    "authors": [
+      "Hanchu Zhou",
+      "Dechen Gao",
+      "Hang Wang",
+      "Brendan Lynch",
+      "Boqi Zhao",
+      "Qiyao Ma",
+      "Raman Goyal",
+      "Junshan Zhang"
+    ],
+    "canonical_id": "2610.02161",
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "content_hash": "bd2bce07d7d98a9c3372b13c991302cad345ead6b197628f0c78930113e30dc9",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-10-01T17:53:09Z",
+    "report_count": 1,
+    "title": "DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-01T17:53:09Z"
+  },
+  "2610.02163": {
+    "authors": [
+      "Xuan Zhang",
+      "Longtao Zheng",
+      "Cunxiao Du",
+      "Bo An",
+      "Xin Dong"
+    ],
+    "canonical_id": "2610.02163",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "7107db87ba31332ef47aef3937dd26cf427f7ddc05f3be73a321dca26a681402",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-10-01T17:54:34Z",
+    "report_count": 1,
+    "title": "AutoCompact: Learning When to Compact Context in Long-Horizon Coding Agents",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-01T17:54:34Z"
+  },
+  "2610.02170": {
+    "authors": [
+      "Suyu Ye",
+      "Zheyuan Zhang",
+      "Vaishnav Tadiparthi",
+      "Hossein Nourkhiz Mahjoub",
+      "Ehsan Moradi Pari",
+      "Tianmin Shu",
+      "Homanga Bharadhwaj",
+      "Nakul Agarwal"
+    ],
+    "canonical_id": "2610.02170",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.MA"
+    ],
+    "content_hash": "ea2d57e34e0871ffff43e59cb9481be54c1a10eff580051eacb977d84d89d5a2",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-10-01T17:56:04Z",
+    "report_count": 1,
+    "title": "Watch, Infer, Coordinate: Inferring Robot Partner Constraints for Zero-Shot Coordination",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-01T17:56:04Z"
+  },
+  "2610.02179": {
+    "authors": [
+      "Siqi Zhu",
+      "Suozhi Huang",
+      "Kaixuan Zhang",
+      "Yuheng Yang",
+      "Zhanyang Jin",
+      "Yihang Sun",
+      "Jiaxuan You"
+    ],
+    "canonical_id": "2610.02179",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "cc0cc7fa4a60afed1d7189a7d34d46ab95ac51afad6f6f110fd3939d5f21cf8c",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-01T17:57:44Z",
+    "report_count": 1,
+    "title": "From Gradients to Capabilities: Understanding Multi-Teacher On-Policy Distillation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-01T17:57:44Z"
+  },
+  "2610.02180": {
+    "authors": [
+      "Jiahan Zhang",
+      "Chaohao Yang",
+      "Namitha Guruprasad",
+      "Vivekjyoti Banerjee",
+      "Trong-Tung Nguyen",
+      "Alan Yuille",
+      "Anand Bhattad"
+    ],
+    "canonical_id": "2610.02180",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "fa5fa47a635f92997798896266a6234fc203a4b8f20a82132fa997510f886c3b",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-10-01T17:58:09Z",
+    "report_count": 1,
+    "title": "Generative Cinematographer: Composing Camera and Object Motion in 3D",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-01T17:58:09Z"
+  },
+  "2610.02182": {
+    "authors": [
+      "Joohwan Ko",
+      "Tetiana Parshakova",
+      "Diana Cai",
+      "Robert M. Gower"
+    ],
+    "canonical_id": "2610.02182",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "0fa3bd5517d62b8349122a3765ac2eb56611aba4b207a0a29083eeaccc710f3d",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-01T17:58:24Z",
+    "report_count": 1,
+    "title": "SoftServe: A Scalable Quasi-Newton Method for Deep Learning",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-01T17:58:24Z"
+  },
+  "2610.02186": {
+    "authors": [
+      "Yiming Huang",
+      "Yujie Zeng",
+      "Vijay Prakash Dwivedi",
+      "Simone Foti",
+      "Jianmin Wang",
+      "Jure Leskovec",
+      "Tolga Birdal"
+    ],
+    "canonical_id": "2610.02186",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "ec15017fa4416165401ee8404f6e455d208d4dc5a7965ca2d593e0488b374fe6",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-01T17:58:45Z",
+    "report_count": 1,
+    "title": "Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-01T17:58:45Z"
+  },
+  "2610.02188": {
+    "authors": [
+      "Zhengming Yu",
+      "Junkun Yuan",
+      "Haotian Yang",
+      "Gordon Guocheng Qian",
+      "Yizhi Wang",
+      "Angtian Wang",
+      "Yiding Yang",
+      "Bo Liu",
+      "Xin Li",
+      "Wenping Wang",
+      "Chongyang Ma"
+    ],
+    "canonical_id": "2610.02188",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "42bd5ec3a005045aa471aa82b604ebd730a641330e47e5cca0733d0d30bbbbc1",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-10-01T17:59:01Z",
+    "report_count": 1,
+    "title": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-01T17:59:01Z"
+  },
+  "2610.02189": {
+    "authors": [
+      "Jason X. Liu",
+      "Sebastian Ibarraran",
+      "Frank Hu",
+      "Soojung Yang",
+      "Xinyu A. Feng",
+      "Abigail Park",
+      "Anagha Aneesh",
+      "Lacramioara Bintu",
+      "Alexander R. Dunn",
+      "Grant M. Rotskoff"
+    ],
+    "canonical_id": "2610.02189",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "15ae82ac7c819e4593fbc84d33770492935f946f452de93ba705d79653918695",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-01T17:59:20Z",
+    "report_count": 1,
+    "title": "Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-01T17:59:20Z"
+  },
+  "2610.02191": {
+    "authors": [
+      "Shuo Xing",
+      "Zilin Dai",
+      "Chengyuan Qian",
+      "Fangzhou Lin",
+      "Wenjing Chen",
+      "Ping He",
+      "Pan Lu",
+      "Alvaro Velasquez",
+      "Mohit Bansal",
+      "Zhengzhong Tu"
+    ],
+    "canonical_id": "2610.02191",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "45971d9ada208c9dc1fa59d445e97662d4d06bdfb0d16a0881b621c62ef993d9",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-01T17:59:32Z",
+    "report_count": 1,
+    "title": "The Missing Primitive: Diagnosing and Repairing Mathematical Reasoning in Large Language Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-01T17:59:32Z"
+  },
+  "2610.02193": {
+    "authors": [
+      "Hui Ren",
+      "Zihan Li",
+      "Chang Liu",
+      "Huidong Liu",
+      "Alexander Schwing"
+    ],
+    "canonical_id": "2610.02193",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "2fdb21094407d5a2617bb16ed20e93a03fbfa226b1b487d3e8a75225932542bb",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-10-01T17:59:39Z",
+    "report_count": 1,
+    "title": "Hierarchical Continuous Diffusion Language Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-01T17:59:39Z"
+  },
+  "2610.02195": {
+    "authors": [
+      "Akshay Balsubramani"
+    ],
+    "canonical_id": "2610.02195",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "e2e8d5804baad1c65d91fa477ce1872afebb28585b40ae014b2b756b1c519078",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-01T17:59:39Z",
+    "report_count": 1,
+    "title": "Cost-augmented Schrödinger bridges on graphs are exactly solvable: a Feynman-Kac tilt replaces learned control",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-01T17:59:39Z"
+  },
+  "2610.02198": {
+    "authors": [
+      "Sebastian Sanokowski",
+      "Alireza Sarmadi",
+      "Majid Khadiv"
+    ],
+    "canonical_id": "2610.02198",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.RO",
+      "stat.ML"
+    ],
+    "content_hash": "2e92ac26cfaec11086c822c6dde99d35ca9726763d1b88b4ef5b280430525225",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-01T17:59:41Z",
+    "report_count": 1,
+    "title": "FERPO: Forward Entropy-Regularized Policy Optimization",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-01T17:59:41Z"
+  },
+  "2610.02199": {
+    "authors": [
+      "Jichao Jiang",
+      "Cristian McGee",
+      "El Houcine Bergou",
+      "Hanqin Cai",
+      "Aritra Dutta"
+    ],
+    "canonical_id": "2610.02199",
+    "categories": [
+      "cs.LG",
+      "math.OC"
+    ],
+    "content_hash": "fb92b967ac00846b457d74f0aada86028ba96c6d4d764d3a9490da5f164bdfb3",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-01T17:59:42Z",
+    "report_count": 1,
+    "title": "TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-01T17:59:42Z"
+  },
+  "2610.02200": {
+    "authors": [
+      "Qiushi Han",
+      "Keya Hu",
+      "Linlu Qiu",
+      "Cathy Wu",
+      "Kaiming He"
+    ],
+    "canonical_id": "2610.02200",
+    "categories": [
+      "cs.AI",
+      "cs.CV"
+    ],
+    "content_hash": "520dcefba50167cf914dae612e903cadf0993372d548b1d78404a8b801c35530",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-10-01T17:59:45Z",
+    "report_count": 1,
+    "title": "VISTA: A Visual Harness for Reasoning in an Interactive World",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-01T17:59:45Z"
+  },
+  "2610.02201": {
+    "authors": [
+      "Tianjiao Yu",
+      "Xinzhuo Li",
+      "Yifan Shen",
+      "Ying Shen",
+      "Kiet A. Nguyen",
+      "Adheesh Sunil Juvekar",
+      "Ismini Lourentzou"
+    ],
+    "canonical_id": "2610.02201",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "e4e461831d21f52500fdd20737d77cfd982cffe8162668b932218ddf8e383fe0",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-10-01T17:59:46Z",
+    "report_count": 1,
+    "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-01T17:59:46Z"
+  },
+  "2610.02202": {
+    "authors": [
+      "Sohyeon Kim",
+      "Yoonho Lee",
+      "Bo Liu",
+      "Dayoon Ko",
+      "Rulin Shao",
+      "Seungone Kim",
+      "Graham Neubig",
+      "Pang Wei Koh",
+      "Aakanksha Chowdhery",
+      "Akari Asai",
+      "Omar Khattab",
+      "Yejin Choi",
+      "Gunhee Kim",
+      "Chelsea Finn"
+    ],
+    "canonical_id": "2610.02202",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.IR"
+    ],
+    "content_hash": "231514287156098917781522219924c27697eb3ab5d931425262610a43c1447b",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-10-01T17:59:47Z",
+    "report_count": 1,
+    "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-01T17:59:47Z"
+  },
+  "2610.02204": {
+    "authors": [
+      "Yen-Jen Wang",
+      "Haozhe Jiang",
+      "Shuying Deng",
+      "Haoru Xue",
+      "Weirui Ye",
+      "Rocky Duan",
+      "Nika Haghtalab",
+      "S. Shankar Sastry",
+      "Pieter Abbeel",
+      "Haozhi Qi"
+    ],
+    "canonical_id": "2610.02204",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "eess.SY"
+    ],
+    "content_hash": "3112f11785505d1ebcf4c74fce5d47a4f0d8c7e010e5020d41b4d9349b30a642",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-10-01T17:59:50Z",
+    "report_count": 1,
+    "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-01T17:59:50Z"
+  },
+  "2610.02206": {
+    "authors": [
+      "Pengfei Li",
+      "Naufal Suryanto",
+      "Sicheng Zhang",
+      "Muzammal Naseer"
+    ],
+    "canonical_id": "2610.02206",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.CR"
+    ],
+    "content_hash": "e12f2afcb654fa414ad8f040b89413712c7001e552be2ca45522c526054bd8f2",
+    "first_seen_date": "2026-10-03",
+    "last_reported_date": "2026-10-03",
+    "last_seen_date": "2026-10-03",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-10-01T17:59:55Z",
+    "report_count": 1,
+    "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-01T17:59:55Z"
   }
 }
