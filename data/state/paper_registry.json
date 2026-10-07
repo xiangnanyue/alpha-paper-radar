@@ -72122,5 +72122,631 @@
       "llm_progress"
     ],
     "updated": "2026-10-02T17:58:49Z"
+  },
+  "2610.07755": {
+    "authors": [
+      "Tianxi Li",
+      "Jie Ding"
+    ],
+    "canonical_id": "2610.07755",
+    "categories": [
+      "stat.ML",
+      "cs.LG",
+      "stat.AP",
+      "stat.ME"
+    ],
+    "content_hash": "3d0e67ac54a6c059a5c5b4cc4852f89aa48ce743a186feb9dc6f1365899cc0ea",
+    "first_seen_date": "2026-10-07",
+    "last_reported_date": "2026-10-07",
+    "last_seen_date": "2026-10-07",
+    "latest_version": 1,
+    "primary_category": "stat.ML",
+    "priority": "unscored",
+    "published": "2026-10-06T04:53:14Z",
+    "report_count": 1,
+    "title": "Trustworthy Method Comparison with AI Judges: Estimation and Design under Order, Batch, and Aggregation Effects",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-10-06T04:53:14Z"
+  },
+  "2610.08678": {
+    "authors": [
+      "Yichi Zhang",
+      "Zhiqi Wang",
+      "Neil Gong",
+      "Yuchen Yang"
+    ],
+    "canonical_id": "2610.08678",
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "71c5e8f180288159cf3e80db1b365a55ca1b78a892afc8104d8c413312cbd347",
+    "first_seen_date": "2026-10-07",
+    "last_reported_date": "2026-10-07",
+    "last_seen_date": "2026-10-07",
+    "latest_version": 1,
+    "primary_category": "cs.CR",
+    "priority": "unscored",
+    "published": "2026-10-06T16:59:37Z",
+    "report_count": 1,
+    "title": "Secure Speculative Decoding for Large Language Models",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-06T16:59:37Z"
+  },
+  "2610.08680": {
+    "authors": [
+      "Nur A Zarin Nishat",
+      "Jens Lehmann",
+      "Andrei Aioanei",
+      "Sahar Vahdati"
+    ],
+    "canonical_id": "2610.08680",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "content_hash": "c479bc1cc8954a30c7652348ece71e9f1eaa21f250a12c3a29a44044c256e7fc",
+    "first_seen_date": "2026-10-07",
+    "last_reported_date": "2026-10-07",
+    "last_seen_date": "2026-10-07",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-06T17:01:19Z",
+    "report_count": 1,
+    "title": "A Systematic Study of Small Language Models on Abstract Reasoning Tasks",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-06T17:01:19Z"
+  },
+  "2610.08691": {
+    "authors": [
+      "Mingda Zhang",
+      "Wenjin Liu",
+      "Tiesunlong Shen",
+      "Zikai Xiao",
+      "Zhenghong Lin",
+      "Qing Xu",
+      "Erik Cambria",
+      "Xiaoying Tang",
+      "Haoran Luo"
+    ],
+    "canonical_id": "2610.08691",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "732901332d59657faa3fb11a934f45758c6886eabefffd11d038a6c9dd921f21",
+    "first_seen_date": "2026-10-07",
+    "last_reported_date": "2026-10-07",
+    "last_seen_date": "2026-10-07",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-10-06T17:08:03Z",
+    "report_count": 1,
+    "title": "ScienceClaw: Benchmarking Continual Self-Evolution of AI-for-Science Agents Across the Natural and Social Sciences",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-06T17:08:03Z"
+  },
+  "2610.08694": {
+    "authors": [
+      "Michael Bohl",
+      "Alexander Theus",
+      "David Wissel",
+      "Valentina Boeva"
+    ],
+    "canonical_id": "2610.08694",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "beb27731c2da07a15d44bde79e9a0228d354a026a17594acc874b0a2c6d4b55a",
+    "first_seen_date": "2026-10-07",
+    "last_reported_date": "2026-10-07",
+    "last_seen_date": "2026-10-07",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-06T17:10:37Z",
+    "report_count": 1,
+    "title": "GeneICL: A Tabular Foundation Model for Bulk Transcriptomics",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-06T17:10:37Z"
+  },
+  "2610.08699": {
+    "authors": [
+      "Guangyi Liu",
+      "Yong Liu",
+      "Jiangning Zhang"
+    ],
+    "canonical_id": "2610.08699",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "41e810c432fabafb9e0086b64bd0dee9c0893647db1243e335588854ef3c2095",
+    "first_seen_date": "2026-10-07",
+    "last_reported_date": "2026-10-07",
+    "last_seen_date": "2026-10-07",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-10-06T17:13:53Z",
+    "report_count": 1,
+    "title": "nanoMuse: An Open-Source Personal Agent for Every Device You Own",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-06T17:13:53Z"
+  },
+  "2610.08703": {
+    "authors": [
+      "Clayton Cohn",
+      "Joyce Fonteles",
+      "Kirk Vanacore",
+      "Gianni Mazza",
+      "Candida Crawford",
+      "Tom Hooper",
+      "Gautam Biswas",
+      "Rene Kizilcec"
+    ],
+    "canonical_id": "2610.08703",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "e2f6bd74bc9f9f6cfe106a8a04a7d8b42d1ac69a6a475f1c00943a59cddc10cf",
+    "first_seen_date": "2026-10-07",
+    "last_reported_date": "2026-10-07",
+    "last_seen_date": "2026-10-07",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-10-06T17:16:03Z",
+    "report_count": 1,
+    "title": "Agreement Is Not Validity: Cross-Model LLM Consensus in Diagnosing Student Failure Modes in K-12 Math Tutoring Dialogue",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-06T17:16:03Z"
+  },
+  "2610.08719": {
+    "authors": [
+      "Shrey Shah",
+      "Yinheng Li"
+    ],
+    "canonical_id": "2610.08719",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "67744a31308e85c27b89db01eb47b42d438b4492489e84ee2747b995fcbaa831",
+    "first_seen_date": "2026-10-07",
+    "last_reported_date": "2026-10-07",
+    "last_seen_date": "2026-10-07",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-10-06T17:26:05Z",
+    "report_count": 1,
+    "title": "Holdout Best-of-N: Unbiased Evaluation and Its Cost",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-06T17:26:05Z"
+  },
+  "2610.08720": {
+    "authors": [
+      "Siru Jiang",
+      "Yongzhe Lyu",
+      "Shuo Lu",
+      "Yubin Wang",
+      "Yuxiang Zhang",
+      "Yue Liao",
+      "Bin Wang",
+      "Jian Liang",
+      "Tieniu Tan"
+    ],
+    "canonical_id": "2610.08720",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "d7e818115cb2a665464b0b580c3667b0c693bbdffbba6a41c1012970c4bc68fa",
+    "first_seen_date": "2026-10-07",
+    "last_reported_date": "2026-10-07",
+    "last_seen_date": "2026-10-07",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-10-06T17:26:26Z",
+    "report_count": 1,
+    "title": "WorldSolver: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-06T17:26:26Z"
+  },
+  "2610.08722": {
+    "authors": [
+      "Egor Pakhomov",
+      "Erik Nijkamp"
+    ],
+    "canonical_id": "2610.08722",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "cc446616d65fd9614d3fcf7dd22a9b6e1513fe32cf9ef63ec77123a180d0624d",
+    "first_seen_date": "2026-10-07",
+    "last_reported_date": "2026-10-07",
+    "last_seen_date": "2026-10-07",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-10-06T17:26:57Z",
+    "report_count": 1,
+    "title": "Does an Agent's History Tell You When Compaction Will Hurt? A Modest, Bounded Effect on the TRACE Paired-Replay Corpus",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-06T17:26:57Z"
+  },
+  "2610.08726": {
+    "authors": [
+      "Lihan Zha",
+      "Shresth Grover",
+      "Tenny Yin",
+      "Samuel M. Bateman",
+      "Hengkai Pan",
+      "Mengchao Zhang",
+      "Aykut Onol",
+      "Allen Z. Ren",
+      "Dhruv Shah",
+      "Anirudha Majumdar"
+    ],
+    "canonical_id": "2610.08726",
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "content_hash": "467dc4d1d89acef9e099023866b823b909ef235cacc643395e05feb5b5e10fe7",
+    "first_seen_date": "2026-10-07",
+    "last_reported_date": "2026-10-07",
+    "last_seen_date": "2026-10-07",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-10-06T17:30:33Z",
+    "report_count": 1,
+    "title": "EgoLAP: Learning from Egocentric Human Data through Language-Action Reasoning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-06T17:30:33Z"
+  },
+  "2610.08738": {
+    "authors": [
+      "Mathias Ollu",
+      "Nikos Komodakis"
+    ],
+    "canonical_id": "2610.08738",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "c0653454ad455146d88406d64262bf57d893c8060dc8c6d8cf606ecf725cd914",
+    "first_seen_date": "2026-10-07",
+    "last_reported_date": "2026-10-07",
+    "last_seen_date": "2026-10-07",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-10-06T17:38:19Z",
+    "report_count": 1,
+    "title": "Denoising Hierarchical Representations: Joint Continuous Diffusion for Language Modeling",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-06T17:38:19Z"
+  },
+  "2610.08745": {
+    "authors": [
+      "Seyed Mohammad Hadi Hosseini",
+      "Yasin Abbasi-Yadkori",
+      "Sattar Vakili"
+    ],
+    "canonical_id": "2610.08745",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "e7f676f492903295a30c4bc3ff84950526385947fe2b678a4e40dfbd02f02299",
+    "first_seen_date": "2026-10-07",
+    "last_reported_date": "2026-10-07",
+    "last_seen_date": "2026-10-07",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-06T17:41:08Z",
+    "report_count": 1,
+    "title": "Linear Bandits under Exact Sliding-Window Constraints",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-06T17:41:08Z"
+  },
+  "2610.08747": {
+    "authors": [
+      "Nataliya Stepanova",
+      "Ivan Titov",
+      "Emily Allaway",
+      "Björn Ross"
+    ],
+    "canonical_id": "2610.08747",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "6b64b478406299fd5e818b70a0f689e242669c3c55f826e5e30fb473db77005f",
+    "first_seen_date": "2026-10-07",
+    "last_reported_date": "2026-10-07",
+    "last_seen_date": "2026-10-07",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-10-06T17:41:44Z",
+    "report_count": 1,
+    "title": "The Missing Minimal Pair: Stereotype Evaluation in LLMs",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-06T17:41:44Z"
+  },
+  "2610.08760": {
+    "authors": [
+      "Pengjun Fang",
+      "Jingyi Fa",
+      "Kam Man Wu",
+      "Jiaming Wang",
+      "Haoyuan Huang",
+      "Yaguang Wu",
+      "Xiangjun Huang",
+      "Ziyang Ma",
+      "Weijia Chen",
+      "Hongyu Liu",
+      "Zeyue Tian",
+      "Qifeng Chen"
+    ],
+    "canonical_id": "2610.08760",
+    "categories": [
+      "cs.SD",
+      "cs.AI",
+      "cs.CV",
+      "eess.AS"
+    ],
+    "content_hash": "87d00d01d32a779f5968c28cfdacefd6501f41730a39dd28ac9f659afa656ebd",
+    "first_seen_date": "2026-10-07",
+    "last_reported_date": "2026-10-07",
+    "last_seen_date": "2026-10-07",
+    "latest_version": 1,
+    "primary_category": "cs.SD",
+    "priority": "unscored",
+    "published": "2026-10-06T17:50:18Z",
+    "report_count": 1,
+    "title": "WorldSonus: Bringing Sound to Worlds",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-06T17:50:18Z"
+  },
+  "2610.08761": {
+    "authors": [
+      "Zewei Zhou",
+      "Rachel Luo",
+      "Yulong Cao",
+      "Chaowei Xiao",
+      "Chensheng Peng",
+      "Boyi Li",
+      "Thomas Tian",
+      "Zheng Lian",
+      "Yan Wang",
+      "Jiaqi Ma",
+      "Boris Ivanovic",
+      "Marco Pavone",
+      "Wenhao Ding"
+    ],
+    "canonical_id": "2610.08761",
+    "categories": [
+      "cs.AI",
+      "cs.RO"
+    ],
+    "content_hash": "a02c13368c0ac9b960f232475b73a324c560b861f316f99df71eb076619022c2",
+    "first_seen_date": "2026-10-07",
+    "last_reported_date": "2026-10-07",
+    "last_seen_date": "2026-10-07",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-10-06T17:50:29Z",
+    "report_count": 1,
+    "title": "VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-06T17:50:29Z"
+  },
+  "2610.08773": {
+    "authors": [
+      "Sarim Hashmi",
+      "Mukul Ranjan",
+      "Kshitij Mishra",
+      "Mikhail Kuznetsov",
+      "Praneeth Vepakomma",
+      "Nils Lukas"
+    ],
+    "canonical_id": "2610.08773",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "ee134a9981e3dae3c1edb172e1756e7f551580bdaa5c39a0b50c3413b4147120",
+    "first_seen_date": "2026-10-07",
+    "last_reported_date": "2026-10-07",
+    "last_seen_date": "2026-10-07",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-10-06T17:56:43Z",
+    "report_count": 1,
+    "title": "AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-06T17:56:43Z"
+  },
+  "2610.08775": {
+    "authors": [
+      "Ankit Sonthalia",
+      "Haritz Puerto",
+      "Alexander Rubinstein",
+      "Martin Gubri",
+      "Seong Joon Oh"
+    ],
+    "canonical_id": "2610.08775",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "42dca289fb4d6975a2cb4dd33c7b705194a39623d4a99ebbc934b29029678b95",
+    "first_seen_date": "2026-10-07",
+    "last_reported_date": "2026-10-07",
+    "last_seen_date": "2026-10-07",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-10-06T17:57:19Z",
+    "report_count": 1,
+    "title": "Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-06T17:57:19Z"
+  },
+  "2610.08778": {
+    "authors": [
+      "Weixian Xu",
+      "Yanzhe Zhang",
+      "Zora Zhiruo Wang",
+      "Changyu Chen",
+      "Diyi Yang"
+    ],
+    "canonical_id": "2610.08778",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "d0cec2d3e4e1692d616f964f2ec9857b71bc4d51564a55138483b5361f8e4219",
+    "first_seen_date": "2026-10-07",
+    "last_reported_date": "2026-10-07",
+    "last_seen_date": "2026-10-07",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-10-06T17:58:18Z",
+    "report_count": 1,
+    "title": "Sherpa: Teaching LLMs to Teach Adaptively",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-06T17:58:18Z"
+  },
+  "2610.08780": {
+    "authors": [
+      "Jai Bardhan",
+      "Josef Sivic",
+      "Vladimir Petrik"
+    ],
+    "canonical_id": "2610.08780",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "content_hash": "017690d94944812f5e167440ad73898fb320b1151d84d0ffd93e7bf0fcb05108",
+    "first_seen_date": "2026-10-07",
+    "last_reported_date": "2026-10-07",
+    "last_seen_date": "2026-10-07",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-10-06T17:59:00Z",
+    "report_count": 1,
+    "title": "DepthWorld: 3D World Model for Robot Manipulation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-06T17:59:00Z"
+  },
+  "2610.08782": {
+    "authors": [
+      "Shiqi Li",
+      "Sean Cho",
+      "Yijie Li",
+      "Fengzhi Guo",
+      "Bowen Wen",
+      "Cheng Zhang"
+    ],
+    "canonical_id": "2610.08782",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.GR"
+    ],
+    "content_hash": "1d1bccc3669c39211e02e6f33d76bf93968dd64b2a00a085cea6a1af814adc7e",
+    "first_seen_date": "2026-10-07",
+    "last_reported_date": "2026-10-07",
+    "last_seen_date": "2026-10-07",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-10-06T17:59:02Z",
+    "report_count": 1,
+    "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-06T17:59:02Z"
+  },
+  "2610.08785": {
+    "authors": [
+      "Kevin Zhang",
+      "Stephen Bates"
+    ],
+    "canonical_id": "2610.08785",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "fe32a44e7c472baa35d226318aaf9ef3051d73fe8bfa092a9beeba2a44ae1a20",
+    "first_seen_date": "2026-10-07",
+    "last_reported_date": "2026-10-07",
+    "last_seen_date": "2026-10-07",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-06T17:59:11Z",
+    "report_count": 1,
+    "title": "Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-06T17:59:11Z"
   }
 }
