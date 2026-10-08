@@ -72748,5 +72748,652 @@
       "llm_progress"
     ],
     "updated": "2026-10-06T17:59:11Z"
+  },
+  "2610.09613": {
+    "authors": [
+      "Dexin Peng",
+      "Xiaoyu Wang"
+    ],
+    "canonical_id": "2610.09613",
+    "categories": [
+      "q-fin.ST",
+      "cs.LG"
+    ],
+    "content_hash": "b881f3788c2a16b3c5f3956ea39bd69a634efa0a32dec323e47775e3c9ff9d67",
+    "first_seen_date": "2026-10-08",
+    "last_reported_date": "2026-10-08",
+    "last_seen_date": "2026-10-08",
+    "latest_version": 1,
+    "primary_category": "q-fin.ST",
+    "priority": "unscored",
+    "published": "2026-10-07T07:55:38Z",
+    "report_count": 1,
+    "title": "Residual Learning in Empirical Asset Pricing",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-10-07T07:55:38Z"
+  },
+  "2610.10043": {
+    "authors": [
+      "Christophe Barrette",
+      "Philippe Goulet Coulombe",
+      "Tim Reinicke"
+    ],
+    "canonical_id": "2610.10043",
+    "categories": [
+      "econ.EM"
+    ],
+    "content_hash": "0a9518a00a1b69bc16b6c171745481e09b91d8fa31e065288166943881f497c0",
+    "first_seen_date": "2026-10-08",
+    "last_reported_date": "2026-10-08",
+    "last_seen_date": "2026-10-08",
+    "latest_version": 1,
+    "primary_category": "econ.EM",
+    "priority": "unscored",
+    "published": "2026-10-07T13:20:30Z",
+    "report_count": 1,
+    "title": "Building Macroeconomically Relevant Climate Indices via the Assemblage VAR",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-10-07T13:20:30Z"
+  },
+  "2610.10437": {
+    "authors": [
+      "Yonghoon Dong",
+      "Minsung Yoon",
+      "Jaehyuk Kim",
+      "Jungwoo Park",
+      "Changyeon Kim",
+      "Jinwoo Shin"
+    ],
+    "canonical_id": "2610.10437",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.RO"
+    ],
+    "content_hash": "912a23a80aa5b2367e46924d52c1b6b6ad3f6d4cb6b430cc575faba549ef253b",
+    "first_seen_date": "2026-10-08",
+    "last_reported_date": "2026-10-08",
+    "last_seen_date": "2026-10-08",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-07T17:13:35Z",
+    "report_count": 1,
+    "title": "Q-Learning with Scalar Adjoint Matching",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-07T17:13:35Z"
+  },
+  "2610.10440": {
+    "authors": [
+      "Yinan Huang",
+      "Shitij Govil",
+      "Bo Dai",
+      "Pan Li"
+    ],
+    "canonical_id": "2610.10440",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "1d782c0bacc87686af86a282d58882178231856cc4296e02f1a698078e7c7667",
+    "first_seen_date": "2026-10-08",
+    "last_reported_date": "2026-10-08",
+    "last_seen_date": "2026-10-08",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-07T17:15:52Z",
+    "report_count": 1,
+    "title": "Seq-Flow: Efficient Probabilistic Forecasting with Self-Rollout Error Control",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-07T17:15:52Z"
+  },
+  "2610.10444": {
+    "authors": [
+      "Jinheon Baek",
+      "Soyeong Jeong",
+      "Yumin Choi",
+      "Dongsu Han",
+      "Sung Ju Hwang"
+    ],
+    "canonical_id": "2610.10444",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "301bc186d236bbcc9dcf1aad0fbe8a8acdeb46327959bf36f0b61b76f58314fd",
+    "first_seen_date": "2026-10-08",
+    "last_reported_date": "2026-10-08",
+    "last_seen_date": "2026-10-08",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-10-07T17:16:56Z",
+    "report_count": 1,
+    "title": "RunningTab: Direct Workspace Interaction with Environment-Side Tabs",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-07T17:16:56Z"
+  },
+  "2610.10447": {
+    "authors": [
+      "Randy Ardywibowo",
+      "Arnav Dalal",
+      "Jiantao Jiao"
+    ],
+    "canonical_id": "2610.10447",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "75781e627a8d5be147cb018ec229bbfb44868a08a45784442dbbf5327d077736",
+    "first_seen_date": "2026-10-08",
+    "last_reported_date": "2026-10-08",
+    "last_seen_date": "2026-10-08",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-07T17:19:19Z",
+    "report_count": 1,
+    "title": "A Good Self-Teacher Meets the Student Where They Are: Joint On-Policy Learning and Teaching",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-07T17:19:19Z"
+  },
+  "2610.10455": {
+    "authors": [
+      "Linghao Meng",
+      "Feng He",
+      "Xuan Yang",
+      "Junyuan Mao",
+      "Pinze Ren",
+      "Deqing Mu",
+      "Hesen Yang",
+      "Qiankun Li"
+    ],
+    "canonical_id": "2610.10455",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "2b1c8bc001d514a5cbedf46f04806d033a306a0e3c3685e54534c9fc7cf413bb",
+    "first_seen_date": "2026-10-08",
+    "last_reported_date": "2026-10-08",
+    "last_seen_date": "2026-10-08",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-10-07T17:25:23Z",
+    "report_count": 1,
+    "title": "PHRBench: A Behavioral Evaluation of Post-Hallucination Reasoning in LLMs",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-07T17:25:23Z"
+  },
+  "2610.10460": {
+    "authors": [
+      "Hejian Sang",
+      "Zhengze Zhou",
+      "Shayan Mohajer Hamidi",
+      "Xiaomin Li",
+      "Rohit Jain",
+      "Alborz Geramifard"
+    ],
+    "canonical_id": "2610.10460",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "9e3841f0f0420451060bb4904daa8bda04b5928bfefb34cf30471f0834b2745b",
+    "first_seen_date": "2026-10-08",
+    "last_reported_date": "2026-10-08",
+    "last_seen_date": "2026-10-08",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-07T17:27:46Z",
+    "report_count": 1,
+    "title": "Composing What Each Teacher Learned: Multi-Teacher On-Policy Distillation through Teacher-Relative Shifts",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-07T17:27:46Z"
+  },
+  "2610.10468": {
+    "authors": [
+      "Ali Asaria",
+      "Deep Gandhi",
+      "Tony Salomone"
+    ],
+    "canonical_id": "2610.10468",
+    "categories": [
+      "cs.MA",
+      "cs.AI"
+    ],
+    "content_hash": "0cd52950ffc7d9da48379328c5801aae207d61cf550b72af316a16982be7c190",
+    "first_seen_date": "2026-10-08",
+    "last_reported_date": "2026-10-08",
+    "last_seen_date": "2026-10-08",
+    "latest_version": 1,
+    "primary_category": "cs.MA",
+    "priority": "unscored",
+    "published": "2026-10-07T17:30:45Z",
+    "report_count": 1,
+    "title": "A Society of Researchers: Designing Institutions for Populations of Autonomous Research Agents",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-07T17:30:45Z"
+  },
+  "2610.10478": {
+    "authors": [
+      "Tan Yu",
+      "Alexander Bukharin",
+      "Khushi Bhardwaj",
+      "Jennifer Williams",
+      "Zirui Liu",
+      "Jonathan Lingjie Li",
+      "Soumye Singhal",
+      "Joseph Jennings",
+      "Sanjeev Satheesh",
+      "Yash Jain",
+      "Ashish Vaswani",
+      "Venkat Krishna Srinivasan",
+      "Matthew Papakipos",
+      "Hyunwoo Kim",
+      "Jian Zhang",
+      "Oleksii Kuchaiev",
+      "Markus Kliegl",
+      "Mostofa Patwary",
+      "Mohammad Shoeybi",
+      "Bryan Catanzaro",
+      "Jonathan Cohen",
+      "Jiantao Jiao"
+    ],
+    "canonical_id": "2610.10478",
+    "categories": [
+      "cs.AI",
+      "cs.SE"
+    ],
+    "content_hash": "b0d0b350504980d312ea19a5121835cbc3f9f9732dc9827424fd2c0e8222c931",
+    "first_seen_date": "2026-10-08",
+    "last_reported_date": "2026-10-08",
+    "last_seen_date": "2026-10-08",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-10-07T17:37:19Z",
+    "report_count": 1,
+    "title": "Before They Can Solve: Predicting Post-Training Coding-Agent Performance from Base Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-07T17:37:19Z"
+  },
+  "2610.10496": {
+    "authors": [
+      "Kursat Komurcu",
+      "Linas Petkevicius"
+    ],
+    "canonical_id": "2610.10496",
+    "categories": [
+      "cs.NE",
+      "cs.LG"
+    ],
+    "content_hash": "5f7d1d26dd7a69aa4fa5c60ae3cf3896973c89da3518bd85417e2c4a06345c16",
+    "first_seen_date": "2026-10-08",
+    "last_reported_date": "2026-10-08",
+    "last_seen_date": "2026-10-08",
+    "latest_version": 1,
+    "primary_category": "cs.NE",
+    "priority": "unscored",
+    "published": "2026-10-07T17:47:17Z",
+    "report_count": 1,
+    "title": "Evolutionary Architecture Search for Chlorophyll-$a$ Prediction in Lakes using Sentinel-2",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-07T17:47:17Z"
+  },
+  "2610.10498": {
+    "authors": [
+      "Python Song",
+      "Zhixuan Liang",
+      "Kelsey Fu",
+      "Mengdi Wang",
+      "Junfeng Yang",
+      "Shilong Liu"
+    ],
+    "canonical_id": "2610.10498",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "025b09b51864081084b28bf43c7d3fdd83476f9f75fa3bfadd50a38a32cc10e5",
+    "first_seen_date": "2026-10-08",
+    "last_reported_date": "2026-10-08",
+    "last_seen_date": "2026-10-08",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-10-07T17:48:02Z",
+    "report_count": 1,
+    "title": "EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-07T17:48:02Z"
+  },
+  "2610.10506": {
+    "authors": [
+      "Daniel Robert Kling Alexander",
+      "Catherine Louise Kling"
+    ],
+    "canonical_id": "2610.10506",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "econ.GN"
+    ],
+    "content_hash": "ffa3732b7b92ed8c3d80b5665fda11275bc4f68234419ff230c6bd0861c370cb",
+    "first_seen_date": "2026-10-08",
+    "last_reported_date": "2026-10-08",
+    "last_seen_date": "2026-10-08",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-10-07T17:51:07Z",
+    "report_count": 1,
+    "title": "Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of Language Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-07T17:51:07Z"
+  },
+  "2610.10507": {
+    "authors": [
+      "Yilun Hao",
+      "Krishna Sayana",
+      "Isabella Ye",
+      "James S Ren",
+      "Sukhdeep Sodhi",
+      "Craig Boutilier",
+      "Chuchu Fan"
+    ],
+    "canonical_id": "2610.10507",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "66fc20a9b1b1f15d5a29cefac2a3a343062566e2e8b3790b04bb9840a37f9633",
+    "first_seen_date": "2026-10-08",
+    "last_reported_date": "2026-10-08",
+    "last_seen_date": "2026-10-08",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-10-07T17:51:08Z",
+    "report_count": 1,
+    "title": "RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-07T17:51:08Z"
+  },
+  "2610.10513": {
+    "authors": [
+      "Yinling Zhang",
+      "Langchen Liu",
+      "Dongbin Xiu",
+      "Xueyan Zou",
+      "Xu Kuang",
+      "Mengdi Wang",
+      "Shilong Liu"
+    ],
+    "canonical_id": "2610.10513",
+    "categories": [
+      "cs.AI",
+      "cs.LG",
+      "physics.ao-ph"
+    ],
+    "content_hash": "a301c10fc37e1c2f54a262f822d01713d15ecdb6798d479a94bae0a3775af1a0",
+    "first_seen_date": "2026-10-08",
+    "last_reported_date": "2026-10-08",
+    "last_seen_date": "2026-10-08",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-10-07T17:52:52Z",
+    "report_count": 1,
+    "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-07T17:52:52Z"
+  },
+  "2610.10515": {
+    "authors": [
+      "Artem Zholus",
+      "Nicolas Beltran-Velez",
+      "Jianhao Yuan",
+      "Sarath Chandar",
+      "Tushar Nagarajan",
+      "Daniel Severo",
+      "Koustuv Sinha",
+      "Michal Drozdzal",
+      "Adriana Romero Soriano",
+      "Jeannette Bohg",
+      "Nicolas Ballas",
+      "Mahmoud Assran"
+    ],
+    "canonical_id": "2610.10515",
+    "categories": [
+      "cs.AI",
+      "cs.RO"
+    ],
+    "content_hash": "3bed4ce8bb8d601b35ff83c7405fc4716940f9ee98e1bb45d8d4ff148bf006d0",
+    "first_seen_date": "2026-10-08",
+    "last_reported_date": "2026-10-08",
+    "last_seen_date": "2026-10-08",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-10-07T17:54:42Z",
+    "report_count": 1,
+    "title": "RoboJEPA: Scaling Robotic Latent World Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-07T17:54:42Z"
+  },
+  "2610.10520": {
+    "authors": [
+      "Zhewei Chen",
+      "Hao Zhu",
+      "Jiaojiao Jiang",
+      "Ahad N. Zehmakan"
+    ],
+    "canonical_id": "2610.10520",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "0a07381a7b903342b7e2937970c5db61ab52ca5abcf6ec3e655d62bdbe86863f",
+    "first_seen_date": "2026-10-08",
+    "last_reported_date": "2026-10-08",
+    "last_seen_date": "2026-10-08",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-07T17:56:01Z",
+    "report_count": 1,
+    "title": "Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-07T17:56:01Z"
+  },
+  "2610.10526": {
+    "authors": [
+      "Mikey Watts",
+      "Yuchen Cui"
+    ],
+    "canonical_id": "2610.10526",
+    "categories": [
+      "cs.RO",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "708abdcea720269d83f7d5b8e92b41141836be5b2a2ee5b1f5faf9f83c2b14fe",
+    "first_seen_date": "2026-10-08",
+    "last_reported_date": "2026-10-08",
+    "last_seen_date": "2026-10-08",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-10-07T17:57:38Z",
+    "report_count": 1,
+    "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-07T17:57:38Z"
+  },
+  "2610.10527": {
+    "authors": [
+      "Aleksandar Armacki",
+      "Haoyuan Cai",
+      "Ali H. Sayed"
+    ],
+    "canonical_id": "2610.10527",
+    "categories": [
+      "math.OC",
+      "cs.LG",
+      "cs.MA"
+    ],
+    "content_hash": "dc1ae4a4fd45cb6fc96a1da8104534b02bafbabe195b492efd136fde73da095f",
+    "first_seen_date": "2026-10-08",
+    "last_reported_date": "2026-10-08",
+    "last_seen_date": "2026-10-08",
+    "latest_version": 1,
+    "primary_category": "math.OC",
+    "priority": "unscored",
+    "published": "2026-10-07T17:57:58Z",
+    "report_count": 1,
+    "title": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-07T17:57:58Z"
+  },
+  "2610.10528": {
+    "authors": [
+      "Wei Huang",
+      "Bohan Zhang",
+      "Chenzhi Liu",
+      "Isabella Liu",
+      "Shuai Yang",
+      "Weian Mao",
+      "Luozhou Wang",
+      "Yicheng Xiao",
+      "Weifeng Lin",
+      "Qixin Hu",
+      "Bryan Chu",
+      "Sifei Liu",
+      "Linxi Fan",
+      "Xiaojuan Qi",
+      "Song Han",
+      "Yukang Chen"
+    ],
+    "canonical_id": "2610.10528",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "content_hash": "19562451eda94968e904057355e61a49338acfbe0182dca3f75604671cb497c7",
+    "first_seen_date": "2026-10-08",
+    "last_reported_date": "2026-10-08",
+    "last_seen_date": "2026-10-08",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-10-07T17:58:04Z",
+    "report_count": 1,
+    "title": "Long-WAM: Scaling the Context of World-Action Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-07T17:58:04Z"
+  },
+  "2610.10533": {
+    "authors": [
+      "Hongru Cai",
+      "Ran Wei",
+      "Wenjie Wang",
+      "Chengfa Wu",
+      "Ning Song",
+      "Yongqi Li",
+      "Wenjie Li"
+    ],
+    "canonical_id": "2610.10533",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "d3d18394c1b19973bd6642b722f1ad21be62bdccd92cf18c13d7a54cf36c8c12",
+    "first_seen_date": "2026-10-08",
+    "last_reported_date": "2026-10-08",
+    "last_seen_date": "2026-10-08",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-10-07T17:58:52Z",
+    "report_count": 1,
+    "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-07T17:58:52Z"
+  },
+  "2610.10536": {
+    "authors": [
+      "Saif Punjwani",
+      "Micah Goldblum"
+    ],
+    "canonical_id": "2610.10536",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "c71fcffc874c5a5c8ae57c8ba3e966dd6839131d469701c3b737840429d5c0dd",
+    "first_seen_date": "2026-10-08",
+    "last_reported_date": "2026-10-08",
+    "last_seen_date": "2026-10-08",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-07T17:59:26Z",
+    "report_count": 1,
+    "title": "Decoupling Exploration from Optimization in RLVR",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-07T17:59:26Z"
   }
 }
