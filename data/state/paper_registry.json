@@ -74147,5 +74147,272 @@
       "deep_learning_sota"
     ],
     "updated": "2026-10-08T17:59:50Z"
+  },
+  "2610.13162": {
+    "authors": [
+      "Xinagyu Cui",
+      "Xun Li",
+      "Ziyan Li",
+      "Yun Shi"
+    ],
+    "canonical_id": "2610.13162",
+    "categories": [
+      "q-fin.PM"
+    ],
+    "content_hash": "e56530ead43a2a3e8d447975c14e83a90ee588ca7d66f389114611bc063ef9f3",
+    "first_seen_date": "2026-10-12",
+    "last_reported_date": "2026-10-12",
+    "last_seen_date": "2026-10-12",
+    "latest_version": 1,
+    "primary_category": "q-fin.PM",
+    "priority": "unscored",
+    "published": "2026-10-09T07:51:54Z",
+    "report_count": 1,
+    "title": "Entropy Regularization under No-Shorting: Structure Preservation and Convexity in Dynamic Mean-Variance Portfolio Selection",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-10-09T07:51:54Z"
+  },
+  "2610.13812": {
+    "authors": [
+      "Teo Deveney",
+      "Lea Bogensperger",
+      "Hok Shing Wong"
+    ],
+    "canonical_id": "2610.13812",
+    "categories": [
+      "cs.LG",
+      "cs.CV"
+    ],
+    "content_hash": "d7c902c9ff3228e8cad00c93484d0498367a0188820c2ae072b5475767e859ea",
+    "first_seen_date": "2026-10-12",
+    "last_reported_date": "2026-10-12",
+    "last_seen_date": "2026-10-12",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-09T16:24:23Z",
+    "report_count": 1,
+    "title": "Spanning Diffusion and Flow-based Posterior Sampling via Exact Gaussian Conditioning",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-09T16:24:23Z"
+  },
+  "2610.13818": {
+    "authors": [
+      "Rafiq Kamel",
+      "Nicolas Atienza",
+      "Aziz Fouché",
+      "Nicola Cancedda",
+      "Josif Grabocka"
+    ],
+    "canonical_id": "2610.13818",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "410128b7de80cf9e8044e1e89d684cc00da84cdec8307b8557899922912abc39",
+    "first_seen_date": "2026-10-12",
+    "last_reported_date": "2026-10-12",
+    "last_seen_date": "2026-10-12",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-09T16:28:45Z",
+    "report_count": 1,
+    "title": "TabMF: Learning Dataset Representations with Tabular Foundation Models",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-09T16:28:45Z"
+  },
+  "2610.13823": {
+    "authors": [
+      "Oktie Hassanzadeh",
+      "Dharmashankar Subramanian"
+    ],
+    "canonical_id": "2610.13823",
+    "categories": [
+      "cs.DB",
+      "cs.AI"
+    ],
+    "content_hash": "15b932cdfa3e631136441f1c6d1323bd6b70a81af2842ebea50da70e2781f86e",
+    "first_seen_date": "2026-10-12",
+    "last_reported_date": "2026-10-12",
+    "last_seen_date": "2026-10-12",
+    "latest_version": 1,
+    "primary_category": "cs.DB",
+    "priority": "unscored",
+    "published": "2026-10-09T16:34:13Z",
+    "report_count": 1,
+    "title": "Same Query, Different Answer: Run-to-Run Variance in Semantic Query Processing",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-09T16:34:13Z"
+  },
+  "2610.13829": {
+    "authors": [
+      "Jingwei Song",
+      "Zhisheng Chen",
+      "Bingfan Zeng",
+      "Jing Tang",
+      "Yubo Hou",
+      "Jinhao Jing",
+      "Zhengwei Xie",
+      "Linfeng Zhang"
+    ],
+    "canonical_id": "2610.13829",
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "content_hash": "e6c3e844346bd894c35fedd005e82aa28a3bfba6a3cff9e8358502ade5b2c784",
+    "first_seen_date": "2026-10-12",
+    "last_reported_date": "2026-10-12",
+    "last_seen_date": "2026-10-12",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-10-09T16:37:39Z",
+    "report_count": 1,
+    "title": "MC-EvoBench: Auditing Experience-Driven Self-Improvement in Minecraft Agents",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-09T16:37:39Z"
+  },
+  "2610.13832": {
+    "authors": [
+      "Yuhong Liu",
+      "Shenxi Wu",
+      "Junyi Chi",
+      "Beichen Zhang",
+      "Xuanlang Dai",
+      "Jiaqi Wang",
+      "Yuhang Zang",
+      "Dahua Lin"
+    ],
+    "canonical_id": "2610.13832",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "f0ab46e938997ece5f9d998c6c53806ab3e18ca703faf488503dfe8bd1b88e18",
+    "first_seen_date": "2026-10-12",
+    "last_reported_date": "2026-10-12",
+    "last_seen_date": "2026-10-12",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-10-09T16:39:50Z",
+    "report_count": 1,
+    "title": "SpatialASM: Internalizing Active Mentalization for Spatial Reasoning",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-09T16:39:50Z"
+  },
+  "2610.13851": {
+    "authors": [
+      "Qiuyun Zhu"
+    ],
+    "canonical_id": "2610.13851",
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ],
+    "content_hash": "a6487daa2a2cb7cee79a621e16b0b7308cee5fd485cf92a67763c3d9325edede",
+    "first_seen_date": "2026-10-12",
+    "last_reported_date": "2026-10-12",
+    "last_seen_date": "2026-10-12",
+    "latest_version": 1,
+    "primary_category": "stat.ML",
+    "priority": "unscored",
+    "published": "2026-10-09T16:59:18Z",
+    "report_count": 1,
+    "title": "Finite-Sample Guarantees for Fully Discrete Conditional Diffusion Models",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-09T16:59:18Z"
+  },
+  "2610.13855": {
+    "authors": [
+      "Stefano Cortinovis",
+      "Laura Battaglia",
+      "François Caron"
+    ],
+    "canonical_id": "2610.13855",
+    "categories": [
+      "stat.ME",
+      "stat.ML"
+    ],
+    "content_hash": "0c13f921aa0a9b86b5aa3e438fa96bcf3c319178918a4fa59e5ecaa849d0632a",
+    "first_seen_date": "2026-10-12",
+    "last_reported_date": "2026-10-12",
+    "last_seen_date": "2026-10-12",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-10-09T17:04:51Z",
+    "report_count": 1,
+    "title": "SLICE: Sequential Likelihood-Free Inference via Conformal E-Values",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-09T17:04:51Z"
+  },
+  "2610.13889": {
+    "authors": [
+      "Weiliang Chen",
+      "Song Liao"
+    ],
+    "canonical_id": "2610.13889",
+    "categories": [
+      "cs.AI",
+      "cs.IR"
+    ],
+    "content_hash": "744e60fbc025366d4cff68deec6fd111f500e8a812804c14807928f322e676d9",
+    "first_seen_date": "2026-10-12",
+    "last_reported_date": "2026-10-12",
+    "last_seen_date": "2026-10-12",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-10-09T17:38:11Z",
+    "report_count": 1,
+    "title": "RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-09T17:38:11Z"
+  },
+  "2610.13948": {
+    "authors": [
+      "Alexander Hickey",
+      "Joanna Knight",
+      "James Bishop"
+    ],
+    "canonical_id": "2610.13948",
+    "categories": [
+      "cs.AI",
+      "cs.IR"
+    ],
+    "content_hash": "d07eb7c59739798ddc8ed373d486c5012b5ba24f31f74ebf04e971bbbe42560a",
+    "first_seen_date": "2026-10-12",
+    "last_reported_date": "2026-10-12",
+    "last_seen_date": "2026-10-12",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-10-09T17:59:56Z",
+    "report_count": 1,
+    "title": "Can Language Models Play the Wikipedia Game?",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-09T17:59:56Z"
   }
 }
