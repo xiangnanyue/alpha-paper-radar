@@ -73456,7 +73456,7 @@
     "content_hash": "9e6bb0ea1b42acefee8ec3f32cc58c899a41923df1fdb40220fba1263e26b0d5",
     "first_seen_date": "2026-10-09",
     "last_reported_date": "2026-10-09",
-    "last_seen_date": "2026-10-11",
+    "last_seen_date": "2026-10-13",
     "latest_version": 1,
     "primary_category": "econ.EM",
     "priority": "unscored",
@@ -74148,6 +74148,31 @@
     ],
     "updated": "2026-10-08T17:59:50Z"
   },
+  "2610.12824": {
+    "authors": [
+      "Antonio F. Galvao",
+      "Ulrich Hounyo",
+      "Jiahao Lin"
+    ],
+    "canonical_id": "2610.12824",
+    "categories": [
+      "econ.EM"
+    ],
+    "content_hash": "b97b08fab86070fc8fe307b519d72758b70fb6970e63d03b6a69bb72805cb848",
+    "first_seen_date": "2026-10-13",
+    "last_reported_date": "2026-10-13",
+    "last_seen_date": "2026-10-13",
+    "latest_version": 1,
+    "primary_category": "econ.EM",
+    "priority": "unscored",
+    "published": "2026-10-09T00:04:27Z",
+    "report_count": 1,
+    "title": "GMM for Panel Data Quantile Regression",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-10-09T00:04:27Z"
+  },
   "2610.13162": {
     "authors": [
       "Xinagyu Cui",
@@ -74162,7 +74187,7 @@
     "content_hash": "e56530ead43a2a3e8d447975c14e83a90ee588ca7d66f389114611bc063ef9f3",
     "first_seen_date": "2026-10-12",
     "last_reported_date": "2026-10-12",
-    "last_seen_date": "2026-10-12",
+    "last_seen_date": "2026-10-13",
     "latest_version": 1,
     "primary_category": "q-fin.PM",
     "priority": "unscored",
@@ -74173,6 +74198,32 @@
       "quant_finance"
     ],
     "updated": "2026-10-09T07:51:54Z"
+  },
+  "2610.13574": {
+    "authors": [
+      "Cameron Mouangue",
+      "Tristan Cazenave"
+    ],
+    "canonical_id": "2610.13574",
+    "categories": [
+      "cs.LG",
+      "q-fin.CP",
+      "q-fin.ST"
+    ],
+    "content_hash": "6f5145dae75e6254acb28ddd015f4339e365c9a8003a378adea158e7cbad7e7f",
+    "first_seen_date": "2026-10-13",
+    "last_reported_date": "2026-10-13",
+    "last_seen_date": "2026-10-13",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-09T13:27:48Z",
+    "report_count": 1,
+    "title": "$L_0$ Feature Selection via Monte Carlo Tree Search in High-Dimensional Financial Regression",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-10-09T13:27:48Z"
   },
   "2610.13812": {
     "authors": [
@@ -74188,7 +74239,7 @@
     "content_hash": "d7c902c9ff3228e8cad00c93484d0498367a0188820c2ae072b5475767e859ea",
     "first_seen_date": "2026-10-12",
     "last_reported_date": "2026-10-12",
-    "last_seen_date": "2026-10-12",
+    "last_seen_date": "2026-10-13",
     "latest_version": 1,
     "primary_category": "cs.LG",
     "priority": "unscored",
@@ -74215,7 +74266,7 @@
     "content_hash": "410128b7de80cf9e8044e1e89d684cc00da84cdec8307b8557899922912abc39",
     "first_seen_date": "2026-10-12",
     "last_reported_date": "2026-10-12",
-    "last_seen_date": "2026-10-12",
+    "last_seen_date": "2026-10-13",
     "latest_version": 1,
     "primary_category": "cs.LG",
     "priority": "unscored",
@@ -74226,6 +74277,34 @@
       "deep_learning_sota"
     ],
     "updated": "2026-10-09T16:28:45Z"
+  },
+  "2610.13821": {
+    "authors": [
+      "Juan Terven",
+      "Diana-Margarita Córdova-Esparza",
+      "Ruben Gomez",
+      "Carlos Miranda Rocha",
+      "Julio-Alejandro Romero-González",
+      "Edgar Chavez-Urbiola"
+    ],
+    "canonical_id": "2610.13821",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "07516e245e63a7248e1d237897a9f501787c3613f45647dc518caaccd43372d3",
+    "first_seen_date": "2026-10-13",
+    "last_reported_date": "2026-10-13",
+    "last_seen_date": "2026-10-13",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-10-09T16:33:27Z",
+    "report_count": 1,
+    "title": "Can Language Models Learn When to Abstain? Policy Learning and Calibrated Answer Selection",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-09T16:33:27Z"
   },
   "2610.13823": {
     "authors": [
@@ -74240,7 +74319,7 @@
     "content_hash": "15b932cdfa3e631136441f1c6d1323bd6b70a81af2842ebea50da70e2781f86e",
     "first_seen_date": "2026-10-12",
     "last_reported_date": "2026-10-12",
-    "last_seen_date": "2026-10-12",
+    "last_seen_date": "2026-10-13",
     "latest_version": 1,
     "primary_category": "cs.DB",
     "priority": "unscored",
@@ -74248,9 +74327,38 @@
     "report_count": 1,
     "title": "Same Query, Different Answer: Run-to-Run Variance in Semantic Query Processing",
     "topics": [
-      "deep_learning_sota"
+      "deep_learning_sota",
+      "llm_progress"
     ],
     "updated": "2026-10-09T16:34:13Z"
+  },
+  "2610.13826": {
+    "authors": [
+      "Fu-An Chao",
+      "Bi-Cheng Yan",
+      "Berlin Chen"
+    ],
+    "canonical_id": "2610.13826",
+    "categories": [
+      "eess.AS",
+      "cs.CL",
+      "cs.SD",
+      "eess.SP"
+    ],
+    "content_hash": "5697d94649ea1e844bf7aac788cf29a076adada2394836a9daf20dc269398fb9",
+    "first_seen_date": "2026-10-13",
+    "last_reported_date": "2026-10-13",
+    "last_seen_date": "2026-10-13",
+    "latest_version": 1,
+    "primary_category": "eess.AS",
+    "priority": "unscored",
+    "published": "2026-10-09T16:35:25Z",
+    "report_count": 1,
+    "title": "OpenPA: Forced-alignment-free Multi-granular Pronunciation Assessment with Mixed-transcript Adaptation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-09T16:35:25Z"
   },
   "2610.13829": {
     "authors": [
@@ -74271,7 +74379,7 @@
     "content_hash": "e6c3e844346bd894c35fedd005e82aa28a3bfba6a3cff9e8358502ade5b2c784",
     "first_seen_date": "2026-10-12",
     "last_reported_date": "2026-10-12",
-    "last_seen_date": "2026-10-12",
+    "last_seen_date": "2026-10-13",
     "latest_version": 1,
     "primary_category": "cs.RO",
     "priority": "unscored",
@@ -74279,7 +74387,8 @@
     "report_count": 1,
     "title": "MC-EvoBench: Auditing Experience-Driven Self-Improvement in Minecraft Agents",
     "topics": [
-      "deep_learning_sota"
+      "deep_learning_sota",
+      "llm_progress"
     ],
     "updated": "2026-10-09T16:37:39Z"
   },
@@ -74302,7 +74411,7 @@
     "content_hash": "f0ab46e938997ece5f9d998c6c53806ab3e18ca703faf488503dfe8bd1b88e18",
     "first_seen_date": "2026-10-12",
     "last_reported_date": "2026-10-12",
-    "last_seen_date": "2026-10-12",
+    "last_seen_date": "2026-10-13",
     "latest_version": 1,
     "primary_category": "cs.CV",
     "priority": "unscored",
@@ -74310,9 +74419,60 @@
     "report_count": 1,
     "title": "SpatialASM: Internalizing Active Mentalization for Spatial Reasoning",
     "topics": [
-      "deep_learning_sota"
+      "deep_learning_sota",
+      "llm_progress"
     ],
     "updated": "2026-10-09T16:39:50Z"
+  },
+  "2610.13840": {
+    "authors": [
+      "Emilio Ferrara"
+    ],
+    "canonical_id": "2610.13840",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.CY"
+    ],
+    "content_hash": "94de44b5e946b4e35572a00c7e0919b3244b089ad49bc4066411a546880630dc",
+    "first_seen_date": "2026-10-13",
+    "last_reported_date": "2026-10-13",
+    "last_seen_date": "2026-10-13",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-10-09T16:49:29Z",
+    "report_count": 1,
+    "title": "Studying Comics at Scale with Artificial Intelligence: The PAGE Framework and Three Studies of American Comics and Japanese Manga",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-09T16:49:29Z"
+  },
+  "2610.13841": {
+    "authors": [
+      "Daniel Thi Graviet",
+      "Tanmay Shah"
+    ],
+    "canonical_id": "2610.13841",
+    "categories": [
+      "cs.LG",
+      "cs.SE"
+    ],
+    "content_hash": "e6df0edc2dfd160a73050442ecefe0635866e4acea4271e3ff8d62dbcb37d655",
+    "first_seen_date": "2026-10-13",
+    "last_reported_date": "2026-10-13",
+    "last_seen_date": "2026-10-13",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-09T16:50:19Z",
+    "report_count": 1,
+    "title": "Returning to Development States: When Full Sandbox Snapshots Help Coding Agents",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-09T16:50:19Z"
   },
   "2610.13851": {
     "authors": [
@@ -74326,7 +74486,7 @@
     "content_hash": "a6487daa2a2cb7cee79a621e16b0b7308cee5fd485cf92a67763c3d9325edede",
     "first_seen_date": "2026-10-12",
     "last_reported_date": "2026-10-12",
-    "last_seen_date": "2026-10-12",
+    "last_seen_date": "2026-10-13",
     "latest_version": 1,
     "primary_category": "stat.ML",
     "priority": "unscored",
@@ -74334,7 +74494,8 @@
     "report_count": 1,
     "title": "Finite-Sample Guarantees for Fully Discrete Conditional Diffusion Models",
     "topics": [
-      "deep_learning_sota"
+      "deep_learning_sota",
+      "llm_progress"
     ],
     "updated": "2026-10-09T16:59:18Z"
   },
@@ -74352,7 +74513,7 @@
     "content_hash": "0c13f921aa0a9b86b5aa3e438fa96bcf3c319178918a4fa59e5ecaa849d0632a",
     "first_seen_date": "2026-10-12",
     "last_reported_date": "2026-10-12",
-    "last_seen_date": "2026-10-12",
+    "last_seen_date": "2026-10-13",
     "latest_version": 1,
     "primary_category": "stat.ME",
     "priority": "unscored",
@@ -74363,6 +74524,59 @@
       "deep_learning_sota"
     ],
     "updated": "2026-10-09T17:04:51Z"
+  },
+  "2610.13881": {
+    "authors": [
+      "Robert Jenkinson Alvarez"
+    ],
+    "canonical_id": "2610.13881",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "f60dd7d6f78cbfb4d8f5a865047077082bd6640abbede84757848532a0d05338",
+    "first_seen_date": "2026-10-13",
+    "last_reported_date": "2026-10-13",
+    "last_seen_date": "2026-10-13",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-09T17:27:06Z",
+    "report_count": 1,
+    "title": "Prediction Is Not a Sufficient Memory State",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-09T17:27:06Z"
+  },
+  "2610.13886": {
+    "authors": [
+      "Yeonsung Jung",
+      "Zhiyuan Wang",
+      "Zifan Wang",
+      "Vítor Albiero",
+      "Benjamin Newman",
+      "Edoardo Debenedetti",
+      "Ivan Evtimov",
+      "Ninareh Mehrabi"
+    ],
+    "canonical_id": "2610.13886",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "0b70a07d1abae3997f6f72c23aadc3598eb3b2657ae03b5b71c8429b813a482d",
+    "first_seen_date": "2026-10-13",
+    "last_reported_date": "2026-10-13",
+    "last_seen_date": "2026-10-13",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-10-09T17:34:44Z",
+    "report_count": 1,
+    "title": "X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-09T17:34:44Z"
   },
   "2610.13889": {
     "authors": [
@@ -74377,7 +74591,7 @@
     "content_hash": "744e60fbc025366d4cff68deec6fd111f500e8a812804c14807928f322e676d9",
     "first_seen_date": "2026-10-12",
     "last_reported_date": "2026-10-12",
-    "last_seen_date": "2026-10-12",
+    "last_seen_date": "2026-10-13",
     "latest_version": 1,
     "primary_category": "cs.AI",
     "priority": "unscored",
@@ -74385,9 +74599,170 @@
     "report_count": 1,
     "title": "RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics",
     "topics": [
-      "deep_learning_sota"
+      "deep_learning_sota",
+      "llm_progress"
     ],
     "updated": "2026-10-09T17:38:11Z"
+  },
+  "2610.13895": {
+    "authors": [
+      "Sovesh Mohapatra",
+      "Dani S Bassett"
+    ],
+    "canonical_id": "2610.13895",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "b8a803e25d330f634fcee4bde6bbfe37a898233bc3a9e12e973bee3b3a1b41e2",
+    "first_seen_date": "2026-10-13",
+    "last_reported_date": "2026-10-13",
+    "last_seen_date": "2026-10-13",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-10-09T17:40:53Z",
+    "report_count": 1,
+    "title": "Task Context Shapes Component Roles in Language Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-09T17:40:53Z"
+  },
+  "2610.13910": {
+    "authors": [
+      "Shubh Garg",
+      "Chen Shani"
+    ],
+    "canonical_id": "2610.13910",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "8e54e2d38defd3cd9d4884bda8745d2ab2fdb2459c61b585bd932f2605a6eaf2",
+    "first_seen_date": "2026-10-13",
+    "last_reported_date": "2026-10-13",
+    "last_seen_date": "2026-10-13",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-10-09T17:50:03Z",
+    "report_count": 1,
+    "title": "When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-09T17:50:03Z"
+  },
+  "2610.13912": {
+    "authors": [
+      "Taoyong Cui",
+      "Pinxian Zeng",
+      "Wanghan Xu",
+      "Hao Xiao",
+      "Shuhan Xue",
+      "Qiang Gao",
+      "Wanli Ouyang",
+      "Pheng Ann Heng",
+      "Zhenfei Yin",
+      "Yingcheng Wu",
+      "Ling Yang"
+    ],
+    "canonical_id": "2610.13912",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "4c4dee01bfb46a4668d40a5fed33323b77123f0b8a32ae7fdc35a1b3933106b4",
+    "first_seen_date": "2026-10-13",
+    "last_reported_date": "2026-10-13",
+    "last_seen_date": "2026-10-13",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-10-09T17:50:30Z",
+    "report_count": 1,
+    "title": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-09T17:50:30Z"
+  },
+  "2610.13918": {
+    "authors": [
+      "Daniel Szelogowski"
+    ],
+    "canonical_id": "2610.13918",
+    "categories": [
+      "cs.NE",
+      "cs.ET",
+      "cs.LG",
+      "q-bio.NC"
+    ],
+    "content_hash": "865c70e6d07915eb402847cdcba3b900179b9a1e55f1b255eeef4277745df987",
+    "first_seen_date": "2026-10-13",
+    "last_reported_date": "2026-10-13",
+    "last_seen_date": "2026-10-13",
+    "latest_version": 1,
+    "primary_category": "cs.NE",
+    "priority": "unscored",
+    "published": "2026-10-09T17:52:23Z",
+    "report_count": 1,
+    "title": "DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-09T17:52:23Z"
+  },
+  "2610.13923": {
+    "authors": [
+      "Sajjad Baghaeea",
+      "Aimin Lib",
+      "Shanmugarajan Balasubramanian",
+      "Elif Uysal"
+    ],
+    "canonical_id": "2610.13923",
+    "categories": [
+      "cs.NI",
+      "cs.LG",
+      "eess.SY"
+    ],
+    "content_hash": "848d2d2829abee457729d6aca720837366c7fb9e6d6d51c02ff93150ad094d87",
+    "first_seen_date": "2026-10-13",
+    "last_reported_date": "2026-10-13",
+    "last_seen_date": "2026-10-13",
+    "latest_version": 1,
+    "primary_category": "cs.NI",
+    "priority": "unscored",
+    "published": "2026-10-09T17:53:46Z",
+    "report_count": 1,
+    "title": "Goal-Oriented Bundle Management and Flow Control for Deep-Space Communications via Reinforcement Learning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-09T17:53:46Z"
+  },
+  "2610.13924": {
+    "authors": [
+      "Tianyi Wu"
+    ],
+    "canonical_id": "2610.13924",
+    "categories": [
+      "cs.LG",
+      "cs.IT"
+    ],
+    "content_hash": "f4a96c969dd70ce27e17cf4439486faf42d544a8c2b55c13531b35e62bed7622",
+    "first_seen_date": "2026-10-13",
+    "last_reported_date": "2026-10-13",
+    "last_seen_date": "2026-10-13",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-09T17:54:16Z",
+    "report_count": 1,
+    "title": "KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-09T17:54:16Z"
   },
   "2610.13948": {
     "authors": [
@@ -74403,7 +74778,7 @@
     "content_hash": "d07eb7c59739798ddc8ed373d486c5012b5ba24f31f74ebf04e971bbbe42560a",
     "first_seen_date": "2026-10-12",
     "last_reported_date": "2026-10-12",
-    "last_seen_date": "2026-10-12",
+    "last_seen_date": "2026-10-13",
     "latest_version": 1,
     "primary_category": "cs.AI",
     "priority": "unscored",
