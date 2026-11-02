@@ -82053,7 +82053,7 @@
     "content_hash": "6b8b8de488dee1ae6fa383b34f4ff565895db9d03650f8f61291504892c9b453",
     "first_seen_date": "2026-10-30",
     "last_reported_date": "2026-10-30",
-    "last_seen_date": "2026-11-01",
+    "last_seen_date": "2026-11-02",
     "latest_version": 1,
     "primary_category": "cs.LG",
     "priority": "unscored",
@@ -82904,5 +82904,539 @@
       "llm_progress"
     ],
     "updated": "2026-10-29T17:59:53Z"
+  },
+  "2610.42029": {
+    "authors": [
+      "Ronak Bhalgami"
+    ],
+    "canonical_id": "2610.42029",
+    "categories": [
+      "quant-ph",
+      "cs.LG"
+    ],
+    "content_hash": "0db8a515e5bc0f93b0ffb8e8f69dc0f2a65d9212130a235ce05ad74df7e82a28",
+    "first_seen_date": "2026-11-02",
+    "last_reported_date": "2026-11-02",
+    "last_seen_date": "2026-11-02",
+    "latest_version": 1,
+    "primary_category": "quant-ph",
+    "priority": "unscored",
+    "published": "2026-10-30T16:55:49Z",
+    "report_count": 1,
+    "title": "Empirical Evaluation of Quantum Kernel Methods for Classification: A Comparative Study with Classical Kernels",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-30T16:55:49Z"
+  },
+  "2610.42030": {
+    "authors": [
+      "Rhea Sanjay Sukthanker",
+      "Pashmina Cameron"
+    ],
+    "canonical_id": "2610.42030",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "7ccac6ce241a21f65a4a1c7f3f97edc804d1120635efcf226c81916b6be0b513",
+    "first_seen_date": "2026-11-02",
+    "last_reported_date": "2026-11-02",
+    "last_seen_date": "2026-11-02",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-30T16:56:29Z",
+    "report_count": 1,
+    "title": "There Is No Free Loop: When Does Looping a Trained Model Pay for Its Inference Compute?",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-30T16:56:29Z"
+  },
+  "2610.42040": {
+    "authors": [
+      "Xinliang Zhang",
+      "Lesi Chen",
+      "Zonghan Li",
+      "Jingzhao Zhang"
+    ],
+    "canonical_id": "2610.42040",
+    "categories": [
+      "math.OC",
+      "cs.AI",
+      "stat.ML"
+    ],
+    "content_hash": "e1929dfb0b8fb8a7d0f56655c5dfd0b95bee43b6768b0475d3f071c2f9febab3",
+    "first_seen_date": "2026-11-02",
+    "last_reported_date": "2026-11-02",
+    "last_seen_date": "2026-11-02",
+    "latest_version": 1,
+    "primary_category": "math.OC",
+    "priority": "unscored",
+    "published": "2026-10-30T17:04:25Z",
+    "report_count": 1,
+    "title": "Near-Optimal Second-Order Convex Finite-Sum Optimization under Individual Smoothness",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-30T17:04:25Z"
+  },
+  "2610.42042": {
+    "authors": [
+      "Muhammad Saeed",
+      "Dmitry Mikhaylov",
+      "Mohamed H. Alhosani",
+      "Yasser F. Al Wahedi",
+      "Rory Pilossof",
+      "Ahmed Arabi",
+      "Walid Shaaba"
+    ],
+    "canonical_id": "2610.42042",
+    "categories": [
+      "cs.LG",
+      "cs.SD",
+      "q-bio.QM"
+    ],
+    "content_hash": "5ed3909098bddd7da23f56b93f89ab0d5521fa408d4ab6d78706a53286c8391e",
+    "first_seen_date": "2026-11-02",
+    "last_reported_date": "2026-11-02",
+    "last_seen_date": "2026-11-02",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-30T17:05:52Z",
+    "report_count": 1,
+    "title": "A richness-sensitive Acoustic Biodiversity Index from species-level detections: classifier benchmarking, false-positive control and validation against standard soundscape indices in an African savanna and an urban zoo",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-30T17:05:52Z"
+  },
+  "2610.42054": {
+    "authors": [
+      "Xiao Yu",
+      "Justin Chih-Yao Chen",
+      "Zaid Khan",
+      "Hyunji Lee",
+      "Mohit Bansal"
+    ],
+    "canonical_id": "2610.42054",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "613b76a6dad0e20913aeaa600405919fa28830ffae8301e6864a6fd6c5366c38",
+    "first_seen_date": "2026-11-02",
+    "last_reported_date": "2026-11-02",
+    "last_seen_date": "2026-11-02",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-10-30T17:18:35Z",
+    "report_count": 1,
+    "title": "CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-30T17:18:35Z"
+  },
+  "2610.42066": {
+    "authors": [
+      "Omer Asim Ozturk",
+      "Cihan Aydiner"
+    ],
+    "canonical_id": "2610.42066",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "4b0b4a124edce9c1022a3ead53bdf99ffdcf0e7e172111dba62da5a2d9a910ad",
+    "first_seen_date": "2026-11-02",
+    "last_reported_date": "2026-11-02",
+    "last_seen_date": "2026-11-02",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-10-30T17:26:18Z",
+    "report_count": 1,
+    "title": "The Knowledge Layer Model (KLM): Evidence-Visible AI Output, Routing Diagnostics, and Negative Results",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-30T17:26:18Z"
+  },
+  "2610.42068": {
+    "authors": [
+      "Xin Ming Li",
+      "Peng Hu"
+    ],
+    "canonical_id": "2610.42068",
+    "categories": [
+      "cs.NI",
+      "cs.LG"
+    ],
+    "content_hash": "080cfd62c057fd008f4ef977bf7950d1f1f0edd2c69e994f2bacdb5939642819",
+    "first_seen_date": "2026-11-02",
+    "last_reported_date": "2026-11-02",
+    "last_seen_date": "2026-11-02",
+    "latest_version": 1,
+    "primary_category": "cs.NI",
+    "priority": "unscored",
+    "published": "2026-10-30T17:26:50Z",
+    "report_count": 1,
+    "title": "RAMA: Retrieval-Augmented Multi-Agent Routing with Episodic Memory for LEO Satellite Networks",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-30T17:26:50Z"
+  },
+  "2610.42081": {
+    "authors": [
+      "Lucas Rosenblatt",
+      "R. Teal Witter",
+      "Christopher Musco"
+    ],
+    "canonical_id": "2610.42081",
+    "categories": [
+      "cs.LG",
+      "cs.CY",
+      "cs.DS"
+    ],
+    "content_hash": "8e2a2cd6746beaada46a1832fa6f662007b0494fd44f40cb769d9d5e798836d4",
+    "first_seen_date": "2026-11-02",
+    "last_reported_date": "2026-11-02",
+    "last_seen_date": "2026-11-02",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-30T17:34:58Z",
+    "report_count": 1,
+    "title": "Differentially Private Synthetic Data from Sliced Chebyshev Moments",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-30T17:34:58Z"
+  },
+  "2610.42085": {
+    "authors": [
+      "Long Vu",
+      "Jongseong Brad Choi",
+      "Binoy Ravindran",
+      "Zhoulai Fu"
+    ],
+    "canonical_id": "2610.42085",
+    "categories": [
+      "cs.LG",
+      "math.OC",
+      "stat.ML"
+    ],
+    "content_hash": "ca8427b28e6795df587f36eaed17d83ad218002c417ed36cffbf740fd6d06f3b",
+    "first_seen_date": "2026-11-02",
+    "last_reported_date": "2026-11-02",
+    "last_seen_date": "2026-11-02",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-30T17:36:06Z",
+    "report_count": 1,
+    "title": "Cost-Aware Stopping for Freeze-Thaw Bayesian Optimization: When Does One-Step Lookahead Suffice?",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-30T17:36:06Z"
+  },
+  "2610.42100": {
+    "authors": [
+      "Philipp Bordne",
+      "André Biedenkapp"
+    ],
+    "canonical_id": "2610.42100",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "3f20cd5c2aa5d1a5d9bf6f456e228e53f7b89e8e8bdff8232ada62a09dedc688",
+    "first_seen_date": "2026-11-02",
+    "last_reported_date": "2026-11-02",
+    "last_seen_date": "2026-11-02",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-30T17:43:04Z",
+    "report_count": 1,
+    "title": "Towards Understanding the Impact of Plasticity Loss on Reinforcement Learning in Stochastic Environments",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-30T17:43:04Z"
+  },
+  "2610.42104": {
+    "authors": [
+      "Iulia Rusu",
+      "Anoop Praturu",
+      "Sergei Gepshtein",
+      "Tatyana Sharpee"
+    ],
+    "canonical_id": "2610.42104",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "b3e5e55779fcce31aa0c5e195dc53f2de2bb79a83c93122213c67d9f7e370733",
+    "first_seen_date": "2026-11-02",
+    "last_reported_date": "2026-11-02",
+    "last_seen_date": "2026-11-02",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-10-30T17:46:04Z",
+    "report_count": 1,
+    "title": "Hyperbolic Inverse Reinforcement Learning",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-10-30T17:46:04Z"
+  },
+  "2610.42112": {
+    "authors": [
+      "Leon Lufkin",
+      "Cutter Dawes",
+      "Alexander Speicher",
+      "Kamesh Krishnamurthy",
+      "Tomás Figliolia",
+      "Beren Millidge"
+    ],
+    "canonical_id": "2610.42112",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "0858b2526400d1b6cd1e6c159a81d4f4555cd432b208abf65a32f6fd5e6ef8e8",
+    "first_seen_date": "2026-11-02",
+    "last_reported_date": "2026-11-02",
+    "last_seen_date": "2026-11-02",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-10-30T17:48:37Z",
+    "report_count": 1,
+    "title": "Subquadratic Attention with a Hierarchical Tree-Structured Indexer",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-30T17:48:37Z"
+  },
+  "2610.42116": {
+    "authors": [
+      "Yuzhe Liu",
+      "Haolin Tian",
+      "Tonghan Wang"
+    ],
+    "canonical_id": "2610.42116",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "4f99465b19bc78664f3817f5fc90dc25b4991ce6b0c2473d5e44e68a4480e082",
+    "first_seen_date": "2026-11-02",
+    "last_reported_date": "2026-11-02",
+    "last_seen_date": "2026-11-02",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-10-30T17:50:49Z",
+    "report_count": 1,
+    "title": "ACCT: Asymmetric Cross-LLM Context Transfer",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-30T17:50:49Z"
+  },
+  "2610.42128": {
+    "authors": [
+      "Yanran Wu",
+      "Dian Yu",
+      "Chongyang Bai",
+      "Jieyi Zhang",
+      "Rui Liu",
+      "Tianyi Chen",
+      "Shike Mei",
+      "Hang Cui",
+      "Frank Shyu",
+      "Sandeep Pandey",
+      "Luke Simon",
+      "Chunwei Liu",
+      "Xi Liu"
+    ],
+    "canonical_id": "2610.42128",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "bfe68082986e308637ad8a5093d144ce35e60517429362fb9d3a2417de7bef85",
+    "first_seen_date": "2026-11-02",
+    "last_reported_date": "2026-11-02",
+    "last_seen_date": "2026-11-02",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-10-30T17:56:58Z",
+    "report_count": 1,
+    "title": "DecisionRank: On-Policy Distillation for Decision-Model Rerankers",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-30T17:56:58Z"
+  },
+  "2610.42141": {
+    "authors": [
+      "Shengguang Wu",
+      "Suning Huang",
+      "Cherie Ho",
+      "Ria Doshi",
+      "Hao Zhu",
+      "Serena Yeung-Levy"
+    ],
+    "canonical_id": "2610.42141",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "content_hash": "3a7822e27214c99c7641f1bd7a291c6ad63d963c246d0e63b34b1a9fda095bc4",
+    "first_seen_date": "2026-11-02",
+    "last_reported_date": "2026-11-02",
+    "last_seen_date": "2026-11-02",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-10-30T17:58:48Z",
+    "report_count": 1,
+    "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-30T17:58:48Z"
+  },
+  "2610.42146": {
+    "authors": [
+      "Gaoyue Zhou",
+      "Yvonne Wu",
+      "Zichen Jeff Cui",
+      "Nicolas Ballas",
+      "Mido Assran",
+      "Lerrel Pinto",
+      "Yann LeCun"
+    ],
+    "canonical_id": "2610.42146",
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "content_hash": "f2c0e3f4b6c8b7eacbf801f32d52ea87643ac7406178dd04310cd64b73ec65fe",
+    "first_seen_date": "2026-11-02",
+    "last_reported_date": "2026-11-02",
+    "last_seen_date": "2026-11-02",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-10-30T17:59:25Z",
+    "report_count": 1,
+    "title": "Hierarchical World Models with Implicit Dynamics",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-30T17:59:25Z"
+  },
+  "2610.42147": {
+    "authors": [
+      "Ales Kubicek",
+      "Andrea Caciolai",
+      "Liangzu Peng",
+      "Sukrit Sumant",
+      "Benjamin Hoover",
+      "Fraser Greenlee",
+      "Ruairidh M. Battleday",
+      "Radim Urban",
+      "Torsten Hoefler",
+      "James C. R. Whittington"
+    ],
+    "canonical_id": "2610.42147",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "7a31021ccf3f1799a365c397f7ca9ba59f6d40777d7528cd4a4b1949d343bb3f",
+    "first_seen_date": "2026-11-02",
+    "last_reported_date": "2026-11-02",
+    "last_seen_date": "2026-11-02",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-10-30T17:59:34Z",
+    "report_count": 1,
+    "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-30T17:59:34Z"
+  },
+  "2610.42148": {
+    "authors": [
+      "Bobo Li",
+      "Jiajia Song",
+      "Hao Fei",
+      "Wynne Hsu",
+      "Mong Li Lee"
+    ],
+    "canonical_id": "2610.42148",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "00dbccbc307bfb5d1ac5fee682ba9976426ad8dfa852f2283dea418efd994b3a",
+    "first_seen_date": "2026-11-02",
+    "last_reported_date": "2026-11-02",
+    "last_seen_date": "2026-11-02",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-10-30T17:59:38Z",
+    "report_count": 1,
+    "title": "Flide: Accelerating Decision Inference with Exact State Forking",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-10-30T17:59:38Z"
+  },
+  "2610.42149": {
+    "authors": [
+      "Byungwoo Jeon",
+      "Yoonwoo Jeong",
+      "Hyunseok Lee",
+      "Minsu Cho",
+      "Jinwoo Shin"
+    ],
+    "canonical_id": "2610.42149",
+    "categories": [
+      "cs.CV",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "49b2246a6741cbe06ef48d195184d2176dfd09c1f52dc177bb6a8e7e980796a1",
+    "first_seen_date": "2026-11-02",
+    "last_reported_date": "2026-11-02",
+    "last_seen_date": "2026-11-02",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-10-30T17:59:43Z",
+    "report_count": 1,
+    "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-10-30T17:59:43Z"
   }
 }
