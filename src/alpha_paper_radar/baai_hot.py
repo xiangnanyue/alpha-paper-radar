@@ -15,7 +15,13 @@ BAAI_PAPERS_URL = "https://hub.baai.ac.cn/papers"
 BAAI_BASE_URL = "https://hub.baai.ac.cn"
 
 _DATE_RE = re.compile(r"(?P<year>\d{4})年(?P<month>\d{1,2})月(?P<day>\d{1,2})日")
-_HOTNESS_RE = re.compile(r"(?P<hotness>\d+)\s*热度")
+
+# Nuxt's inline payload is JavaScript, not JSON. Read only this literal field;
+# consume quoted strings as units so text inside a title cannot become a field.
+_EXACT_HOTNESS_RE = re.compile(
+    r'\{id:"(?P<id>[\w-]+)"(?:(?:"(?:\\.|[^"\\])*")|[^"{}])*?'
+    r'\bhotness_value:"(?P<hotness>\d+)"'
+)
 
 
 @dataclass(frozen=True)
@@ -41,7 +47,6 @@ class _PaperListParser(HTMLParser):
         self.anchors: list[dict[str, str]] = []
         self._current_href: str | None = None
         self._current_text: list[str] = []
-        self.text_chunks: list[str] = []
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         if tag.lower() != "a":
@@ -52,8 +57,6 @@ class _PaperListParser(HTMLParser):
             self._current_text = []
 
     def handle_data(self, data: str) -> None:
-        if data and data.strip():
-            self.text_chunks.append(data.strip())
         if self._current_href is not None:
             self._current_text.append(data)
 
@@ -64,6 +67,68 @@ class _PaperListParser(HTMLParser):
                 self.anchors.append({"href": self._current_href, "text": text})
             self._current_href = None
             self._current_text = []
+
+
+class _PaperCardParser(HTMLParser):
+    """Read fields within each card, preserving DOM boundaries and inline text."""
+
+    _FIELDS = {
+        "papers-home-header__title": "title",
+        "paper-author-name": "authors",
+        "papers-home-item-time": "published",
+        "papers-home-hotness__num": "hotness",
+        "expandable-text__plain": "summary",
+    }
+    _VOID_TAGS = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "meta", "param", "source", "track", "wbr"}
+
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.cards: list[dict[str, Any]] = []
+        self.scripts: list[str] = []
+        self._stack: list[tuple[str, str | None, list[str]]] = []
+        self._card: dict[str, Any] | None = None
+        self._card_depth = 0
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        attributes = dict(attrs)
+        classes = set((attributes.get("class") or "").split())
+        if "papers-home-item" in classes:
+            self._card = {"authors": []}
+            self._card_depth = len(self._stack) + 1
+        if self._card is not None and tag == "a":
+            href = attributes.get("href") or ""
+            if re.fullmatch(r"/paper/[\w-]+/?", urllib.parse.urlparse(href).path):
+                self._card.setdefault("href", href)
+        field = next((value for key, value in self._FIELDS.items() if key in classes), None)
+        if tag not in self._VOID_TAGS:
+            self._stack.append((tag, field, []))
+
+    def handle_startendtag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        self.handle_starttag(tag, attrs)
+        if tag not in self._VOID_TAGS:
+            self.handle_endtag(tag)
+
+    def handle_data(self, data: str) -> None:
+        if self._stack and self._stack[-1][0] == "script":
+            self.scripts.append(data)
+        for _, field, chunks in self._stack:
+            if field:
+                chunks.append(data)
+
+    def handle_endtag(self, tag: str) -> None:
+        if not self._stack or self._stack[-1][0] != tag:
+            return
+        _, field, chunks = self._stack.pop()
+        if self._card is not None:
+            value = _normalize_space("".join(chunks))
+            if field == "authors":
+                if value and value not in {"...", "…"}:
+                    self._card["authors"].append(value)
+            elif field:
+                self._card[field] = value
+            if len(self._stack) < self._card_depth:
+                self.cards.append(self._card)
+                self._card = None
 
 
 def _normalize_space(value: str) -> str:
@@ -88,75 +153,43 @@ def _stable_id(title: str, detail_url: str) -> str:
     return hashlib.sha256(title.lower().encode("utf-8")).hexdigest()[:16]
 
 
-def _extract_authors(title_text: str, title: str) -> list[str]:
-    tail = title_text.removeprefix(title).strip(" ,")
-    tail = tail.replace("...", "")
-    return [name.strip() for name in tail.split(" , ") if name.strip()]
-
-
-def _split_title_and_authors(anchor_text: str, following_text: str) -> tuple[str, list[str]]:
-    date_match = _DATE_RE.search(following_text)
-    prefix = following_text[: date_match.start()].strip() if date_match else anchor_text
-    title_text = prefix if prefix and anchor_text.startswith(prefix) else anchor_text
-    title = title_text
-    authors: list[str] = []
-    separators = ["  ", " , "]
-    for sep in separators:
-        if sep in title_text:
-            left, right = title_text.split(sep, 1)
-            if len(left) >= 6:
-                title = left.strip(" ,")
-                authors = [name.strip() for name in right.replace("...", "").split(" , ") if name.strip()]
-                break
-    if not authors and title != title_text:
-        authors = _extract_authors(title_text, title)
-    return title.strip(), authors
-
-
-def _extract_summary(following_text: str) -> str:
-    date_match = _DATE_RE.search(following_text)
-    hotness_match = _HOTNESS_RE.search(following_text)
-    if not date_match:
-        return ""
-    start = date_match.end()
-    end = hotness_match.start() if hotness_match else len(following_text)
-    return following_text[start:end].strip()
-
-
 def parse_baai_papers_html(html_text: str, source: str, fetched_at: str | None = None) -> list[dict[str, Any]]:
-    parser = _PaperListParser()
+    parser = _PaperCardParser()
     parser.feed(html_text)
-    full_text = _normalize_space(" ".join(parser.text_chunks))
+    if not parser.cards:
+        raise ValueError("BAAI page contains no recognized paper cards")
+    exact_hotness = {
+        match.group("id"): int(match.group("hotness"))
+        for match in _EXACT_HOTNESS_RE.finditer("\n".join(parser.scripts))
+    }
     fetched = fetched_at or datetime.now(timezone.utc).isoformat()
     papers: list[dict[str, Any]] = []
-
-    paper_anchors = [a for a in parser.anchors if "/paper/" in a["href"]]
-    for index, anchor in enumerate(paper_anchors):
-        anchor_text = _normalize_space(anchor["text"])
-        if not anchor_text:
-            continue
-        next_anchor_text = _normalize_space(paper_anchors[index + 1]["text"]) if index + 1 < len(paper_anchors) else ""
-        start = full_text.find(anchor_text)
-        if start < 0:
-            continue
-        end = full_text.find(next_anchor_text, start + len(anchor_text)) if next_anchor_text else len(full_text)
-        following = full_text[start:end if end > start else len(full_text)]
-        hotness_match = _HOTNESS_RE.search(following)
-        if not hotness_match:
-            continue
-        detail_url = _absolute_url(anchor["href"])
-        title, authors = _split_title_and_authors(anchor_text, following)
+    for card in parser.cards:
+        title = card.get("title", "")
+        detail_url = _absolute_url(card.get("href", ""))
+        published = _parse_chinese_date(card.get("published", ""))
+        if not title or not card.get("href") or not published:
+            raise ValueError("BAAI paper card is missing title, URL or publication date")
+        # Validate the calendar date, not just its shape.
+        datetime.strptime(published, "%Y-%m-%d")
+        paper_id = _stable_id(title, detail_url)
+        hotness = exact_hotness.get(paper_id)
+        if hotness is None:
+            displayed = card.get("hotness", "")
+            if not re.fullmatch(r"[0-9]+", displayed):
+                raise ValueError(f"BAAI paper {paper_id} has no exact integer hotness: {displayed!r}")
+            hotness = int(displayed)
         papers.append(
             {
-                "id": _stable_id(title, detail_url),
+                "id": paper_id,
                 "source": source,
                 "title": title,
-                "authors": authors,
-                "published": _parse_chinese_date(following),
-                "summary": _extract_summary(following),
+                "authors": card["authors"],
+                "published": published,
+                "summary": card.get("summary", ""),
                 "detail_url": detail_url,
                 "pdf_url": "",
-                "hotness": int(hotness_match.group("hotness")),
+                "hotness": hotness,
                 "priority": "unscored",
                 "fetched_at": fetched,
             }
