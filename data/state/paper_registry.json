@@ -85994,7 +85994,7 @@
     "content_hash": "6716327a1a0d5c4dccad454bd0ee79bfdc931952da941f12558a54e95c030ff2",
     "first_seen_date": "2026-11-06",
     "last_reported_date": "2026-11-06",
-    "last_seen_date": "2026-11-08",
+    "last_seen_date": "2026-11-09",
     "latest_version": 1,
     "primary_category": "q-fin.ST",
     "priority": "unscored",
@@ -86023,7 +86023,7 @@
     "content_hash": "03087dbe2d594b031477bcc6c4b3fdc9c69ca2bcb090515e27288e7a4cb66b9e",
     "first_seen_date": "2026-11-06",
     "last_reported_date": "2026-11-06",
-    "last_seen_date": "2026-11-08",
+    "last_seen_date": "2026-11-09",
     "latest_version": 1,
     "primary_category": "stat.CO",
     "priority": "unscored",
@@ -86525,5 +86525,733 @@
       "llm_progress"
     ],
     "updated": "2026-11-05T18:59:29Z"
+  },
+  "2611.09770": {
+    "authors": [
+      "Lingyun Song",
+      "Ziyao Chen",
+      "Kang Pan",
+      "Xiaolin Han",
+      "Yifei Zhang",
+      "Xiaoqi Wang",
+      "Yudai Pan",
+      "Xuequn Shang"
+    ],
+    "canonical_id": "2611.09770",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "content_hash": "92ae889183bae33b4a7dd0529a25057f6cd8d559be1c87a661d559a1bd1d0e1c",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-06T17:32:49Z",
+    "report_count": 1,
+    "title": "ROSE: Risk-Aware Orthogonal Subspace Navigation for Lifelong Knowledge Editing in Multimodal Large Language Models",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-06T17:32:49Z"
+  },
+  "2611.09778": {
+    "authors": [
+      "Oliver Dobson",
+      "Varun Jog",
+      "Chun Hei Michael Shiu"
+    ],
+    "canonical_id": "2611.09778",
+    "categories": [
+      "cs.LG",
+      "cs.DS",
+      "cs.IT",
+      "math.OC",
+      "stat.ML"
+    ],
+    "content_hash": "41687ca5a4494b4096ef4d189efb9398eed3bf5e5515f0d5669feb44c74a2bc8",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-06T17:40:31Z",
+    "report_count": 1,
+    "title": "Quasipolynomial-Time Planning for Decodable POMDPs",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-06T17:40:31Z"
+  },
+  "2611.09785": {
+    "authors": [
+      "Dongxu Wu",
+      "Sara Court",
+      "Micha Elsner"
+    ],
+    "canonical_id": "2611.09785",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "2a24f8e70c08074ae5c994a7191f3c1dba0d669fc63409149906ae407a59ae83",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-06T17:44:14Z",
+    "report_count": 1,
+    "title": "Are These Programmers Ripe Enough to Eat? Evaluating How LLMs Handle Lexical Knowledge Conflicts in Translation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-06T17:44:14Z"
+  },
+  "2611.09791": {
+    "authors": [
+      "Gabriel Souza Baggio",
+      "Gabriel Machado Lunardi",
+      "Guilherme Medeiros Machado",
+      "Subhankar Maity",
+      "Faiza Belbachir",
+      "José Palazzo Moreira de Oliveira"
+    ],
+    "canonical_id": "2611.09791",
+    "categories": [
+      "cs.AI",
+      "cs.HC"
+    ],
+    "content_hash": "fc053d44dcb62106955ea2dba555a6b4db3ee5ecc3c80423ff23122c20125a2d",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-06T17:46:28Z",
+    "report_count": 1,
+    "title": "Assessing the Impact of Retrieval-Augmented Generation on Algorithmic Problem-Solving",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-06T17:46:28Z"
+  },
+  "2611.09792": {
+    "authors": [
+      "Ayush Sawarni",
+      "Wenqian Xing",
+      "Tijana Zrnic",
+      "Ramesh Johari",
+      "Vasilis Syrgkanis"
+    ],
+    "canonical_id": "2611.09792",
+    "categories": [
+      "cs.AI",
+      "cs.LG",
+      "econ.EM",
+      "stat.ME"
+    ],
+    "content_hash": "fee4f9e10e3e406c05862065aa56e995beef18fdc1c1b8d7e5594e81bc845d0b",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-06T17:46:53Z",
+    "report_count": 1,
+    "title": "Knowing When to Intervene: Causal Evaluation of AI Agents",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-06T17:46:53Z"
+  },
+  "2611.09798": {
+    "authors": [
+      "Junlin Wang",
+      "Haozhe Chen",
+      "Ang Li",
+      "Rahul Chalamala",
+      "Zhuang Liu"
+    ],
+    "canonical_id": "2611.09798",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "e80120c23d46a9cc760e9c5c16313d71a40e5285961d0e01e3109f91410ebe28",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-06T17:53:07Z",
+    "report_count": 1,
+    "title": "Test-Time Compute Scales Better with Parallel Agent Teams",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-06T17:53:07Z"
+  },
+  "2611.09802": {
+    "authors": [
+      "Tural Mehtiyev",
+      "Biruk Tadesse",
+      "Lawrence Arkoh",
+      "Wesley Assunção"
+    ],
+    "canonical_id": "2611.09802",
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "content_hash": "0b986e3450e7e46b10d799b0c666ebf163ca87ab9893e3512440644366ae5d27",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "cs.SE",
+    "priority": "unscored",
+    "published": "2026-11-06T17:54:01Z",
+    "report_count": 1,
+    "title": "When Instruction Files Go Stale: Documentation Debt and Hidden Cost in Coding Agents",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-06T17:54:01Z"
+  },
+  "2611.09805": {
+    "authors": [
+      "Ahmet Tüzen",
+      "Helge Langseth",
+      "Kjetil Nørvåg"
+    ],
+    "canonical_id": "2611.09805",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "2d1cfbf5fe377cda9750a1bd75d73520c24126482145bc9f60656df2c081e8b9",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-06T17:55:35Z",
+    "report_count": 1,
+    "title": "Scaling Graph Similarity Learning with Graph Neural Networks",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-06T17:55:35Z"
+  },
+  "2611.09807": {
+    "authors": [
+      "Osamudiamen Edogun",
+      "Joshua Obigwe",
+      "Irfan Mehmood"
+    ],
+    "canonical_id": "2611.09807",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "230a37cada1205f7d3b3ef4414583c84f4faa62f0d530eb16db9bcfce7dddec4",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-06T17:56:37Z",
+    "report_count": 1,
+    "title": "Compaction, decay and reinforcement in a two-tier conversational memory: a paired evaluation against retrieval-augmented generation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-06T17:56:37Z"
+  },
+  "2611.09815": {
+    "authors": [
+      "Carl Somers"
+    ],
+    "canonical_id": "2611.09815",
+    "categories": [
+      "cs.LG",
+      "stat.AP"
+    ],
+    "content_hash": "3e171d3bafd400f6b8cc68db05ecb7f3bb29898298c11cac9c997a7607b69044",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-06T18:02:38Z",
+    "report_count": 1,
+    "title": "The Cost of Coverage: Conformalising Native Forecast Uncertainty for GB Wind Power",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-06T18:02:38Z"
+  },
+  "2611.09818": {
+    "authors": [
+      "Daniel Hinjos",
+      "Lucía Urcelay"
+    ],
+    "canonical_id": "2611.09818",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "7bab9c9340e338712be40b383419fe84ac5c621d5d5e25686248b320815b590c",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-06T18:06:39Z",
+    "report_count": 1,
+    "title": "Generative Latent Priors for Interpreting and Steering Protein Language Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-06T18:06:39Z"
+  },
+  "2611.09822": {
+    "authors": [
+      "Sergey Shirobokov",
+      "Ben Jaderberg",
+      "Katerina Hristova",
+      "George Tsoukalas",
+      "Johannes Bausch",
+      "Eric Wieser",
+      "Francisco J. H. Heras",
+      "Nicholas C. Rubin",
+      "Guang Hao Low",
+      "Sébastien Racanière",
+      "Nenad Tomašev",
+      "Lei M. Zhang",
+      "James Watson",
+      "Tanuj Khattar",
+      "Aws Albarghouthi",
+      "Stavan Jain",
+      "Harun Khan",
+      "Leopoldo Sarra",
+      "Andrew W. Senior",
+      "Michael Broughton",
+      "Hussain Masoom",
+      "Sergio Boixo",
+      "Ryan Babbush",
+      "Swarat Chaudhuri",
+      "Pushmeet Kohli"
+    ],
+    "canonical_id": "2611.09822",
+    "categories": [
+      "quant-ph",
+      "cs.AI",
+      "cs.PL"
+    ],
+    "content_hash": "eab21210d6425d1238434568ab34b9b6e7f32d47ecf256dd22db1360767ac769",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "quant-ph",
+    "priority": "unscored",
+    "published": "2026-11-06T18:08:06Z",
+    "report_count": 1,
+    "title": "Discovering formally verified quantum programs with AI",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-06T18:08:06Z"
+  },
+  "2611.09825": {
+    "authors": [
+      "Dayou Du",
+      "Woon Yee Ng",
+      "Guangming Sheng",
+      "Nick Lau",
+      "Jianyi Cheng",
+      "Luo Mai"
+    ],
+    "canonical_id": "2611.09825",
+    "categories": [
+      "cs.AI",
+      "cs.AR",
+      "cs.CL",
+      "cs.PF"
+    ],
+    "content_hash": "acc0a5febcdaffe3a667ffd7857bfb1e9505ea2f5fea4bc3d4593f8197960b22",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-06T18:13:54Z",
+    "report_count": 1,
+    "title": "BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-06T18:13:54Z"
+  },
+  "2611.09834": {
+    "authors": [
+      "Ziyao Wang",
+      "Svetlozar T. Rachev",
+      "Frank J. Fabozzi"
+    ],
+    "canonical_id": "2611.09834",
+    "categories": [
+      "q-fin.PM",
+      "q-fin.GN"
+    ],
+    "content_hash": "a4a123d578b025f072b7782555280d50457c7ad5775f9e7c2f0cd2eb7d79ea77",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "q-fin.PM",
+    "priority": "unscored",
+    "published": "2026-11-06T18:17:58Z",
+    "report_count": 1,
+    "title": "The Logic of Factor Portfolios: Boolean Rules, Interactions, and Trading Costs",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-11-06T18:17:58Z"
+  },
+  "2611.09836": {
+    "authors": [
+      "Aubin Charley",
+      "Julien Khlaut",
+      "Charles Corbière",
+      "Pierre Manceron",
+      "Corentin Dancette",
+      "Léo Machado"
+    ],
+    "canonical_id": "2611.09836",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "fe9b3b61edffbc73e23cedf8c0bdbe971ffbb6e31e9e6ee91a3c00b7e4ae0209",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-06T18:23:14Z",
+    "report_count": 1,
+    "title": "Can Agentic Systems Close the Gap in Radiology with Production AI Tools?",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-06T18:23:14Z"
+  },
+  "2611.09843": {
+    "authors": [
+      "Omar Swelam",
+      "Jaris Küken",
+      "Shi Bin Hoo",
+      "Frank Hutter",
+      "Lennart Purucker"
+    ],
+    "canonical_id": "2611.09843",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "83ffb883bd3e3bfc9c6a1dd12e5ac30b7515dfe5b242c724ef6838b11a344666",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-06T18:28:12Z",
+    "report_count": 1,
+    "title": "Fifty-Two Shades of Pig: What the UCR Archive Really Asks Classifiers to Do",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-06T18:28:12Z"
+  },
+  "2611.09847": {
+    "authors": [
+      "Pranjal Aggarwal",
+      "Sean Welleck"
+    ],
+    "canonical_id": "2611.09847",
+    "categories": [
+      "cs.LG",
+      "cs.RO"
+    ],
+    "content_hash": "eb1b68481bbe5f8fa271ba6ba8f8cef174622bdfc630079a69e2581ab30c9b6b",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-06T18:31:17Z",
+    "report_count": 1,
+    "title": "Computer-Use Agents Are Embodied Generalists",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-06T18:31:17Z"
+  },
+  "2611.09863": {
+    "authors": [
+      "Ruizhi Yuan",
+      "Zeqiu Yu",
+      "Wei Gao",
+      "Wei Chen",
+      "Xiwei Tang",
+      "Lu Tang"
+    ],
+    "canonical_id": "2611.09863",
+    "categories": [
+      "cs.AI",
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "b14c9232c3d4d86a93fac032389c2fea05b4ab9bab19984ab441d777b638c299",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-06T18:44:08Z",
+    "report_count": 1,
+    "title": "Flow-Guided Target-Space Alignment via Path Consistency",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-06T18:44:08Z"
+  },
+  "2611.09864": {
+    "authors": [
+      "Xun Tu",
+      "Minghao Zou",
+      "Karthik Desingh"
+    ],
+    "canonical_id": "2611.09864",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "9fca4ec7481250c0341df5773dc81ca09373694e06866faf0dd5083e77e945f5",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-11-06T18:44:33Z",
+    "report_count": 1,
+    "title": "Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-06T18:44:33Z"
+  },
+  "2611.09866": {
+    "authors": [
+      "Rochak Dhakal",
+      "Chen Zhao",
+      "Soup Cobb",
+      "Xin Qian",
+      "Xiaofeng Yang",
+      "Weihua Zhou"
+    ],
+    "canonical_id": "2611.09866",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "998c72c045e3df0282bc0bd08ece0a3cc8c601fd485675ef39e8122a9ff55afa",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-06T18:47:23Z",
+    "report_count": 1,
+    "title": "GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-06T18:47:23Z"
+  },
+  "2611.09868": {
+    "authors": [
+      "Xingyu Liu",
+      "Xiangyang Yin",
+      "Tianhua Xia",
+      "Haiyu Wang",
+      "Sai Qian Zhang"
+    ],
+    "canonical_id": "2611.09868",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "69ea0c51cbf8e316eaf636064c515409871ebd5ca0b0b179d2c03a5cca8dc621",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-06T18:48:04Z",
+    "report_count": 1,
+    "title": "CodeQuant2: Enhanced Outlier Mitigation and Adaptive Clustering for Low-Precision LRMs",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-06T18:48:04Z"
+  },
+  "2611.09872": {
+    "authors": [
+      "Haoyu Wang",
+      "Ru Wang",
+      "Yuanyuan Wang",
+      "Jiaxian Guo",
+      "Mingming Gong"
+    ],
+    "canonical_id": "2611.09872",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "1a053f57f5b5459f5ddc38bf8273e110cdcd66de55f42d23a4b09df40e3c6152",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-06T18:49:02Z",
+    "report_count": 1,
+    "title": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-06T18:49:02Z"
+  },
+  "2611.09882": {
+    "authors": [
+      "Aadya Agrawal",
+      "Ho Kei Cheng",
+      "Alexander Schwing"
+    ],
+    "canonical_id": "2611.09882",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "cd8bb112e284892339e2af9567a70418394b349f8766f20800dbde5feac27188",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-06T18:56:41Z",
+    "report_count": 1,
+    "title": "FlowMoP: Stochastic Multi-Person Motion Prediction",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-06T18:56:41Z"
+  },
+  "2611.09891": {
+    "authors": [
+      "Peter Belcak",
+      "Greg Heinrich",
+      "Saurav Muralidharan",
+      "Shizhe Diao",
+      "Pavlo Molchanov"
+    ],
+    "canonical_id": "2611.09891",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "231502e579c4c9dba9ea9ba8dd93a2dfb375a0c6f0c5ce2dbadd62ee9e6b454e",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-06T18:58:50Z",
+    "report_count": 1,
+    "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-06T18:58:50Z"
+  },
+  "2611.09892": {
+    "authors": [
+      "Chen Chen",
+      "Omid Bagherieh",
+      "Naveen Nikamanth Appiah Balaji",
+      "Jesse T. Gonzalez",
+      "Negin Heravi",
+      "Fahad Islam",
+      "Xueting Li",
+      "Jean-Baptiste Regli",
+      "Kejia Ren",
+      "Petr Švec",
+      "David J. Yoon",
+      "Matthias Müller",
+      "Vladlen Koltun"
+    ],
+    "canonical_id": "2611.09892",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "26553c37784d206e47aa733ee130ca696f4cef29d15fcc88a710c593767e98f0",
+    "first_seen_date": "2026-11-09",
+    "last_reported_date": "2026-11-09",
+    "last_seen_date": "2026-11-09",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-11-06T18:59:34Z",
+    "report_count": 1,
+    "title": "On Agentic Manipulation Policies",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-06T18:59:34Z"
   }
 }
