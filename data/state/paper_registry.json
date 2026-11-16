@@ -88874,7 +88874,7 @@
     "content_hash": "6a4164cb564e08970e94ac2d64f2380a0d2f9d77bddb2cc14e476ad9115b2e7b",
     "first_seen_date": "2026-11-13",
     "last_reported_date": "2026-11-13",
-    "last_seen_date": "2026-11-15",
+    "last_seen_date": "2026-11-16",
     "latest_version": 1,
     "primary_category": "q-fin.PM",
     "priority": "unscored",
@@ -88901,7 +88901,7 @@
     "content_hash": "6d31ae2362e1ca473c5f6af42b87484302ae101c9d14f24687ad4263055511e4",
     "first_seen_date": "2026-11-13",
     "last_reported_date": "2026-11-13",
-    "last_seen_date": "2026-11-15",
+    "last_seen_date": "2026-11-16",
     "latest_version": 1,
     "primary_category": "q-fin.MF",
     "priority": "unscored",
@@ -88928,7 +88928,7 @@
     "content_hash": "9effad776c02d7c27b4c95a25fc4c4809c6f6928b2ff3b947681c32a4938bb12",
     "first_seen_date": "2026-11-13",
     "last_reported_date": "2026-11-13",
-    "last_seen_date": "2026-11-15",
+    "last_seen_date": "2026-11-16",
     "latest_version": 1,
     "primary_category": "q-fin.MF",
     "priority": "unscored",
@@ -88956,7 +88956,7 @@
     "content_hash": "45e00cd75ec03c4481fb8e3127f1948fa1cbb879c4cf3ea45b13c96dfbee9da7",
     "first_seen_date": "2026-11-13",
     "last_reported_date": "2026-11-13",
-    "last_seen_date": "2026-11-15",
+    "last_seen_date": "2026-11-16",
     "latest_version": 1,
     "primary_category": "q-fin.RM",
     "priority": "unscored",
@@ -88981,7 +88981,7 @@
     "content_hash": "9ec7a4f2d69b19c6bfa28f04329e17a7b0b29828d2f0a651c71c4afbec80e565",
     "first_seen_date": "2026-11-13",
     "last_reported_date": "2026-11-13",
-    "last_seen_date": "2026-11-15",
+    "last_seen_date": "2026-11-16",
     "latest_version": 1,
     "primary_category": "stat.ME",
     "priority": "unscored",
@@ -89533,5 +89533,593 @@
       "deep_learning_sota"
     ],
     "updated": "2026-11-12T18:59:54Z"
+  },
+  "2611.18462": {
+    "authors": [
+      "Ahmed Shoyeb Raihan",
+      "Md Habibor Rahman",
+      "Ashish Nimbarte",
+      "Imtiaz Ahmed"
+    ],
+    "canonical_id": "2611.18462",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "e99518dfeb82d44ce238e75f3a1dff58acd9e4c632db44ab8de05f21ea062d9b",
+    "first_seen_date": "2026-11-16",
+    "last_reported_date": "2026-11-16",
+    "last_seen_date": "2026-11-16",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-13T17:29:27Z",
+    "report_count": 1,
+    "title": "Sample-efficient prediction of high-entropy alloy strength through outcome-aware robust sequential learning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-13T17:29:27Z"
+  },
+  "2611.18464": {
+    "authors": [
+      "Abhilash Durgam",
+      "Nyle Siddiqui",
+      "Mubarak Shah",
+      "Qiushi Fu"
+    ],
+    "canonical_id": "2611.18464",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "75e539dbeb1247d2ed7fd2014e352993b33d912515039c977b55f723fb3835ee",
+    "first_seen_date": "2026-11-16",
+    "last_reported_date": "2026-11-16",
+    "last_seen_date": "2026-11-16",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-13T17:33:20Z",
+    "report_count": 1,
+    "title": "Typing Matters: Muscle, Language and Typing Behaviour in Live Keystroke Decoding from sEMG",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-13T17:33:20Z"
+  },
+  "2611.18471": {
+    "authors": [
+      "Disha Sheshanarayana",
+      "Sai Linisha Reddy Goli"
+    ],
+    "canonical_id": "2611.18471",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "0c7e87114bc4340de16e698d0b1c8648bdf507ce4b0b74dc7883c06719efeeae",
+    "first_seen_date": "2026-11-16",
+    "last_reported_date": "2026-11-16",
+    "last_seen_date": "2026-11-16",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-13T17:44:01Z",
+    "report_count": 1,
+    "title": "Do Verifier Judgments Survive Abstraction? Measuring Verification Transport for LLM Agent Evaluation",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-13T17:44:01Z"
+  },
+  "2611.18477": {
+    "authors": [
+      "Mengfan Xu",
+      "Zirui Liu",
+      "Juan Zhai",
+      "Shiqing Ma",
+      "Barry Nelson"
+    ],
+    "canonical_id": "2611.18477",
+    "categories": [
+      "cs.SE",
+      "cs.LG"
+    ],
+    "content_hash": "9b491429f99a05d5658dd9aabcae8deb307132d887f7852ab62edef883bc2172",
+    "first_seen_date": "2026-11-16",
+    "last_reported_date": "2026-11-16",
+    "last_seen_date": "2026-11-16",
+    "latest_version": 1,
+    "primary_category": "cs.SE",
+    "priority": "unscored",
+    "published": "2026-11-13T17:49:57Z",
+    "report_count": 1,
+    "title": "Evaluating Feedback-Driven Black-Box Processes via Stochastic Modeling and Simulation",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-13T17:49:57Z"
+  },
+  "2611.18484": {
+    "authors": [
+      "Ivana Ragusa",
+      "Lorenzo Guiducci",
+      "Filippo Cavallo"
+    ],
+    "canonical_id": "2611.18484",
+    "categories": [
+      "cs.RO",
+      "cs.AI",
+      "cs.MA",
+      "cs.SE",
+      "eess.SY"
+    ],
+    "content_hash": "666e338235b460b0befb3cbbf555697fbc031ee655a6bc206f213a42bdc2077a",
+    "first_seen_date": "2026-11-16",
+    "last_reported_date": "2026-11-16",
+    "last_seen_date": "2026-11-16",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-11-13T17:59:40Z",
+    "report_count": 1,
+    "title": "From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-13T17:59:40Z"
+  },
+  "2611.18485": {
+    "authors": [
+      "Robin Shing Moon Chan",
+      "Ryan Cotterell"
+    ],
+    "canonical_id": "2611.18485",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "48de512981686332c322d26e09aecce226306c92254d7e106253ee40ddb37ae2",
+    "first_seen_date": "2026-11-16",
+    "last_reported_date": "2026-11-16",
+    "last_seen_date": "2026-11-16",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-13T17:59:55Z",
+    "report_count": 1,
+    "title": "Interactive Program Induction with Language Model Priors",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-13T17:59:55Z"
+  },
+  "2611.18493": {
+    "authors": [
+      "Sandip Nandi",
+      "Aishwarya Bose",
+      "Apurba Bose",
+      "Soovadeep Bakshi"
+    ],
+    "canonical_id": "2611.18493",
+    "categories": [
+      "cs.MA",
+      "cs.AI",
+      "cs.CE"
+    ],
+    "content_hash": "90edeff8c0759088935fcedd32c640223a802c85257139064455e70b5df5b3b6",
+    "first_seen_date": "2026-11-16",
+    "last_reported_date": "2026-11-16",
+    "last_seen_date": "2026-11-16",
+    "latest_version": 1,
+    "primary_category": "cs.MA",
+    "priority": "unscored",
+    "published": "2026-11-13T18:05:23Z",
+    "report_count": 1,
+    "title": "TradeGauntlet: Evaluating Compliance Controls for Autonomous Trading Agents",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-13T18:05:23Z"
+  },
+  "2611.18494": {
+    "authors": [
+      "Dhruv Dixit",
+      "Khushi Patel",
+      "Congcong Xu",
+      "Min Song"
+    ],
+    "canonical_id": "2611.18494",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "6b56b803bd8e6e4f3d4e3e814813b7a847c3959821790ce746314eec6f60d216",
+    "first_seen_date": "2026-11-16",
+    "last_reported_date": "2026-11-16",
+    "last_seen_date": "2026-11-16",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-13T18:05:33Z",
+    "report_count": 1,
+    "title": "ARCHER: From Rationale Imitation to Executable Reasoning in Small Language Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-13T18:05:33Z"
+  },
+  "2611.18504": {
+    "authors": [
+      "Aritra Lahiri",
+      "Florian Marquardt"
+    ],
+    "canonical_id": "2611.18504",
+    "categories": [
+      "quant-ph",
+      "cs.AI"
+    ],
+    "content_hash": "0d3b3b3a0359431b0ae17631680785b149a42af14de0d5cca6d7ae72727c0315",
+    "first_seen_date": "2026-11-16",
+    "last_reported_date": "2026-11-16",
+    "last_seen_date": "2026-11-16",
+    "latest_version": 1,
+    "primary_category": "quant-ph",
+    "priority": "unscored",
+    "published": "2026-11-13T18:20:23Z",
+    "report_count": 1,
+    "title": "Agentic AI for Discovering Fault-Tolerant Quantum Circuits",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-13T18:20:23Z"
+  },
+  "2611.18506": {
+    "authors": [
+      "Daniel Reichenpfader",
+      "Kwaku Appiagyei",
+      "Manovah Nadarajah",
+      "Ahmed Reda Bahr",
+      "Irina Filchenko",
+      "Fabio Dennstädt"
+    ],
+    "canonical_id": "2611.18506",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "d428d21ae21eaec37676df3edb77a85819685b8c920384f3487efa5768ec9866",
+    "first_seen_date": "2026-11-16",
+    "last_reported_date": "2026-11-16",
+    "last_seen_date": "2026-11-16",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-13T18:23:11Z",
+    "report_count": 1,
+    "title": "Agentic induction of common data elements and information extraction from sarcoma case report abstracts",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-13T18:23:11Z"
+  },
+  "2611.18513": {
+    "authors": [
+      "Mohammed Efaz",
+      "Udo Bub",
+      "Itilekha Podder"
+    ],
+    "canonical_id": "2611.18513",
+    "categories": [
+      "cs.IR",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "1ef2557b23d4673f2ec77f39fe01e101037f6c3054def225308b6153228a00bd",
+    "first_seen_date": "2026-11-16",
+    "last_reported_date": "2026-11-16",
+    "last_seen_date": "2026-11-16",
+    "latest_version": 1,
+    "primary_category": "cs.IR",
+    "priority": "unscored",
+    "published": "2026-11-13T18:29:51Z",
+    "report_count": 1,
+    "title": "MeReader: An Offline, Privacy-Preserving, Progress-Aware AI Assistant for Narrative eBook Reading",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-13T18:29:51Z"
+  },
+  "2611.18514": {
+    "authors": [
+      "Mohamed Aghzal",
+      "Mor Geva",
+      "Gregory J. Stein",
+      "Ziyu Yao"
+    ],
+    "canonical_id": "2611.18514",
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "ef9a4305aa83db8d51293373d5d13138c5423d1edbf924ded7f60c945efab541",
+    "first_seen_date": "2026-11-16",
+    "last_reported_date": "2026-11-16",
+    "last_seen_date": "2026-11-16",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-13T18:30:58Z",
+    "report_count": 1,
+    "title": "Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-13T18:30:58Z"
+  },
+  "2611.18516": {
+    "authors": [
+      "Dayoon Ko",
+      "Yichuan Wang",
+      "Soyeong Jeong",
+      "Joseph E. Gonzalez",
+      "Gunhee Kim",
+      "Sewon Min"
+    ],
+    "canonical_id": "2611.18516",
+    "categories": [
+      "cs.CV",
+      "cs.IR",
+      "cs.LG"
+    ],
+    "content_hash": "d76d902cb201cdc94619c4576320c4a424760c2afbbc9b68baa1342a611aa4a4",
+    "first_seen_date": "2026-11-16",
+    "last_reported_date": "2026-11-16",
+    "last_seen_date": "2026-11-16",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-13T18:35:17Z",
+    "report_count": 1,
+    "title": "StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-13T18:35:17Z"
+  },
+  "2611.18531": {
+    "authors": [
+      "Thomas Brennan",
+      "Andrew W. Lo",
+      "Chaoyi Zhao"
+    ],
+    "canonical_id": "2611.18531",
+    "categories": [
+      "cs.AI",
+      "q-bio.PE",
+      "q-fin.GN"
+    ],
+    "content_hash": "917d3714be26aa9f179af6bca39125ed984ea56fba763683baaee22269fd0556",
+    "first_seen_date": "2026-11-16",
+    "last_reported_date": "2026-11-16",
+    "last_seen_date": "2026-11-16",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-13T18:43:24Z",
+    "report_count": 1,
+    "title": "Alignment by Socialization: Learning Tradeoffs Under Selection",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-13T18:43:24Z"
+  },
+  "2611.18533": {
+    "authors": [
+      "Zelin He",
+      "Siyu Zhu",
+      "Jacob Helwig",
+      "Yujian Liu",
+      "Li An",
+      "Rohit Jain",
+      "Shiyu Chang",
+      "Alborz Geramifard"
+    ],
+    "canonical_id": "2611.18533",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "dc72cb3d5c0661868825af47de96145d6d0b199b8869430fa5b8aa4a69d9f9f7",
+    "first_seen_date": "2026-11-16",
+    "last_reported_date": "2026-11-16",
+    "last_seen_date": "2026-11-16",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-13T18:45:49Z",
+    "report_count": 1,
+    "title": "ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-13T18:45:49Z"
+  },
+  "2611.18542": {
+    "authors": [
+      "Cole Becker",
+      "Taylan Kargin",
+      "Kimia Hassibi",
+      "Asuman Ozdaglar",
+      "Pablo A. Parrilo"
+    ],
+    "canonical_id": "2611.18542",
+    "categories": [
+      "stat.ML",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "3afe60cab4948b071dcea81e55c106e43834873a1c310997d67a3c6cfa98f6df",
+    "first_seen_date": "2026-11-16",
+    "last_reported_date": "2026-11-16",
+    "last_seen_date": "2026-11-16",
+    "latest_version": 1,
+    "primary_category": "stat.ML",
+    "priority": "unscored",
+    "published": "2026-11-13T18:49:36Z",
+    "report_count": 1,
+    "title": "Elliptic Sampling: Optimal Interpolant Schedules for Gaussians and Beyond",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-13T18:49:36Z"
+  },
+  "2611.18543": {
+    "authors": [
+      "Tony H. Zhang",
+      "Connor Mattson",
+      "Daniel S. Brown"
+    ],
+    "canonical_id": "2611.18543",
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "content_hash": "7b7e33e49924044838ae0ed209c6318a5739e00faad6e42767f523b0905b3b5b",
+    "first_seen_date": "2026-11-16",
+    "last_reported_date": "2026-11-16",
+    "last_seen_date": "2026-11-16",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-13T18:50:05Z",
+    "report_count": 1,
+    "title": "Imitation Bootstrapped Multi-Agent Reinforcement Learning",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-13T18:50:05Z"
+  },
+  "2611.18553": {
+    "authors": [
+      "Aayush Marasini",
+      "Barsat Khadka",
+      "Nick Rahimi"
+    ],
+    "canonical_id": "2611.18553",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "333c4b6dc6eecfd0387d958ec6878311e6d1df4e245ff418d9e8991ddbc81ecb",
+    "first_seen_date": "2026-11-16",
+    "last_reported_date": "2026-11-16",
+    "last_seen_date": "2026-11-16",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-13T18:58:08Z",
+    "report_count": 1,
+    "title": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-13T18:58:08Z"
+  },
+  "2611.18559": {
+    "authors": [
+      "Genki Kinoshita",
+      "Ko Nishino"
+    ],
+    "canonical_id": "2611.18559",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "cab9758a17ac60e03f43e3a780ae8c730c86d4c63bcd0f8e47a0b72e9e3cfca0",
+    "first_seen_date": "2026-11-16",
+    "last_reported_date": "2026-11-16",
+    "last_seen_date": "2026-11-16",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-13T18:58:54Z",
+    "report_count": 1,
+    "title": "BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Representations",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-13T18:58:54Z"
+  },
+  "2611.18561": {
+    "authors": [
+      "Jonathan D. McCart",
+      "Pranav I. Deevi",
+      "Mehdi Azabou",
+      "Nanda H. Krishna",
+      "Caleb A. McKinney",
+      "Nicholas S. Card",
+      "Sergey D. Stavisky",
+      "Chethan Pandarinath"
+    ],
+    "canonical_id": "2611.18561",
+    "categories": [
+      "q-bio.NC",
+      "cs.LG"
+    ],
+    "content_hash": "78bea2ab41947d7f8742540e552f15e12c5ca9af4ab89ea8706b288b43706ef6",
+    "first_seen_date": "2026-11-16",
+    "last_reported_date": "2026-11-16",
+    "last_seen_date": "2026-11-16",
+    "latest_version": 1,
+    "primary_category": "q-bio.NC",
+    "priority": "unscored",
+    "published": "2026-11-13T18:59:02Z",
+    "report_count": 1,
+    "title": "FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-13T18:59:02Z"
+  },
+  "2611.18562": {
+    "authors": [
+      "Jiaming Tang",
+      "Zhuoyang Zhang",
+      "Junxian Guo",
+      "Fangzhou Zhao",
+      "Yilong Zhao",
+      "Zekai Li",
+      "Xingyang Li",
+      "Yuyang Zhao",
+      "Song Bian",
+      "Zhijian Liu",
+      "Song Han"
+    ],
+    "canonical_id": "2611.18562",
+    "categories": [
+      "cs.RO",
+      "cs.LG"
+    ],
+    "content_hash": "f93dc60aabe8dfb26497e7ac376793c748b2286e356423902560354f92f15f1c",
+    "first_seen_date": "2026-11-16",
+    "last_reported_date": "2026-11-16",
+    "last_seen_date": "2026-11-16",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-11-13T18:59:02Z",
+    "report_count": 1,
+    "title": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-13T18:59:02Z"
   }
 }
