@@ -90121,5 +90121,553 @@
       "llm_progress"
     ],
     "updated": "2026-11-13T18:59:02Z"
+  },
+  "2611.19903": {
+    "authors": [
+      "Supriadi"
+    ],
+    "canonical_id": "2611.19903",
+    "categories": [
+      "q-fin.PM",
+      "cs.LG"
+    ],
+    "content_hash": "27e18d554abf4309ca324af826154593d22c065b74f8307392503438abaaa8a9",
+    "first_seen_date": "2026-11-17",
+    "last_reported_date": "2026-11-17",
+    "last_seen_date": "2026-11-17",
+    "latest_version": 1,
+    "primary_category": "q-fin.PM",
+    "priority": "unscored",
+    "published": "2026-11-15T09:31:57Z",
+    "report_count": 1,
+    "title": "Dynamic Spatio-Temporal Graph Attention Networks with Nested Clustered Optimization for Multi-Asset Portfolios",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-11-15T09:31:57Z"
+  },
+  "2611.21520": {
+    "authors": [
+      "Charles Xiao"
+    ],
+    "canonical_id": "2611.21520",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "9a5ee1db50dfe1711bd274b01875ff1a0fa8ec4546767bc4f89e86ea2787aef8",
+    "first_seen_date": "2026-11-17",
+    "last_reported_date": "2026-11-17",
+    "last_seen_date": "2026-11-17",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-16T18:13:01Z",
+    "report_count": 1,
+    "title": "Safe Resemblance, Silent Propagation: Limits of Text-Similarity Guardrails for AI Agent Safety",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-16T18:13:01Z"
+  },
+  "2611.21524": {
+    "authors": [
+      "Minjae Kwon",
+      "Amir Moeini",
+      "Shangtong Zhang",
+      "Lu Feng"
+    ],
+    "canonical_id": "2611.21524",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "696c20ea9e5ac38c7213d249ef22193ee0b07b4e3668b6f2c996b2fcef800325",
+    "first_seen_date": "2026-11-17",
+    "last_reported_date": "2026-11-17",
+    "last_seen_date": "2026-11-17",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-16T18:16:28Z",
+    "report_count": 1,
+    "title": "Algorithm Distillation for Safe In-Context Reinforcement Learning",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-16T18:16:28Z"
+  },
+  "2611.21529": {
+    "authors": [
+      "Arunkumar V",
+      "Manoranjan Gandhudi",
+      "Gangadharan G. R.",
+      "Arun Prakash",
+      "S. Senthilkumar"
+    ],
+    "canonical_id": "2611.21529",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "e9d493142634635ce5bcf01b7c338a4eeee561f1b5cbcea0bf17c80968ae9d12",
+    "first_seen_date": "2026-11-17",
+    "last_reported_date": "2026-11-17",
+    "last_seen_date": "2026-11-17",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-16T18:20:09Z",
+    "report_count": 1,
+    "title": "Procedure without Judgment: What Small Language Models Learn under an Exact Verifier",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-16T18:20:09Z"
+  },
+  "2611.21535": {
+    "authors": [
+      "Jorge Valverde-Rebaza",
+      "Nathan Garcia-Larios",
+      "Karime Ruvalcaba-Perez",
+      "Alejandro Rendon",
+      "Santiago Sanchez-Ballesteros",
+      "Alejandro Martin del Campo"
+    ],
+    "canonical_id": "2611.21535",
+    "categories": [
+      "cs.CL",
+      "cs.CY",
+      "cs.SI"
+    ],
+    "content_hash": "16ca129d43a387db685d2dd85ac5694e250782ee539edef0abe8d8883e7e4d02",
+    "first_seen_date": "2026-11-17",
+    "last_reported_date": "2026-11-17",
+    "last_seen_date": "2026-11-17",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-16T18:24:48Z",
+    "report_count": 1,
+    "title": "Evaluating Cultural Reasoning and Robustness in LLMs for Spanish Political Discourse",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-16T18:24:48Z"
+  },
+  "2611.21541": {
+    "authors": [
+      "Brian T. Weston",
+      "Alondra Torres Contreras",
+      "Aldair E. Gongora"
+    ],
+    "canonical_id": "2611.21541",
+    "categories": [
+      "cs.AI",
+      "cs.LG",
+      "physics.comp-ph"
+    ],
+    "content_hash": "fa1753b3a3c1dc1d603df2c446377d84159b417d92a6aff1026cb33f4d5641d0",
+    "first_seen_date": "2026-11-17",
+    "last_reported_date": "2026-11-17",
+    "last_seen_date": "2026-11-17",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-16T18:27:09Z",
+    "report_count": 1,
+    "title": "SciResearch-Eval: Evaluating Scientific Judgment in Autonomous Experimental Agents",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-16T18:27:09Z"
+  },
+  "2611.21542": {
+    "authors": [
+      "Yu Gui",
+      "Rina Foygel Barber",
+      "Cong Ma"
+    ],
+    "canonical_id": "2611.21542",
+    "categories": [
+      "math.ST",
+      "cs.LG",
+      "stat.ML"
+    ],
+    "content_hash": "118bea8c0c4d0e6e6322691e3d8e7744f31ea71a1fc2b5939ed65674526d8005",
+    "first_seen_date": "2026-11-17",
+    "last_reported_date": "2026-11-17",
+    "last_seen_date": "2026-11-17",
+    "latest_version": 1,
+    "primary_category": "math.ST",
+    "priority": "unscored",
+    "published": "2026-11-16T18:28:22Z",
+    "report_count": 1,
+    "title": "The cost of enforcing long-run coverage: a phase transition in online conformal prediction",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-16T18:28:22Z"
+  },
+  "2611.21545": {
+    "authors": [
+      "Arunkumar V"
+    ],
+    "canonical_id": "2611.21545",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.CY"
+    ],
+    "content_hash": "4c6b10a2dd28d3bcb1e6c413d6f0aec1379e5b22aede5f50b25b3ac5708ea5f5",
+    "first_seen_date": "2026-11-17",
+    "last_reported_date": "2026-11-17",
+    "last_seen_date": "2026-11-17",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-16T18:30:11Z",
+    "report_count": 1,
+    "title": "Right Reason, Wrong Advice: Evaluating Recourse in LLM Explanations of Denied Requests",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-16T18:30:11Z"
+  },
+  "2611.21552": {
+    "authors": [
+      "José Daniel Viqueira",
+      "Andrés Gómez",
+      "David Mera"
+    ],
+    "canonical_id": "2611.21552",
+    "categories": [
+      "quant-ph",
+      "cs.LG"
+    ],
+    "content_hash": "b18e198cac0c85b534eb7a8367738696e1ce0c53c065c7097a410d3fe7272da5",
+    "first_seen_date": "2026-11-17",
+    "last_reported_date": "2026-11-17",
+    "last_seen_date": "2026-11-17",
+    "latest_version": 1,
+    "primary_category": "quant-ph",
+    "priority": "unscored",
+    "published": "2026-11-16T18:32:05Z",
+    "report_count": 1,
+    "title": "Benchmarking memory and nonlinear processing capacity of quantum recurrent neural networks for time series prediction",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-16T18:32:05Z"
+  },
+  "2611.21562": {
+    "authors": [
+      "Korede R. Bishi",
+      "Dominic Okonkwo",
+      "Adetayo Okunoye"
+    ],
+    "canonical_id": "2611.21562",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "c57b46f9b6eb4db889e6732d6d55a5dddbd1d8f1b6c63e98c92bed4e8c337e38",
+    "first_seen_date": "2026-11-17",
+    "last_reported_date": "2026-11-17",
+    "last_seen_date": "2026-11-17",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-16T18:40:35Z",
+    "report_count": 1,
+    "title": "Severe but Harmless: Stress-Testing Shift Severity for Frozen Time-Series Forecasters",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-16T18:40:35Z"
+  },
+  "2611.21565": {
+    "authors": [
+      "Lars Chen",
+      "Valentino F. Foit",
+      "Dorry Segev",
+      "Michal Mankowski"
+    ],
+    "canonical_id": "2611.21565",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "c275a08cca5200bfaabd91380eb315c80a8722f93553de2bcf6c4f0e08551d40",
+    "first_seen_date": "2026-11-17",
+    "last_reported_date": "2026-11-17",
+    "last_seen_date": "2026-11-17",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-16T18:41:01Z",
+    "report_count": 1,
+    "title": "When Do Histology Foundation Models Need Geometric Test-Time Augmentation?",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-16T18:41:01Z"
+  },
+  "2611.21577": {
+    "authors": [
+      "Zeynab Anbiaee",
+      "Sajjad Dadkhah",
+      "Ali A. Ghorbani"
+    ],
+    "canonical_id": "2611.21577",
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "content_hash": "0724e1978ea7d34e569b357de36f23fae120484bb3fd9337167859b6f783e6a8",
+    "first_seen_date": "2026-11-17",
+    "last_reported_date": "2026-11-17",
+    "last_seen_date": "2026-11-17",
+    "latest_version": 1,
+    "primary_category": "cs.CR",
+    "priority": "unscored",
+    "published": "2026-11-16T18:49:37Z",
+    "report_count": 1,
+    "title": "When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based AI Agents",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-16T18:49:37Z"
+  },
+  "2611.21579": {
+    "authors": [
+      "Jaime C. Acosta",
+      "Anantaa Kotal",
+      "Aritran Piplai"
+    ],
+    "canonical_id": "2611.21579",
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "content_hash": "fb7069c2126cf2d0865f8b809fde0aec43a85e96fed0ac6ef8d4b4b800ddba03",
+    "first_seen_date": "2026-11-17",
+    "last_reported_date": "2026-11-17",
+    "last_seen_date": "2026-11-17",
+    "latest_version": 1,
+    "primary_category": "cs.CR",
+    "priority": "unscored",
+    "published": "2026-11-16T18:49:56Z",
+    "report_count": 1,
+    "title": "ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-16T18:49:56Z"
+  },
+  "2611.21586": {
+    "authors": [
+      "Yisong Cao",
+      "Leah Kim",
+      "Brian Wright",
+      "Ali Rivera"
+    ],
+    "canonical_id": "2611.21586",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "b366839d17027c7e2466074658237429a4887b6b2a5afe868c882e52eabab178",
+    "first_seen_date": "2026-11-17",
+    "last_reported_date": "2026-11-17",
+    "last_seen_date": "2026-11-17",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-16T18:54:40Z",
+    "report_count": 1,
+    "title": "Beyond Job Titles: Interpreting Early-Career Job Advertisements with Sparse Autoencoders and Semantic Clustering",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-16T18:54:40Z"
+  },
+  "2611.21597": {
+    "authors": [
+      "Awni Altabaa",
+      "John Lafferty",
+      "Omar Montasser"
+    ],
+    "canonical_id": "2611.21597",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ],
+    "content_hash": "ba5e89850742de5fdebf6fee1b00dd2eccac682971f2fad1d343f14154c8667b",
+    "first_seen_date": "2026-11-17",
+    "last_reported_date": "2026-11-17",
+    "last_seen_date": "2026-11-17",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-16T18:58:07Z",
+    "report_count": 1,
+    "title": "Optimal Autoregressive Chain-of-Thought Learning via Bagging",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-16T18:58:07Z"
+  },
+  "2611.21598": {
+    "authors": [
+      "Blas Eugenio Vicco Zarate",
+      "Miguel Hernán Vicco"
+    ],
+    "canonical_id": "2611.21598",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.NE"
+    ],
+    "content_hash": "ac75cf6b72663f03b2a6d328e72f0cc15523a04f1ebea28f604f09611449a9bb",
+    "first_seen_date": "2026-11-17",
+    "last_reported_date": "2026-11-17",
+    "last_seen_date": "2026-11-17",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-16T18:58:20Z",
+    "report_count": 1,
+    "title": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-16T18:58:20Z"
+  },
+  "2611.21599": {
+    "authors": [
+      "Brian Yarbrough",
+      "Jesse Wayment",
+      "Jingbo Wang",
+      "Philip E. Paré",
+      "Shreyas Sundaram"
+    ],
+    "canonical_id": "2611.21599",
+    "categories": [
+      "eess.SY",
+      "cs.CG",
+      "cs.LG",
+      "cs.LO",
+      "math.DS"
+    ],
+    "content_hash": "81e85058bff54ed3ad1ee9af258ee39bddff2ad032595d501de324507de29fc6",
+    "first_seen_date": "2026-11-17",
+    "last_reported_date": "2026-11-17",
+    "last_seen_date": "2026-11-17",
+    "latest_version": 1,
+    "primary_category": "eess.SY",
+    "priority": "unscored",
+    "published": "2026-11-16T18:58:29Z",
+    "report_count": 1,
+    "title": "Hyperlyve: Parallelized Enumeration and Exact Lyapunov Stability Certification for Deep ReLU Networks",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-16T18:58:29Z"
+  },
+  "2611.21602": {
+    "authors": [
+      "Ilia Azizi",
+      "Frederick Iat-Hin Tam",
+      "Marc-Olivier Boldi",
+      "Valérie Chavez-Demoulin",
+      "Tom Beucler"
+    ],
+    "canonical_id": "2611.21602",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "content_hash": "b319ccb9750f21eaf08820ede4c95522e6b8d0f5ad3e5cf6093ef1b109de935c",
+    "first_seen_date": "2026-11-17",
+    "last_reported_date": "2026-11-17",
+    "last_seen_date": "2026-11-17",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-16T18:58:55Z",
+    "report_count": 1,
+    "title": "Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-16T18:58:55Z"
+  },
+  "2611.21605": {
+    "authors": [
+      "Huawei Lin",
+      "Jinting Liu",
+      "Tongyan Wang",
+      "Xuyang Chen",
+      "Ruihua Shi",
+      "Zhichao Xu",
+      "Jiaxin Qin",
+      "Guoshenghui Zhao",
+      "Baijian Yang",
+      "Yingjie Victor Chen",
+      "Tan Yu",
+      "Weijie Zhao"
+    ],
+    "canonical_id": "2611.21605",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "2e123ae395134d29f407199f4f20825ecfb31c2203ac2ad88c88ba14b8237679",
+    "first_seen_date": "2026-11-17",
+    "last_reported_date": "2026-11-17",
+    "last_seen_date": "2026-11-17",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-16T18:59:04Z",
+    "report_count": 1,
+    "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-16T18:59:04Z"
+  },
+  "2611.21608": {
+    "authors": [
+      "Shivam Duggal",
+      "Zongze Wu",
+      "William T. Freeman",
+      "Antonio Torralba",
+      "Richard Zhang",
+      "Eli Shechtman"
+    ],
+    "canonical_id": "2611.21608",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "8bd6165d573279901defb48bfa6149828726c64695036c1067dd7bea8b24b9ce",
+    "first_seen_date": "2026-11-17",
+    "last_reported_date": "2026-11-17",
+    "last_seen_date": "2026-11-17",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-16T18:59:38Z",
+    "report_count": 1,
+    "title": "Latent Lattice Language Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-16T18:59:38Z"
   }
 }
