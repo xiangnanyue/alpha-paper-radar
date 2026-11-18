@@ -90134,7 +90134,7 @@
     "content_hash": "27e18d554abf4309ca324af826154593d22c065b74f8307392503438abaaa8a9",
     "first_seen_date": "2026-11-17",
     "last_reported_date": "2026-11-17",
-    "last_seen_date": "2026-11-17",
+    "last_seen_date": "2026-11-18",
     "latest_version": 1,
     "primary_category": "q-fin.PM",
     "priority": "unscored",
@@ -90669,5 +90669,637 @@
       "llm_progress"
     ],
     "updated": "2026-11-16T18:59:38Z"
+  },
+  "2611.21897": {
+    "authors": [
+      "Farzana Afroz",
+      "Abootaleb Shirvani",
+      "Nicholas Appiah",
+      "Svetlozar T. Rachev",
+      "Frank J. Fabozzi"
+    ],
+    "canonical_id": "2611.21897",
+    "categories": [
+      "q-fin.PM"
+    ],
+    "content_hash": "5a26960a98588ad501beb20074fc52796b781f2afd18172c5b1c52c60880f438",
+    "first_seen_date": "2026-11-18",
+    "last_reported_date": "2026-11-18",
+    "last_seen_date": "2026-11-18",
+    "latest_version": 1,
+    "primary_category": "q-fin.PM",
+    "priority": "unscored",
+    "published": "2026-11-16T21:09:18Z",
+    "report_count": 1,
+    "title": "Revisiting Equity-Bond Diversification under Tail Risk and Structural Market Change: Evidence from Global ETFs and Model-Implied Option Prices",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-11-16T21:09:18Z"
+  },
+  "2611.22257": {
+    "authors": [
+      "Christian Gourieroux",
+      "Joann Jasiak",
+      "Cheng Zhong"
+    ],
+    "canonical_id": "2611.22257",
+    "categories": [
+      "econ.EM"
+    ],
+    "content_hash": "7bd1e313f4e9edadcc28d7ea0529c401f250dfb36006ab49d05cf7ca0be6b55a",
+    "first_seen_date": "2026-11-18",
+    "last_reported_date": "2026-11-18",
+    "last_seen_date": "2026-11-18",
+    "latest_version": 1,
+    "primary_category": "econ.EM",
+    "priority": "unscored",
+    "published": "2026-11-17T06:01:35Z",
+    "report_count": 1,
+    "title": "The Online LSTM Prediction Models and The Term Structure of Predictions",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-11-17T06:01:35Z"
+  },
+  "2611.23126": {
+    "authors": [
+      "Chariton Chalvatzis"
+    ],
+    "canonical_id": "2611.23126",
+    "categories": [
+      "q-fin.ST",
+      "cs.LG",
+      "q-fin.CP"
+    ],
+    "content_hash": "74739880dfefa4fdd7834a7ecff161aae1818ce94ad7ea55e7fdb0dd3cf14246",
+    "first_seen_date": "2026-11-18",
+    "last_reported_date": "2026-11-18",
+    "last_seen_date": "2026-11-18",
+    "latest_version": 1,
+    "primary_category": "q-fin.ST",
+    "priority": "unscored",
+    "published": "2026-11-17T17:44:41Z",
+    "report_count": 1,
+    "title": "Which Past Matters? Training History and Multi-Forecast Horizon in Equity Transformers",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-11-17T17:44:41Z"
+  },
+  "2611.23129": {
+    "authors": [
+      "Parmitha Vangapandu",
+      "Jonnakuti Pavan Kumar",
+      "Sathwik Narkedimilli",
+      "MSVPJ Sathvik",
+      "T. M. Balakrishnan Nair",
+      "Santanu Bhattacharya"
+    ],
+    "canonical_id": "2611.23129",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "172f39449af2f37a7f3b27bf21d18c8997806e43a808034cdb24536a8cfad958",
+    "first_seen_date": "2026-11-18",
+    "last_reported_date": "2026-11-18",
+    "last_seen_date": "2026-11-18",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-17T17:46:47Z",
+    "report_count": 1,
+    "title": "Where Should Physics Enter? Information, Identifiability and Calibration in Probabilistic Sea Surface Temperature Forecasting",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-17T17:46:47Z"
+  },
+  "2611.23130": {
+    "authors": [
+      "Samuel Sisk",
+      "Xiaosong Du"
+    ],
+    "canonical_id": "2611.23130",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "9a98b9271069f04bca26d5099909f59ba54f488225c56ed77f8bd93e983ff923",
+    "first_seen_date": "2026-11-18",
+    "last_reported_date": "2026-11-18",
+    "last_seen_date": "2026-11-18",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-17T17:47:48Z",
+    "report_count": 1,
+    "title": "A Neural Envelope Method for Rapid Gradient-based Optimum Takeoff Trajectory Design",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-17T17:47:48Z"
+  },
+  "2611.23134": {
+    "authors": [
+      "Meital Bojan",
+      "Nadav Bojan Sellam",
+      "Ev Zisselman",
+      "Aviv Tamar"
+    ],
+    "canonical_id": "2611.23134",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "4d836241be75446863bf5a105f573af4cdb383937f5696a4ba193992e7606704",
+    "first_seen_date": "2026-11-18",
+    "last_reported_date": "2026-11-18",
+    "last_seen_date": "2026-11-18",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-17T17:53:38Z",
+    "report_count": 1,
+    "title": "Correcting Flows with Marginal Matching",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-17T17:53:38Z"
+  },
+  "2611.23138": {
+    "authors": [
+      "Dewu Zheng",
+      "Yang Ye",
+      "Hongyu Zhang",
+      "Jun Yu",
+      "Yanlin Wang"
+    ],
+    "canonical_id": "2611.23138",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "255cb70f3c4a857321aa3273269baa879ecce8b3373b258b1d080efbaf0b1546",
+    "first_seen_date": "2026-11-18",
+    "last_reported_date": "2026-11-18",
+    "last_seen_date": "2026-11-18",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-17T17:55:30Z",
+    "report_count": 1,
+    "title": "RSI-Prime: Training Models to Train Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-17T17:55:30Z"
+  },
+  "2611.23142": {
+    "authors": [
+      "Lorenzo Masoero"
+    ],
+    "canonical_id": "2611.23142",
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "3389aa4fac9ebd480034d21565165f0dc28df31db86bfacb4e6ed8671cff8fb3",
+    "first_seen_date": "2026-11-18",
+    "last_reported_date": "2026-11-18",
+    "last_seen_date": "2026-11-18",
+    "latest_version": 1,
+    "primary_category": "cs.SE",
+    "priority": "unscored",
+    "published": "2026-11-17T17:59:13Z",
+    "report_count": 1,
+    "title": "Mind the Gap: A Deployed Multi-Agent System for Documentation Maintenance",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-17T17:59:13Z"
+  },
+  "2611.23149": {
+    "authors": [
+      "Diana Laura Morales",
+      "Ruoyu Lin",
+      "Magnus Egerstedt",
+      "Fabio Pasqualetti"
+    ],
+    "canonical_id": "2611.23149",
+    "categories": [
+      "cs.RO",
+      "cs.LG",
+      "cs.MA",
+      "eess.SY"
+    ],
+    "content_hash": "1eaf33d8f0b4302cc918877611e41e613e7ef9c362950d05da4752c6ba18d560",
+    "first_seen_date": "2026-11-18",
+    "last_reported_date": "2026-11-18",
+    "last_seen_date": "2026-11-18",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-11-17T18:03:24Z",
+    "report_count": 1,
+    "title": "Capability Composition in Heterogeneous Teams via Barrier-Guided Diffusion Sampling",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-17T18:03:24Z"
+  },
+  "2611.23154": {
+    "authors": [
+      "Mridul Mahajan",
+      "Xuezhou Zhang",
+      "Aldo Pacchiano"
+    ],
+    "canonical_id": "2611.23154",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "e9e8cd8894a4e61b8cb0f4c198b41de01b2329f552290cbcf497bc04ce9b4681",
+    "first_seen_date": "2026-11-18",
+    "last_reported_date": "2026-11-18",
+    "last_seen_date": "2026-11-18",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-17T18:06:12Z",
+    "report_count": 1,
+    "title": "Learning Stratified Policies for Inference-Time Objectives",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-17T18:06:12Z"
+  },
+  "2611.23158": {
+    "authors": [
+      "Nikit Srivastava",
+      "Joel Dag",
+      "René Speck",
+      "Axel-Cyrille Ngonga Ngomo"
+    ],
+    "canonical_id": "2611.23158",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "8a1e0c00413dd447d19f09dcf8f1384a1ca167ebbb3588b58a9830b67813086e",
+    "first_seen_date": "2026-11-18",
+    "last_reported_date": "2026-11-18",
+    "last_seen_date": "2026-11-18",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-17T18:11:42Z",
+    "report_count": 1,
+    "title": "MoE--LoRA Methods for Multilingual Adaptation: A Systematic Empirical Study",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-17T18:11:42Z"
+  },
+  "2611.23174": {
+    "authors": [
+      "Florian Gunsilius",
+      "David Van Dijcke",
+      "Kaspar Wüthrich"
+    ],
+    "canonical_id": "2611.23174",
+    "categories": [
+      "stat.ME",
+      "cs.AI",
+      "econ.EM"
+    ],
+    "content_hash": "4a27959e702a213a266d0e4d6b13302efcb63f641bfe2bf40372097d2a877dc0",
+    "first_seen_date": "2026-11-18",
+    "last_reported_date": "2026-11-18",
+    "last_seen_date": "2026-11-18",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-11-17T18:22:01Z",
+    "report_count": 1,
+    "title": "Inference after coding agents",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-17T18:22:01Z"
+  },
+  "2611.23179": {
+    "authors": [
+      "Hansang Lee"
+    ],
+    "canonical_id": "2611.23179",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "856cd532e9144515e81fed8d8db00d4fc6fce5980e480faafe2db7179bb34fc8",
+    "first_seen_date": "2026-11-18",
+    "last_reported_date": "2026-11-18",
+    "last_seen_date": "2026-11-18",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-17T18:24:58Z",
+    "report_count": 1,
+    "title": "Say Less, Hallucinate Less? Diagnosing and Restoring Object Coverage in Preference-Optimized Vision-Language Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-17T18:24:58Z"
+  },
+  "2611.23192": {
+    "authors": [
+      "Almog Anschel",
+      "Sarah Keren"
+    ],
+    "canonical_id": "2611.23192",
+    "categories": [
+      "cs.AI",
+      "cs.LG",
+      "cs.RO"
+    ],
+    "content_hash": "9dfc005f047eda71c88472ec584780f6d4879d6cf691c41cf658508d99c40f03",
+    "first_seen_date": "2026-11-18",
+    "last_reported_date": "2026-11-18",
+    "last_seen_date": "2026-11-18",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-17T18:35:53Z",
+    "report_count": 1,
+    "title": "WoRD: Diffusion-Based Posterior Inference for Online Goal Recognition",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-17T18:35:53Z"
+  },
+  "2611.23198": {
+    "authors": [
+      "Nukhbala Gadzhiev",
+      "Alexander Morochko"
+    ],
+    "canonical_id": "2611.23198",
+    "categories": [
+      "cs.LG",
+      "cs.RO"
+    ],
+    "content_hash": "5355e325293a9c0665707267b7180384fa558f56424a65cbaa1f441263d65f77",
+    "first_seen_date": "2026-11-18",
+    "last_reported_date": "2026-11-18",
+    "last_seen_date": "2026-11-18",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-17T18:38:28Z",
+    "report_count": 1,
+    "title": "Learned versus Kinematic Trajectory Prediction under Reduced Observation Frequency",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-17T18:38:28Z"
+  },
+  "2611.23202": {
+    "authors": [
+      "Viet K. Nguyen",
+      "Mohammad I. Husain"
+    ],
+    "canonical_id": "2611.23202",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "a4ed36ae005ae7bc48c94d0c1f83de5974979cb0563e437b5ae8f71c434982b4",
+    "first_seen_date": "2026-11-18",
+    "last_reported_date": "2026-11-18",
+    "last_seen_date": "2026-11-18",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-17T18:44:25Z",
+    "report_count": 1,
+    "title": "Agent Trust Infrastructure (ATI): A Federated Identity, Trust, Attestation, and Accountability Architecture for Cross-Organization Autonomous AI Agents",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-17T18:44:25Z"
+  },
+  "2611.23206": {
+    "authors": [
+      "Tongxi Wu",
+      "Yuyang Cheng",
+      "Jiacheng Xian",
+      "Menglin Yang",
+      "Kai Chen",
+      "Jian Zhang",
+      "Yang Gao"
+    ],
+    "canonical_id": "2611.23206",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "0df40ac8e6a2cdcedf20f9ba84265a4632d10539598af89337e74403b607f509",
+    "first_seen_date": "2026-11-18",
+    "last_reported_date": "2026-11-18",
+    "last_seen_date": "2026-11-18",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-17T18:48:02Z",
+    "report_count": 1,
+    "title": "Reading Scene States: Uncovering Safety Failures in Vision-Language Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-17T18:48:02Z"
+  },
+  "2611.23208": {
+    "authors": [
+      "Aviv Yossef",
+      "Or Patashnik",
+      "Or Zamir"
+    ],
+    "canonical_id": "2611.23208",
+    "categories": [
+      "cs.LG",
+      "cs.CR",
+      "cs.CV"
+    ],
+    "content_hash": "c00a8b30cf94edb489f9149bc689a3534b3529040d7a48d8d7741e714787735c",
+    "first_seen_date": "2026-11-18",
+    "last_reported_date": "2026-11-18",
+    "last_seen_date": "2026-11-18",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-17T18:49:17Z",
+    "report_count": 1,
+    "title": "Distortion-Free Semantic Watermarks for Black-Box Generative Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-17T18:49:17Z"
+  },
+  "2611.23216": {
+    "authors": [
+      "Yining Hua"
+    ],
+    "canonical_id": "2611.23216",
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "65bc35fd1e9bd3fab7703a02789769c2f41abf1ceae1e17b8cfa67abfad71a86",
+    "first_seen_date": "2026-11-18",
+    "last_reported_date": "2026-11-18",
+    "last_seen_date": "2026-11-18",
+    "latest_version": 1,
+    "primary_category": "cs.SE",
+    "priority": "unscored",
+    "published": "2026-11-17T18:56:42Z",
+    "report_count": 1,
+    "title": "Higher-Scoring Coding Models Did Not Get More Work Done",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-17T18:56:42Z"
+  },
+  "2611.23218": {
+    "authors": [
+      "S. M Seefat Alam"
+    ],
+    "canonical_id": "2611.23218",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "9a977f29d9b4dbb31acd5cb4a010053ad1707a8e281b92a8db21bd7b62762141",
+    "first_seen_date": "2026-11-18",
+    "last_reported_date": "2026-11-18",
+    "last_seen_date": "2026-11-18",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-17T18:57:08Z",
+    "report_count": 1,
+    "title": "What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-17T18:57:08Z"
+  },
+  "2611.23219": {
+    "authors": [
+      "Shobhita Sundaram",
+      "Cansu Sancaktar",
+      "Phillip Isola"
+    ],
+    "canonical_id": "2611.23219",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "c9f66fad8cda18c732896da59206d7adaa83208091b8e697b43e1fc3e47b1845",
+    "first_seen_date": "2026-11-18",
+    "last_reported_date": "2026-11-18",
+    "last_seen_date": "2026-11-18",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-17T18:57:10Z",
+    "report_count": 1,
+    "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-17T18:57:10Z"
+  },
+  "2611.23225": {
+    "authors": [
+      "Xingyang Yu"
+    ],
+    "canonical_id": "2611.23225",
+    "categories": [
+      "hep-th",
+      "cs.AI"
+    ],
+    "content_hash": "ebc662ff489503ccc7e3c035d5668568e35ad97f9498dc7bbf1ccf654cf8a7bc",
+    "first_seen_date": "2026-11-18",
+    "last_reported_date": "2026-11-18",
+    "last_seen_date": "2026-11-18",
+    "latest_version": 1,
+    "primary_category": "hep-th",
+    "priority": "unscored",
+    "published": "2026-11-17T18:58:40Z",
+    "report_count": 1,
+    "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-17T18:58:40Z"
+  },
+  "2611.23228": {
+    "authors": [
+      "Rui Ning",
+      "Om Chabra",
+      "Hari Balakrishnan"
+    ],
+    "canonical_id": "2611.23228",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "28f0a426eaf5722c8143d1ad769c23067db3153433de0f189d2f609bb13ef0bf",
+    "first_seen_date": "2026-11-18",
+    "last_reported_date": "2026-11-18",
+    "last_seen_date": "2026-11-18",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-17T18:59:27Z",
+    "report_count": 1,
+    "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-17T18:59:27Z"
+  },
+  "2611.23229": {
+    "authors": [
+      "Giannis Daras",
+      "Marios Papachristou",
+      "Adam Klivans",
+      "Antonio Torralba",
+      "Constantinos Daskalakis"
+    ],
+    "canonical_id": "2611.23229",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "9ce8029945005512721f2b834514cd4c528014976b31f0e70117d1490ee3521f",
+    "first_seen_date": "2026-11-18",
+    "last_reported_date": "2026-11-18",
+    "last_seen_date": "2026-11-18",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-17T18:59:37Z",
+    "report_count": 1,
+    "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-17T18:59:37Z"
   }
 }
