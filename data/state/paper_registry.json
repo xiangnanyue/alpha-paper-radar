@@ -90685,7 +90685,7 @@
     "content_hash": "5a26960a98588ad501beb20074fc52796b781f2afd18172c5b1c52c60880f438",
     "first_seen_date": "2026-11-18",
     "last_reported_date": "2026-11-18",
-    "last_seen_date": "2026-11-18",
+    "last_seen_date": "2026-11-19",
     "latest_version": 1,
     "primary_category": "q-fin.PM",
     "priority": "unscored",
@@ -91301,5 +91301,702 @@
       "llm_progress"
     ],
     "updated": "2026-11-17T18:59:37Z"
+  },
+  "2611.23952": {
+    "authors": [
+      "Dominik Ammon",
+      "Julian Heinz"
+    ],
+    "canonical_id": "2611.23952",
+    "categories": [
+      "econ.EM"
+    ],
+    "content_hash": "d0350cb46180059c93b6a835ad7f6f10c6b8df38fc5f8e7188497edc24292a11",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "econ.EM",
+    "priority": "unscored",
+    "published": "2026-11-18T06:41:37Z",
+    "report_count": 1,
+    "title": "Exploiting Common Volatility Dynamics in High-Dimensional Portfolio Selection",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-11-18T06:41:37Z"
+  },
+  "2611.24798": {
+    "authors": [
+      "Valeria Repetto",
+      "Romina D'Aurizio",
+      "Piero Farinelli"
+    ],
+    "canonical_id": "2611.24798",
+    "categories": [
+      "quant-ph",
+      "cs.AI"
+    ],
+    "content_hash": "f22f33030c1d44c2085960285e1c93c287dd4fae29ef5887f2f8a091448211c2",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "quant-ph",
+    "priority": "unscored",
+    "published": "2026-11-18T17:41:45Z",
+    "report_count": 1,
+    "title": "Soft Mixture of Quantum Experts for Hybrid Quantum-Classical Learning",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-18T17:41:45Z"
+  },
+  "2611.24809": {
+    "authors": [
+      "Disen Lan",
+      "Xuanda Wang",
+      "Jianbin Zheng",
+      "Huafeng Kuang",
+      "Wei Tang",
+      "Yu Cheng"
+    ],
+    "canonical_id": "2611.24809",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "2949d4603f0046b9cbc37d7675473b5725c116722dd223f191142672863eda45",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-18T17:45:51Z",
+    "report_count": 1,
+    "title": "On-Policy Morphing into Hybrid Attention Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-18T17:45:51Z"
+  },
+  "2611.24827": {
+    "authors": [
+      "Ege Artan",
+      "Shuo Chen",
+      "Andrew Peng",
+      "Sammuel Aldrich Karya",
+      "Kyaw Thiha"
+    ],
+    "canonical_id": "2611.24827",
+    "categories": [
+      "cs.LG",
+      "cs.CV",
+      "eess.SP"
+    ],
+    "content_hash": "62a35415b5832fe8d9995eb56f53fa07805280fe55c8f85069c7d8230aa3b172",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-18T17:58:21Z",
+    "report_count": 1,
+    "title": "Synthesizing hyperspectral Data using generative Models to train spectral Unmixing Methods for low-cost Crop Residue Cover Mapping",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-18T17:58:21Z"
+  },
+  "2611.24830": {
+    "authors": [
+      "Haoran Ye",
+      "Tianrui Huo",
+      "Hangzhen Li",
+      "Xin Zhang",
+      "Guojie Song"
+    ],
+    "canonical_id": "2611.24830",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.HC"
+    ],
+    "content_hash": "c9dcf98b5e117ddb9de596df4792c741a08fe5f3a35f58786fc0e11b4acb1298",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-18T17:59:08Z",
+    "report_count": 1,
+    "title": "A Foundation Model to Measure and Predict Human Behaviour",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-18T17:59:08Z"
+  },
+  "2611.24831": {
+    "authors": [
+      "Jacek Karolczak",
+      "Jerzy Stefanowski"
+    ],
+    "canonical_id": "2611.24831",
+    "categories": [
+      "cs.LG",
+      "cs.HC"
+    ],
+    "content_hash": "94d0d5185c8df3b0883b7c137ae331d26ee2c530c8965dff0883091bda122430",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-18T18:00:55Z",
+    "report_count": 1,
+    "title": "Overlooked and Underutilized: Prototypes are the Missing Piece in Tabular XAI",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-18T18:00:55Z"
+  },
+  "2611.24837": {
+    "authors": [
+      "Sandra Dening",
+      "Emre Kavak",
+      "Christian Wachinger",
+      "George H. Chen"
+    ],
+    "canonical_id": "2611.24837",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "90858f77452b7fcef16289996eb458be14610f0b0201bacf5c58dd7f84db5bef",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-18T18:03:25Z",
+    "report_count": 1,
+    "title": "What Survival Benchmarks Don't Tell You: Impact of Model Selection and Dataset Regimes",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-18T18:03:25Z"
+  },
+  "2611.24839": {
+    "authors": [
+      "Tushin Mallick",
+      "Evan Rose",
+      "Matthew Laws",
+      "Alina Oprea",
+      "Cristina Nita-Rotaru"
+    ],
+    "canonical_id": "2611.24839",
+    "categories": [
+      "cs.MA",
+      "cs.LG"
+    ],
+    "content_hash": "dddc0ad2f4b60570aa033a1740518dc32676e43e7aa0b64f8720debe4cc00921",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "cs.MA",
+    "priority": "unscored",
+    "published": "2026-11-18T18:05:47Z",
+    "report_count": 1,
+    "title": "Kaer: Security-Aware Replanning for Multi-Agent Systems",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-18T18:05:47Z"
+  },
+  "2611.24840": {
+    "authors": [
+      "Binay Kumar Singh",
+      "Niels Da Vitoria Lobo"
+    ],
+    "canonical_id": "2611.24840",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.LG",
+      "cs.RO"
+    ],
+    "content_hash": "47f4796c0e7773a392120b5a955480edc90979355d53756caf7bb13b2086d8f4",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-18T18:06:20Z",
+    "report_count": 1,
+    "title": "Does the Action Matter? Probing Action-Conditioned Semantic Forecasting as a World Model for Autonomous Driving",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-18T18:06:20Z"
+  },
+  "2611.24843": {
+    "authors": [
+      "Favour Nerrise",
+      "Julian Busch",
+      "Gurpreet Singh Hora",
+      "Martin Sipka",
+      "Danielle C. Maddix",
+      "Georgia Olympia Brikis"
+    ],
+    "canonical_id": "2611.24843",
+    "categories": [
+      "cs.LG",
+      "physics.flu-dyn"
+    ],
+    "content_hash": "ab8f2960fd5be4ee61ed0cfad3464910ae8f4edeb39ba50d7bf63c71b46f8c51",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-18T18:07:43Z",
+    "report_count": 1,
+    "title": "Measuring and Improving Transfer of Neural Surrogates for Vehicle Aerodynamics",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-18T18:07:43Z"
+  },
+  "2611.24845": {
+    "authors": [
+      "Haozhe Wu",
+      "Zhonghang Li",
+      "Chao Huang"
+    ],
+    "canonical_id": "2611.24845",
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.MA",
+      "q-fin.CP",
+      "q-fin.TR"
+    ],
+    "content_hash": "1bc692cb3a61f37b665eabedcd65e23ef6813b5bbcc81b10cf0e3ffb1b9408c8",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-18T18:07:57Z",
+    "report_count": 1,
+    "title": "Vibe-Trading: Towards Agent-Native Trading",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-18T18:07:57Z"
+  },
+  "2611.24846": {
+    "authors": [
+      "Jiashu Li",
+      "Tianyu Gao",
+      "Qinglong Liu",
+      "Jinping Wang",
+      "Ye Wei",
+      "Zhiqiang Gao"
+    ],
+    "canonical_id": "2611.24846",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "e37661857da35ab90d15bfe377ad17204dde5a70e1d5562594b625d0d6b65c6b",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-18T18:08:08Z",
+    "report_count": 1,
+    "title": "Atomic MathReasoner: Instance-Level Composition of Atomic Reasoning Skills for Mathematical LLMs",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-18T18:08:08Z"
+  },
+  "2611.24849": {
+    "authors": [
+      "Eugene Agichtein",
+      "Charles L. A. Clarke",
+      "Kaustubh Dhole",
+      "William Stern"
+    ],
+    "canonical_id": "2611.24849",
+    "categories": [
+      "cs.IR",
+      "cs.CL"
+    ],
+    "content_hash": "702696968be7f4d7fb1374eab4c9b7d34947c198da4ee57dbf6b2203d5039026",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "cs.IR",
+    "priority": "unscored",
+    "published": "2026-11-18T18:09:16Z",
+    "report_count": 1,
+    "title": "Can Programs Replace LLM Judges? Executable Program Judges for Scalable and Efficient Relevance Labeling",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-18T18:09:16Z"
+  },
+  "2611.24867": {
+    "authors": [
+      "Ruiqi Liu",
+      "Jinming Li",
+      "Mo Wang",
+      "Yang Lu",
+      "Yanlan Kang"
+    ],
+    "canonical_id": "2611.24867",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "dae83c80d01fc4c6cab8d2c805c873f3c225d9585522e70d8df9cf01271be690",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-18T18:20:12Z",
+    "report_count": 1,
+    "title": "Choosing What to Observe: Budget-Paired Counterfactual Audits for Credible Evaluation of Visual Agents",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-18T18:20:12Z"
+  },
+  "2611.24876": {
+    "authors": [
+      "Beyazit Yalcinkaya",
+      "Ethan Pronovost",
+      "Maximilian Naumann",
+      "Marcell Vazquez-Chanlatte"
+    ],
+    "canonical_id": "2611.24876",
+    "categories": [
+      "cs.RO",
+      "cs.LG"
+    ],
+    "content_hash": "1ed5f1901cd6de5e22b93c4e626deae38de5f0223c4414ca57f6b1910773fb51",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-11-18T18:23:29Z",
+    "report_count": 1,
+    "title": "Learning to Interact in Multi-Agent Self-Play for Controllable Autonomous Driving Scenario Generation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-18T18:23:29Z"
+  },
+  "2611.24877": {
+    "authors": [
+      "Zhiyu Liu",
+      "Xinyu Yang"
+    ],
+    "canonical_id": "2611.24877",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "6e7176413444bcd04243332b8d17063384d5aa5bc6e9b8ff72b35cf72b96cb8d",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-18T18:24:54Z",
+    "report_count": 1,
+    "title": "Auditing black-box clinical prediction models with a large language model through queries alone: a blinded test with planted flaws",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-18T18:24:54Z"
+  },
+  "2611.24880": {
+    "authors": [
+      "Yuzhuo Li",
+      "Pasan Gunawardena",
+      "Yunwei Li"
+    ],
+    "canonical_id": "2611.24880",
+    "categories": [
+      "cs.AI",
+      "eess.SY"
+    ],
+    "content_hash": "12e81a659ceb088c4c8366bc4fdb20d1623d351bfb8246af07a2831048811b3e",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-18T18:27:40Z",
+    "report_count": 1,
+    "title": "Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Costs",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-18T18:27:40Z"
+  },
+  "2611.24881": {
+    "authors": [
+      "Lee Cohen",
+      "Jon Kleinberg",
+      "Omer Reingold"
+    ],
+    "canonical_id": "2611.24881",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "84bb9ca506bff3e97509551fee9232223bdbf4aff9ac5b4285faa06da286fd7f",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-18T18:27:52Z",
+    "report_count": 1,
+    "title": "Monoculture Robust Learning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-18T18:27:52Z"
+  },
+  "2611.24887": {
+    "authors": [
+      "Samson Yu",
+      "Qiran Zou",
+      "Jing Yu Lim",
+      "Rushi Shah",
+      "Anirudh Goyal",
+      "Dianbo Liu"
+    ],
+    "canonical_id": "2611.24887",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "b6d30e80c440a3ce185f7770ae324e42311a690ccd23aeb182fb2164fde2751d",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-18T18:31:37Z",
+    "report_count": 1,
+    "title": "Ground, Iterate, Trace: Decomposing AI Research Ideation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-18T18:31:37Z"
+  },
+  "2611.24888": {
+    "authors": [
+      "Muhammad Rizky Wellyanto",
+      "Hajara-Yasmin Isa",
+      "Kexin Xue",
+      "Vishal Ravichandran",
+      "Wenpeng Lu",
+      "Jerry O. Talton",
+      "Ranjitha Kumar"
+    ],
+    "canonical_id": "2611.24888",
+    "categories": [
+      "cs.HC",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "b50d8ec9b90b56d6333f800d96b7dd1b080299bcdc7d522faff2b82bcaf02cbe",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "cs.HC",
+    "priority": "unscored",
+    "published": "2026-11-18T18:32:14Z",
+    "report_count": 1,
+    "title": "Who are you? The Personal Imitation Game",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-18T18:32:14Z"
+  },
+  "2611.24892": {
+    "authors": [
+      "Hengguang Zhou",
+      "I-Hung Hsu",
+      "Li Chen",
+      "Priyanshi Shrivastava",
+      "Anastasios Angelopoulos",
+      "Wei-Lin Chiang",
+      "Ion Stoica",
+      "Cho-Jui Hsieh"
+    ],
+    "canonical_id": "2611.24892",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "3e3bd86b7f0176c6a2f5b967a93f9dcbbac5c7318b37d17191fe6148c3b7f79c",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-18T18:34:23Z",
+    "report_count": 1,
+    "title": "On Evaluating User Simulators for Interactive Agents",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-18T18:34:23Z"
+  },
+  "2611.24924": {
+    "authors": [
+      "Jiahang Lin",
+      "Jiahao Chen",
+      "Yiding Wang",
+      "Shichun Liu",
+      "Chengjun Pan",
+      "Shihan Dou",
+      "Honglin Guo",
+      "Yuyang Hu",
+      "Changhao Jiang",
+      "Zhenhua Han",
+      "Hang Yan",
+      "Qi Zhang",
+      "Tao Gui",
+      "Xuanjing Huang"
+    ],
+    "canonical_id": "2611.24924",
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "content_hash": "86c8ae9f8d8cb9020ead9ea3a5a85a6911a8eeb1f3fc739f0f026a0a39c53309",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "cs.SE",
+    "priority": "unscored",
+    "published": "2026-11-18T18:52:13Z",
+    "report_count": 1,
+    "title": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-18T18:52:13Z"
+  },
+  "2611.24927": {
+    "authors": [
+      "Sarah H. Cen",
+      "Lindsey A. Gailmard",
+      "Joohan Kim",
+      "Rishi Bommasani",
+      "Daniel E. Ho",
+      "Percy Liang"
+    ],
+    "canonical_id": "2611.24927",
+    "categories": [
+      "cs.CY",
+      "cs.AI"
+    ],
+    "content_hash": "032964a5683ba7d28c386763fd54ea78353bdc7663ecee9009863169a6d55303",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "cs.CY",
+    "priority": "unscored",
+    "published": "2026-11-18T18:53:58Z",
+    "report_count": 1,
+    "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-18T18:53:58Z"
+  },
+  "2611.24932": {
+    "authors": [
+      "Priyanka Sinha",
+      "Sugam Pandey"
+    ],
+    "canonical_id": "2611.24932",
+    "categories": [
+      "cs.AI",
+      "cs.CE",
+      "cs.HC",
+      "cs.LG"
+    ],
+    "content_hash": "bd1f85b9a6992812ff9e5d5e91f6e630f44f7c8a04d21cb8e63cc32690fe025e",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-18T18:55:07Z",
+    "report_count": 1,
+    "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-18T18:55:07Z"
+  },
+  "2611.24936": {
+    "authors": [
+      "Yan Qiu",
+      "Yuanyuan Li"
+    ],
+    "canonical_id": "2611.24936",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "a4c6a69965b8fdda021731541f691f2c504fe4314a9dbff84bb64b4b9bd82f0f",
+    "first_seen_date": "2026-11-19",
+    "last_reported_date": "2026-11-19",
+    "last_seen_date": "2026-11-19",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-18T18:56:12Z",
+    "report_count": 1,
+    "title": "Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-18T18:56:12Z"
   }
 }
