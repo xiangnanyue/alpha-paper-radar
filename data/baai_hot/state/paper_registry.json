@@ -59,6 +59,44 @@
     "title": "ProBA: Probabilistic Bundle Adjustment with the Bhattacharyya Coefficient",
     "topics": []
   },
+  "0eb5b606-5523-46db-849c-9f565bc9156e": {
+    "authors": [
+      "Jingang Qu",
+      "Valter Hudovernik",
+      "Martin Jurkovič",
+      "Cedric Lorenz",
+      "David Holzmüller",
+      "Federico Lopez",
+      "Dmitry Gordeev",
+      "Akihiro Nitta",
+      "Ramona Bendias",
+      "Ardrian Wong"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/0eb5b606-5523-46db-849c-9f565bc9156e",
+    "first_hotness": 249,
+    "first_seen_date": "2026-11-20",
+    "hotness_delta": 0,
+    "id": "0eb5b606-5523-46db-849c-9f565bc9156e",
+    "last_seen_date": "2026-11-20",
+    "latest_hotness": 249,
+    "matched_keywords": {},
+    "observations": [
+      {
+        "date": "2026-11-20",
+        "hotness": 249,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 249,
+    "priority": "unscored",
+    "published": "2026-11-17",
+    "summary": "我们推出了“Kumo Tabular”系列——一组面向分类与回归任务的开源表格基础模型，共包含三种规模：Kumo Tabular-S（2700 万参数）、Kumo Tabular-M（6100 万参数）和 Kumo Tabular-L（2.14 亿参数）。该系列模型仅在基于 Kumo 先验生成的人工表格数据上进行预训练，即可直接对全新表格执行零样本预测，无需任何微调。在我们的方法中，一个表格编码器将每行数据压缩为一个嵌入向量，再由一个支持上下文学习的 Transformer 模型，根据已标注的行来预测未标注的行。Kumo Tabular 引入了多项架构创新，显著提升了训练稳定性与预测性能，使模型得以在现代 GPU 上高效处理高达 1.5 亿单元格（cells）的大规模表格。在八项权威基准测试中——TabArena、TALENT、BeyondArena、ScoringBench、STRABLE、MulTaBench、RamanBench 和 TabBench-Bio——Kumo Tabular-L 均位列第一。这些基准涵盖概率回归任务、行数超百万或列数超十万的超大规模表格，以及包含字符串、文本乃至图像等异构字段的复杂表格。在所有已开展的对比实验中，模型精度均随参数规模增大而持续提升。三种尺寸的模型均位于 TabArena 和 BeyondArena 基准所定义的“精度–速度”前沿曲线上。具体而言，Kumo Tabular-L 的推理速度显著优于其他领先模型：在 TabArena 上比次优模型 LimiX-2 快 36 倍，在 BeyondArena 上比次优模型 TabPFN-3.5 快 1.7 倍。模型权重以 OpenMDW-1.1 许可证开源，预训练代码则采用 Apache 2.0 许可证发布。",
+    "title": "NVIDIA Kumo Tabular: Pushing the Accuracy$\\unicode{8211}$Efficiency Frontier for Tabular Prediction",
+    "topics": []
+  },
   "11d87dd8-b1f3-4811-a841-a32028697677": {
     "authors": [
       "Róbert Csordás",
@@ -97,6 +135,85 @@
     "topics": [
       "deep_learning_sota"
     ]
+  },
+  "1f4aaa06-af3c-4364-abc2-b7019a2d7666": {
+    "authors": [
+      "Xiaoyu Wu",
+      "Yifei Wang",
+      "Weihang Guo",
+      "Chen Wei",
+      "Lydia E Kavraki",
+      "Niloofar Mireshghallah",
+      "Steven Wu"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/1f4aaa06-af3c-4364-abc2-b7019a2d7666",
+    "first_hotness": 66,
+    "first_seen_date": "2026-11-20",
+    "hotness_delta": 0,
+    "id": "1f4aaa06-af3c-4364-abc2-b7019a2d7666",
+    "last_seen_date": "2026-11-20",
+    "latest_hotness": 66,
+    "matched_keywords": {
+      "deep_learning_sota": [
+        "diffusion model"
+      ]
+    },
+    "observations": [
+      {
+        "date": "2026-11-20",
+        "hotness": 66,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 66,
+    "priority": "unscored",
+    "published": "2026-11-17",
+    "summary": "像素空间扩散模型（pixel-space diffusion）在单一端到端训练阶段中，同步学习视觉表征与图像生成，无需依赖单独预训练的视觉编码器。然而，朴素的像素空间Transformer架构在生成质量与训练效率方面，仍落后于当前领先的两阶段潜在扩散模型（latent diffusion models）。我们推测，这一性能差距的部分原因在于：其主干网络（backbone）在整个处理过程中始终维持“每图像块对应一个token”的固定映射关系，未能显式地构建一种视觉层次结构——即逐级抽象、由细至粗地对相关视觉内容进行汇总表征。为解决该问题，我们提出分层扩散Transformer（Hierarchical Diffusion Transformers, HiT），其核心机制是逐步将语义相关的token聚合成组，并以单个token代表每个组。主干Transformer的瓶颈层（bottleneck）仅处理这些高度压缩后的组token；随后通过“解组”（ungrouping）操作，将特征恢复至原始图像的空间位置。模型引入一个压缩预算（compression budget）机制，用于约束整个批次（batch）的平均压缩比；该机制允许聚类成员构成与组数量，在训练和生成过程中随不同图像及扩散时间步（timestep）动态变化。值得注意的是，HiT展现出自发涌现的语义结构：它能在完全不依赖分割标注（segmentation labels）的情况下，自主学习将语义连贯的物体及其部件聚类。在文生图（text-to-image）任务中，HiT进一步学会将文本描述中的词语与图像中表征相同概念的图像块（patches）自动关联并聚类，且无需任何区域级（region-level）标注监督。实验结果表明：在ImageNet 256×256数据集上，HiT取得1.48的FID分数；其生成质量与JiT相当，但累计训练所需浮点运算量（FLOPs）仅约为JiT的40%。在文生图任务中，HiT在五个主流基准上的平均得分超越UniLiP，同时其去噪器（denoiser）参数量约为UniLiP的1/6，前向推理所需FLOPs约为其1/3。上述成果表明：在生成器内部直接学习视觉层次结构，可有效突破强图像生成能力对额外视觉预训练的依赖，从而为构建更高效、更自洽的端到端生成范式开辟新路径。",
+    "title": "Hierarchical Diffusion Transformer for End-to-End Image Generation",
+    "topics": [
+      "deep_learning_sota"
+    ]
+  },
+  "22039732-ac74-4382-9f78-3bddc7371af3": {
+    "authors": [
+      "Andrew Leaver-Fay",
+      "Kieran Didi",
+      "Jeff Flatten",
+      "Alex Ford",
+      "Guangfeng Zhou",
+      "Nathaniel Corley",
+      "Hahnbeom Park",
+      "Maxwell W. Kazman",
+      "Rafael I. Brent",
+      "Joseph Kleinhenz"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/22039732-ac74-4382-9f78-3bddc7371af3",
+    "first_hotness": 73,
+    "first_seen_date": "2026-11-20",
+    "hotness_delta": 0,
+    "id": "22039732-ac74-4382-9f78-3bddc7371af3",
+    "last_seen_date": "2026-11-20",
+    "latest_hotness": 73,
+    "matched_keywords": {},
+    "observations": [
+      {
+        "date": "2026-11-20",
+        "hotness": 73,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 73,
+    "priority": "unscored",
+    "published": "2026-11-16",
+    "summary": "受物理学启发的力场可与生成式机器学习模型相互补充，从而在训练分布之外展现出更优的泛化能力。然而，这类力场通常计算耗时较长，且其导数难以无缝集成到机器学习框架中。为此，我们推出了 tmol——一个原生支持 GPU 加速、基于 PyTorch 构建的开源库，实现了当前最先进的 RosettaGenFF 力场。tmol 支持高效批量化的可微分打分（differentiable scoring）以及全结构优化（whole-structure refinement），在批处理模式下最高可实现 362 倍的吞吐量提升。当将其作为奖励函数应用于生成式蛋白质设计任务时，tmol 能显著提升所设计蛋白界面处的氢键数量及水桥数量。",
+    "title": "tmol: a GPU-accelerated implementation of the Rosetta energy function for machine learning",
+    "topics": []
   },
   "2a13362b-1b49-4848-8d76-638beb432a9f": {
     "authors": [
@@ -199,6 +316,50 @@
     "published": "2026-11-11",
     "summary": "神经尺度定律可用于预测增大训练数据集所带来的性能提升，但机器学习原子间势（MLIP）的数据集具有高度异质性，且生成成本高昂；相同数量的结构未必蕴含等量的有效信息。本文在固定模型配置的前提下，研究了M3GNet、MACE和PET三种模型在MatPES-MP-ALOE联合训练池子集上的数据规模扩展规律。实验覆盖了从10,000至640,000个训练结构的多个子集，并包含全部含116万个结构的完整训练集；对比了五种采样策略：均匀随机采样、三种基于化学组成与结构特征的分层采样策略、迭代式DIRECT采样，以及利用三个预训练MLIP模型所提取嵌入表示进行的最远点采样（furthest-point sampling）。模型评估采用内聚能、原子力、应力及综合损失四项指标，并分别在两个测试集上进行：一是从原始母分布中独立留出的测试集，二是分布发生偏移的MP-r²SCAN测试集。我们观察到，随着训练数据量增加，各项指标普遍呈现幂律形式的性能提升；但拟合所得的幂律指数、表观误差下限（apparent error floor）以及相对采样效率，均显著依赖于模型架构、预测目标量（如能量、力或应力）、数据采样策略，以及测试集所属的分布类型。值得注意的是，不同采样策略的优劣排序会随测试分布的改变而发生反转：例如，基于化学组成的分层采样可能提升跨数据集泛化能力，却同时损害对原始分布的拟合精度；而基于嵌入空间多样性的采样策略则往往表现不如随机采样。此外，模型在测试集上的相对损失与测试集和训练集在化学空间中的偏离程度呈强相关性。上述结果表明，结构数量虽是MLIP规模扩展中不可或缺的变量，却远非充分变量。在训练MLIP时，额外开展的第一性原理计算所能带来的收益，不仅取决于新增结构的数量，更关键地取决于这些结构在化学组成与原子构型上的内容，是否契合该势函数模型预期部署的具体应用场景。",
     "title": "Are Scaling Laws of Universal MLIPs Universal?",
+    "topics": [
+      "deep_learning_sota"
+    ]
+  },
+  "39e859ab-cbbb-4776-8165-fd13c8deeeee": {
+    "authors": [
+      "Zhihan Yang",
+      "Wei Guo",
+      "Jean-Marie Lemercier",
+      "Simon Welker",
+      "Yonggan Fu",
+      "Mohammad Mahdi Kamani",
+      "Sajad Norouzi",
+      "Julius Berner",
+      "Tomas Geffner",
+      "Karsten Kreis"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/39e859ab-cbbb-4776-8165-fd13c8deeeee",
+    "first_hotness": 279,
+    "first_seen_date": "2026-11-20",
+    "hotness_delta": 0,
+    "id": "39e859ab-cbbb-4776-8165-fd13c8deeeee",
+    "last_seen_date": "2026-11-20",
+    "latest_hotness": 279,
+    "matched_keywords": {
+      "deep_learning_sota": [
+        "diffusion model"
+      ]
+    },
+    "observations": [
+      {
+        "date": "2026-11-20",
+        "hotness": 279,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 279,
+    "priority": "unscored",
+    "published": "2026-10-02",
+    "summary": "尽管离散型扩散语言模型（dLMs）在实现快速并行解码方面已取得成功，但其非光滑、高维的隐空间严重制约了对生成轨迹的可控引导，从而阻碍了推理能力与推理加速效果的提升。为解决这一问题，我们提出了 Sigma——首个基于可引导、低维常微分方程（ODE）/随机微分方程（SDE）隐变量轨迹构建的大规模（30亿/80亿参数）连续型扩散语言模型。Sigma 采用分块式训练策略，以似然最大化为目标进行优化；在训练过程中，模型同步完成两项任务：一是对受高斯噪声污染的词元嵌入（token embeddings）进行去噪，二是学习最优的嵌入空间几何结构。为加快训练收敛速度，Sigma 利用预训练自回归（AR）模型的权重作为初始化起点（warm-starting）。在推理阶段，我们发现无分类器引导（classifier-free guidance）与分数温度（score temperature）调控是保障高质量推理与代码生成能力的关键技术要素。在涵盖数学推理与程序生成的全面评测中，Sigma 在多项前沿离散模型（包括掩码式 dLM 和 AR 基线模型）对比下表现优异：在标准基准测试（如 GSM8K、Minerva、HumanEval、MBPP）上，仅经预训练即达到与离散模型相当的性能；而在更具挑战性的推理任务（如 MATH-500、AIME）上，经监督微调后亦展现出竞争力。除性能持平外，我们还揭示了连续型 dLM 所具有的若干关键结构性优势：（i）嵌入空间内的轨迹引导可有效调控质量与多样性之间的权衡关系，从而显著提升 pass@k 指标；（ii）连续轨迹具备良好的低步数（low NFEs）鲁棒性，支持平滑退化，并有利于高效知识蒸馏。上述发现确立了连续型扩散语言模型作为一种极具前景的新范式，有望推动高效语言生成技术的发展。",
+    "title": "Large Language Continuous Diffusion Models",
     "topics": [
       "deep_learning_sota"
     ]
@@ -316,7 +477,7 @@
     "first_seen_date": "2026-11-18",
     "hotness_delta": 0,
     "id": "4bfd477c-33c0-4c19-8799-fb19be9c6583",
-    "last_seen_date": "2026-11-19",
+    "last_seen_date": "2026-11-20",
     "latest_hotness": 658,
     "matched_keywords": {
       "llm_progress": [
@@ -333,6 +494,13 @@
       },
       {
         "date": "2026-11-19",
+        "hotness": 658,
+        "sources": [
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-20",
         "hotness": 658,
         "sources": [
           "weekly"
@@ -523,7 +691,7 @@
     "first_seen_date": "2026-11-18",
     "hotness_delta": 0,
     "id": "56ea7826-7904-4c50-af9c-a644c8ec2414",
-    "last_seen_date": "2026-11-19",
+    "last_seen_date": "2026-11-20",
     "latest_hotness": 890,
     "matched_keywords": {},
     "observations": [
@@ -536,6 +704,13 @@
       },
       {
         "date": "2026-11-19",
+        "hotness": 890,
+        "sources": [
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-20",
         "hotness": 890,
         "sources": [
           "weekly"
@@ -562,7 +737,7 @@
     "first_seen_date": "2026-06-05",
     "hotness_delta": 0,
     "id": "59d91cd2-f2e7-4c90-8324-14cc655a96ee",
-    "last_seen_date": "2026-11-19",
+    "last_seen_date": "2026-11-20",
     "latest_hotness": 1094,
     "matched_keywords": {},
     "observations": [
@@ -586,6 +761,13 @@
         "sources": [
           "weekly"
         ]
+      },
+      {
+        "date": "2026-11-20",
+        "hotness": 1094,
+        "sources": [
+          "weekly"
+        ]
       }
     ],
     "pdf_url": "",
@@ -594,6 +776,70 @@
     "published": "2026-04-03",
     "summary": "随着人工智能生成小说日益普及，关于作者身份与原创性的讨论正逐渐成为评判文字作品的核心议题。当前该领域多数研究聚焦于识别人工智能写作在表层语言特征（如用词、句法等）上的痕迹；而我们则另辟蹊径，探究是否能在不依赖任何风格化线索的前提下，仅凭话语层面的叙事选择——例如人物能动性（character agency）与时间顺序的断裂性（chronological discontinuity）——来有效区分人工智能生成的故事与人类创作的故事。为此，我们提出了“StoryScope”这一分析流程：它可自动构建一个细粒度、可解释的话语级叙事特征空间，涵盖10个维度。我们将StoryScope应用于一个平行语料库，其中包含10,272条写作提示，每条提示均由一位人类作者与五种大语言模型（LLM）分别作答，共生成61,608篇故事，每篇约5,000词，并为每篇故事提取304项叙事特征。实验表明，**单凭叙事特征本身**，即可在“人类 vs. 人工智能”二分类任务中达到93.2%的宏平均F1值（macro-F1），在六类别作者归属任务（即区分人类作者与五种不同LLM）中亦达68.4%的宏平均F1值；其性能几乎未受损失——相较同时融合风格线索的完整模型，仅下降不到3%。进一步分析发现，一套精简的30项核心叙事特征已能捕捉大部分判别信号：人工智能生成的故事倾向于过度阐释主题、偏好结构工整、线索单一的线性情节；而人类创作的故事则更常将主人公的选择呈现为道德上更为暧昧模糊的抉择，并展现出更强的时间复杂性（如多线并行、倒叙插叙、时序跳跃等）。此外，针对各模型所提取的“指纹式”叙事特征，可实现高精度的六类别作者归属：例如，Claude生成的故事在事件张力递进方面明显趋于平缓；GPT系列模型则显著偏爱使用梦境序列；Gemini则惯于依赖外部化的角色外貌描写。我们还发现，人工智能生成的故事在叙事空间中高度聚类，集中分布于一个相对狭小的区域；而人类创作的故事则在该空间中展现出更广泛的离散性与多样性。更广泛地看，这些结果表明：人类原创作品与人工智能生成小说之间的本质差异，不仅体现在表层写作风格上，更植根于其底层叙事建构逻辑的根本分歧；而这种叙事建构层面的差异，本身即可作为可靠、稳健且具解释力的判别依据。",
     "title": "StoryScope: Investigating idiosyncrasies in AI fiction",
+    "topics": []
+  },
+  "70f64118-4630-46be-890d-3e6cb6ea7151": {
+    "authors": [
+      "Sami BuGhanem",
+      "Francesco Capuano",
+      "Ahitagni Das",
+      "Richard Gao",
+      "Randall Balestriero"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/70f64118-4630-46be-890d-3e6cb6ea7151",
+    "first_hotness": 213,
+    "first_seen_date": "2026-11-20",
+    "hotness_delta": 0,
+    "id": "70f64118-4630-46be-890d-3e6cb6ea7151",
+    "last_seen_date": "2026-11-20",
+    "latest_hotness": 213,
+    "matched_keywords": {},
+    "observations": [
+      {
+        "date": "2026-11-20",
+        "hotness": 213,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 213,
+    "priority": "unscored",
+    "published": "2026-11-17",
+    "summary": "训练世界模型（WMs）依赖于处理大量高维数据，而这类数据通常需要被存储、加载至内存，并从内存传输至计算单元。理论上，原生GPU渲染可避免将大规模图像张量从内存搬运至计算核心，从而提升GPU利用率并加快训练速度。按需实时渲染还能在运行过程中动态施加视觉变化，以精确调控观测画面的感知外观，进而显著提升训练数据的多样性。为此，我们推出了 stable-envs——一个开源库，支持快速、原生GPU渲染，并可在多种仿真环境中灵活施加可控的视觉变化。通过直接在GPU上渲染图像观测，stable-envs 实现了端到端训练速度最高达1.33倍的加速，且完全不牺牲模型性能。除加速训练外，stable-envs 还借助批量物理仿真，支持可复现的大规模评估，同时严格保持全过程的确定性。目前，stable-envs 已兼容涵盖多个CPU与GPU后端的共计80个仿真环境，代码已开源，详见：https://github.com/galilai-group/stable-envs",
+    "title": "stable-envs-v1: Fast and Reproducible Environments with Controllable Variations",
+    "topics": []
+  },
+  "77a0c8d0-bfb3-4a74-b6cd-54a2dbfdcdef": {
+    "authors": [
+      "Sukjun Hwang",
+      "Brandon Wang",
+      "Albert Gu"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/77a0c8d0-bfb3-4a74-b6cd-54a2dbfdcdef",
+    "first_hotness": 64,
+    "first_seen_date": "2026-11-20",
+    "hotness_delta": 0,
+    "id": "77a0c8d0-bfb3-4a74-b6cd-54a2dbfdcdef",
+    "last_seen_date": "2026-11-20",
+    "latest_hotness": 64,
+    "matched_keywords": {},
+    "observations": [
+      {
+        "date": "2026-11-20",
+        "hotness": 64,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 64,
+    "priority": "unscored",
+    "published": "2025-07-10",
+    "summary": "近年来，语言模型（LM）领域取得了重大进展，这主要得益于从针对特定任务设计的专用模型转向基于强大架构（例如Transformer）的通用模型，后者能够完全从原始数据中进行学习。尽管存在这一趋势，诸如分词之类的预处理步骤仍然是实现真正端到端基础模型的障碍。我们提出了一系列新技术，支持一种动态分块机制，该机制可以与模型的其余部分联合自动学习内容和上下文相关的分割策略。将这种机制整合进一个明确的层次化网络（H-Net）后，就可以用一个完全端到端训练的单一模型取代传统的（隐含层次结构的）分词-LM-去分词流程。在计算资源和数据量相匹配的情况下，一个采用字节级别单一层级结构的H-Net的表现优于基于BPE分词的强大Transformer语言模型。进一步将层级结构扩展到多个阶段，可以通过建模多个抽象层级而进一步提升性能，表现出更优的数据扩展性，并且达到与自身两倍大小的基于分词的Transformer相当的效果。在英文上预训练的H-Net展现出显著增强的字符级鲁棒性，并且无需任何启发式规则或显式监督即可定性地学习出有意义的数据相关分块策略。最后，在那些分词启发式较弱的语言和模态（如中文、代码或者DNA序列）中，H-Net相对于分词流程的优势更加明显（在数据效率方面提升接近4倍），展示了真正端到端模型在从未加工数据中更好学习和扩展的潜力。",
+    "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
     "topics": []
   },
   "7b24fa17-2c55-4273-9572-31dd18410abc": {
@@ -809,7 +1055,7 @@
     "first_seen_date": "2026-11-18",
     "hotness_delta": 0,
     "id": "a76d607a-1d6d-4f28-b315-054649cb4b7a",
-    "last_seen_date": "2026-11-19",
+    "last_seen_date": "2026-11-20",
     "latest_hotness": 917,
     "matched_keywords": {
       "deep_learning_sota": [
@@ -829,6 +1075,13 @@
       },
       {
         "date": "2026-11-19",
+        "hotness": 917,
+        "sources": [
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-20",
         "hotness": 917,
         "sources": [
           "weekly"
@@ -856,7 +1109,7 @@
     "first_seen_date": "2026-11-18",
     "hotness_delta": 0,
     "id": "aab5ca04-fecf-44f8-a191-f13dbba74bbf",
-    "last_seen_date": "2026-11-19",
+    "last_seen_date": "2026-11-20",
     "latest_hotness": 674,
     "matched_keywords": {
       "llm_progress": [
@@ -873,6 +1126,13 @@
       },
       {
         "date": "2026-11-19",
+        "hotness": 674,
+        "sources": [
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-20",
         "hotness": 674,
         "sources": [
           "weekly"
@@ -928,7 +1188,7 @@
     "first_seen_date": "2026-11-18",
     "hotness_delta": 0,
     "id": "b9278001-66cb-4a84-aad5-d44341a0b6be",
-    "last_seen_date": "2026-11-19",
+    "last_seen_date": "2026-11-20",
     "latest_hotness": 594,
     "matched_keywords": {},
     "observations": [
@@ -942,6 +1202,13 @@
       },
       {
         "date": "2026-11-19",
+        "hotness": 594,
+        "sources": [
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-20",
         "hotness": 594,
         "sources": [
           "weekly"
@@ -1056,6 +1323,43 @@
     "summary": "分子偶联物（包括PROTAC和多肽-药物偶联物PDC）的功能源于其多个耦合组分的协同作用；然而，目前大多数生成式方法均独立设计各组分，仅在生成完成后再进行组装。此类分阶段流水线式方法忽略了组分间的跨组分依赖关系，往往导致所生成的偶联物存在化学结构无效、偏离实测偶联物分布范围，或组装后丧失功能等问题。本研究提出了“面向偶联物组装的耦合目标引导离散流生成方法”（CupOFMoCA），这是一种离散型生成模型，可在偶联物生成过程中显式施加跨组分的化学约束。CupOFMoCA将引导式更新严格限定于化学上可行的偶联物状态，并依据分子设计目标对局部转移概率进行重加权。在三个PDC体系上的实验表明：采用耦合式生成策略后，所有有效多肽所对应的偶联物100%满足共价连接有效性要求，且其有效产出率显著高于匹配的“先生成后过滤”策略；同时，在全部有效偶联物集合中，其预测结合得分与对照方法相当。在针对三个PROTAC体系开展的三种子集评估中，CupOFMoCA在其中两个体系上实现了最高的组装有效性，并在单位时间内生成的组装有效分子数量上超越所有对比基线方法。我们进一步采用DegradeMaster对生成的PROTAC分子进行事后评分，并结合显式溶剂分子动力学模拟对其展开评估，结果支持了模型对其降解活性及构象特性的预测可靠性。综上所述，本研究证实CupOFMoCA是一种高效、可靠的分子偶联物生成工具，可通过协同调控偶联物组装过程与分子性质，有力支撑靶向蛋白降解等新型治疗策略的研发进程。",
     "title": "CupOFMoCA: Coupled Objective-Guided Discrete Flows for Molecular Conjugate Assembly",
     "topics": []
+  },
+  "bfe73762-cf19-4d64-9edb-6858dec352f2": {
+    "authors": [
+      "Florian Gunsilius",
+      "David Van Dijcke",
+      "Kaspar Wüthrich"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/bfe73762-cf19-4d64-9edb-6858dec352f2",
+    "first_hotness": 188,
+    "first_seen_date": "2026-11-20",
+    "hotness_delta": 0,
+    "id": "bfe73762-cf19-4d64-9edb-6858dec352f2",
+    "last_seen_date": "2026-11-20",
+    "latest_hotness": 188,
+    "matched_keywords": {
+      "llm_progress": [
+        "agent"
+      ]
+    },
+    "observations": [
+      {
+        "date": "2026-11-20",
+        "hotness": 188,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 188,
+    "priority": "unscored",
+    "published": "2026-11-17",
+    "summary": "实证研究正以前所未有的速度发生变革，因为人工智能编程代理（AI coding agents）在实证研究的各个环节——从编写代码到数据处理——正变得日益娴熟。我们认为，尽管编程代理在科学研究中潜力巨大，但其在假设检验中的应用却对经典统计推断构成了严重威胁：这类代理使得一种“增强版的选择性推断”（supercharged form of selective inference）成为可能。具体而言，我们指出，执行实证研究的编程代理引入了一种新型的事后选择推断（post-selection inference）：它融合了类人式、开放式的估计量空间隐式搜索，以及对“选择过程”与“估计过程”二者均可程序化复现（programmatic replayability）的特点。事实上，我们在零效应（即真实效应为零）的模拟数据上发现，当要求四款当前最先进的编程代理各自生成一项“令人信服的研究发现”时，它们报告出显著p值的比例高达54%至98%。为此，我们提出一种简单可行的方法，用于识别并校正此类偏差。具体操作是：待代理完成全部分析后，我们重置其状态，并在其原始数据的多个子样本上重复运行该分析流程，从而估计该代理在观察到某项分析结果具有统计学吸引力时，选择该分析路径的相对概率。对于选择行为稳定的代理，经此方法校正后的检验统计量在给定选择条件的前提下，具有渐近有效性与一致性。尤为重要的是，该校正方法直接基于黑箱代理的实际选择行为进行学习，而非依赖于对其搜索机制的建模；因此，即便人工智能技术持续快速迭代演进，该方法依然保持有效。在模拟实验中，该校正方法稳健地将原本极高的第一类错误率（假阳性率）大幅降低至接近名义水平的5%。最后，我们通过两篇已发表论文中的实际研究案例，展示了该方法的具体应用。",
+    "title": "Inference after coding agents",
+    "topics": [
+      "llm_progress"
+    ]
   },
   "c36e2186-babb-4d48-9b2a-a1c9f992bba3": {
     "authors": [
@@ -1249,12 +1553,19 @@
     "first_seen_date": "2026-11-18",
     "hotness_delta": 0,
     "id": "d5b3003d-fd5e-4ad0-a3f7-1c78beb34611",
-    "last_seen_date": "2026-11-18",
+    "last_seen_date": "2026-11-20",
     "latest_hotness": 526,
     "matched_keywords": {},
     "observations": [
       {
         "date": "2026-11-18",
+        "hotness": 526,
+        "sources": [
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-20",
         "hotness": 526,
         "sources": [
           "weekly"
@@ -1370,6 +1681,36 @@
     "title": "Relaxed Recursive Transformers: Effective Parameter Sharing with Layer-wise LoRA",
     "topics": []
   },
+  "db2eb0f7-deaa-4604-bc59-e3b55fb7494b": {
+    "authors": [
+      "Adam Zachary Wasserman",
+      "David Beauchemin"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/db2eb0f7-deaa-4604-bc59-e3b55fb7494b",
+    "first_hotness": 61,
+    "first_seen_date": "2026-11-20",
+    "hotness_delta": 0,
+    "id": "db2eb0f7-deaa-4604-bc59-e3b55fb7494b",
+    "last_seen_date": "2026-11-20",
+    "latest_hotness": 61,
+    "matched_keywords": {},
+    "observations": [
+      {
+        "date": "2026-11-20",
+        "hotness": 61,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 61,
+    "priority": "unscored",
+    "published": "2026-09-15",
+    "summary": "我们向BabyLM 2026“严格”赛道提交了MéTRON-FR模型——一个在9247万词法语语料上预训练的1.25亿参数GPT-2模型。该模型在QFrBLiMP（魁北克本地法语语法最小对立对基准测试）上取得85.97% ± 0.17%的准确率，在BabyLM加权排行榜上得分为62.80%。我们采用一种跨语言GLUE（通用语言理解评估）协议，将法语任务数据翻译与秩为16的LoRA（低秩适配）相结合，结果呈现出显著的任务类型梯度：关系类任务性能明显提升，而世界知识类任务则出现退化。双语词典归纳（Bilingual Lexicon Induction）将法语词向量与GPT-2原始词向量对齐，在P@1指标上达到68.84% ± 8.61%，比随机猜测高出18倍，表明跨语言对齐程度所反映的是模型习得的语法能力，而非单纯训练时长。消融实验表明，在儿童语言习得尺度下，单词零样本评分结果主要受分词器（tokenizer）和提示模板（prompt template）等人工因素主导；这一发现促使我们将“分词器替换敏感性分析”“安慰剂对照式提示设计”以及“母语最小对立对基准测试”确立为标准诊断手段。",
+    "title": "Right Tool, Right Job: Native-Language Evaluation, Tokenizer Sensitivity, and Methodological Findings from a French-Only BabyLM",
+    "topics": []
+  },
   "dd075d53-84ce-4e0f-93d8-d8f18ea6cc60": {
     "authors": [
       "Adrian Kruse",
@@ -1383,7 +1724,7 @@
     "first_seen_date": "2026-11-18",
     "hotness_delta": 0,
     "id": "dd075d53-84ce-4e0f-93d8-d8f18ea6cc60",
-    "last_seen_date": "2026-11-19",
+    "last_seen_date": "2026-11-20",
     "latest_hotness": 955,
     "matched_keywords": {},
     "observations": [
@@ -1400,6 +1741,13 @@
         "sources": [
           "weekly"
         ]
+      },
+      {
+        "date": "2026-11-20",
+        "hotness": 955,
+        "sources": [
+          "weekly"
+        ]
       }
     ],
     "pdf_url": "",
@@ -1408,6 +1756,44 @@
     "published": "2026-11-04",
     "summary": "自监督学习催生了视觉基础模型，这类模型能够学习具备跨下游任务泛化能力的通用图像表征；然而，针对三维场景的表征学习尚未取得同等程度的成功。受此启发，我们系统梳理了当前三维表征学习方法的关键局限，并重新审视其核心设计选择。首先，我们将广泛采用的分层式PTv3主干网络，替换为一种面向三维场景、类比于ViT（视觉Transformer）架构的“体素Transformer”（Volume Transformer）。其次，我们重构了当前基于师生网络范式的两大核心学习目标：跨视角表征对齐与基于可见上下文预测被遮蔽内容。对于第一个目标，我们明确区分教师模型与学生模型的职责：教师模型提供干净、一致的监督目标，而学生模型则专注于学习对更强扰动的不变性。对于第二个目标，我们禁止学生模型直接访问被遮蔽的几何信息，转而要求其仅凭可见区域的上下文来推断缺失的表征。最后，我们重构了二维到三维的知识蒸馏机制，摒弃以往直接回归视角相关图像特征的做法，代之以视角一致性的监督方式。上述改进共同构成了VINO框架——一种无需任何标注即可学习三维场景语义表征的新方法。实验表明，VINO在室内外各类稠密线性探针（dense linear probing）基准测试中均实现显著性能提升，并在跨域迁移任务中展现出强大的泛化能力。",
     "title": "VINO: Revisiting 3D Representation Learning with Volume Transformers",
+    "topics": []
+  },
+  "e1290a30-2c68-4469-9be1-4b5f9b5b66dc": {
+    "authors": [
+      "Xin Yu",
+      "Fei Xia",
+      "Jiaqi Pan",
+      "Youbao Tang",
+      "Chengzhi Liu",
+      "Adams Yu",
+      "Sicong Jiang",
+      "Yanfei Chen",
+      "Lingzhou Xue",
+      "Ting Yu"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/e1290a30-2c68-4469-9be1-4b5f9b5b66dc",
+    "first_hotness": 64,
+    "first_seen_date": "2026-11-20",
+    "hotness_delta": 0,
+    "id": "e1290a30-2c68-4469-9be1-4b5f9b5b66dc",
+    "last_seen_date": "2026-11-20",
+    "latest_hotness": 64,
+    "matched_keywords": {},
+    "observations": [
+      {
+        "date": "2026-11-20",
+        "hotness": 64,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 64,
+    "priority": "unscored",
+    "published": "2026-11-13",
+    "summary": "通常，提示词（harness）优化研究是在固定策略模型和固定基准任务的前提下开展的。然而，一旦策略模型或基准任务发生变更，优化器便需判断：此前演化所得提示词中，哪些部分可直接复用，哪些部分需要重新调整。但仅靠提示词本身，往往无法说明先前各项修改的动因，也无法反映这些修改在实际评估中的具体表现。 本研究探讨“持续递归式自我改进”（CRSI）这一新范式，旨在使现有的提示词优化方法能够跨兼容基准任务或跨兼容策略模型持续演进。为此，我们提出“自我改进记忆”（Self-Improvement Memory, SIM）机制——该机制作用于提示词优化器本身，而非下游任务求解策略。SIM 按反复出现的提示词共性问题对各类修改进行归类，并系统记录每项修改的决策依据、预测效果、实测结果以及所处的具体评估上下文。随着优化过程持续推进，新的尝试将不断扩充这一记忆历史。 在涵盖四个不同领域的实验中，相较于仅延续原始提示词（harness-only）或仅延续根本原因分析（root-cause-only）的基线方法，采用 SIM 的方法在跨数据集及成对跨模型的对比评估中均取得了更高的最终得分。尤其在编程领域，基于十个独立初始运行所开展的配对续优化实验表明：引入 SIM 的续优化方案，其最终得分平均高出仅延续提示词的方案 2.36 分（$p = 0.003$）。",
+    "title": "Self-Improvement Memory Enables Continual Recursive Self-Improvement",
     "topics": []
   },
   "e9847a14-bb0f-4a32-9411-351d0b502838": {
@@ -1437,6 +1823,40 @@
     "published": "2025-11-17",
     "summary": "如今的去噪扩散模型并不以传统意义上的“去噪”方式进行工作，也就是说，它们并不会直接预测干净的图像。相反，神经网络预测的是噪声或含噪的数据。本文指出，预测干净数据与预测含噪数据在本质上是不同的。根据流形假设，自然数据应当位于一个低维流形上，而含噪数据则不然。基于这一假设，我们主张采用直接预测干净数据的模型，这使得看似容量不足的网络也能在非常高维的空间中有效运行。我们证明了仅使用像素作为输入的简单大尺寸图像块Transformer即可成为强大的生成模型：无需使用分词器（tokenizer）、无需预训练、也无需额外的损失函数。我们的方法在概念上无非就是“**纯图像Transformer**”，即我们所称的 **JiT**（Just image Transformers）。我们在ImageNet上以256和512分辨率、使用16和32的大图像块尺寸进行实验，取得了具有竞争力的结果——而在这些设置下，预测高维含噪量的方法可能会彻底失败。通过让网络回归到流形的基本原理，我们的研究回归本质，致力于在原始自然数据上建立一种自成一体的、基于Transformer的扩散建模范式。",
     "title": "Back to Basics: Let Denoising Generative Models Denoise Tianhong Li",
+    "topics": []
+  },
+  "ec2819a9-78cf-449c-9541-f45a10840e76": {
+    "authors": [
+      "Xuan Ouyang",
+      "Zefan Cai",
+      "Chenlong Zhang",
+      "Cheng Luo",
+      "Ke Wan",
+      "Junjie Hu"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/ec2819a9-78cf-449c-9541-f45a10840e76",
+    "first_hotness": 165,
+    "first_seen_date": "2026-11-20",
+    "hotness_delta": 0,
+    "id": "ec2819a9-78cf-449c-9541-f45a10840e76",
+    "last_seen_date": "2026-11-20",
+    "latest_hotness": 165,
+    "matched_keywords": {},
+    "observations": [
+      {
+        "date": "2026-11-20",
+        "hotness": 165,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 165,
+    "priority": "unscored",
+    "published": "2026-11-04",
+    "summary": "循环式Transformer（Looped Transformers）通过重复应用共享的网络模块来减少参数量，但仅靠参数共享本身，并不能决定重复计算所得结果如何被复用。我们采用“深度—记忆”（depth-memory）视角来审视残差连接，分析每次模块应用后所存储的表征形式，以及后续读取操作如何对这些表征进行加权。一个完整模块的输出既包含其原始输入，也包含该模块新生成的更新量；因此，对该输出整体加权，实质上也等同于对其输入中已携带的历史信息进行了再加权。相较之下，若改为单独读取各次更新量（即令共享堆栈的输入始终保留在一条独立通路中），则可分别调控输入信号的强度、所有更新量的总加权系数，以及该总权重在各次更新之间的动态分配。Loopback Transformer 正是实现了上述三重独立控制机制：其中，几何衰减（geometric decay）用于设定更新量的总加权系数，并天然引入一种“近因偏好”（recency prior）；而注意力机制则负责学习如何将该总权重合理地分配至不同轮次的更新之中。在 ClimbMix 基准测试中，Loopback 在参考规模为 1.91 亿至 30 亿参数（不含词元嵌入层与输出头）的条件下，以仅需标准 Transformer 基线模型 40%–75% 的 Transformer 参数量（同样排除词元嵌入与输出头），即实现了更低的验证损失——且训练所用 token 总数与实际执行的网络深度均严格匹配。此外，在 14 亿和 30 亿参数规模下，Loopback 在十三项下游任务上的平均准确率亦高于所有对比基线。而在 1.91 亿、3.74 亿和 7.78 亿参数规模下，Loopback 不仅验证损失最低，而且在上述十三项任务上的平均准确率亦为所有对比模型（包括标准 Transformer 及七种不同的循环式残差结构）中最高。",
+    "title": "Loopback Transformer: Towards a Unified View of Residual Looped Transformers",
     "topics": []
   },
   "edd2e523-b962-4a8d-8487-69fc374973a1": {

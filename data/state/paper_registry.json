@@ -91998,5 +91998,570 @@
       "llm_progress"
     ],
     "updated": "2026-11-18T18:56:12Z"
+  },
+  "2611.25549": {
+    "authors": [
+      "Anlin Liu",
+      "Guowei Yan",
+      "Zhaojun Wang"
+    ],
+    "canonical_id": "2611.25549",
+    "categories": [
+      "stat.ME",
+      "math.ST"
+    ],
+    "content_hash": "3ade1f004d8903f2330364850a7f9e3348f25e71b0d16a393193cd1d1abc225b",
+    "first_seen_date": "2026-11-20",
+    "last_reported_date": "2026-11-20",
+    "last_seen_date": "2026-11-20",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-11-19T05:53:00Z",
+    "report_count": 1,
+    "title": "Adaptive Tests of Pricing Restrictions with Observed and Latent Factors",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-11-19T05:53:00Z"
+  },
+  "2611.26510": {
+    "authors": [
+      "Guoxin Chen",
+      "Shuang Sun",
+      "Fanzhe Meng",
+      "Xinyu Tang",
+      "Ruihua Song",
+      "Wayne Xin Zhao"
+    ],
+    "canonical_id": "2611.26510",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "c1331b6915353d02e6a41a655bdef3ad0d474eca984aeff0d2492f36c54fe7aa",
+    "first_seen_date": "2026-11-20",
+    "last_reported_date": "2026-11-20",
+    "last_seen_date": "2026-11-20",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-19T17:57:59Z",
+    "report_count": 1,
+    "title": "AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-19T17:57:59Z"
+  },
+  "2611.26521": {
+    "authors": [
+      "Tara Sowrirajan",
+      "Yanqiao Wang"
+    ],
+    "canonical_id": "2611.26521",
+    "categories": [
+      "cs.LG",
+      "cs.IR"
+    ],
+    "content_hash": "82a115da943b35d19d2982acc92ce42759dc1a243eef14638d8aebfb9e9768a5",
+    "first_seen_date": "2026-11-20",
+    "last_reported_date": "2026-11-20",
+    "last_seen_date": "2026-11-20",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-19T18:00:11Z",
+    "report_count": 1,
+    "title": "The Window Lever: Longer Observation Windows Outweigh the Observed Effects of Data, Capacity, and Architecture in Customer Behavior Forecasting",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-19T18:00:11Z"
+  },
+  "2611.26525": {
+    "authors": [
+      "Yicheng Cai",
+      "Taegyu Kim",
+      "Peng Liu"
+    ],
+    "canonical_id": "2611.26525",
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.SE"
+    ],
+    "content_hash": "2c6a491850cfd54d5fca0ae5d375428b18c67dec6dc4fab8555c5bf8aa0b4eb1",
+    "first_seen_date": "2026-11-20",
+    "last_reported_date": "2026-11-20",
+    "last_seen_date": "2026-11-20",
+    "latest_version": 1,
+    "primary_category": "cs.CR",
+    "priority": "unscored",
+    "published": "2026-11-19T18:01:28Z",
+    "report_count": 1,
+    "title": "Backtracking Agent Applications Security Incidents",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-19T18:01:28Z"
+  },
+  "2611.26531": {
+    "authors": [
+      "Chang Yang",
+      "Yao Xuan",
+      "Wendan Yan",
+      "Nhat Le",
+      "Jiang Liu",
+      "Longhao Jin",
+      "Zhen Peggy Yao",
+      "Alireza Vahdatpour",
+      "Djordje Gligorijevic"
+    ],
+    "canonical_id": "2611.26531",
+    "categories": [
+      "cs.IR",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "6da003f6e06146437f989585be0f78cc2f2937f43bd65ac9e188d8ae7f9783b6",
+    "first_seen_date": "2026-11-20",
+    "last_reported_date": "2026-11-20",
+    "last_seen_date": "2026-11-20",
+    "latest_version": 1,
+    "primary_category": "cs.IR",
+    "priority": "unscored",
+    "published": "2026-11-19T18:12:04Z",
+    "report_count": 1,
+    "title": "Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-19T18:12:04Z"
+  },
+  "2611.26538": {
+    "authors": [
+      "George Rahul",
+      "Ronit Jahilal",
+      "Bhaskara Hanuma Vedula",
+      "Ponnurangam Kumaraguru",
+      "Pushkar Shukla"
+    ],
+    "canonical_id": "2611.26538",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "55ac63fd64a1f04cc91d1032d5c1bce87590a162359faede596b49f1f1638a60",
+    "first_seen_date": "2026-11-20",
+    "last_reported_date": "2026-11-20",
+    "last_seen_date": "2026-11-20",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-19T18:16:40Z",
+    "report_count": 1,
+    "title": "LLM GerryMandering: Separating Interactions from Additive Effects in LLM Audits",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-19T18:16:40Z"
+  },
+  "2611.26540": {
+    "authors": [
+      "Nathaniel Cohen",
+      "Nicolas Dufour",
+      "Amélie Royer",
+      "Alasdair Newson",
+      "Patrick Pérez"
+    ],
+    "canonical_id": "2611.26540",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "2b5b3b3631a1f3a023d33aec3321133c3ad8750b34640bbb06ae681464ae20c2",
+    "first_seen_date": "2026-11-20",
+    "last_reported_date": "2026-11-20",
+    "last_seen_date": "2026-11-20",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-19T18:17:38Z",
+    "report_count": 1,
+    "title": "AURA: AUdio-dRiven streaming Avatar",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-19T18:17:38Z"
+  },
+  "2611.26545": {
+    "authors": [
+      "Md. Abdullah Al Zami",
+      "Suraiya Shanaz",
+      "Mahdi Hasan",
+      "Shoaib Ahmed Dipu",
+      "Farig Yousuf Sadeque",
+      "Md. Sabbir Ahmed"
+    ],
+    "canonical_id": "2611.26545",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "3e4dc145bff9478a46f27db195cc9b3c3d4ce8298adb09b1ff570d5e28070694",
+    "first_seen_date": "2026-11-20",
+    "last_reported_date": "2026-11-20",
+    "last_seen_date": "2026-11-20",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-19T18:20:01Z",
+    "report_count": 1,
+    "title": "The Geometry of Lies: Knowledge and Persona Directions for Detecting Deception in Large Language Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-19T18:20:01Z"
+  },
+  "2611.26553": {
+    "authors": [
+      "Mengxiao Wang",
+      "Mahbub Alam",
+      "Kalyan Nakka",
+      "Nitesh Saxena"
+    ],
+    "canonical_id": "2611.26553",
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.MA"
+    ],
+    "content_hash": "67ab4ea88f0551322333974d603142a51079d976eec68458196d0be8663f9d36",
+    "first_seen_date": "2026-11-20",
+    "last_reported_date": "2026-11-20",
+    "last_seen_date": "2026-11-20",
+    "latest_version": 1,
+    "primary_category": "cs.CR",
+    "priority": "unscored",
+    "published": "2026-11-19T18:23:35Z",
+    "report_count": 1,
+    "title": "Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-19T18:23:35Z"
+  },
+  "2611.26562": {
+    "authors": [
+      "Amirali Khosravi",
+      "Jaidip M. Jagtap",
+      "D. Chamil Codipilly",
+      "Catherine E. Hagen",
+      "Jason T. Lewis",
+      "Rickey E. Carter",
+      "Shahriar Faghani",
+      "Vani J. A. Konda",
+      "Fouad Otaki",
+      "Shajan Peter",
+      "Nicholas Shaheen",
+      "Sachin Wani",
+      "Prasad G. Iyer",
+      "Bradley J. Erickson"
+    ],
+    "canonical_id": "2611.26562",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "595179a95a97d32e174b612af8ade3a2e19a24261ae3a220d390590cb3e57712",
+    "first_seen_date": "2026-11-20",
+    "last_reported_date": "2026-11-20",
+    "last_seen_date": "2026-11-20",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-19T18:27:59Z",
+    "report_count": 1,
+    "title": "Multi-institutional grading of Barrett's esophagus dysplasia without stain normalization using a pathology foundation model and multiple instance learning",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-19T18:27:59Z"
+  },
+  "2611.26569": {
+    "authors": [
+      "Ziqing Yang",
+      "Yixin Wu",
+      "Michael Backes",
+      "Yang Zhang"
+    ],
+    "canonical_id": "2611.26569",
+    "categories": [
+      "cs.CR",
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "dd11e8feeac0055c8bde41f2bbe87a66b54b53b0b78532acae92e9381b486168",
+    "first_seen_date": "2026-11-20",
+    "last_reported_date": "2026-11-20",
+    "last_seen_date": "2026-11-20",
+    "latest_version": 1,
+    "primary_category": "cs.CR",
+    "priority": "unscored",
+    "published": "2026-11-19T18:36:19Z",
+    "report_count": 1,
+    "title": "Text-Aware, Vision-Blind: How Multimodal Image Editing Systems Handle Unsafe Inputs",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-19T18:36:19Z"
+  },
+  "2611.26584": {
+    "authors": [
+      "Jochen Laubrock"
+    ],
+    "canonical_id": "2611.26584",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "content_hash": "b5f1ede597c162c0dd71c07c83dcfc05057697547bb4abbc98454b466eeb0935",
+    "first_seen_date": "2026-11-20",
+    "last_reported_date": "2026-11-20",
+    "last_seen_date": "2026-11-20",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-19T18:43:56Z",
+    "report_count": 1,
+    "title": "Represented but misread: Post-training changes how language models read out what they represent",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-19T18:43:56Z"
+  },
+  "2611.26590": {
+    "authors": [
+      "Jiahao Huang",
+      "Jun Wang"
+    ],
+    "canonical_id": "2611.26590",
+    "categories": [
+      "cs.AI",
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "a9e52e6e746afee4558b7ea3712806519ff932cb1729b91fb76a678ceacc082c",
+    "first_seen_date": "2026-11-20",
+    "last_reported_date": "2026-11-20",
+    "last_seen_date": "2026-11-20",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-19T18:46:50Z",
+    "report_count": 1,
+    "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-19T18:46:50Z"
+  },
+  "2611.26592": {
+    "authors": [
+      "Terence D. Agbeyegbe",
+      "Toneukarin G. Agbeyegbe"
+    ],
+    "canonical_id": "2611.26592",
+    "categories": [
+      "stat.ME",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "ce710e61c660bca80dd01f6c29f697674a7db45e3900f53144d1046f5c665df4",
+    "first_seen_date": "2026-11-20",
+    "last_reported_date": "2026-11-20",
+    "last_seen_date": "2026-11-20",
+    "latest_version": 1,
+    "primary_category": "stat.ME",
+    "priority": "unscored",
+    "published": "2026-11-19T18:47:51Z",
+    "report_count": 1,
+    "title": "Realized versus Population Reliability: Anytime-Valid Self-Consistency Certification under Correlated Reasoning",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-19T18:47:51Z"
+  },
+  "2611.26598": {
+    "authors": [
+      "Yang Meng",
+      "Zixin Ding",
+      "Robert L. Grossman",
+      "Yuxin Chen"
+    ],
+    "canonical_id": "2611.26598",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "7a5820d9e9b344d49f220afaaca4fc4aeae429013e27ab5460f364b64168c149",
+    "first_seen_date": "2026-11-20",
+    "last_reported_date": "2026-11-20",
+    "last_seen_date": "2026-11-20",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-19T18:52:57Z",
+    "report_count": 1,
+    "title": "Active Feature Acquisition by Distilling an Oracle Teacher",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-19T18:52:57Z"
+  },
+  "2611.26601": {
+    "authors": [
+      "Amine Lbath",
+      "Manan Suri",
+      "Aurelien Delaitre",
+      "Vadim Okun",
+      "Massih-Reza Amini",
+      "Dinesh Manocha"
+    ],
+    "canonical_id": "2611.26601",
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.SE"
+    ],
+    "content_hash": "5be3c4ea373ea1bc9f36b9a5e74f8bd1c4f779dcf0b8ecca79daefa3a8ff293b",
+    "first_seen_date": "2026-11-20",
+    "last_reported_date": "2026-11-20",
+    "last_seen_date": "2026-11-20",
+    "latest_version": 1,
+    "primary_category": "cs.CR",
+    "priority": "unscored",
+    "published": "2026-11-19T18:54:19Z",
+    "report_count": 1,
+    "title": "SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-19T18:54:19Z"
+  },
+  "2611.26607": {
+    "authors": [
+      "Deepali Singh",
+      "Deepesh Parpani",
+      "Aviral Gupta"
+    ],
+    "canonical_id": "2611.26607",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "a863fed29975bb63dbddce34d338989e2974ec445d74cab9b11390f6486c6a1f",
+    "first_seen_date": "2026-11-20",
+    "last_reported_date": "2026-11-20",
+    "last_seen_date": "2026-11-20",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-19T18:56:25Z",
+    "report_count": 1,
+    "title": "Bio-PM-Guided Synthetic IMU Generation",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-19T18:56:25Z"
+  },
+  "2611.26613": {
+    "authors": [
+      "Yiyang Du",
+      "Yuxuan Kuang",
+      "Qitao Zhao",
+      "Yixuan Wang",
+      "Zhanqiu Guo",
+      "Yi Xu",
+      "Xin Li",
+      "Wenbin He",
+      "Liu Ren",
+      "Chenyan Xiong"
+    ],
+    "canonical_id": "2611.26613",
+    "categories": [
+      "cs.RO",
+      "cs.CL",
+      "cs.CV"
+    ],
+    "content_hash": "e8b5e86be5cd231271346aa37739da440b8d41d16ec2b372c4735e6e282a4f92",
+    "first_seen_date": "2026-11-20",
+    "last_reported_date": "2026-11-20",
+    "last_seen_date": "2026-11-20",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-11-19T18:57:25Z",
+    "report_count": 1,
+    "title": "AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-19T18:57:25Z"
+  },
+  "2611.26619": {
+    "authors": [
+      "Jinbin Luo",
+      "Xiaozhe Yao",
+      "Shang Yang",
+      "Zhijian Liu",
+      "Song Han",
+      "Qinghao Hu"
+    ],
+    "canonical_id": "2611.26619",
+    "categories": [
+      "cs.DC",
+      "cs.LG"
+    ],
+    "content_hash": "dd49e4d0033238417f03a590518f07dceb9638ada04c36e83ef52a76ee70b024",
+    "first_seen_date": "2026-11-20",
+    "last_reported_date": "2026-11-20",
+    "last_seen_date": "2026-11-20",
+    "latest_version": 1,
+    "primary_category": "cs.DC",
+    "priority": "unscored",
+    "published": "2026-11-19T18:58:31Z",
+    "report_count": 1,
+    "title": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-19T18:58:31Z"
+  },
+  "2611.26624": {
+    "authors": [
+      "Weihao Cheng"
+    ],
+    "canonical_id": "2611.26624",
+    "categories": [
+      "cs.AI",
+      "cs.CV"
+    ],
+    "content_hash": "641dd5283da12b7b7d92081b494fc310fa8b0c88e9eb06430042b97519b99c46",
+    "first_seen_date": "2026-11-20",
+    "last_reported_date": "2026-11-20",
+    "last_seen_date": "2026-11-20",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-19T18:59:34Z",
+    "report_count": 1,
+    "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-19T18:59:34Z"
   }
 }
