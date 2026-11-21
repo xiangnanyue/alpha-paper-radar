@@ -177,6 +177,46 @@
       "deep_learning_sota"
     ]
   },
+  "20c7d71f-d175-420d-9845-6b58a8d5b96f": {
+    "authors": [
+      "Xingyang Yu"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/20c7d71f-d175-420d-9845-6b58a8d5b96f",
+    "first_hotness": 122,
+    "first_seen_date": "2026-11-21",
+    "hotness_delta": 0,
+    "id": "20c7d71f-d175-420d-9845-6b58a8d5b96f",
+    "last_seen_date": "2026-11-21",
+    "latest_hotness": 122,
+    "matched_keywords": {
+      "deep_learning_sota": [
+        "benchmark"
+      ],
+      "llm_progress": [
+        "agent",
+        "retrieval-augmented generation"
+      ]
+    },
+    "observations": [
+      {
+        "date": "2026-11-21",
+        "hotness": 122,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 122,
+    "priority": "unscored",
+    "published": "2026-11-17",
+    "summary": "我们提出“弦论量子场论”（StringQFT）既作为一部系统讲授利用弦论构造量子场论的标准教科书丛书，也作为支撑人工智能辅助理论物理研究的基础设施。该丛书共含18卷、190章、总计3795页，内容涵盖膜探针（brane probes）、膜网络（brane webs）、几何工程（geometric engineering）、F理论构造（F-theory constructions）、缠绕M5-膜（wrapped M5-branes）以及精确的世界面构造（exact worldsheet constructions）。其开放式的“教科书基准题库”（open-book benchmark inventory）共收录1073道题目，其中499道支持自动化的有限答案校验。在检索增强型生成（retrieval-augmented generation）方面，丛书提供1371条章节级索引记录，每条均明确关联至对应教科书出处及PDF文件中的具体位置，并配套一个本地化的词法检索器（local lexical retriever）。训练数据的准备工作则通过21个私有示例予以说明，每个示例均附有原始文献来源链接。针对智能体（agents）应用，丛书公开了19种计算工具，每种工具均明确定义了输入格式与有限定义域，并将工具调用与其在教科书中的推导过程一一对应。我们通过若干具体问题、所检索到的相关段落以及可完成的有限计算，逐一演示上述各项功能的实际应用。整套教科书丛书及其配套资源均可在以下网址获取：https://github.com/xingyang-yu/StringQFT。",
+    "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ]
+  },
   "22039732-ac74-4382-9f78-3bddc7371af3": {
     "authors": [
       "Andrew Leaver-Fay",
@@ -397,6 +437,74 @@
     "title": "ALoMa: Affine Correspondences Beyond Patches",
     "topics": []
   },
+  "3e629f45-96fe-4f4c-b842-80820aa03c07": {
+    "authors": [
+      "Zhanpeng Zhou",
+      "Yuhan Sun",
+      "Bingrui Li",
+      "Jinbo Wang",
+      "Huaijin Wu",
+      "Lei Wu",
+      "Junchi Yan"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/3e629f45-96fe-4f4c-b842-80820aa03c07",
+    "first_hotness": 143,
+    "first_seen_date": "2026-11-21",
+    "hotness_delta": 0,
+    "id": "3e629f45-96fe-4f4c-b842-80820aa03c07",
+    "last_seen_date": "2026-11-21",
+    "latest_hotness": 143,
+    "matched_keywords": {},
+    "observations": [
+      {
+        "date": "2026-11-21",
+        "hotness": 143,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 143,
+    "priority": "unscored",
+    "published": "2026-09-30",
+    "summary": "预训练语言模型的规模与成本之高，使得高效超参数调优变得至关重要，然而目前仍缺乏系统性的理论指导。本文从局部损失景观几何结构的视角出发，对语言模型预训练的动力学过程展开分析。我们的研究揭示出两个截然不同的训练阶段： 第一阶段（Phase I）中，局部景观的尖锐度（sharpness）初始值较高，导致在较大学习率（LR）下训练不稳定，并出现损失值停滞现象；而随着训练早期推进，景观会由尖锐区域逐渐过渡至更平坦的区域。这一动态特性解释了学习率预热（LR warmup）的必要性，并进一步表明：所采用的峰值学习率越大，相应所需的预热周期也应越长。 第二阶段（Phase II）中，局部景观的演化则主要受梯度噪声尺度（gradient noise scale）支配。我们的理论揭示了一种“深度—平坦度权衡”（depth–flatness trade-off）：较小批量（batch size, BS）带来的较高梯度噪声会拓宽损失盆地（loss basin），而较大批量带来的较低噪声则会加深该盆地。基于这一理论，我们提出一种动态批量调度策略（dynamic batch-size scheduler）：训练初期采用较小批量，待训练后期再逐步增大批量。综上，本文构建了一个关于损失景观演化的统一视角，进而为大规模语言模型预训练提供了切实可行、可直接落地的超参数调优策略。",
+    "title": "How Does Local Landscape Geometry Evolve in Language Model Pre-Training?",
+    "topics": []
+  },
+  "3f908404-d3f2-4d8a-b0e2-79d7907b3a3d": {
+    "authors": [
+      "Divyansha Lachi",
+      "Vinam Arora",
+      "Shivashriganesh P. Mahato",
+      "Alexandre Andre",
+      "Eva L. Dyer"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/3f908404-d3f2-4d8a-b0e2-79d7907b3a3d",
+    "first_hotness": 179,
+    "first_seen_date": "2026-11-21",
+    "hotness_delta": 0,
+    "id": "3f908404-d3f2-4d8a-b0e2-79d7907b3a3d",
+    "last_seen_date": "2026-11-21",
+    "latest_hotness": 179,
+    "matched_keywords": {},
+    "observations": [
+      {
+        "date": "2026-11-21",
+        "hotness": 179,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 179,
+    "priority": "unscored",
+    "published": "2026-11-05",
+    "summary": "近期的神经解码方法通过在大规模配对的“神经活动–行为”记录数据集上进行训练，取得了优异的性能；然而，此类配对数据集成本高昂、具有侵入性，且难以规模化获取。相比之下，行为数据则极为丰富、易于采集，这自然引出一个问题：神经解码能否通过将行为表征学习与神经表征学习解耦而获益？为此，我们提出了BEEMO——一种灵活的多会话框架，支持使用任意比例混合的配对神经-行为数据与非配对行为数据进行联合训练。该框架中，一个行为解码器直接从行为轨迹中学习运动动力学；当存在神经活动数据时，则通过交叉注意力（cross-attention）机制将其融入模型，从而实现行为监督信号与神经监督信号的独立扩展。我们在多种非人灵长类动物的皮层内运动脑区数据集及不同任务上进行了系统验证，结果表明：引入非配对行为数据可显著提升解码性能，尤其在跨任务迁移场景下效果更为突出；进一步地，在目标任务中仅加入少量该任务对应的行为数据，即可进一步增强迁移效果。通过将神经数据与行为数据解耦，我们开辟了一条全新的可扩展路径：即直接利用非配对行为数据——这类数据远比配对神经记录更廉价、更易获取——来切实提升解码性能。我们还发现，仅以行为数据进行预训练（完全不使用任何神经数据预训练），其最终性能即可媲美那些在规模大得多的神经数据集上完成预训练的模型。综上，我们的结果表明：扩大行为数据规模，是一条切实可行、成本效益突出的路径，有望推动构建具备跨被试、跨任务泛化能力的神经解码模型。代码已开源，地址为：https://github.com/nerdslab/beemo。",
+    "title": "Scaling Neural Motor Decoding via Decoupled Behavioral Pretraining",
+    "topics": []
+  },
   "40ee089e-4f26-44fb-af8b-c669d76079ba": {
     "authors": [
       "Reshinth Adithyan",
@@ -426,6 +534,50 @@
     "summary": "我们提出了 Stable-Layers——一种强化学习框架，该框架无需成对监督信号，仅通过视觉-语言模型（VLM）提供的反馈，即可对预训练的图层分解模型进行微调。我们以 Qwen-Image-Layered 为起点，采用 Flow-GRPO 算法并结合 LoRA 适配技术：针对每张输入图像采样多个候选分解方案，利用 VLM 对这些方案分别打分，并基于组内相对优势（group-relative advantages）优化策略网络。其中关键挑战在于设计可靠、具判别力的奖励信号：若让 VLM 独立地对单个样本评分，其打分往往高度集中于狭窄的数值区间，导致 GRPO 缺乏足够的组内方差来有效学习。为此，我们构建了一种两阶段评估流程：第一阶段，依据五个以编辑任务为核心的评价维度，对每个样本进行结构化评分；第二阶段，则采用网格化校准方式，令 VLM 将所有候选分解方案并排呈现、统一重评。在 Crello 数据集上的实验表明，相较于基线模型，Stable-Layers 生成的分解结果具有更清晰的图层分离性、更少的空白图层或含严重伪影的图层，且各图层的重建误差显著降低。",
     "title": "Stable-Layers: Fine-Tuning Image Layer Decomposition Models with VLM-Scored Reinforcement Learning Ciara Rowles",
     "topics": []
+  },
+  "486f7f83-2f1a-4f16-8f2b-ce0074166a35": {
+    "authors": [
+      "Sen Xu",
+      "Shixi Liu",
+      "Wei Wang",
+      "Jixin Min",
+      "Yingwei Dai",
+      "Zhibin Yin",
+      "Yirong Chen",
+      "Xin Zhou",
+      "Junlin Zhang"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/486f7f83-2f1a-4f16-8f2b-ce0074166a35",
+    "first_hotness": 594,
+    "first_seen_date": "2026-11-21",
+    "hotness_delta": 0,
+    "id": "486f7f83-2f1a-4f16-8f2b-ce0074166a35",
+    "last_seen_date": "2026-11-21",
+    "latest_hotness": 594,
+    "matched_keywords": {
+      "llm_progress": [
+        "reasoning",
+        "rag"
+      ]
+    },
+    "observations": [
+      {
+        "date": "2026-11-21",
+        "hotness": 594,
+        "sources": [
+          "weekly"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 594,
+    "priority": "unscored",
+    "published": "2026-06-15",
+    "summary": "本技术报告介绍了VibeThinker-3B——一款参数量仅为30亿（3B）的轻量级稠密模型，专为探究在严格的小模型范式下，可验证推理能力的极限究竟可达多远而设计。我们以“频谱到信号”（Spectrum-to-Signal）后训练范式为基础，通过一套经过优化的系统性增强流程，对模型进行了全面提升；该流程涵盖基于课程学习的监督微调、多领域强化学习以及离线自蒸馏。实验评估结果表明，VibeThinker-3B在多项高难度可验证推理任务上达到了当前前沿水平：在AIME26评测中取得94.3分（若采用命题级测试时缩放策略，则进一步提升至97.1分）；在LiveCodeBench v6上实现80.2的Pass@1准确率；并在近期未见过的LeetCode编程竞赛题目上展现出优异的分布外泛化能力，接受率达96.1%。其综合表现已稳居顶尖推理系统的性能梯队，甚至在部分指标上比肩或超越参数量高出一个数量级乃至多个数量级的旗舰模型，例如DeepSeek V3.2、GLM-5与Gemini 3 Pro。此外，其在IFEval评测中获得93.4分，有力证实：此类极致的推理能力增强并未损害模型对指令的严格可控性。继我们此前关于1.5B模型的研究工作之后，上述成果进一步催生了“参数压缩–覆盖假说”（Parametric Compression-Coverage Hypothesis）：该假说认为，可验证推理能力可被高度压缩并凝聚于紧凑的推理核心之中；而开放域知识与通用任务能力则需模型参数在事实、概念及长尾场景上实现广泛覆盖。这一视角提示我们，紧凑型模型绝非仅是便于部署的“低配替代品”，而是一条与大模型并行互补的技术路径——它能在参数密度主导的能力范式下，同样通向前沿级性能水准。",
+    "title": "VibeThinker-3B: Exploring the Frontier of Verifiable Reasoning in Small Language Models",
+    "topics": [
+      "llm_progress"
+    ]
   },
   "4ba4919c-a6c2-4f2e-ab94-0a07af7d0c2e": {
     "authors": [
@@ -477,7 +629,7 @@
     "first_seen_date": "2026-11-18",
     "hotness_delta": 0,
     "id": "4bfd477c-33c0-4c19-8799-fb19be9c6583",
-    "last_seen_date": "2026-11-20",
+    "last_seen_date": "2026-11-21",
     "latest_hotness": 658,
     "matched_keywords": {
       "llm_progress": [
@@ -501,6 +653,13 @@
       },
       {
         "date": "2026-11-20",
+        "hotness": 658,
+        "sources": [
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-21",
         "hotness": 658,
         "sources": [
           "weekly"
@@ -691,7 +850,7 @@
     "first_seen_date": "2026-11-18",
     "hotness_delta": 0,
     "id": "56ea7826-7904-4c50-af9c-a644c8ec2414",
-    "last_seen_date": "2026-11-20",
+    "last_seen_date": "2026-11-21",
     "latest_hotness": 890,
     "matched_keywords": {},
     "observations": [
@@ -711,6 +870,13 @@
       },
       {
         "date": "2026-11-20",
+        "hotness": 890,
+        "sources": [
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-21",
         "hotness": 890,
         "sources": [
           "weekly"
@@ -737,7 +903,7 @@
     "first_seen_date": "2026-06-05",
     "hotness_delta": 0,
     "id": "59d91cd2-f2e7-4c90-8324-14cc655a96ee",
-    "last_seen_date": "2026-11-20",
+    "last_seen_date": "2026-11-21",
     "latest_hotness": 1094,
     "matched_keywords": {},
     "observations": [
@@ -764,6 +930,13 @@
       },
       {
         "date": "2026-11-20",
+        "hotness": 1094,
+        "sources": [
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-21",
         "hotness": 1094,
         "sources": [
           "weekly"
@@ -948,6 +1121,35 @@
       "llm_progress"
     ]
   },
+  "86ce51d9-4f4d-42c7-98de-75d9dd7fc290": {
+    "authors": [
+      "Aaryam Sharma"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/86ce51d9-4f4d-42c7-98de-75d9dd7fc290",
+    "first_hotness": 74,
+    "first_seen_date": "2026-11-21",
+    "hotness_delta": 0,
+    "id": "86ce51d9-4f4d-42c7-98de-75d9dd7fc290",
+    "last_seen_date": "2026-11-21",
+    "latest_hotness": 74,
+    "matched_keywords": {},
+    "observations": [
+      {
+        "date": "2026-11-21",
+        "hotness": 74,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 74,
+    "priority": "unscored",
+    "published": "2026-09-28",
+    "summary": "流水线并行可通过在模型的不同阶段上并发处理多个请求分块，从而提升预填充（prefill）阶段的吞吐量。然而，要维持流水线始终处于高利用率状态，需依赖高效的请求调度与预处理机制。在各阶段独立维护和驱逐缓存状态的系统中，某一阶段发生本地缓存命中，并不意味着该相同前缀可在整个流水线中跨阶段复用。此时，为协调各阶段缓存状态而引入的开销，会拖慢请求接纳（request admission）的节奏，进而降低整体吞吐量。本文提出 WavePP——一种构建于 TensorRT-LLM 之上的预填充运行时系统，旨在通过将请求接纳与流水线执行重叠执行，来应对上述挑战。WavePP 异步地查找一个能在所有流水线阶段复用的公共前缀，主动保护该前缀对应的缓存状态，并为当前请求剩余输入预留缓存空间，同时允许更早提交的请求继续在流水线中执行。随后，WavePP 动态规划每个请求的分块大小，以最大化流水线的填充率（pipeline fill）。各阶段则在正式执行请求前，先完成本地化的准备工作。在相同的系统配置与流水线拓扑下，WavePP 在 GLM-5.2 和 MiniMax M2.7 两个模型共 40 种测试设置中的 37 种上，均优于原生 TensorRT-LLM 的预填充吞吐量；当并发请求数为 128 且缓存复用率较高时，吞吐量分别提升至原来的 2.91 倍和 2.02 倍。此外，在 Kimi K3 模型共 28 种设置中，WavePP 在全部 18 种并发数 ≥ 8 的场景下，其测得吞吐量均高于 TRT-LLM、SGLang 和 vLLM 所提供的张量并行/专家并行及流水线并行等基线方案。",
+    "title": "WavePP: High-Throughput Pipeline Parallel LLM Prefill under Prefix Reuse",
+    "topics": []
+  },
   "8cdfe137-a192-41f8-ac44-70e645d5ccaa": {
     "authors": [
       "Shubham Singh"
@@ -1016,15 +1218,22 @@
     "detail_url": "https://hub.baai.ac.cn/paper/93aaebcc-4cd1-44c1-b3b5-e73bf9d4ed81",
     "first_hotness": 127,
     "first_seen_date": "2026-11-19",
-    "hotness_delta": 0,
+    "hotness_delta": -63,
     "id": "93aaebcc-4cd1-44c1-b3b5-e73bf9d4ed81",
-    "last_seen_date": "2026-11-19",
-    "latest_hotness": 127,
+    "last_seen_date": "2026-11-21",
+    "latest_hotness": 64,
     "matched_keywords": {},
     "observations": [
       {
         "date": "2026-11-19",
         "hotness": 127,
+        "sources": [
+          "daily"
+        ]
+      },
+      {
+        "date": "2026-11-21",
+        "hotness": 64,
         "sources": [
           "daily"
         ]
@@ -1055,7 +1264,7 @@
     "first_seen_date": "2026-11-18",
     "hotness_delta": 0,
     "id": "a76d607a-1d6d-4f28-b315-054649cb4b7a",
-    "last_seen_date": "2026-11-20",
+    "last_seen_date": "2026-11-21",
     "latest_hotness": 917,
     "matched_keywords": {
       "deep_learning_sota": [
@@ -1086,6 +1295,13 @@
         "sources": [
           "weekly"
         ]
+      },
+      {
+        "date": "2026-11-21",
+        "hotness": 917,
+        "sources": [
+          "weekly"
+        ]
       }
     ],
     "pdf_url": "",
@@ -1109,7 +1325,7 @@
     "first_seen_date": "2026-11-18",
     "hotness_delta": 0,
     "id": "aab5ca04-fecf-44f8-a191-f13dbba74bbf",
-    "last_seen_date": "2026-11-20",
+    "last_seen_date": "2026-11-21",
     "latest_hotness": 674,
     "matched_keywords": {
       "llm_progress": [
@@ -1133,6 +1349,13 @@
       },
       {
         "date": "2026-11-20",
+        "hotness": 674,
+        "sources": [
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-21",
         "hotness": 674,
         "sources": [
           "weekly"
@@ -1188,7 +1411,7 @@
     "first_seen_date": "2026-11-18",
     "hotness_delta": 0,
     "id": "b9278001-66cb-4a84-aad5-d44341a0b6be",
-    "last_seen_date": "2026-11-20",
+    "last_seen_date": "2026-11-21",
     "latest_hotness": 594,
     "matched_keywords": {},
     "observations": [
@@ -1209,6 +1432,13 @@
       },
       {
         "date": "2026-11-20",
+        "hotness": 594,
+        "sources": [
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-21",
         "hotness": 594,
         "sources": [
           "weekly"
@@ -1439,6 +1669,40 @@
     "title": "Object- and Task-Aware Active Perception for Safe Navigation of Mobile Manipulators in Semi-Static Environments",
     "topics": []
   },
+  "c5670a8f-c0ea-4e4a-be63-380ed7150945": {
+    "authors": [
+      "Yuxin Chen",
+      "Yuejie Chi",
+      "Jianqing Fan",
+      "Gen Li",
+      "Yuting Wei",
+      "Yuling Yan"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/c5670a8f-c0ea-4e4a-be63-380ed7150945",
+    "first_hotness": 89,
+    "first_seen_date": "2026-11-21",
+    "hotness_delta": 0,
+    "id": "c5670a8f-c0ea-4e4a-be63-380ed7150945",
+    "last_seen_date": "2026-11-21",
+    "latest_hotness": 89,
+    "matched_keywords": {},
+    "observations": [
+      {
+        "date": "2026-11-21",
+        "hotness": 89,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 89,
+    "priority": "unscored",
+    "published": "2026-10-30",
+    "summary": "强化学习（RL）代表了一种在不确定性环境下进行序贯决策的基本范式。新兴应用中模型复杂度的快速增长，显著加剧了实现数据高效型强化学习的挑战，尤其是在样本稀缺的场景下——此时数据采集可能成本高昂、耗时漫长，甚至具有高风险性。因此，深入理解并提升强化学习算法的数据效率，已成为兼具基础理论价值与实际应用意义的核心课题。尽管已有数十年的研究积累，强化学习的统计理论基础却长期发展滞后，尤其在与当代实践最密切相关的有限样本情形下，相关理论尤为薄弱。近年来，非渐近性统计强化学习理论迅速兴起，研究者广泛借鉴高维统计学与概率论、信息论以及统计学习理论等领域的思想与工具，不断拓展该领域的理论前沿。本专著围绕基于表格型马尔可夫决策过程（tabular MDP）的强化学习，系统展开非渐近性分析，聚焦三类典型采样机制——具备生成模型的强化学习、在线强化学习与离线强化学习——并兼顾两类主流算法范式：基于模型的方法与免模型方法。全书以非渐近性样本复杂度分析为主线，着重探讨极小极大最优（minimax-optimal）的算法设计，特别是那些无需大量预热（burn-in）开销即可达成统计最优性的方法；同时，对若干被广泛采用的强化学习算法，给出精确、锐利的统计性质刻画。在可能的情况下，我们力求提供内容自洽、逻辑完整的分析，并辅以直观清晰的解释。此外，我们亦简要讨论若干重要拓展方向，包括鲁棒强化学习、竞争性多智能体强化学习、联邦强化学习、不确定性量化，以及基于人类反馈的强化学习。",
+    "title": "Statistical Foundations of Reinforcement Learning: A Non-Asymptotic Perspective",
+    "topics": []
+  },
   "c87595b1-a524-412d-8478-b8627ab21ce8": {
     "authors": [
       "Jarvist Moore Frost"
@@ -1501,6 +1765,78 @@
     "title": "On the Difficulty of Sequence-Level Supervised Learning for Autoregressive Language Models",
     "topics": []
   },
+  "d22cb75c-0ee6-4243-b5cb-0bd64e46cf81": {
+    "authors": [
+      "Dhruva Karkada",
+      "Daniel J. Korchinski",
+      "Andres Nava",
+      "Matthieu Wyart",
+      "Yasaman Bahri"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/d22cb75c-0ee6-4243-b5cb-0bd64e46cf81",
+    "first_hotness": 124,
+    "first_seen_date": "2026-11-21",
+    "hotness_delta": 0,
+    "id": "d22cb75c-0ee6-4243-b5cb-0bd64e46cf81",
+    "last_seen_date": "2026-11-21",
+    "latest_hotness": 124,
+    "matched_keywords": {},
+    "observations": [
+      {
+        "date": "2026-11-21",
+        "hotness": 124,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 124,
+    "priority": "unscored",
+    "published": "2026-02-16",
+    "summary": "语言模型所习得的内部表征始终展现出显著的几何结构：日历月份排列成一个圆形，历史年份构成一条平滑的一维流形，而城市的经纬度则可通过线性探针（linear probe）准确解码。为解释这种神经编码机制，我们首先证明：语言统计特性具有平移对称性（例如，任意两个月份在文本中共同出现的频率，仅取决于二者之间的时间间隔）。我们进一步证明，这种对称性主导了高维词嵌入模型中的几何结构，并从理论上严格推导出词表征所形成的流形几何形态。这些理论预测与大规模文本嵌入模型及大语言模型的实际表征几何高度吻合。此外，即使在嵌入维度仅为中等规模、且相关统计特性受到扰动（例如，删除所有同时包含两个月份的句子）的情况下，该表征几何结构仍能保持稳定。我们证明，当共现统计由某个潜在变量所调控时，这种鲁棒性便会自然涌现。上述结果表明，表征流形具有普适的起源：即自然数据统计特性中所蕴含的对称性。",
+    "title": "Symmetry in language statistics shapes the geometry of model representations",
+    "topics": []
+  },
+  "d3058cd2-b905-492a-a740-42b0c295055f": {
+    "authors": [
+      "Ellen Su",
+      "Andres Potapczynski",
+      "Shikai Qiu",
+      "Edward Hughes",
+      "Andrew Gordon Wilson"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/d3058cd2-b905-492a-a740-42b0c295055f",
+    "first_hotness": 479,
+    "first_seen_date": "2026-11-21",
+    "hotness_delta": 0,
+    "id": "d3058cd2-b905-492a-a740-42b0c295055f",
+    "last_seen_date": "2026-11-21",
+    "latest_hotness": 479,
+    "matched_keywords": {
+      "deep_learning_sota": [
+        "scaling law"
+      ]
+    },
+    "observations": [
+      {
+        "date": "2026-11-21",
+        "hotness": 479,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 479,
+    "priority": "unscored",
+    "published": "2026-08-12",
+    "summary": "当前，现代系统被越来越多地期望能够迁移到训练阶段未曾指定的新任务上。那么，何种数据有助于模型在这些全新且不可预见的场景中实现泛化？一种假设认为：结构信息更丰富的数据可能蕴含可复用的共享电路与子程序，从而适配更广泛的下游任务场景。最近提出的“表征复杂性”（epiplexity）这一指标，刻画了计算资源受限的学习者能从数据中提取出的结构信息量，为探究上述关系提供了理论依据。本文中，我们展示了如何将表征复杂性转化为一种在线训练信号，用于数据筛选与合成数据生成。在数据筛选方面，我们对自然数据领域的训练损失曲线拟合缩放律（scaling laws），以此预测表征复杂性增益随训练词元数量变化的函数关系，并利用该信号在训练过程中自适应地调整各数据域的采样权重；在合成数据生成方面，我们将生成器的奖励定义为学习者在一段先前生成数据缓存上的表征复杂性变化量，并采用REINFORCE策略梯度方法，引导生成器逐步逼近使表征复杂性最大化的数据分布。在这两类应用中，更高的表征复杂性均能有效预测零样本迁移与微调类下游任务性能的提升，从而支持前述假设：富含结构信息的数据，能够习得更具跨领域迁移能力的表征。",
+    "title": "Epiplexity Guided Data Selection and Generation for Out-of-Distribution Generalization",
+    "topics": [
+      "deep_learning_sota"
+    ]
+  },
   "d30b15e2-75ef-4d4d-b4ae-2c063cc94f18": {
     "authors": [
       "Nataliya Kosmyna",
@@ -1515,9 +1851,9 @@
     "detail_url": "https://hub.baai.ac.cn/paper/d30b15e2-75ef-4d4d-b4ae-2c063cc94f18",
     "first_hotness": 2192,
     "first_seen_date": "2026-06-05",
-    "hotness_delta": 1552,
+    "hotness_delta": 0,
     "id": "d30b15e2-75ef-4d4d-b4ae-2c063cc94f18",
-    "last_seen_date": "2026-11-18",
+    "last_seen_date": "2026-11-21",
     "latest_hotness": 3744,
     "matched_keywords": {},
     "observations": [
@@ -1530,6 +1866,13 @@
       },
       {
         "date": "2026-11-18",
+        "hotness": 3744,
+        "sources": [
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-21",
         "hotness": 3744,
         "sources": [
           "weekly"
@@ -1551,10 +1894,10 @@
     "detail_url": "https://hub.baai.ac.cn/paper/d5b3003d-fd5e-4ad0-a3f7-1c78beb34611",
     "first_hotness": 526,
     "first_seen_date": "2026-11-18",
-    "hotness_delta": 0,
+    "hotness_delta": 6,
     "id": "d5b3003d-fd5e-4ad0-a3f7-1c78beb34611",
-    "last_seen_date": "2026-11-20",
-    "latest_hotness": 526,
+    "last_seen_date": "2026-11-21",
+    "latest_hotness": 532,
     "matched_keywords": {},
     "observations": [
       {
@@ -1570,10 +1913,17 @@
         "sources": [
           "weekly"
         ]
+      },
+      {
+        "date": "2026-11-21",
+        "hotness": 532,
+        "sources": [
+          "weekly"
+        ]
       }
     ],
     "pdf_url": "",
-    "peak_hotness": 526,
+    "peak_hotness": 532,
     "priority": "unscored",
     "published": "2026-11-04",
     "summary": "利用三维时序显微镜图像重建细胞谱系，需区分细胞运动与细胞分裂，并推断在时间上保持一致的连接关系。然而，当仅有部分细胞被人工标注时，若训练过程将未标注区域简单视为背景或错误对应关系，则可能导致模型性能下降。为此，我们提出了一套细胞追踪流程，该流程整合了基于稀疏标注的细胞检测、利用图像特征对候选连接关系进行校准，以及对谱系图中各类事件（如细胞分裂、普通连接、节点存在性等）进行联合优化选择。在检测阶段，我们融合了两种模型的输出结果：一种是针对2.5维图像训练的模型，另一种是针对3维图像训练的模型；二者均经过专门设计，以抑制因未标注细胞区域引入的错误背景监督信号。随后，我们利用多种图像特征对常规连接概率和分裂概率进行校准：包括基于稠密光流提取的运动特征、由学习所得的细胞匹配模型提供的对应特征，以及分别用于识别“即将分裂前的细胞”“正在分裂的母细胞”和“刚完成分裂后的子细胞”的多个专用模型所提取的特征。在此基础上，我们将常规连接、以子细胞对形式表示的分裂事件，以及节点是否应被纳入谱系图这三类决策，在一个由最终评估指标导出的代理目标函数下进行联合优化；之后再执行空缺填补（gap filling）与时间坐标精调（temporal coordinate refinement）。该流程在来自2枚斑马鱼胚胎的199段视频上进行了五折交叉验证，整体得分达0.9762。在候选连接与校准后的概率值保持固定的前提下，上述联合优化策略相较一种允许动态替换已有分裂事件并重新优化常规连接的顺序式方法，性能提升达0.0105；该提升主要源于对遗漏分裂事件的更好恢复能力。",
@@ -1724,7 +2074,7 @@
     "first_seen_date": "2026-11-18",
     "hotness_delta": 0,
     "id": "dd075d53-84ce-4e0f-93d8-d8f18ea6cc60",
-    "last_seen_date": "2026-11-20",
+    "last_seen_date": "2026-11-21",
     "latest_hotness": 955,
     "matched_keywords": {},
     "observations": [
@@ -1744,6 +2094,13 @@
       },
       {
         "date": "2026-11-20",
+        "hotness": 955,
+        "sources": [
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-21",
         "hotness": 955,
         "sources": [
           "weekly"
@@ -1969,6 +2326,42 @@
     "title": "The Art of Scaling Reinforcement Learning Compute for LLMs Devvrit Khatri",
     "topics": []
   },
+  "f662e15a-8046-437b-b140-dd2ea87a70df": {
+    "authors": [
+      "Lu Chen",
+      "Xiaoran Xue",
+      "Rongqi Ding",
+      "Fenghua Tang",
+      "Anji Zhou",
+      "Chenxi Wang",
+      "Mengyu Miranda Gao",
+      "Zhuo Rachel Han"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/f662e15a-8046-437b-b140-dd2ea87a70df",
+    "first_hotness": 98,
+    "first_seen_date": "2026-11-21",
+    "hotness_delta": 0,
+    "id": "f662e15a-8046-437b-b140-dd2ea87a70df",
+    "last_seen_date": "2026-11-21",
+    "latest_hotness": 98,
+    "matched_keywords": {},
+    "observations": [
+      {
+        "date": "2026-11-21",
+        "hotness": 98,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 98,
+    "priority": "unscored",
+    "published": "2026-05-28",
+    "summary": "随着对话式人工智能逐渐具备持续、情感响应式的交互能力，用户可能与其建立起超越工具性使用的联结关系。现有测量工具往往直接套用人际互动的理论框架，或仅聚焦于某些特定的关系结果，因而缺乏一套能够立足于人机关系本身、专门用于评估人类与AI之间情感联结的成熟工具。本研究通过两项实证研究，开发并验证了《人机情感联结量表》（Human-AI Affective Bonding Inventory, HAABI）。研究一采用主题分析法，对52位在使用对话式AI过程中产生显著情感投入的用户开展半结构化访谈，从中识别出情感联结所涵盖的认知、情绪与行为三个维度的具体特征。研究二则基于上述发现编制自陈式量表，并在中国673名对话式AI用户中开展量表验证。探索性因子分析与验证性因子分析共同支持该量表为包含20个题项、四个因子的结构模型，四个因子分别为：情绪真实性、分离焦虑、情感投入以及浪漫亲密感。HAABI展现出良好的信度、构念效度及已知团体效度。因此，该量表提供了一种中立、以用户为中心的测量工具，可用于系统探究人类与对话式AI之间情感联结的形成机制、主观体验，及其与用户心理状态和心理健康结果之间的关联。",
+    "title": "Understanding the Rising Human-AI Affective Bonding: Conceptualization and HAABI Scale Development",
+    "topics": []
+  },
   "f75a8479-4bfb-43ab-8bb3-d03e5b5f5b73": {
     "authors": [
       "Pengfei Zheng",
@@ -1998,5 +2391,45 @@
     "summary": "在这项工作中，我们推出了OmniGen2，这是一种多功能且开源的生成模型，旨在为各种生成任务提供统一的解决方案，包括文本到图像生成、图像编辑以及上下文内生成。与OmniGen v1不同，OmniGen2为文本和图像模态分别设计了两个独立的解码路径，采用不共享的参数和解耦的图像编码器。这一设计使得OmniGen2可以在现有多模态理解模型的基础上进行构建，而无需重新适配VAE输入，从而保留原有的文本生成能力。为了支持OmniGen2的训练，我们开发了全面的数据构建流程，涵盖图像编辑和上下文内生成所需的数据。此外，我们还为图像生成任务引入了一种专门设计的反思机制，并基于OmniGen2构建了一个专用的反思数据集。尽管参数规模相对适中，OmniGen2在多个任务基准测试中仍取得了具有竞争力的结果，包括文本到图像生成和图像编辑。为了进一步评估上下文内生成（也称为主题驱动任务），我们引入了一个新的基准测试集OmniContext。在开源模型中，OmniGen2在一致性方面达到了最先进的性能水平。我们将发布模型、训练代码、数据集以及数据构建流程，以支持该领域的未来研究。项目页面：https://vectorspacelab.github.io/OmniGen2；GitHub链接：https://github.com/VectorSpaceLab/OmniGen2",
     "title": "OmniGen2: Exploration to Advanced Multimodal Generation Chenyuan Wu",
     "topics": []
+  },
+  "fe1563c4-88fc-4f55-b14d-a3ba44425e70": {
+    "authors": [
+      "Bo Dai",
+      "Yilun Du"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/fe1563c4-88fc-4f55-b14d-a3ba44425e70",
+    "first_hotness": 263,
+    "first_seen_date": "2026-11-21",
+    "hotness_delta": 0,
+    "id": "fe1563c4-88fc-4f55-b14d-a3ba44425e70",
+    "last_seen_date": "2026-11-21",
+    "latest_hotness": 263,
+    "matched_keywords": {
+      "deep_learning_sota": [
+        "diffusion model"
+      ],
+      "llm_progress": [
+        "planning"
+      ]
+    },
+    "observations": [
+      {
+        "date": "2026-11-21",
+        "hotness": 263,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 263,
+    "priority": "unscored",
+    "published": "2026-11-10",
+    "summary": "基于能量的模型（Energy-Based Models, EBMs）通过一个标量能量函数定义概率分布：$p_θ(x) \\propto \\exp(-E_θ(x))$，通常被视作众多模型家族中的一种。本教程具有更宏大的目标：不仅在于介绍EBMs本身，更将其作为统一视角，用以贯通机器学习中各个看似独立的分支与范式。任一EBM均由三项核心选择所确定：一是能量函数本身，它决定了模型所刻画的对象与语义；二是推理过程，即如何从该能量函数中采样或对其进行优化；三是学习方法，即如何将能量函数拟合至观测数据。我们首先系统阐述这三类核心组件，涵盖采样技术、变分推断，以及基于最大似然估计、噪声对比估计（NCE）、伪似然（pseudolikelihood）、得分匹配（score matching）和对抗训练（adversarial training）等各类学习策略，并指出这些学习方法在本质上均共享一种“对比式”（contrastive）结构。随后我们进一步阐明：判别式模型、生成式模型（如GAN、标准化流（normalizing flows）、扩散模型（diffusion models）及自回归模型（autoregressive models））、表征学习方法（如对比学习、word2vec、BERT、去噪自编码器、扩散表征（diffusion representations））、强化学习中采用EBM作为策略函数或世界模型（world model）的方法、逆强化学习（inverse reinforcement learning）、规划（planning），乃至借助验证器（verifier）进行推理时计算（inference-time computation）等——所有这些方法，本质上均可视为EBMs，其差异仅在于上述三项核心选择的不同，尤其体现在对配分函数（partition function）的处理方式以及采样机制的设计上。这一统一看法不仅有助于深入理解现有方法背后的共性原理，还能将纷繁多样的算法纳入一个统一框架加以组织；更重要的是，它为设计新算法提供了清晰路径：即在保持其余两项选择不变的前提下，替换其中某一项组件；而“能量函数的组合”（composition of energies）则是一种具备理论依据的、在推理阶段融合多个已学得模型的自然方式。",
+    "title": "An Energy-Based Perspective on Machine Learning",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ]
   }
 }
