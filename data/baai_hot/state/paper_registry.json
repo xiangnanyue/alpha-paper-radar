@@ -136,6 +136,84 @@
       "deep_learning_sota"
     ]
   },
+  "1b51671e-f447-4dd4-ad64-d2c3b354c74e": {
+    "authors": [
+      "Adele Myers",
+      "Nina Miolane"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/1b51671e-f447-4dd4-ad64-d2c3b354c74e",
+    "first_hotness": 84,
+    "first_seen_date": "2026-11-22",
+    "hotness_delta": 0,
+    "id": "1b51671e-f447-4dd4-ad64-d2c3b354c74e",
+    "last_seen_date": "2026-11-22",
+    "latest_hotness": 84,
+    "matched_keywords": {},
+    "observations": [
+      {
+        "date": "2026-11-22",
+        "hotness": 84,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 84,
+    "priority": "unscored",
+    "published": "2025-11-24",
+    "summary": "在许多计算机视觉和形状分析任务中，研究人员希望从图像中物体的形状获取信息，同时忽略物体的方向。为此，定义一种旋转不变的图像表示方法显得尤为重要：这种表示应保留图像的全部信息，同时消除物体在画面中旋转角度的影响。为了适用于实际的学习任务，该表示方法还必须能够高效处理大规模数据集，并具备可逆性，以便能将表示结果重新可视化为原始图像空间中的图像。针对这一目标，我们提出了选择性圆盘双谱（selective disk bispectrum）——一种快速且具有旋转不变性的图像形状分析表示方法。尽管平移双谱长期以来被用作一维和二维信号的平移不变表示，但其向二维图像圆盘旋转不变性的推广一直受到缺乏可逆形式以及计算复杂度高达三次方的制约。在本研究中，我们推导出了圆盘双谱的显式逆变换公式，从而得以定义一种“选择性”圆盘双谱，仅使用实现精确形状恢复所必需的最少数量的系数。我们证明，这种表示方法使得对旋转图像进行多参考对齐成为可能——这在此前是圆盘双谱方法无法实现的任务。这些成果确立了圆盘双谱作为一种实用且具有理论基础的工具，可用于旋转不变形状数据的学习。",
+    "title": "The Selective Disk Bispectrum and Its Inversion, with Application to Multi-Reference Alignment",
+    "topics": []
+  },
+  "1b7e245b-d6ba-40ec-b179-45e74ce23b84": {
+    "authors": [
+      "Xinping Lei",
+      "Minghao Liu",
+      "Ruijie Zhu",
+      "Xiaohui Hu",
+      "Xingqiao Li",
+      "Ao Zhang",
+      "Wenhao Chai",
+      "Han Li",
+      "Tao Wang",
+      "Jingyuan Zhang"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/1b7e245b-d6ba-40ec-b179-45e74ce23b84",
+    "first_hotness": 53,
+    "first_seen_date": "2026-11-22",
+    "hotness_delta": 0,
+    "id": "1b7e245b-d6ba-40ec-b179-45e74ce23b84",
+    "last_seen_date": "2026-11-22",
+    "latest_hotness": 53,
+    "matched_keywords": {
+      "deep_learning_sota": [
+        "benchmark"
+      ],
+      "llm_progress": [
+        "agent"
+      ]
+    },
+    "observations": [
+      {
+        "date": "2026-11-22",
+        "hotness": 53,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 53,
+    "priority": "unscored",
+    "published": "2026-11-15",
+    "summary": "在软件组织中工作的编码智能体必须明确要构建什么、与同事协作，并验证其交付成果。我们提出了SWE-CoWork基准测试集，该基准包含来自101个真实代码仓库的101项开发任务，覆盖11种编程语言和12个应用领域。每项任务均将智能体置于一个模拟的工程组织环境中，该环境中设有26位职责分明、知识范围受限、协作行为受控的同事。智能体从一份简短的工作交接说明出发，需从多位同事及工作场所文档中恢复分散的原始需求，调和相互冲突的证据，并实施变更——这些变更最终须通过私有的可执行测试进行评估。我们对11个模型进行了评测，结果发现：部分实现与完整交付任务之间存在显著差距。表现最优的两个模型在“失败转通过”（Fail-to-Pass, F2P）测试中的通过率约为63%，但仅能完整完成不足8%的任务。若在初始阶段即向智能体提供完整需求，则Seed Evolving与GPT-6 Astra模型的F2P测试通过率可分别提升约16个百分点，但其任务整体完成率却未发生改变。针对需求层级的执行轨迹分析揭示了交付全流程中普遍存在的失效环节：Claude-Opus-5.5在各轮运行中，平均将93%的首轮提问（关于所查询的需求卡片）精准定向至对应的责任人，却仅成功获取了64%由同事掌握的需求信息；被延迟提出的问题往往无人跟进；即便已获取全部需求，最终实现仍不完整；更有31%被报告为“已完成”的需求，在实际测试中未能通过。上述发现凸显出：如何在从需求澄清、实现、验证到最终交接的全生命周期中持续、可靠地追踪需求，已成为实现可信自主软件工程的关键挑战。",
+    "title": "SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ]
+  },
   "1f4aaa06-af3c-4364-abc2-b7019a2d7666": {
     "authors": [
       "Xiaoyu Wu",
@@ -629,7 +707,7 @@
     "first_seen_date": "2026-11-18",
     "hotness_delta": 0,
     "id": "4bfd477c-33c0-4c19-8799-fb19be9c6583",
-    "last_seen_date": "2026-11-21",
+    "last_seen_date": "2026-11-22",
     "latest_hotness": 658,
     "matched_keywords": {
       "llm_progress": [
@@ -660,6 +738,13 @@
       },
       {
         "date": "2026-11-21",
+        "hotness": 658,
+        "sources": [
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-22",
         "hotness": 658,
         "sources": [
           "weekly"
@@ -850,7 +935,7 @@
     "first_seen_date": "2026-11-18",
     "hotness_delta": 0,
     "id": "56ea7826-7904-4c50-af9c-a644c8ec2414",
-    "last_seen_date": "2026-11-21",
+    "last_seen_date": "2026-11-22",
     "latest_hotness": 890,
     "matched_keywords": {},
     "observations": [
@@ -881,6 +966,13 @@
         "sources": [
           "weekly"
         ]
+      },
+      {
+        "date": "2026-11-22",
+        "hotness": 890,
+        "sources": [
+          "weekly"
+        ]
       }
     ],
     "pdf_url": "",
@@ -903,7 +995,7 @@
     "first_seen_date": "2026-06-05",
     "hotness_delta": 0,
     "id": "59d91cd2-f2e7-4c90-8324-14cc655a96ee",
-    "last_seen_date": "2026-11-21",
+    "last_seen_date": "2026-11-22",
     "latest_hotness": 1094,
     "matched_keywords": {},
     "observations": [
@@ -937,6 +1029,13 @@
       },
       {
         "date": "2026-11-21",
+        "hotness": 1094,
+        "sources": [
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-22",
         "hotness": 1094,
         "sources": [
           "weekly"
@@ -1264,7 +1363,7 @@
     "first_seen_date": "2026-11-18",
     "hotness_delta": 0,
     "id": "a76d607a-1d6d-4f28-b315-054649cb4b7a",
-    "last_seen_date": "2026-11-21",
+    "last_seen_date": "2026-11-22",
     "latest_hotness": 917,
     "matched_keywords": {
       "deep_learning_sota": [
@@ -1302,6 +1401,13 @@
         "sources": [
           "weekly"
         ]
+      },
+      {
+        "date": "2026-11-22",
+        "hotness": 917,
+        "sources": [
+          "weekly"
+        ]
       }
     ],
     "pdf_url": "",
@@ -1325,7 +1431,7 @@
     "first_seen_date": "2026-11-18",
     "hotness_delta": 0,
     "id": "aab5ca04-fecf-44f8-a191-f13dbba74bbf",
-    "last_seen_date": "2026-11-21",
+    "last_seen_date": "2026-11-22",
     "latest_hotness": 674,
     "matched_keywords": {
       "llm_progress": [
@@ -1356,6 +1462,13 @@
       },
       {
         "date": "2026-11-21",
+        "hotness": 674,
+        "sources": [
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-22",
         "hotness": 674,
         "sources": [
           "weekly"
@@ -1402,6 +1515,38 @@
     "title": "OmniGen: Unified Image Generation Shitao Xiao",
     "topics": []
   },
+  "aef98ea1-7f93-44b9-907d-a0268bf03f3e": {
+    "authors": [
+      "Thorben Prein",
+      "Elton Pan",
+      "Rafael Gómez-Bombarelli",
+      "Santiago Miret"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/aef98ea1-7f93-44b9-907d-a0268bf03f3e",
+    "first_hotness": 67,
+    "first_seen_date": "2026-11-22",
+    "hotness_delta": 0,
+    "id": "aef98ea1-7f93-44b9-907d-a0268bf03f3e",
+    "last_seen_date": "2026-11-22",
+    "latest_hotness": 67,
+    "matched_keywords": {},
+    "observations": [
+      {
+        "date": "2026-11-22",
+        "hotness": 67,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 67,
+    "priority": "unscored",
+    "published": "2026-11-17",
+    "summary": "科学领域的生成建模通常面临数据匮乏的挑战，因为实验成本高昂。然而，每一次实验往往能同时获取同一物理实体的多个耦合测量结果。而标准的生成模型通常仅在单一方向上进行训练，从而舍弃了其余测量结果所提供的监督信号。我们认为，每一次实验所蕴含的训练信号远比这种单向建模范式所能利用的更为丰富：通过随机掩蔽（random masking），各类测量结果可灵活地作为条件输入或预测目标，从而将单次实验转化为多个有监督的去噪任务。我们基于这一设想，提出了MOSAIC模型——一种面向分子三维结构及紫外（UV）、红外（IR）和拉曼（Raman）光谱的多模态流匹配（flow matching）Transformer模型。MOSAIC是一个统一模型，支持任意模态子集到任意其他互斥模态子集的生成，即实现“任意到任意”（any-to-any）的跨模态生成。在QM9S数据集上，MOSAIC实现了88.8%的分子图恢复率，在结构生成任务中较当前最强的“光谱→结构”基线模型提升达23.2%；与此同时，在光谱生成任务中亦超越了专精于“结构→光谱”的专家模型。消融实验表明，相较于仅以结构为唯一目标的训练方式，“任意到任意”的联合训练目标在不同规模的模型上均能显著提升结构生成性能。此外，MOSAIC支持对任意可用测量子集的灵活输入，并可通过将生成的光谱与实验参考光谱进行匹配，实现分子识别功能。",
+    "title": "Every Measurement, Every Direction, All at Once: Multimodal Flow Matching for Molecules and Spectra",
+    "topics": []
+  },
   "b9278001-66cb-4a84-aad5-d44341a0b6be": {
     "authors": [
       "Brandon Amos"
@@ -1411,7 +1556,7 @@
     "first_seen_date": "2026-11-18",
     "hotness_delta": 0,
     "id": "b9278001-66cb-4a84-aad5-d44341a0b6be",
-    "last_seen_date": "2026-11-21",
+    "last_seen_date": "2026-11-22",
     "latest_hotness": 594,
     "matched_keywords": {},
     "observations": [
@@ -1439,6 +1584,13 @@
       },
       {
         "date": "2026-11-21",
+        "hotness": 594,
+        "sources": [
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-22",
         "hotness": 594,
         "sources": [
           "weekly"
@@ -1894,9 +2046,9 @@
     "detail_url": "https://hub.baai.ac.cn/paper/d5b3003d-fd5e-4ad0-a3f7-1c78beb34611",
     "first_hotness": 526,
     "first_seen_date": "2026-11-18",
-    "hotness_delta": 6,
+    "hotness_delta": 0,
     "id": "d5b3003d-fd5e-4ad0-a3f7-1c78beb34611",
-    "last_seen_date": "2026-11-21",
+    "last_seen_date": "2026-11-22",
     "latest_hotness": 532,
     "matched_keywords": {},
     "observations": [
@@ -1916,6 +2068,13 @@
       },
       {
         "date": "2026-11-21",
+        "hotness": 532,
+        "sources": [
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-22",
         "hotness": 532,
         "sources": [
           "weekly"
@@ -2074,7 +2233,7 @@
     "first_seen_date": "2026-11-18",
     "hotness_delta": 0,
     "id": "dd075d53-84ce-4e0f-93d8-d8f18ea6cc60",
-    "last_seen_date": "2026-11-21",
+    "last_seen_date": "2026-11-22",
     "latest_hotness": 955,
     "matched_keywords": {},
     "observations": [
@@ -2101,6 +2260,13 @@
       },
       {
         "date": "2026-11-21",
+        "hotness": 955,
+        "sources": [
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-22",
         "hotness": 955,
         "sources": [
           "weekly"
@@ -2152,6 +2318,50 @@
     "summary": "通常，提示词（harness）优化研究是在固定策略模型和固定基准任务的前提下开展的。然而，一旦策略模型或基准任务发生变更，优化器便需判断：此前演化所得提示词中，哪些部分可直接复用，哪些部分需要重新调整。但仅靠提示词本身，往往无法说明先前各项修改的动因，也无法反映这些修改在实际评估中的具体表现。 本研究探讨“持续递归式自我改进”（CRSI）这一新范式，旨在使现有的提示词优化方法能够跨兼容基准任务或跨兼容策略模型持续演进。为此，我们提出“自我改进记忆”（Self-Improvement Memory, SIM）机制——该机制作用于提示词优化器本身，而非下游任务求解策略。SIM 按反复出现的提示词共性问题对各类修改进行归类，并系统记录每项修改的决策依据、预测效果、实测结果以及所处的具体评估上下文。随着优化过程持续推进，新的尝试将不断扩充这一记忆历史。 在涵盖四个不同领域的实验中，相较于仅延续原始提示词（harness-only）或仅延续根本原因分析（root-cause-only）的基线方法，采用 SIM 的方法在跨数据集及成对跨模型的对比评估中均取得了更高的最终得分。尤其在编程领域，基于十个独立初始运行所开展的配对续优化实验表明：引入 SIM 的续优化方案，其最终得分平均高出仅延续提示词的方案 2.36 分（$p = 0.003$）。",
     "title": "Self-Improvement Memory Enables Continual Recursive Self-Improvement",
     "topics": []
+  },
+  "e68b03b2-7882-4fe0-aca0-27d0170e8b56": {
+    "authors": [
+      "Anzhe Cheng",
+      "Shukai Duan",
+      "Shixuan Li",
+      "Chenzhong Yin",
+      "Mingxi Cheng",
+      "Heng Ping",
+      "Tamoghna Chattopadhyay",
+      "Sophia I Thomopoulos",
+      "Shahin Nazarian",
+      "Paul Thompson"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/e68b03b2-7882-4fe0-aca0-27d0170e8b56",
+    "first_hotness": 188,
+    "first_seen_date": "2026-11-22",
+    "hotness_delta": 0,
+    "id": "e68b03b2-7882-4fe0-aca0-27d0170e8b56",
+    "last_seen_date": "2026-11-22",
+    "latest_hotness": 188,
+    "matched_keywords": {
+      "deep_learning_sota": [
+        "mixture-of-experts"
+      ]
+    },
+    "observations": [
+      {
+        "date": "2026-11-22",
+        "hotness": 188,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 188,
+    "priority": "unscored",
+    "published": "2025-11-14",
+    "summary": "混合专家（MoE）架构通过稀疏激活专家来扩展模型容量，但面临两个核心挑战：路由器的logits与各专家内部结构之间存在错位，导致路由不稳定和专家利用率低下；同时负载不均衡会引发拖尾瓶颈。标准解决方案（如辅助性负载均衡损失）虽可减轻负载差异，却常常削弱专家的专业化程度，进而损害下游任务性能。为解决这些问题，我们提出了ERMoE——一种稀疏MoE Transformer，它将每个专家在一组学习得到的正交特征基（eigenbasis）上进行重新参数化，并用“特征基得分”（Eigenbasis Score）替代传统的学习型门控logits，该得分定义为输入特征与某专家基之间的余弦相似度。这种基于内容感知的路由机制将令牌分配直接与专家的表示空间关联起来，从而稳定了专家利用率，并在不牺牲稀疏性的前提下促进形成更具可解释性的专业化分工。关键的是，ERMoE无需引入显式的均衡损失，避免了此类损失所带来的干扰梯度。实验表明，ERMoE在ImageNet图像分类以及跨模态图文检索任务（如COCO、Flickr30K）中均达到了最先进的准确率，同时自然地生成更均匀的专家负载分布。此外，其适用于3D MRI数据的变体（ERMoE-ba）在脑龄预测任务中精度提升超过7%，并产生了具有解剖学可解释性的专家分工模式。因此，ERMoE提出了一种新的稀疏专家模型架构原则，直接应对路由不稳定问题，在实现可扩展、可解释的专业化的同时，显著提升了模型性能。",
+    "title": "ERMoE: Eigen-Reparameterized Mixture-of-Experts for Stable Routing and Interpretable Specialization",
+    "topics": [
+      "deep_learning_sota"
+    ]
   },
   "e9847a14-bb0f-4a32-9411-351d0b502838": {
     "authors": [
@@ -2391,6 +2601,50 @@
     "summary": "在这项工作中，我们推出了OmniGen2，这是一种多功能且开源的生成模型，旨在为各种生成任务提供统一的解决方案，包括文本到图像生成、图像编辑以及上下文内生成。与OmniGen v1不同，OmniGen2为文本和图像模态分别设计了两个独立的解码路径，采用不共享的参数和解耦的图像编码器。这一设计使得OmniGen2可以在现有多模态理解模型的基础上进行构建，而无需重新适配VAE输入，从而保留原有的文本生成能力。为了支持OmniGen2的训练，我们开发了全面的数据构建流程，涵盖图像编辑和上下文内生成所需的数据。此外，我们还为图像生成任务引入了一种专门设计的反思机制，并基于OmniGen2构建了一个专用的反思数据集。尽管参数规模相对适中，OmniGen2在多个任务基准测试中仍取得了具有竞争力的结果，包括文本到图像生成和图像编辑。为了进一步评估上下文内生成（也称为主题驱动任务），我们引入了一个新的基准测试集OmniContext。在开源模型中，OmniGen2在一致性方面达到了最先进的性能水平。我们将发布模型、训练代码、数据集以及数据构建流程，以支持该领域的未来研究。项目页面：https://vectorspacelab.github.io/OmniGen2；GitHub链接：https://github.com/VectorSpaceLab/OmniGen2",
     "title": "OmniGen2: Exploration to Advanced Multimodal Generation Chenyuan Wu",
     "topics": []
+  },
+  "f82447fd-4b03-4871-99fb-69ec2e7e935e": {
+    "authors": [
+      "Xingchen AGI Lab",
+      ":",
+      "Baotian Hu",
+      "Bingkai Yang",
+      "Boyang Wang",
+      "Changzai Pan",
+      "Chao Lyu",
+      "Chao Wang",
+      "Chen Li",
+      "Chenshuo Pan"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/f82447fd-4b03-4871-99fb-69ec2e7e935e",
+    "first_hotness": 60,
+    "first_seen_date": "2026-11-22",
+    "hotness_delta": 0,
+    "id": "f82447fd-4b03-4871-99fb-69ec2e7e935e",
+    "last_seen_date": "2026-11-22",
+    "latest_hotness": 60,
+    "matched_keywords": {
+      "llm_progress": [
+        "agent"
+      ]
+    },
+    "observations": [
+      {
+        "date": "2026-11-22",
+        "hotness": 60,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 60,
+    "priority": "unscored",
+    "published": "2026-11-17",
+    "summary": "我们推出了“星河4号”（Xing 4）系列大语言模型，该系列在昇腾（Ascend）硬件平台上，通过模型架构与训练基础设施的协同演进，延续并拓展了TeleChat技术谱系。本报告系统阐述了该系列模型的设计理念与系统工程实践，涵盖架构选型、大规模预训练，以及推理与智能体能力的后训练等关键环节。我们深入研究了稀疏激活、注意力机制设计、模型深度与宽度、推测解码（speculative decoding）等技术如何在模型容量、计算开销、内存访问带宽及执行时延之间取得平衡。我们的预训练基础设施基于MindSpore HyperParallel框架构建，融合了拓扑感知的混合张量切分（topology-aware hybrid sharding）、高效的分布式优化器执行、以及对长序列任务负载与激活内存的协同管理；同时，通过CPU亲和性绑定与核心隔离策略，进一步降低了主机调度带来的干扰。上述各项机制协同作用，成功支撑了在8192张昇腾910C加速卡上完成参数量达2850亿的超大规模模型预训练，为模型架构与系统级技术的实证研究提供了坚实可靠的实验平台。在后训练阶段，我们提出了TeleGym——一个统一的智能体执行平台，将执行过程、效果评估与轨迹构建紧密耦合至策略优化闭环之中；其采用解耦式异步执行、有界过采样（bounded oversampling）与部分展开（partial rollout）等机制，在适配任务执行时长高度异构性的同时，确保策略迭代过程中轨迹的连续性与一致性。综上所述，这些技术进步共同构建起一套面向昇腾生态的、可扩展的模型训练基础体系，为“星河4号”在不同规模层级上的持续演进，以及在日益复杂的推理与智能体任务场景中的深入应用，奠定了坚实基础。",
+    "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
+    "topics": [
+      "llm_progress"
+    ]
   },
   "fe1563c4-88fc-4f55-b14d-a3ba44425e70": {
     "authors": [
