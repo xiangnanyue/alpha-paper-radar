@@ -146,12 +146,19 @@
     "first_seen_date": "2026-11-22",
     "hotness_delta": 0,
     "id": "1b51671e-f447-4dd4-ad64-d2c3b354c74e",
-    "last_seen_date": "2026-11-22",
+    "last_seen_date": "2026-11-23",
     "latest_hotness": 84,
     "matched_keywords": {},
     "observations": [
       {
         "date": "2026-11-22",
+        "hotness": 84,
+        "sources": [
+          "daily"
+        ]
+      },
+      {
+        "date": "2026-11-23",
         "hotness": 84,
         "sources": [
           "daily"
@@ -184,7 +191,7 @@
     "first_seen_date": "2026-11-22",
     "hotness_delta": 0,
     "id": "1b7e245b-d6ba-40ec-b179-45e74ce23b84",
-    "last_seen_date": "2026-11-22",
+    "last_seen_date": "2026-11-23",
     "latest_hotness": 53,
     "matched_keywords": {
       "deep_learning_sota": [
@@ -197,6 +204,13 @@
     "observations": [
       {
         "date": "2026-11-22",
+        "hotness": 53,
+        "sources": [
+          "daily"
+        ]
+      },
+      {
+        "date": "2026-11-23",
         "hotness": 53,
         "sources": [
           "daily"
@@ -1527,12 +1541,19 @@
     "first_seen_date": "2026-11-22",
     "hotness_delta": 0,
     "id": "aef98ea1-7f93-44b9-907d-a0268bf03f3e",
-    "last_seen_date": "2026-11-22",
+    "last_seen_date": "2026-11-23",
     "latest_hotness": 67,
     "matched_keywords": {},
     "observations": [
       {
         "date": "2026-11-22",
+        "hotness": 67,
+        "sources": [
+          "daily"
+        ]
+      },
+      {
+        "date": "2026-11-23",
         "hotness": 67,
         "sources": [
           "daily"
@@ -1556,7 +1577,7 @@
     "first_seen_date": "2026-11-18",
     "hotness_delta": 0,
     "id": "b9278001-66cb-4a84-aad5-d44341a0b6be",
-    "last_seen_date": "2026-11-22",
+    "last_seen_date": "2026-11-23",
     "latest_hotness": 594,
     "matched_keywords": {},
     "observations": [
@@ -1591,6 +1612,13 @@
       },
       {
         "date": "2026-11-22",
+        "hotness": 594,
+        "sources": [
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-23",
         "hotness": 594,
         "sources": [
           "weekly"
@@ -2337,7 +2365,7 @@
     "first_seen_date": "2026-11-22",
     "hotness_delta": 0,
     "id": "e68b03b2-7882-4fe0-aca0-27d0170e8b56",
-    "last_seen_date": "2026-11-22",
+    "last_seen_date": "2026-11-23",
     "latest_hotness": 188,
     "matched_keywords": {
       "deep_learning_sota": [
@@ -2347,6 +2375,13 @@
     "observations": [
       {
         "date": "2026-11-22",
+        "hotness": 188,
+        "sources": [
+          "daily"
+        ]
+      },
+      {
+        "date": "2026-11-23",
         "hotness": 188,
         "sources": [
           "daily"
@@ -2620,7 +2655,7 @@
     "first_seen_date": "2026-11-22",
     "hotness_delta": 0,
     "id": "f82447fd-4b03-4871-99fb-69ec2e7e935e",
-    "last_seen_date": "2026-11-22",
+    "last_seen_date": "2026-11-23",
     "latest_hotness": 60,
     "matched_keywords": {
       "llm_progress": [
@@ -2630,6 +2665,13 @@
     "observations": [
       {
         "date": "2026-11-22",
+        "hotness": 60,
+        "sources": [
+          "daily"
+        ]
+      },
+      {
+        "date": "2026-11-23",
         "hotness": 60,
         "sources": [
           "daily"

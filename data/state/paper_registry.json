@@ -92563,5 +92563,585 @@
       "llm_progress"
     ],
     "updated": "2026-11-19T18:59:34Z"
+  },
+  "2611.27274": {
+    "authors": [
+      "Paul Ruelloux",
+      "Christian Bongiorno",
+      "Damien Challet"
+    ],
+    "canonical_id": "2611.27274",
+    "categories": [
+      "q-fin.PM",
+      "q-fin.RM",
+      "q-fin.ST"
+    ],
+    "content_hash": "14aefdd31d8fcdaee4171137c309d3ddffa7d92723fe7a3d604389f7adc2ae22",
+    "first_seen_date": "2026-11-23",
+    "last_reported_date": "2026-11-23",
+    "last_seen_date": "2026-11-23",
+    "latest_version": 1,
+    "primary_category": "q-fin.PM",
+    "priority": "unscored",
+    "published": "2026-11-20T08:15:49Z",
+    "report_count": 1,
+    "title": "Nonlinear Shrinkage for Higher Moments Estimation in Large Portfolios",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-11-20T08:15:49Z"
+  },
+  "2611.27835": {
+    "authors": [
+      "Samarth Sarin",
+      "Lovepreet Singh",
+      "Dhagash Mehta"
+    ],
+    "canonical_id": "2611.27835",
+    "categories": [
+      "cs.AI",
+      "cs.CE"
+    ],
+    "content_hash": "24f32cb41ea1057553bf7cdd3c865362c9ca881b776e82675aa7d175d9d2d742",
+    "first_seen_date": "2026-11-23",
+    "last_reported_date": "2026-11-23",
+    "last_seen_date": "2026-11-23",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-20T16:54:47Z",
+    "report_count": 1,
+    "title": "Auditable Financial Knowledge Graphs: Schema-Driven Construction and Intrinsic Quality Evaluation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-20T16:54:47Z"
+  },
+  "2611.27839": {
+    "authors": [
+      "Chrisantus Eze"
+    ],
+    "canonical_id": "2611.27839",
+    "categories": [
+      "cs.AI",
+      "cs.MA"
+    ],
+    "content_hash": "d11179b52a31153dc4d36858d5831d0a550541465ab3e0257f1d69abdb6daa04",
+    "first_seen_date": "2026-11-23",
+    "last_reported_date": "2026-11-23",
+    "last_seen_date": "2026-11-23",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-20T16:56:17Z",
+    "report_count": 1,
+    "title": "Beyond Self-Critique: Epistemic Convergence Control for Multi-Agent Research Verification",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-20T16:56:17Z"
+  },
+  "2611.27855": {
+    "authors": [
+      "Aadi Gupta"
+    ],
+    "canonical_id": "2611.27855",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "021d783d0b8cd9edab49da56211dc198a2fddf9bd7cc82af31afce21bbcb27c3",
+    "first_seen_date": "2026-11-23",
+    "last_reported_date": "2026-11-23",
+    "last_seen_date": "2026-11-23",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-20T17:04:16Z",
+    "report_count": 1,
+    "title": "Anchors That Move Without Collapsing: Exclusive-Region Anchor Routing for Vision Transformers",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-20T17:04:16Z"
+  },
+  "2611.27860": {
+    "authors": [
+      "Nathan Nour Houlamy",
+      "Mattia Favretto",
+      "Earlence Fernandes",
+      "Mauro Conti"
+    ],
+    "canonical_id": "2611.27860",
+    "categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "content_hash": "b99abdb48d22fb208cbe034471fcef154515b3f17441c80a5d91b1c4fcb6d844",
+    "first_seen_date": "2026-11-23",
+    "last_reported_date": "2026-11-23",
+    "last_seen_date": "2026-11-23",
+    "latest_version": 1,
+    "primary_category": "cs.CR",
+    "priority": "unscored",
+    "published": "2026-11-20T17:09:10Z",
+    "report_count": 1,
+    "title": "Who Grades the Agent? Privilege Separation for Coding-Agent Benchmarks",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-20T17:09:10Z"
+  },
+  "2611.27865": {
+    "authors": [
+      "Arshia Rafieioskouie",
+      "Matthew Lucas",
+      "Tzu-Han Hsu",
+      "Borzoo Bonakdarpour"
+    ],
+    "canonical_id": "2611.27865",
+    "categories": [
+      "cs.AI",
+      "cs.LO"
+    ],
+    "content_hash": "4dcb5b3d00f581cb8313f423ad312204ac32d98b03c5a3cea529b0515cded803",
+    "first_seen_date": "2026-11-23",
+    "last_reported_date": "2026-11-23",
+    "last_seen_date": "2026-11-23",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-20T17:13:50Z",
+    "report_count": 1,
+    "title": "SLICR: Strategy Logic-Guided Multi-Agent Reinforcement Learning",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-20T17:13:50Z"
+  },
+  "2611.27875": {
+    "authors": [
+      "Luca Saglietti",
+      "Luca Giammanco",
+      "Marc Mezard",
+      "Chiara Plizzari",
+      "Luca Biggio"
+    ],
+    "canonical_id": "2611.27875",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "5a32246b76e56cd0df5f982d9a1acf5f6b609f85888ec4929c1be49c8ae0090d",
+    "first_seen_date": "2026-11-23",
+    "last_reported_date": "2026-11-23",
+    "last_seen_date": "2026-11-23",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-20T17:20:31Z",
+    "report_count": 1,
+    "title": "From Gist to Verbatim: The Controllable Path of One Image Through a Diffusion Prior",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-20T17:20:31Z"
+  },
+  "2611.27876": {
+    "authors": [
+      "Maximilian Rokuss",
+      "Jeya Maria Jose Valanarasu",
+      "Alejandro Lozano",
+      "Benjamin Hamm",
+      "Yannick Kirchhoff",
+      "Fabian Isensee",
+      "Klaus Maier-Hein"
+    ],
+    "canonical_id": "2611.27876",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.MA"
+    ],
+    "content_hash": "23b5d87064a5b8aa7e9bc47f1d95b9756822008258dd2864caaff1be0a52d095",
+    "first_seen_date": "2026-11-23",
+    "last_reported_date": "2026-11-23",
+    "last_seen_date": "2026-11-23",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-20T17:21:36Z",
+    "report_count": 1,
+    "title": "LesionAgent: Training-Free Agentic Tumor Tracking and Response Assessment in Longitudinal CT",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-20T17:21:36Z"
+  },
+  "2611.27891": {
+    "authors": [
+      "Guanning Zeng",
+      "Andrea Zanette"
+    ],
+    "canonical_id": "2611.27891",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "b57b3f5bd32d2cdfd0c977482cc08a3e96bce42e81280873e74dfddfeccda753",
+    "first_seen_date": "2026-11-23",
+    "last_reported_date": "2026-11-23",
+    "last_seen_date": "2026-11-23",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-20T17:33:21Z",
+    "report_count": 1,
+    "title": "Speculative Decoding Is Less Speculative Than You Think",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-20T17:33:21Z"
+  },
+  "2611.27895": {
+    "authors": [
+      "Marcio Andre de Souza Estevam"
+    ],
+    "canonical_id": "2611.27895",
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "9dfc1de9421433aa2006215694fb7f63e698b76f46d313d1efe438d24538ec34",
+    "first_seen_date": "2026-11-23",
+    "last_reported_date": "2026-11-23",
+    "last_seen_date": "2026-11-23",
+    "latest_version": 1,
+    "primary_category": "cs.SE",
+    "priority": "unscored",
+    "published": "2026-11-20T17:35:59Z",
+    "report_count": 1,
+    "title": "TEA-Bench-BR: Can Coding Agents Turn a Branching Clinical Specification into Correct Code?",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-20T17:35:59Z"
+  },
+  "2611.27899": {
+    "authors": [
+      "Yi Ding",
+      "Gaurav Kumar",
+      "Rui Min",
+      "Isabella Ye",
+      "Bhavika Goyal",
+      "Emilio Antunez",
+      "Huihui Chen",
+      "Ke Xu",
+      "Xiaowei Sun",
+      "Xin Xu",
+      "Huijie Feng",
+      "Pradyumna Narayana",
+      "Golnaz Farhadi"
+    ],
+    "canonical_id": "2611.27899",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "b315ca03fe322020099b5033788b43cbcd7dfe68f4bf793c7a38cdf86bb03cb1",
+    "first_seen_date": "2026-11-23",
+    "last_reported_date": "2026-11-23",
+    "last_seen_date": "2026-11-23",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-20T17:38:26Z",
+    "report_count": 1,
+    "title": "The Dual-Tier Sentiment Framework: Scalable Multimodal UX Attribution in Web Search",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-20T17:38:26Z"
+  },
+  "2611.27900": {
+    "authors": [
+      "Zhiyu Yan",
+      "Shiao Liu",
+      "Rahul Mahajan",
+      "Anand Viswanathan",
+      "Christopher D. Anderson",
+      "Rui Duan"
+    ],
+    "canonical_id": "2611.27900",
+    "categories": [
+      "stat.ML",
+      "cs.LG",
+      "math.ST"
+    ],
+    "content_hash": "bb9993ed60c03d996784fbf001b5d6e8dc1838fe2deff05fcdc04b4bd76d2bc7",
+    "first_seen_date": "2026-11-23",
+    "last_reported_date": "2026-11-23",
+    "last_seen_date": "2026-11-23",
+    "latest_version": 1,
+    "primary_category": "stat.ML",
+    "priority": "unscored",
+    "published": "2026-11-20T17:38:32Z",
+    "report_count": 1,
+    "title": "Communication-Efficient Federated Learning of Latent Patient Representations from Multi-Institutional EHRs",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-20T17:38:32Z"
+  },
+  "2611.27910": {
+    "authors": [
+      "Aadharsh Kannan",
+      "Robert Bruckner",
+      "Philip A. Bernstein"
+    ],
+    "canonical_id": "2611.27910",
+    "categories": [
+      "cs.IR",
+      "cs.AI",
+      "cs.DB"
+    ],
+    "content_hash": "badc5befa167124e37b47007240d862f91853cbde91da406f4b1376ffe0e628a",
+    "first_seen_date": "2026-11-23",
+    "last_reported_date": "2026-11-23",
+    "last_seen_date": "2026-11-23",
+    "latest_version": 1,
+    "primary_category": "cs.IR",
+    "priority": "unscored",
+    "published": "2026-11-20T17:48:55Z",
+    "report_count": 1,
+    "title": "Decision Columns as an Index: Interpretable Embeddings for Explainable Entity Matching and Search",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-20T17:48:55Z"
+  },
+  "2611.27913": {
+    "authors": [
+      "Erik Großkopf",
+      "Paula Tamara Buzduga",
+      "Hendrik Möller",
+      "Florian Kofler"
+    ],
+    "canonical_id": "2611.27913",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "bcea7fbc68c7512f290231920ee10b63e120615a0d8d4720faf465679a7a2a26",
+    "first_seen_date": "2026-11-23",
+    "last_reported_date": "2026-11-23",
+    "last_seen_date": "2026-11-23",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-20T17:51:51Z",
+    "report_count": 1,
+    "title": "Star Panoptic Quality: Selectively Evaluating Split and Merged Instances",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-20T17:51:51Z"
+  },
+  "2611.27915": {
+    "authors": [
+      "Chi Yan",
+      "Guoyang Zhao",
+      "Wentao Yuan",
+      "Yixiao Ge",
+      "Yanning Zhou",
+      "Dan Xu"
+    ],
+    "canonical_id": "2611.27915",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.RO"
+    ],
+    "content_hash": "20d475a7afd4dbd64f8f598b7688165b07ebf300afa6126ac4fe32c6634476de",
+    "first_seen_date": "2026-11-23",
+    "last_reported_date": "2026-11-23",
+    "last_seen_date": "2026-11-23",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-20T17:52:02Z",
+    "report_count": 1,
+    "title": "StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-20T17:52:02Z"
+  },
+  "2611.27919": {
+    "authors": [
+      "Huaze Tang",
+      "Runqing Miao",
+      "Tianren Peng",
+      "Lam Nguyen",
+      "Chao Wang",
+      "Jairong Li",
+      "Wenbo Ding"
+    ],
+    "canonical_id": "2611.27919",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "29d6dd380e451026c4ee5d8cf258b3fa01682ad4558d8aa781904e45429273f1",
+    "first_seen_date": "2026-11-23",
+    "last_reported_date": "2026-11-23",
+    "last_seen_date": "2026-11-23",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-20T17:53:21Z",
+    "report_count": 1,
+    "title": "SUAF: Spectral Universal Advantage Features for Zero-Shot Policy Improvement",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-20T17:53:21Z"
+  },
+  "2611.27951": {
+    "authors": [
+      "Dylan Forde"
+    ],
+    "canonical_id": "2611.27951",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "8c4c2408e97c4285ef22c0152aaa3b21f0793fe12592dd9d75b186391cda8f26",
+    "first_seen_date": "2026-11-23",
+    "last_reported_date": "2026-11-23",
+    "last_seen_date": "2026-11-23",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-20T18:23:42Z",
+    "report_count": 1,
+    "title": "Topology Hub Optimal Transport: Eliminating Long Context Dilution at Flash Speed",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-20T18:23:42Z"
+  },
+  "2611.27959": {
+    "authors": [
+      "Mamoona Tasadduq",
+      "Maryam Bashir"
+    ],
+    "canonical_id": "2611.27959",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "5108f8bd3af9a27d666bc99ac9a8efff63dfe669df599b1b44a478294b91ea59",
+    "first_seen_date": "2026-11-23",
+    "last_reported_date": "2026-11-23",
+    "last_seen_date": "2026-11-23",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-20T18:35:28Z",
+    "report_count": 1,
+    "title": "Ranking-Preserving Coreset Selection for Efficient Evolutionary Hyperparameter Optimization",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-20T18:35:28Z"
+  },
+  "2611.27963": {
+    "authors": [
+      "Yuhang Dai",
+      "Yinwei Wu",
+      "Ziyue Lin",
+      "Han Ji",
+      "Xingyi Yang"
+    ],
+    "canonical_id": "2611.27963",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "d1c7ccbecd22e049335671352f9520eb023b0ebeecdf5b1dc90fea354daa84ed",
+    "first_seen_date": "2026-11-23",
+    "last_reported_date": "2026-11-23",
+    "last_seen_date": "2026-11-23",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-20T18:44:57Z",
+    "report_count": 1,
+    "title": "Non-penetrating World Models",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-20T18:44:57Z"
+  },
+  "2611.27973": {
+    "authors": [
+      "Chang Nie",
+      "Chaoyou Fu",
+      "Songlin Liu",
+      "Yiqing Hu",
+      "Caifeng Shan"
+    ],
+    "canonical_id": "2611.27973",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "5c0a2b19aa1dce095d162ab4669948433a6201b7ffc715f7530f35d7689a59d1",
+    "first_seen_date": "2026-11-23",
+    "last_reported_date": "2026-11-23",
+    "last_seen_date": "2026-11-23",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-20T18:51:29Z",
+    "report_count": 1,
+    "title": "MemOnce: A Scalable Memory Architecture for Large Language Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-20T18:51:29Z"
+  },
+  "2611.27978": {
+    "authors": [
+      "Hari Sitaula",
+      "Joseph Opitz"
+    ],
+    "canonical_id": "2611.27978",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "9234d641f52729bd9adeab7de6adbd15bec254eba06a113ae1e1cf7e92d4c761",
+    "first_seen_date": "2026-11-23",
+    "last_reported_date": "2026-11-23",
+    "last_seen_date": "2026-11-23",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-20T18:57:15Z",
+    "report_count": 1,
+    "title": "A Methodologically Rigorous Benchmark of Linear Regression,RNN, and LSTM for S&P 500 Forecasting:Identifying Sources of Performance Inflation in Financial DeepLearning",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-20T18:57:15Z"
   }
 }
