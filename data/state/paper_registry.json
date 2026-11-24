@@ -93143,5 +93143,744 @@
       "llm_progress"
     ],
     "updated": "2026-11-20T18:57:15Z"
+  },
+  "2611.29552": {
+    "authors": [
+      "Grace Chengrong Xie",
+      "Alvey Qianli Lin",
+      "Wai Ki Ching"
+    ],
+    "canonical_id": "2611.29552",
+    "categories": [
+      "q-fin.PM",
+      "q-fin.CP",
+      "stat.ML"
+    ],
+    "content_hash": "2fbcfde63a7ab30ef01789b9c6945df4c0cb6091b34227bb057abbd4441c7acf",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "q-fin.PM",
+    "priority": "unscored",
+    "published": "2026-11-22T15:30:01Z",
+    "report_count": 1,
+    "title": "Gated Payoff-Weighted Net Profit Maximization For Online Portfolio Selection With Transaction Costs",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-11-22T15:30:01Z"
+  },
+  "2611.30843": {
+    "authors": [
+      "Sébastien Valeyre"
+    ],
+    "canonical_id": "2611.30843",
+    "categories": [
+      "q-fin.PM"
+    ],
+    "content_hash": "cd03b5ddd797532a565a5757bb31a21bde3c6d848ab78543d0effe3112644ad1",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "q-fin.PM",
+    "priority": "unscored",
+    "published": "2026-11-23T15:27:00Z",
+    "report_count": 1,
+    "title": "Cleaning correlation matrices with external information: the Maximum Variance estimat",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-11-23T15:27:00Z"
+  },
+  "2611.30998": {
+    "authors": [
+      "James Rice"
+    ],
+    "canonical_id": "2611.30998",
+    "categories": [
+      "econ.EM",
+      "stat.CO"
+    ],
+    "content_hash": "b85be3eea64afbd126efb655c21f7654a385a433c9c0984847b3e1a2c0383e31",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "econ.EM",
+    "priority": "unscored",
+    "published": "2026-11-23T16:50:51Z",
+    "report_count": 1,
+    "title": "Spurious Information in Large Markets: Random Matrix Laws for Entropy, Mutual Information and the Value of Information",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-11-23T16:50:51Z"
+  },
+  "2611.31133": {
+    "authors": [
+      "Jean Barré",
+      "Antoine Bourgois",
+      "Thierry Poibeau"
+    ],
+    "canonical_id": "2611.31133",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "64a2337222c58d8f3e33d4d8d408a59d0e7f7c4b2f035a16e98c80e964d5a9a8",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-23T18:04:11Z",
+    "report_count": 1,
+    "title": "Serialization and the Character-System: Measuring Narrative Concentration in French Fiction (1800--1940)",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-23T18:04:11Z"
+  },
+  "2611.31135": {
+    "authors": [
+      "Fareeha Amir"
+    ],
+    "canonical_id": "2611.31135",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "56c4cb719b23d8047340c04d0754974dd46b59c31c76d49c3724fb5709410373",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-23T18:06:09Z",
+    "report_count": 1,
+    "title": "SRCWDNet: Semantic-Relational Cross-Window Dual-Graph Network for Multi-Label Remote Sensing Scene Classification",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-23T18:06:09Z"
+  },
+  "2611.31149": {
+    "authors": [
+      "Taira Tsuchiya"
+    ],
+    "canonical_id": "2611.31149",
+    "categories": [
+      "cs.GT",
+      "cs.LG"
+    ],
+    "content_hash": "7abf32c545051e18163957128f5a3dc90eaee11857c9f04ca3b06d74dad5084b",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "cs.GT",
+    "priority": "unscored",
+    "published": "2026-11-23T18:17:28Z",
+    "report_count": 1,
+    "title": "Optimal Regret Lower Bounds in Matrix Games",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-23T18:17:28Z"
+  },
+  "2611.31154": {
+    "authors": [
+      "Xuyuan Xiong",
+      "Siyu Chen",
+      "Mengzhao Chen",
+      "Yue Su",
+      "Zhuoran Yang",
+      "Ping Luo",
+      "Xihui Liu"
+    ],
+    "canonical_id": "2611.31154",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "811af3788ff0416bee03c9cc9d7aeec9804882abd1f4e6ca306462d6832a5d4b",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-23T18:21:05Z",
+    "report_count": 1,
+    "title": "Attention Latent Feedback",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-23T18:21:05Z"
+  },
+  "2611.31160": {
+    "authors": [
+      "Nicolas Bolouri",
+      "Gaya Mehenni",
+      "Daniel Toyama"
+    ],
+    "canonical_id": "2611.31160",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "cee1c2235f00d4794d30413d59574750b3b7c65f998219bcdd92bb11bf0816ab",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-23T18:23:16Z",
+    "report_count": 1,
+    "title": "Habitats: A Framework for Open-Ended Evolution of Agent Objectives",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-23T18:23:16Z"
+  },
+  "2611.31163": {
+    "authors": [
+      "Kangping Hu",
+      "Akshay Mehra",
+      "Stephen Mussmann"
+    ],
+    "canonical_id": "2611.31163",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "c697810347d6025a5589ab57439def059c57e18fd9e341e5622aa32945b84b22",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-23T18:24:33Z",
+    "report_count": 1,
+    "title": "SPROUT: Predicting Objective-Grounded Prompt Utility for Efficient Text-to-Image Preference Tuning",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-23T18:24:33Z"
+  },
+  "2611.31165": {
+    "authors": [
+      "Terry Ma",
+      "Aidan Zhang"
+    ],
+    "canonical_id": "2611.31165",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "6a1ec0a9052ca8104e2c4b1ecd485788df468b73be2d88f414efa8c70d6cd577",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-23T18:26:09Z",
+    "report_count": 1,
+    "title": "When Does Overriding the Majority Vote Help?",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-23T18:26:09Z"
+  },
+  "2611.31166": {
+    "authors": [
+      "Nan Chen",
+      "Soledad Villar",
+      "Soufiane Hayou"
+    ],
+    "canonical_id": "2611.31166",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "content_hash": "387b07a2a3d779b4e62c1e1108e8bd0962a66c0d41816c21ac6aeb47ec2c933b",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-23T18:27:57Z",
+    "report_count": 1,
+    "title": "Precision-Aware Learning Rate Transfer Across Block Count in LLM Post-Training",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-23T18:27:57Z"
+  },
+  "2611.31171": {
+    "authors": [
+      "Hao-Run Cai",
+      "Si-Yang Liu",
+      "Han-Jia Ye",
+      "Hairong Zheng"
+    ],
+    "canonical_id": "2611.31171",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "adf9be900fa4a11aef26bed908e817d0165dfbb24fd101b6d19f2767ee838369",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-23T18:30:53Z",
+    "report_count": 1,
+    "title": "EEG Decoding in Context: A Framework for Tuning-Free EEG Foundation Models",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-23T18:30:53Z"
+  },
+  "2611.31174": {
+    "authors": [
+      "Bodong Liu",
+      "Dongyoung Go",
+      "Sofian Zalouk",
+      "Kilian Q. Weinberger"
+    ],
+    "canonical_id": "2611.31174",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "201d5b93917df17d378e168b48ae2e2b1c4eeb8bf9e13c0c8ecccd4cf614fb5e",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-23T18:31:54Z",
+    "report_count": 1,
+    "title": "Reducing Order Sensitivity in Decision Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-23T18:31:54Z"
+  },
+  "2611.31185": {
+    "authors": [
+      "Ramraj Chandradevan",
+      "Sayontan Ghosh",
+      "Vinoth Selvendran"
+    ],
+    "canonical_id": "2611.31185",
+    "categories": [
+      "cs.IR",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "content_hash": "854de69635acc59aa4d2cab5bcc0a30beafe2cd288573fc36113ffaf0f94fe2b",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "cs.IR",
+    "priority": "unscored",
+    "published": "2026-11-23T18:38:53Z",
+    "report_count": 1,
+    "title": "CO-GRAFT: Attributing Reinforcement Learning Gains in Search Agents via Role-Level Policy Grafting",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-23T18:38:53Z"
+  },
+  "2611.31190": {
+    "authors": [
+      "Avinash Kumar Singh",
+      "Bhaskarjit Sarmah",
+      "Stefano Pasquali"
+    ],
+    "canonical_id": "2611.31190",
+    "categories": [
+      "cs.AI",
+      "q-fin.CP"
+    ],
+    "content_hash": "fc9e2810bdee2b8a494d0fbdc3f4fb7f0b708e6747d6d2609ee64e41c060f33b",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-23T18:42:54Z",
+    "report_count": 1,
+    "title": "Know When to Abstain: Conformal Confidence Estimation for Text-to-SQL",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-23T18:42:54Z"
+  },
+  "2611.31194": {
+    "authors": [
+      "Yiming Sun",
+      "Yifan Wang",
+      "Aosong Feng",
+      "Yijia Ma",
+      "Ben Cheng",
+      "Xurui Wang",
+      "Yufan He",
+      "Yucheng Tang",
+      "Qing Lyu",
+      "Daguang Xu",
+      "Pei-Fen Kuan",
+      "Mingzhou Ding",
+      "Wen Li",
+      "Chenyu You"
+    ],
+    "canonical_id": "2611.31194",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "77d8ce65ea43d589628b85f8a9de7bfb6f5acbd4393a0cd00a9dabda986152e2",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-23T18:45:35Z",
+    "report_count": 1,
+    "title": "Learning Neurovascular Codes for EEG-to-fMRI Synthesis",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-23T18:45:35Z"
+  },
+  "2611.31198": {
+    "authors": [
+      "Rui Sun",
+      "Junhua Huang",
+      "Luca Zancato",
+      "Md Mofijul Islam",
+      "Kai-Wei Chang"
+    ],
+    "canonical_id": "2611.31198",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "content_hash": "5a2826431cb8a976c398f593750079a07be9858323cd7c813721317e220a86ee",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-23T18:48:02Z",
+    "report_count": 1,
+    "title": "ToolSmith: An Automatic Tool-Generation Framework for Multimodal Search Agents",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-23T18:48:02Z"
+  },
+  "2611.31208": {
+    "authors": [
+      "Hongyi B. Hu",
+      "Dung Nguyen",
+      "M. Amin Rahimian"
+    ],
+    "canonical_id": "2611.31208",
+    "categories": [
+      "cs.LG",
+      "cs.CR",
+      "cs.SI",
+      "math.PR"
+    ],
+    "content_hash": "d3c77afbc764de80a1596d708bc03aa9e6eb46415150206e9ba27affc12d1de1",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-23T18:53:25Z",
+    "report_count": 1,
+    "title": "Matching Under Metric Privacy",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-23T18:53:25Z"
+  },
+  "2611.31211": {
+    "authors": [
+      "Konstantinos Dovelos"
+    ],
+    "canonical_id": "2611.31211",
+    "categories": [
+      "cs.CE",
+      "cs.LG",
+      "math.NA"
+    ],
+    "content_hash": "a12036ef2b5377cad8fd8c394c77fc237399cbc262b91943ad9fcb51a6a306b7",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "cs.CE",
+    "priority": "unscored",
+    "published": "2026-11-23T18:55:06Z",
+    "report_count": 1,
+    "title": "Verifying the Outputs of PDE Solvers: From Finite Elements to Neural Surrogates",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-23T18:55:06Z"
+  },
+  "2611.31212": {
+    "authors": [
+      "Omar Sallam",
+      "David Coe",
+      "Jeremy Feinstein",
+      "Hugo Torres",
+      "Sofia Sahagun Covarrubias",
+      "Eugene Yan"
+    ],
+    "canonical_id": "2611.31212",
+    "categories": [
+      "physics.flu-dyn",
+      "cs.LG",
+      "physics.geo-ph"
+    ],
+    "content_hash": "da97dbbcaa5b6e13e1b17f058e357cd05bc7ec893f3a1cc87a7051cbcf038e75",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "physics.flu-dyn",
+    "priority": "unscored",
+    "published": "2026-11-23T18:55:29Z",
+    "report_count": 1,
+    "title": "Flood forecasting using a physics-guided conditional denoising diffusion probabilistic model",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-23T18:55:29Z"
+  },
+  "2611.31215": {
+    "authors": [
+      "Xiwei Liu",
+      "Yulong Li",
+      "Xuhui Li",
+      "Xinlin Zhuang",
+      "Zhixiang Lu",
+      "Haolin Yang",
+      "Jianxu Chen",
+      "Yifan Lu",
+      "Zhiran Zhang",
+      "Yutong Xie"
+    ],
+    "canonical_id": "2611.31215",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "c0bdb1e010a7a6463f850e14daa916c404a91ae175921aaede8208d960180998",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-23T18:55:44Z",
+    "report_count": 1,
+    "title": "Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-23T18:55:44Z"
+  },
+  "2611.31223": {
+    "authors": [
+      "Burak Demirel",
+      "Yu Wang",
+      "Pablo Soldati"
+    ],
+    "canonical_id": "2611.31223",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "65e8c845d5cbe140e57c888eb6966c8725f6e2d1701effb8715bc47f7f1dfb63",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-23T18:57:32Z",
+    "report_count": 1,
+    "title": "Agentic AI for Intent Management and Control in Autonomous Communication Networks",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-23T18:57:32Z"
+  },
+  "2611.31225": {
+    "authors": [
+      "Mohammad Hossein Moslemi",
+      "Mahdi Beitollahi",
+      "Zhimin Mei",
+      "Jiale Cai",
+      "Bissan Ghaddar",
+      "Boyu Wang"
+    ],
+    "canonical_id": "2611.31225",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "f76ad98c8892a0c7dceb50a7b9401e5bf278a178a63df5789b803b9ffe2cc3fd",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-23T18:58:27Z",
+    "report_count": 1,
+    "title": "Self-Supervised Dataset Distillation via Mutual Information Maximization",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-23T18:58:27Z"
+  },
+  "2611.31228": {
+    "authors": [
+      "Daniel Theron"
+    ],
+    "canonical_id": "2611.31228",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "b310c80681be09c0bc4f55586fcfbc7d95132847ea40b17265ee3c13e3c45c6d",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-23T18:58:52Z",
+    "report_count": 1,
+    "title": "Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-23T18:58:52Z"
+  },
+  "2611.31233": {
+    "authors": [
+      "Hani Alomari",
+      "Md Atabuzzaman",
+      "Chris Thomas"
+    ],
+    "canonical_id": "2611.31233",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "99bf8bba14918e0591984886f2af7ba77dc2fc4528e6bb35cfc97e9f6a0e7860",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-23T18:59:13Z",
+    "report_count": 1,
+    "title": "TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-23T18:59:13Z"
+  },
+  "2611.31237": {
+    "authors": [
+      "JB Kim",
+      "Byungwoo Jeon",
+      "Kyungmin Lee",
+      "Hyeonmo Kang",
+      "Cheonbok Park",
+      "Shinyoung Joo",
+      "Jinwoo Shin",
+      "Jeonghoon Kim"
+    ],
+    "canonical_id": "2611.31237",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "ae2b281f2542a5540a3a5935e8d70351fe060ec14339c79da3a488a3221cfc62",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-23T18:59:32Z",
+    "report_count": 1,
+    "title": "Let Vision-Language Models Generate Images through Their Representations",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-23T18:59:32Z"
+  },
+  "2611.31240": {
+    "authors": [
+      "Seongchan Kim",
+      "Soowon Son",
+      "Sangoh Kim",
+      "Hyunah Ko",
+      "Eunbeen Hong",
+      "Hyunkoo Lee",
+      "Sanghyun Lee",
+      "WonJun Moon",
+      "Kihong Kim",
+      "Dongyeon Son",
+      "Woongchan Nam",
+      "Seungryong Kim"
+    ],
+    "canonical_id": "2611.31240",
+    "categories": [
+      "cs.CV",
+      "cs.LG",
+      "cs.RO"
+    ],
+    "content_hash": "86466b30e3aeae691babd15080cac67035be963a0937876ef9a343ff10e23ff8",
+    "first_seen_date": "2026-11-24",
+    "last_reported_date": "2026-11-24",
+    "last_seen_date": "2026-11-24",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-23T18:59:52Z",
+    "report_count": 1,
+    "title": "Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-23T18:59:52Z"
   }
 }
