@@ -93159,7 +93159,7 @@
     "content_hash": "2fbcfde63a7ab30ef01789b9c6945df4c0cb6091b34227bb057abbd4441c7acf",
     "first_seen_date": "2026-11-24",
     "last_reported_date": "2026-11-24",
-    "last_seen_date": "2026-11-24",
+    "last_seen_date": "2026-11-25",
     "latest_version": 1,
     "primary_category": "q-fin.PM",
     "priority": "unscored",
@@ -93179,20 +93179,20 @@
     "categories": [
       "q-fin.PM"
     ],
-    "content_hash": "cd03b5ddd797532a565a5757bb31a21bde3c6d848ab78543d0effe3112644ad1",
+    "content_hash": "4e91d061bdd27d24ec2563f676e336fc9958f10545e027cc1d25f11e39718779",
     "first_seen_date": "2026-11-24",
-    "last_reported_date": "2026-11-24",
-    "last_seen_date": "2026-11-24",
-    "latest_version": 1,
+    "last_reported_date": "2026-11-25",
+    "last_seen_date": "2026-11-25",
+    "latest_version": 2,
     "primary_category": "q-fin.PM",
     "priority": "unscored",
     "published": "2026-11-23T15:27:00Z",
-    "report_count": 1,
+    "report_count": 2,
     "title": "Cleaning correlation matrices with external information: the Maximum Variance estimat",
     "topics": [
       "quant_finance"
     ],
-    "updated": "2026-11-23T15:27:00Z"
+    "updated": "2026-11-24T09:15:09Z"
   },
   "2611.30998": {
     "authors": [
@@ -93882,5 +93882,581 @@
       "llm_progress"
     ],
     "updated": "2026-11-23T18:59:52Z"
+  },
+  "2611.31619": {
+    "authors": [
+      "Arya Sikder",
+      "Sriram Pillutla"
+    ],
+    "canonical_id": "2611.31619",
+    "categories": [
+      "cs.LG",
+      "stat.ME"
+    ],
+    "content_hash": "ba23eb77c9a1385d7460b65f70675b576ac7eb668b84f53685c889896894fb54",
+    "first_seen_date": "2026-11-25",
+    "last_reported_date": "2026-11-25",
+    "last_seen_date": "2026-11-25",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-23T22:05:17Z",
+    "report_count": 1,
+    "title": "What a Forecasting Leaderboard Can Establish: Resolution Reporting for Zero-Shot Time-Series Models",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-11-23T22:05:17Z"
+  },
+  "2611.32769": {
+    "authors": [
+      "Vicente P. Soloviev",
+      "Josh Kirsopp"
+    ],
+    "canonical_id": "2611.32769",
+    "categories": [
+      "quant-ph",
+      "cs.CE",
+      "q-fin.PM"
+    ],
+    "content_hash": "5c142c81a7e03c13361a5e12fa028bc436f99d5537a39d7a85b6ef0431053224",
+    "first_seen_date": "2026-11-25",
+    "last_reported_date": "2026-11-25",
+    "last_seen_date": "2026-11-25",
+    "latest_version": 1,
+    "primary_category": "quant-ph",
+    "priority": "unscored",
+    "published": "2026-11-24T15:05:47Z",
+    "report_count": 1,
+    "title": "Large-Scale Streaming Portfolio Optimization with Pauli Correlation Encoding",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-11-24T15:05:47Z"
+  },
+  "2611.33035": {
+    "authors": [
+      "Sabrine Aroua",
+      "Osama Arouk",
+      "Pegah Alizadeh"
+    ],
+    "canonical_id": "2611.33035",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "2bdaf0ff90f895106453eab362d7f25640af366ab596efa7fdac08a57815af42",
+    "first_seen_date": "2026-11-25",
+    "last_reported_date": "2026-11-25",
+    "last_seen_date": "2026-11-25",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-24T17:47:24Z",
+    "report_count": 1,
+    "title": "Hybrid AI for AI-Native RAN Control: A Functional Perspective",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-24T17:47:24Z"
+  },
+  "2611.33036": {
+    "authors": [
+      "Hao Wu",
+      "Sipeng Chen",
+      "Weikai Li",
+      "Tianyi Chen",
+      "Qiancheng Yang",
+      "Hang Zhou",
+      "Yizhou Sun",
+      "Wei Wang",
+      "Xiao Luo"
+    ],
+    "canonical_id": "2611.33036",
+    "categories": [
+      "cs.IR",
+      "cs.CL",
+      "cs.LG",
+      "stat.ML"
+    ],
+    "content_hash": "f385dfc58f426633bc52df3c01b510e2d10557985cf0cd996f292b16c7272592",
+    "first_seen_date": "2026-11-25",
+    "last_reported_date": "2026-11-25",
+    "last_seen_date": "2026-11-25",
+    "latest_version": 1,
+    "primary_category": "cs.IR",
+    "priority": "unscored",
+    "published": "2026-11-24T17:48:54Z",
+    "report_count": 1,
+    "title": "Towards Realistic Evaluation of Uncertainty Quantification for LLM-Based Recommender Systems",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-24T17:48:54Z"
+  },
+  "2611.33050": {
+    "authors": [
+      "Zihan Chen",
+      "Di Zhu",
+      "Lei Nico Zheng"
+    ],
+    "canonical_id": "2611.33050",
+    "categories": [
+      "cs.CL",
+      "cs.CY",
+      "econ.GN"
+    ],
+    "content_hash": "3df4973218642f4a7b398f2ff105db6c6d72271b9a6293507c2f3899b8265aed",
+    "first_seen_date": "2026-11-25",
+    "last_reported_date": "2026-11-25",
+    "last_seen_date": "2026-11-25",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-24T17:57:00Z",
+    "report_count": 1,
+    "title": "Worth the Wait? How Response Time and Streaming Shape Judgments of Generative AI Answers and Chatbot Engagement",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-24T17:57:00Z"
+  },
+  "2611.33059": {
+    "authors": [
+      "Karl El Hajal",
+      "Mathew Magimai. -Doss"
+    ],
+    "canonical_id": "2611.33059",
+    "categories": [
+      "eess.AS",
+      "cs.AI",
+      "cs.SD",
+      "eess.SP"
+    ],
+    "content_hash": "16f879b41c5994a46d39de6d6c82352b4d2e210feea93d19fae894ea1792e760",
+    "first_seen_date": "2026-11-25",
+    "last_reported_date": "2026-11-25",
+    "last_seen_date": "2026-11-25",
+    "latest_version": 1,
+    "primary_category": "eess.AS",
+    "priority": "unscored",
+    "published": "2026-11-24T18:03:21Z",
+    "report_count": 1,
+    "title": "ClusterVAD: Threshold-Free Unsupervised Voice Activity Detection with Pre-Trained Neural Representations",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-24T18:03:21Z"
+  },
+  "2611.33064": {
+    "authors": [
+      "Shijin Gong",
+      "Kai Ye",
+      "Victor Chernozhukov",
+      "Xinyu Zhang",
+      "Chengchun Shi"
+    ],
+    "canonical_id": "2611.33064",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ],
+    "content_hash": "05a004844277977244ce9f83b8bde0b8542fd075ce19157b33bafd401ad72999",
+    "first_seen_date": "2026-11-25",
+    "last_reported_date": "2026-11-25",
+    "last_seen_date": "2026-11-25",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-24T18:05:01Z",
+    "report_count": 1,
+    "title": "U-Statistics-Powered LLM Reasoning",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-24T18:05:01Z"
+  },
+  "2611.33065": {
+    "authors": [
+      "Hamin Koo",
+      "Chanjoo Jung",
+      "Fangzhao Wu",
+      "Jaehyung Kim"
+    ],
+    "canonical_id": "2611.33065",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "0ff1db8c6edba4180c8035f0cc12ca4980d9e2bde1f385270bf321d9f1759534",
+    "first_seen_date": "2026-11-25",
+    "last_reported_date": "2026-11-25",
+    "last_seen_date": "2026-11-25",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-24T18:05:47Z",
+    "report_count": 1,
+    "title": "Auditing the Judge: Human-Derived Bias Discovery, Quantification, and Mitigation in LLM Judges",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-24T18:05:47Z"
+  },
+  "2611.33078": {
+    "authors": [
+      "Yisrael Clark",
+      "Guy Katz"
+    ],
+    "canonical_id": "2611.33078",
+    "categories": [
+      "cs.CL",
+      "cs.LO"
+    ],
+    "content_hash": "9178686e3106a493b3b33d3277706b7aecb930401a69ad46c94fec9ed177172b",
+    "first_seen_date": "2026-11-25",
+    "last_reported_date": "2026-11-25",
+    "last_seen_date": "2026-11-25",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-24T18:13:28Z",
+    "report_count": 1,
+    "title": "FOL-Proof: Verifying LLM Text-to-Logic Translations via Deterministic Semantics",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-24T18:13:28Z"
+  },
+  "2611.33086": {
+    "authors": [
+      "Nasser Alkhulaifi",
+      "Direnc Pekaslan",
+      "Christian Wagner"
+    ],
+    "canonical_id": "2611.33086",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "94c0020f655eb89607619a1a307cba6dfd6e386922dbdf9cf9bdc89c5b7d4dfa",
+    "first_seen_date": "2026-11-25",
+    "last_reported_date": "2026-11-25",
+    "last_seen_date": "2026-11-25",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-24T18:23:14Z",
+    "report_count": 1,
+    "title": "Uncertainty-Aware Candidate Generation for Entity Linking in Cyber Threat Intelligence",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-24T18:23:14Z"
+  },
+  "2611.33093": {
+    "authors": [
+      "Guangyuan Wang",
+      "Chengran Li",
+      "Minchen Luo",
+      "Jichen Feng",
+      "Mengdi Wang",
+      "Yifan Zhang"
+    ],
+    "canonical_id": "2611.33093",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "fa8bbb89d306665ccf0e4f9fe828266f94bd688f628a5edfd113fb9c277965f9",
+    "first_seen_date": "2026-11-25",
+    "last_reported_date": "2026-11-25",
+    "last_seen_date": "2026-11-25",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-24T18:28:41Z",
+    "report_count": 1,
+    "title": "AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-24T18:28:41Z"
+  },
+  "2611.33096": {
+    "authors": [
+      "Karthik Sundar Senthilkumar",
+      "Christopher Thirgood",
+      "Simon Hadfield"
+    ],
+    "canonical_id": "2611.33096",
+    "categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "content_hash": "dbabca1d80c4e8c65d8bd0599fd98ac6970fecfe41015c2f3d15417d2217227e",
+    "first_seen_date": "2026-11-25",
+    "last_reported_date": "2026-11-25",
+    "last_seen_date": "2026-11-25",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-24T18:32:39Z",
+    "report_count": 1,
+    "title": "EventDiffusion: Learning Native Event Stream Distribution from Videos",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-24T18:32:39Z"
+  },
+  "2611.33098": {
+    "authors": [
+      "Lingwei Gu",
+      "Jimmy Lin"
+    ],
+    "canonical_id": "2611.33098",
+    "categories": [
+      "cs.AI",
+      "cs.IR"
+    ],
+    "content_hash": "aac45c99959364fe39ad2038be89a08bbdd930264d67e32b8adb75ba4a00d6a6",
+    "first_seen_date": "2026-11-25",
+    "last_reported_date": "2026-11-25",
+    "last_seen_date": "2026-11-25",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-24T18:34:40Z",
+    "report_count": 1,
+    "title": "Delegent: A Multi-Agent Harness That Reduces Cost without Sacrificing Performance",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-24T18:34:40Z"
+  },
+  "2611.33101": {
+    "authors": [
+      "Octave Gaspard"
+    ],
+    "canonical_id": "2611.33101",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "8d76ffb14859a14134d182869244a74b7a4432c958efd978f90c16be9755fbf9",
+    "first_seen_date": "2026-11-25",
+    "last_reported_date": "2026-11-25",
+    "last_seen_date": "2026-11-25",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-24T18:37:37Z",
+    "report_count": 1,
+    "title": "GREMLIN: Generating Random Environments for Meta-Learning with Interacting Networks",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-24T18:37:37Z"
+  },
+  "2611.33111": {
+    "authors": [
+      "Yuxing Liu",
+      "Wei Zuo",
+      "Walid Krichene",
+      "Tong Zhang",
+      "Li Zhang"
+    ],
+    "canonical_id": "2611.33111",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "27986ee8301711c0976841f7928f9d66fd198ee73d82f64c03a7645495032740",
+    "first_seen_date": "2026-11-25",
+    "last_reported_date": "2026-11-25",
+    "last_seen_date": "2026-11-25",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-24T18:41:59Z",
+    "report_count": 1,
+    "title": "Draft Calibration for Speculative Decoding: Accelerating LLM Serving by Matching Draft and Target Distributions",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-24T18:41:59Z"
+  },
+  "2611.33119": {
+    "authors": [
+      "Scott Piersall",
+      "Yang Gao",
+      "Shenyang Liu",
+      "Liqiang Wang"
+    ],
+    "canonical_id": "2611.33119",
+    "categories": [
+      "cs.AI"
+    ],
+    "content_hash": "0138c404b2a14b0a7ceca4018675a9843f9ef8101f9e56b643c0f9b3c17c07f7",
+    "first_seen_date": "2026-11-25",
+    "last_reported_date": "2026-11-25",
+    "last_seen_date": "2026-11-25",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-24T18:49:19Z",
+    "report_count": 1,
+    "title": "MetaFORGE: A Meta-Learning Framework for Harness Optimization in Automated Code Generation for Parallel Computing",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-24T18:49:19Z"
+  },
+  "2611.33130": {
+    "authors": [
+      "Kshitiz",
+      "Zheyuan Hu",
+      "Robyn Wu",
+      "Yizhou Li",
+      "Yunchu Zhang",
+      "Vattanary Tevy",
+      "Kavya Tayal",
+      "Shawn Yin",
+      "Aykut Onol",
+      "Kushal Arora",
+      "Dhruv Shah",
+      "Abhishek Gupta",
+      "Zackory Erickson",
+      "Aviral Kumar"
+    ],
+    "canonical_id": "2611.33130",
+    "categories": [
+      "cs.RO",
+      "cs.LG"
+    ],
+    "content_hash": "0789cb2de00e131fd5ac359aaf035409a14c0a9e021766a6e6e32028db9192c5",
+    "first_seen_date": "2026-11-25",
+    "last_reported_date": "2026-11-25",
+    "last_seen_date": "2026-11-25",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-11-24T18:52:34Z",
+    "report_count": 1,
+    "title": "Exploratory Midtraining for Robot Policies",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-24T18:52:34Z"
+  },
+  "2611.33133": {
+    "authors": [
+      "Hussamuddin Syed"
+    ],
+    "canonical_id": "2611.33133",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "content_hash": "fc5c47454eee97b2a6bd6e725dbb85a89045a9e45c5ed0ae8cbb12cd4f89c758",
+    "first_seen_date": "2026-11-25",
+    "last_reported_date": "2026-11-25",
+    "last_seen_date": "2026-11-25",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-24T18:53:22Z",
+    "report_count": 1,
+    "title": "A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops and Complement a Frontier Model's Weight Edit",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-24T18:53:22Z"
+  },
+  "2611.33141": {
+    "authors": [
+      "Vansh Kapoor",
+      "Max Sobol Mark",
+      "Sreyas Venkataraman",
+      "Max Simchowitz",
+      "Aviral Kumar"
+    ],
+    "canonical_id": "2611.33141",
+    "categories": [
+      "cs.RO",
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "f291c544591f9b809eab8e591b9768b4a7dbbf5036fe005d64efa3b7cba9860e",
+    "first_seen_date": "2026-11-25",
+    "last_reported_date": "2026-11-25",
+    "last_seen_date": "2026-11-25",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-11-24T18:56:04Z",
+    "report_count": 1,
+    "title": "iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-24T18:56:04Z"
+  },
+  "2611.33148": {
+    "authors": [
+      "Dawid J. Kopiczko",
+      "Tijmen Blankevoort",
+      "Yuki M. Asano"
+    ],
+    "canonical_id": "2611.33148",
+    "categories": [
+      "cs.CL"
+    ],
+    "content_hash": "17caf8d345e6b15501819c72244e006bb9f151fdd4358b5a2c1d91121f11bc33",
+    "first_seen_date": "2026-11-25",
+    "last_reported_date": "2026-11-25",
+    "last_seen_date": "2026-11-25",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-24T18:58:53Z",
+    "report_count": 1,
+    "title": "CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-24T18:58:53Z"
+  },
+  "2611.33151": {
+    "authors": [
+      "Yuwei Yang",
+      "Xiaoxiao Sun",
+      "Alejandro Lozano",
+      "Yuan-Sen Ting",
+      "Yuhui Yuan",
+      "Liang Zheng",
+      "Serena Yeung-Levy"
+    ],
+    "canonical_id": "2611.33151",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "0f36bf39d1ac4aa5705cd7e611d836ea2d89b209475ba8fd795ac9dfff5c0487",
+    "first_seen_date": "2026-11-25",
+    "last_reported_date": "2026-11-25",
+    "last_seen_date": "2026-11-25",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-24T18:59:04Z",
+    "report_count": 1,
+    "title": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-24T18:59:04Z"
   }
 }
