@@ -93922,7 +93922,7 @@
     "content_hash": "5c142c81a7e03c13361a5e12fa028bc436f99d5537a39d7a85b6ef0431053224",
     "first_seen_date": "2026-11-25",
     "last_reported_date": "2026-11-25",
-    "last_seen_date": "2026-11-25",
+    "last_seen_date": "2026-11-26",
     "latest_version": 1,
     "primary_category": "quant-ph",
     "priority": "unscored",
@@ -94458,5 +94458,769 @@
       "llm_progress"
     ],
     "updated": "2026-11-24T18:59:04Z"
+  },
+  "2611.33732": {
+    "authors": [
+      "Wenhao Pan",
+      "Ravi Kiran Selvam",
+      "Michael W. Mahoney",
+      "Mayank Jauhari",
+      "Mengfei Cao",
+      "Dmitry Efimov",
+      "Boris N. Oreshkin"
+    ],
+    "canonical_id": "2611.33732",
+    "categories": [
+      "cs.LG",
+      "stat.ME"
+    ],
+    "content_hash": "66ccd118d17d774d5a69faf816ab374a540b2d0b04d05d9cdfc27d017ce32646",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-25T03:53:23Z",
+    "report_count": 1,
+    "title": "CovNovBench: A Benchmark for Evaluating Time Series Foundation Models under Covariate Novelty",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-11-25T03:53:23Z"
+  },
+  "2611.33978": {
+    "authors": [
+      "C. Lennart Baumgärtner",
+      "J. Doyne Farmer"
+    ],
+    "canonical_id": "2611.33978",
+    "categories": [
+      "econ.EM"
+    ],
+    "content_hash": "896232b9997af4a84dccaa24e5d4cc96c4a9e2ffe048d3a661fb4aee7565f27d",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "econ.EM",
+    "priority": "unscored",
+    "published": "2026-11-25T08:39:42Z",
+    "report_count": 1,
+    "title": "Will national renewable costs continue declining?",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-11-25T08:39:42Z"
+  },
+  "2611.34081": {
+    "authors": [
+      "Puguang Nie",
+      "Jianxin Pan",
+      "Xibin Zhang"
+    ],
+    "canonical_id": "2611.34081",
+    "categories": [
+      "econ.EM",
+      "stat.ME"
+    ],
+    "content_hash": "39bfad09a376816955bdcdfda1bbb984842e3ce42ed5dd2e70761d48800a0328",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "econ.EM",
+    "priority": "unscored",
+    "published": "2026-11-25T09:49:26Z",
+    "report_count": 1,
+    "title": "Gaussian Process Stochastic Frontiers with Two-Way Fixed Effects",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-11-25T09:49:26Z"
+  },
+  "2611.34171": {
+    "authors": [
+      "Roy Cerqueti",
+      "Francesco Cesarone",
+      "Alessio Di Paolo",
+      "Valerio Ficcadenti"
+    ],
+    "canonical_id": "2611.34171",
+    "categories": [
+      "q-fin.PM"
+    ],
+    "content_hash": "10f7076a58733dc777eb5a697a7f5e192e1a910a5c9bdbbaf152933da58710fb",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "q-fin.PM",
+    "priority": "unscored",
+    "published": "2026-11-25T11:02:16Z",
+    "report_count": 1,
+    "title": "Rank-size analysis of optimal portfolio weights with a reverse-engineering application",
+    "topics": [
+      "quant_finance"
+    ],
+    "updated": "2026-11-25T11:02:16Z"
+  },
+  "2611.34209": {
+    "authors": [
+      "Evelyn Zhu",
+      "Mucheng Zhu",
+      "Brendan Martin",
+      "Mihai Cucuringu"
+    ],
+    "canonical_id": "2611.34209",
+    "categories": [
+      "q-fin.ST"
+    ],
+    "content_hash": "f54ceaa8328a5e743e79a1b102f9f267832e4fb70f2ae375626c45b1770e3a88",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "q-fin.ST",
+    "priority": "unscored",
+    "published": "2026-11-25T11:32:29Z",
+    "report_count": 1,
+    "title": "Graph-Informed Deep Factor Model for Statistical Arbitrage",
+    "topics": [
+      "cross_section_time_series",
+      "quant_finance"
+    ],
+    "updated": "2026-11-25T11:32:29Z"
+  },
+  "2611.34423": {
+    "authors": [
+      "Alvaro Ortiz",
+      "Tomasa Rodrigo"
+    ],
+    "canonical_id": "2611.34423",
+    "categories": [
+      "econ.EM"
+    ],
+    "content_hash": "811c440784ada6d4a2c8b38cf5b42cab5828740a38ac31e2ebe41713ebe0dbfd",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "econ.EM",
+    "priority": "unscored",
+    "published": "2026-11-25T14:12:25Z",
+    "report_count": 1,
+    "title": "Reading the Room with AI: FOMC Deliberation and Growth-at-Risk",
+    "topics": [
+      "cross_section_time_series"
+    ],
+    "updated": "2026-11-25T14:12:25Z"
+  },
+  "2611.34830": {
+    "authors": [
+      "Simon Baur",
+      "Wojciech Samek",
+      "Jackie Ma"
+    ],
+    "canonical_id": "2611.34830",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "5f708253986bd707250f33416a18cc23c3cf77d9890cdf92490987344c9626da",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-25T18:11:49Z",
+    "report_count": 1,
+    "title": "Not all world models can doubt: how training objective and architecture shape epistemic uncertainty in JEPA and RSSM world models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-25T18:11:49Z"
+  },
+  "2611.34831": {
+    "authors": [
+      "Kumar Shubham",
+      "Devendra Vyas",
+      "Vidushi Agarwal",
+      "Jayin Khanna",
+      "Prathosh AP"
+    ],
+    "canonical_id": "2611.34831",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "1bd8448b94478fa4a60ae76731a38529964a78b92dd08d7717674d59941fe921",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-25T18:12:20Z",
+    "report_count": 1,
+    "title": "Repairing the Trustworthiness of Distilled Language Models",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-25T18:12:20Z"
+  },
+  "2611.34832": {
+    "authors": [
+      "Tomás Lejarraga",
+      "Dirk U. Wulff",
+      "Ralph Hertwig"
+    ],
+    "canonical_id": "2611.34832",
+    "categories": [
+      "cs.CL",
+      "cs.CY"
+    ],
+    "content_hash": "5cf5e0fb064fcf1c0536dcfb672b6c143acc29508ffd168c21f628ab69ba5cb8",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-25T18:12:23Z",
+    "report_count": 1,
+    "title": "Proverbs As A Window On Collective Prescriptions",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-25T18:12:23Z"
+  },
+  "2611.34840": {
+    "authors": [
+      "Amirparsa Bahrami",
+      "Oliver Mortensen",
+      "Mohammad Sadegh Talebi"
+    ],
+    "canonical_id": "2611.34840",
+    "categories": [
+      "cs.LG",
+      "eess.SY",
+      "stat.ML"
+    ],
+    "content_hash": "2e1076fa8634b2bf450e59e3c09930fb60c7a0c2970b686c808512c93882e2bc",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-25T18:18:53Z",
+    "report_count": 1,
+    "title": "Provably Efficient Offline Discounted Reinforcement Learning under Recursive Entropic Risk",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-25T18:18:53Z"
+  },
+  "2611.34841": {
+    "authors": [
+      "Masahiro Kato"
+    ],
+    "canonical_id": "2611.34841",
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "6554eeb229948fe38d3c5725c716f2873bde7f174722b313c1612a4fb84cefcd",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "cs.AI",
+    "priority": "unscored",
+    "published": "2026-11-25T18:19:02Z",
+    "report_count": 1,
+    "title": "Knowledge-Base Gradient Descent: Self-Structuring Learning through Question Answering",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-25T18:19:02Z"
+  },
+  "2611.34848": {
+    "authors": [
+      "Tingrui Huang",
+      "Yuanyuan Deng",
+      "Qingren Yao",
+      "Joaquin Vanschoren",
+      "Mykola Pechenizkiy",
+      "Songgaojun Deng"
+    ],
+    "canonical_id": "2611.34848",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "21dcc9b65f0de8d548e47ecf823c6f9763bb664af528c79e0e43b7fe9dc56c46",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-25T18:23:07Z",
+    "report_count": 1,
+    "title": "Put the World Back: Timestamps Matter in Time Series Reasoning",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-25T18:23:07Z"
+  },
+  "2611.34852": {
+    "authors": [
+      "Han Huang",
+      "Yuchen Yan",
+      "Xingyu Wu",
+      "Yijun Li",
+      "Chao Deng",
+      "Jie Liu",
+      "Jin Ma",
+      "Yongliang Shen"
+    ],
+    "canonical_id": "2611.34852",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "f5f66de3338cf07e102df2df0858a61da70dd7cf7e5710fba0933442aec31f33",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-25T18:25:30Z",
+    "report_count": 1,
+    "title": "DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-25T18:25:30Z"
+  },
+  "2611.34862": {
+    "authors": [
+      "Tomas Hodan",
+      "Vineet Bhat",
+      "Martin Sundermeyer",
+      "Jonathan Tremblay",
+      "Yash Patel",
+      "Médéric Fourmy",
+      "Stephen Tyree",
+      "Junwen Huang",
+      "Varun Burde",
+      "Martin Cífka",
+      "Eric Brachmann",
+      "Vincent Lepetit",
+      "Stan Birchfield",
+      "Jiri Matas",
+      "Carsten Rother"
+    ],
+    "canonical_id": "2611.34862",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.RO"
+    ],
+    "content_hash": "321361512aafdf8c99151d6804a4a51294b7468a6d56543462cf1fab7e553bc5",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-25T18:29:36Z",
+    "report_count": 1,
+    "title": "BOP-Refer: Benchmark for Monocular 3D and 2D Object Grounding",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-25T18:29:36Z"
+  },
+  "2611.34863": {
+    "authors": [
+      "Harsha Karipineni",
+      "Rajesh Reddy Chintha"
+    ],
+    "canonical_id": "2611.34863",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "7a117bb40911a164426b584c0d467e10da731aff3f7f0e4cfe808afd1ed41833",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-25T18:30:28Z",
+    "report_count": 1,
+    "title": "Focus Only on What's Important: Training-Free Focus Maps for Frozen Vision Transformers in Long-Video Object Segmentation",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-25T18:30:28Z"
+  },
+  "2611.34864": {
+    "authors": [
+      "Insup Lee",
+      "Hojin Jeon",
+      "Sunguk Shin",
+      "Seoungbin Bae",
+      "Taekwan Kim",
+      "Jinwoo Shin",
+      "Dongsu Han"
+    ],
+    "canonical_id": "2611.34864",
+    "categories": [
+      "cs.RO",
+      "cs.AI"
+    ],
+    "content_hash": "5e6d02e87c8e0c3a604b7064fddfc8dee54cbe9b70bcfc427da9100f20defbe7",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "cs.RO",
+    "priority": "unscored",
+    "published": "2026-11-25T18:30:43Z",
+    "report_count": 1,
+    "title": "RePace: Reasoning about Demonstration Speedup for Faster Vision-Language-Action Policies",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-25T18:30:43Z"
+  },
+  "2611.34868": {
+    "authors": [
+      "Joy Bose",
+      "Srinivas Adyapak"
+    ],
+    "canonical_id": "2611.34868",
+    "categories": [
+      "cs.CR",
+      "cs.AI",
+      "cs.CY"
+    ],
+    "content_hash": "c75d1504863d6784c1a79f7cdd8178df54656cac23f2235094379f5bbdaaa47f",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "cs.CR",
+    "priority": "unscored",
+    "published": "2026-11-25T18:33:07Z",
+    "report_count": 1,
+    "title": "A Survey of Security, Privacy, and Ethics of Large Language Models in Telecom",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-25T18:33:07Z"
+  },
+  "2611.34870": {
+    "authors": [
+      "Steve Brown"
+    ],
+    "canonical_id": "2611.34870",
+    "categories": [
+      "cs.DB",
+      "cs.AI",
+      "cs.SE"
+    ],
+    "content_hash": "31d23ca3c2c45e865599c41bd9dbed13e58f47a9b745cd1629f3ae7b2d745f1e",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "cs.DB",
+    "priority": "unscored",
+    "published": "2026-11-25T18:34:46Z",
+    "report_count": 1,
+    "title": "Shape-Aware Three-Way Merge for RDF Knowledge Graphs: The schema defines the conflict: an implementation and evaluation",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-25T18:34:46Z"
+  },
+  "2611.34875": {
+    "authors": [
+      "Aakash Goel",
+      "Benjamin Steenhoek",
+      "Yu Hu"
+    ],
+    "canonical_id": "2611.34875",
+    "categories": [
+      "cs.SE",
+      "cs.AI"
+    ],
+    "content_hash": "0557cd18bf51ded401d5f957925e811b17ad770e757dc8062047d17faf8b1142",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "cs.SE",
+    "priority": "unscored",
+    "published": "2026-11-25T18:37:06Z",
+    "report_count": 1,
+    "title": "How Much Do Coding Agents Over-Edit, and Why? An Empirical Study of Unneeded Edits in Repository-Level Agent Patches",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-25T18:37:06Z"
+  },
+  "2611.34881": {
+    "authors": [
+      "Siddhartha Gairola",
+      "Jiahao Xie",
+      "Anna Kukleva",
+      "Francesco Locatello",
+      "Bernt Schiele"
+    ],
+    "canonical_id": "2611.34881",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "content_hash": "44e81c563e7e4654f3aa2c29121b59bd73f571f8732f24d7d3297ba9f1836b64",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-25T18:39:28Z",
+    "report_count": 1,
+    "title": "Stranger Things: When Objects Appear Without Their Typical Neighbors",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-25T18:39:28Z"
+  },
+  "2611.34887": {
+    "authors": [
+      "Cristiano Landi",
+      "Alessio Cascione",
+      "Riccardo Guidotti"
+    ],
+    "canonical_id": "2611.34887",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "22cbceb1ad66b324dec7f2bb613644bcf3b0dec6b5d3cd0fd2ad6cfbb2c0a6d9",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-25T18:45:35Z",
+    "report_count": 1,
+    "title": "Interpretable and Accurate Hybrid Decision Trees with Selective Case-Based Splits",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-25T18:45:35Z"
+  },
+  "2611.34899": {
+    "authors": [
+      "Rikard Vinge",
+      "Miguel A. Belenguer-Plomer",
+      "Isabelle Wittmann",
+      "Octavian Dumitru",
+      "Michele Lazzarini",
+      "Sergio Albani",
+      "Conrad M Albrecht"
+    ],
+    "canonical_id": "2611.34899",
+    "categories": [
+      "cs.CV",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "65e12f0efce61da31d40b3df5915b4dfaf0a6d9ae07463e3fb0b162ce3e3947d",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "cs.CV",
+    "priority": "unscored",
+    "published": "2026-11-25T18:51:36Z",
+    "report_count": 1,
+    "title": "Enhancing Maritime Domain Awareness using Latent Space Representations",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-25T18:51:36Z"
+  },
+  "2611.34920": {
+    "authors": [
+      "Qihao Lin",
+      "Guanxu Chen",
+      "Shuhang Zheng",
+      "Xiaoya Lu",
+      "Jingyi Yang",
+      "Terumi Chiba",
+      "Wenyi Yu",
+      "Chao Zhang",
+      "Zhuan Shi",
+      "Jing Shao"
+    ],
+    "canonical_id": "2611.34920",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "content_hash": "b66473679863a6faf16def8b6cf9524dd11781115b4476bc1e38e802867d932d",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-25T18:58:42Z",
+    "report_count": 1,
+    "title": "$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-25T18:58:42Z"
+  },
+  "2611.34928": {
+    "authors": [
+      "Lukas Aichberger",
+      "Adam Golinski",
+      "Arno Blaas",
+      "Arwen Bradley",
+      "Jacob Springer",
+      "Mehrdad Farajtabar",
+      "Michael Kirchhof",
+      "Sinead Williamson"
+    ],
+    "canonical_id": "2611.34928",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "content_hash": "beb80d7cfb031450b3bee0913f242a603c7160eaf180256181a57622e5407c3c",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "cs.CL",
+    "priority": "unscored",
+    "published": "2026-11-25T18:59:11Z",
+    "report_count": 1,
+    "title": "Diverse Alternative Reasoning Traces for Hard Math Problems",
+    "topics": [
+      "deep_learning_sota",
+      "llm_progress"
+    ],
+    "updated": "2026-11-25T18:59:11Z"
+  },
+  "2611.34930": {
+    "authors": [
+      "Paul Vilars",
+      "Vincent Quoc-Huy Trinh",
+      "Maria Vakalopoulou",
+      "Dimitris Samaras",
+      "Stergios Christodoulidis",
+      "Mahdi S. Hosseini"
+    ],
+    "canonical_id": "2611.34930",
+    "categories": [
+      "cs.LG"
+    ],
+    "content_hash": "2c006b89a78f9922a29a967f25a8790ff3c073ac98294f33c3f40d567decad54",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-25T18:59:13Z",
+    "report_count": 1,
+    "title": "A gene informed benchmark for BioScoring of pathology foundation models",
+    "topics": [
+      "deep_learning_sota"
+    ],
+    "updated": "2026-11-25T18:59:13Z"
+  },
+  "2611.34934": {
+    "authors": [
+      "Charlie Griffin",
+      "Oliver Makins",
+      "Asa Cooper Stickland",
+      "Alessandro Abate",
+      "Yarin Gal",
+      "Abby D'Cruz",
+      "Xander Davies"
+    ],
+    "canonical_id": "2611.34934",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "content_hash": "72f9984d422912c9f63623106ba5b82da368d26ad306946b33dd06cc16f1e2e7",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-25T18:59:28Z",
+    "report_count": 1,
+    "title": "Attack Policy Selection can Mislead Monitor Evaluators",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-25T18:59:28Z"
+  },
+  "2611.34935": {
+    "authors": [
+      "Xueyang Yu",
+      "Yifan Jing",
+      "Taiming Lu",
+      "Linrong Cai",
+      "Zhipeng Cai",
+      "Yunyang Xiong",
+      "Gabriel Sarch",
+      "Zhuang Liu"
+    ],
+    "canonical_id": "2611.34935",
+    "categories": [
+      "cs.LG",
+      "cs.CL",
+      "cs.CV"
+    ],
+    "content_hash": "23b8cac659c6b93ba843da2fd311bbf2af8b58a33548ebda5ed87248e08810ff",
+    "first_seen_date": "2026-11-26",
+    "last_reported_date": "2026-11-26",
+    "last_seen_date": "2026-11-26",
+    "latest_version": 1,
+    "primary_category": "cs.LG",
+    "priority": "unscored",
+    "published": "2026-11-25T18:59:31Z",
+    "report_count": 1,
+    "title": "Can image generation help visual reasoning? An empirical study",
+    "topics": [
+      "llm_progress"
+    ],
+    "updated": "2026-11-25T18:59:31Z"
   }
 }
