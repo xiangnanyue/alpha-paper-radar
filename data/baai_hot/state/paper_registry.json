@@ -216,6 +216,44 @@
     "title": "NVIDIA Kumo Tabular: Pushing the Accuracy$\\unicode{8211}$Efficiency Frontier for Tabular Prediction",
     "topics": []
   },
+  "0f7fc970-bc1b-43b0-8db2-34a78f25ab63": {
+    "authors": [
+      "LearnLM Team",
+      "Google",
+      ":",
+      "Alicia Martín",
+      "Amir Globerson",
+      "Amy Wang",
+      "Anirudh Shekhawat",
+      "Anna Iurchenko",
+      "Anisha Choudhury",
+      "Avinatan Hassidim"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/0f7fc970-bc1b-43b0-8db2-34a78f25ab63",
+    "first_hotness": 85,
+    "first_seen_date": "2026-11-28",
+    "hotness_delta": 0,
+    "id": "0f7fc970-bc1b-43b0-8db2-34a78f25ab63",
+    "last_seen_date": "2026-11-28",
+    "latest_hotness": 85,
+    "matched_keywords": {},
+    "observations": [
+      {
+        "date": "2026-11-28",
+        "hotness": 85,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 85,
+    "priority": "unscored",
+    "published": "2025-09-13",
+    "summary": "教材是教育的基石，但其存在一个根本性的局限：它们采用“一刀切”的模式。任何新增内容或替代性表达方式都需要耗费大量人力，因此教材难以实现规模化适应与调整。我们提出一种利用生成式人工智能来转换和增强教材的方法，在保持内容完整性和质量的前提下，增加多种表达形式和个性化层次。我们称采用这种方法构建的系统为“Learn Your Way”。我们报告了针对不同转换与增强方式的教学效果评估，并展示了一项随机对照试验的结果，凸显了使用“Learn Your Way”相较于传统教材学习的显著优势。",
+    "title": "Towards an AI-Augmented Textbook",
+    "topics": []
+  },
   "11d87dd8-b1f3-4811-a841-a32028697677": {
     "authors": [
       "Róbert Csordás",
@@ -254,6 +292,41 @@
     "topics": [
       "deep_learning_sota"
     ]
+  },
+  "12d9a577-5f62-473d-9846-2bfe0e8c17b6": {
+    "authors": [
+      "Xinwei Qiang",
+      "Ziyi Xu",
+      "Chang Chen",
+      "Zaifeng Pan",
+      "Zhongkai Yu",
+      "Yue Guan",
+      "Yufei Ding"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/12d9a577-5f62-473d-9846-2bfe0e8c17b6",
+    "first_hotness": 159,
+    "first_seen_date": "2026-11-28",
+    "hotness_delta": 0,
+    "id": "12d9a577-5f62-473d-9846-2bfe0e8c17b6",
+    "last_seen_date": "2026-11-28",
+    "latest_hotness": 159,
+    "matched_keywords": {},
+    "observations": [
+      {
+        "date": "2026-11-28",
+        "hotness": 159,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 159,
+    "priority": "unscored",
+    "published": "2026-10-31",
+    "summary": "巨内核（Megakernel）允许一个持久驻留的 GPU 程序提前准备依赖型算子，并将就绪的任务批量执行。我们通过在 H100 上、使用原始算子代码，将两个大语言模型（LLM）领域的巨内核——ThunderKittens（TK）与 VDCores——重构为彼此独立的多个内核，系统性地评估了上述能力所带来的收益与开销。实验结果表明，CTA（Cooperative Thread Array，协同线程阵列）驻留时间这一指标，在两个方向上均可能失真地反映实际可用的计算—访存重叠机会。借助“程序化依赖启动”（Programmatic Dependent Launch, PDL）机制，使启动开销与操作数加载过程与后续依赖任务的发起实现重叠，我们在 TK 中将单次解码步（decode-step）延迟降低了 5.7%，而在 VDCores 中，当两种执行方式均严格满足所需的内存顺序约束时，重构后的独立内核方案亦可达到与原巨内核相当的性能水平。然而，在整算子级依赖（whole-operator dependencies）场景下，TK 的持久化执行虽仍能从预取（prefetch）中获得更大收益，但其运行时调度开销与完成信号同步开销却已超过该优势。值得注意的是，启动阶段的重叠与预取效果均高度依赖于硬件资源的实时可用性：持久化 CTA 可在自身尚未退出前复用其已分配的存储资源；而独立的后续内核则必须先完整申请并占用其全部 CTA 资源（包括寄存器、共享内存等），方可启动初始化或加载操作数。这一准入约束（admission constraint）在两种重构方案中均普遍存在，因而迫切需要在不同内核之间实现更细粒度的资源共享机制。此外，除早期准备外，联合执行还需同时满足两个条件：一是有就绪的待处理工作，二是瓶颈资源（如 SM 或内存带宽）存在空闲容量。例如，若为通信任务预留部分流式多处理器（SM），可能额外插入 GEMM 计算波（GEMM wave），反而抵消掉此前所有重叠优化带来的收益；而一旦内存带宽已达饱和，再填满其余空闲 SM 则几乎无法带来任何性能提升。上述发现清晰厘清了巨内核技术的收益边界与固有代价，同时也进一步凸显了对 GPU 硬件提供跨内核更早资源复用支持的必要性。",
+    "title": "Understanding GPU Megakernels: Why Residency Can Mislead",
+    "topics": []
   },
   "14b7e7be-bcf9-48e9-9d11-1a69739f7707": {
     "authors": [
@@ -335,9 +408,9 @@
     "detail_url": "https://hub.baai.ac.cn/paper/1b3b404d-73d9-4b55-b634-fad15c86789f",
     "first_hotness": 728,
     "first_seen_date": "2026-11-25",
-    "hotness_delta": 1,
+    "hotness_delta": 0,
     "id": "1b3b404d-73d9-4b55-b634-fad15c86789f",
-    "last_seen_date": "2026-11-27",
+    "last_seen_date": "2026-11-28",
     "latest_hotness": 730,
     "matched_keywords": {},
     "observations": [
@@ -358,6 +431,13 @@
       },
       {
         "date": "2026-11-27",
+        "hotness": 730,
+        "sources": [
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-28",
         "hotness": 730,
         "sources": [
           "weekly"
@@ -903,6 +983,37 @@
       "deep_learning_sota"
     ]
   },
+  "3bf0d23a-c790-40be-9be6-63aa1aec56c3": {
+    "authors": [
+      "Roy Or-El",
+      "Jeong Joon Park",
+      "Ira Kemelmacher-Shlizerman"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/3bf0d23a-c790-40be-9be6-63aa1aec56c3",
+    "first_hotness": 103,
+    "first_seen_date": "2026-11-28",
+    "hotness_delta": 0,
+    "id": "3bf0d23a-c790-40be-9be6-63aa1aec56c3",
+    "last_seen_date": "2026-11-28",
+    "latest_hotness": 103,
+    "matched_keywords": {},
+    "observations": [
+      {
+        "date": "2026-11-28",
+        "hotness": 103,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 103,
+    "priority": "unscored",
+    "published": "2026-11-25",
+    "summary": "我们提出了 MEMO（“每一时刻对应一张网格”，Mesh for Every MOment），这是一种针对多视角同步拍摄的完整动态场景进行几何重建的方法，能够在每一帧上直接提取出三维网格模型。目前主流的动态高斯点绘（dynamic Gaussian splatting）方法，要么仅建模外观信息，要么仅针对经前景掩膜分割出的孤立物体；且所有现有方法均依赖截断符号距离函数（TSDF）融合或泊松重建（Poisson reconstruction）来恢复网格——而这两者均基于固定分辨率的体素网格，严重制约了所能表达的几何细节精度。MEMO 的核心在于一种受高斯过程启发的、逐高斯元（per-Gaussian）运动建模机制：它将每个高斯元在时间维度上的位置与旋转变化，统一表示为若干时序高斯核的线性组合。该模型确保每个高斯元在整个时间序列中始终维持有效的表面元素属性，并隐式地编码了动态几何结构；因此，任意时刻的网格均可通过对高斯元所定义的隐式场进行提取而获得。然而，在真实拍摄场景中普遍存在的大幅、快速运动，恰恰是当前多数动态高斯点绘方法所忽略的关键挑战。为此，我们专门设计了一种基于轨迹的初始化策略：以闭式解（closed-form solution）方式，将每个高斯元的初始运动轨迹精确拟合至输入点轨迹（point tracks）。我们在全新构建的基准数据集 Blender-Moments（包含九个带逐帧真值网格的动画场景）以及两个真实世界数据集上对 MEMO 进行了全面评估。实验结果表明，MEMO 在几何重建精度方面显著优于当前所有前沿方法，同时在新视角合成质量与训练耗时方面亦保持强劲竞争力。项目主页：https://memo-4d.github.io",
+    "title": "A Mesh for Every Moment",
+    "topics": []
+  },
   "3d35bddd-01aa-4a5d-bebe-ad6cb1c98f8e": {
     "authors": [
       "David Nordström",
@@ -1137,6 +1248,45 @@
     "title": "jina-embeddings-v5-text: Task-Targeted Embedding Distillation",
     "topics": []
   },
+  "47ec92f1-06ee-46cf-8246-52228a6f067b": {
+    "authors": [
+      "Chang Nie",
+      "Chaoyou Fu",
+      "Songlin Liu",
+      "Yiqing Hu",
+      "Caifeng Shan"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/47ec92f1-06ee-46cf-8246-52228a6f067b",
+    "first_hotness": 112,
+    "first_seen_date": "2026-11-28",
+    "hotness_delta": 0,
+    "id": "47ec92f1-06ee-46cf-8246-52228a6f067b",
+    "last_seen_date": "2026-11-28",
+    "latest_hotness": 112,
+    "matched_keywords": {
+      "llm_progress": [
+        "large language model"
+      ]
+    },
+    "observations": [
+      {
+        "date": "2026-11-28",
+        "hotness": 112,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 112,
+    "priority": "unscored",
+    "published": "2026-11-20",
+    "summary": "在长周期、持续性交互场景中部署大语言模型（LLMs），需维护可复用的记忆状态以支持后续推理，这对现有模型架构提出了严峻挑战。标准Transformer架构逐层、逐词元地累积键值（KV）缓存，导致GPU内存占用随上下文长度线性增长，计算复杂度则呈二次方增长。相比之下，线性时间复杂度架构虽能将历史信息压缩为固定大小的状态，却难以保留细粒度的语义细节。为此，我们提出MemOnce——一种面向语言模型的新型基础架构，旨在学习可扩展、高效且富有表现力的记忆状态。MemOnce基于两大核心设计：（a）记忆编码器-解码器机制：仅将最终层隐藏状态中的少量关键子集缓存为紧凑的记忆表征，并在推理时动态将其解码还原为各注意力层所需的KV缓存；（b）记忆稀疏注意力机制：针对每个持续输入，MemOnce自适应地检索最相关的历史记忆表征，且该稀疏索引在整个网络各层间只需计算一次，无需重复生成。上述两项设计协同作用，实现了记忆状态的高效按需加载与KV缓存的即时解码，在显著降低GPU显存占用的同时，将整体计算复杂度严格控制在线性时间范围内。我们开展了大量实验，验证MemOnce在不同模型规模、上下文长度以及训练范式（包括预训练与后训练适配）下，均显著优于标准Transformer及其他先进架构。具体而言，在100万词元的超长上下文场景中，对Qwen3.5-4B模型集成MemOnce后，其记忆状态缓存体积缩减达1313倍，首阶段“预填充”（prefill）延迟降低6.9倍；吞吐量提升3.5倍，整体显存性能提升+5.77%。此外，MemOnce具备出色的零样本泛化能力，可直接迁移至下游表征学习任务，在多项基准上取得与专用模型相媲美的性能表现。",
+    "title": "MemOnce: A Scalable Memory Architecture for Large Language Models",
+    "topics": [
+      "llm_progress"
+    ]
+  },
   "486f7f83-2f1a-4f16-8f2b-ce0074166a35": {
     "authors": [
       "Sen Xu",
@@ -1369,7 +1519,7 @@
     "first_seen_date": "2026-11-26",
     "hotness_delta": 0,
     "id": "50888de2-09f0-42b9-afc8-fdecf3ac38ad",
-    "last_seen_date": "2026-11-27",
+    "last_seen_date": "2026-11-28",
     "latest_hotness": 680,
     "matched_keywords": {},
     "observations": [
@@ -1383,6 +1533,13 @@
       },
       {
         "date": "2026-11-27",
+        "hotness": 680,
+        "sources": [
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-28",
         "hotness": 680,
         "sources": [
           "weekly"
@@ -1410,7 +1567,7 @@
     "first_seen_date": "2026-11-27",
     "hotness_delta": 0,
     "id": "51ebaa72-d444-4c31-a3a4-9321e9232daf",
-    "last_seen_date": "2026-11-27",
+    "last_seen_date": "2026-11-28",
     "latest_hotness": 997,
     "matched_keywords": {},
     "observations": [
@@ -1419,6 +1576,13 @@
         "hotness": 997,
         "sources": [
           "daily",
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-28",
+        "hotness": 997,
+        "sources": [
           "weekly"
         ]
       }
@@ -1877,7 +2041,7 @@
     "first_seen_date": "2026-11-27",
     "hotness_delta": 0,
     "id": "78390d32-5092-4e88-b9f0-73fa2cc0d213",
-    "last_seen_date": "2026-11-27",
+    "last_seen_date": "2026-11-28",
     "latest_hotness": 523,
     "matched_keywords": {},
     "observations": [
@@ -1886,6 +2050,13 @@
         "hotness": 523,
         "sources": [
           "daily",
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-28",
+        "hotness": 523,
+        "sources": [
           "weekly"
         ]
       }
@@ -1914,7 +2085,7 @@
     "first_seen_date": "2026-11-26",
     "hotness_delta": 0,
     "id": "7a750351-fa2b-4962-b886-0fcbf51b0419",
-    "last_seen_date": "2026-11-27",
+    "last_seen_date": "2026-11-28",
     "latest_hotness": 1654,
     "matched_keywords": {},
     "observations": [
@@ -1928,6 +2099,13 @@
       },
       {
         "date": "2026-11-27",
+        "hotness": 1654,
+        "sources": [
+          "weekly"
+        ]
+      },
+      {
+        "date": "2026-11-28",
         "hotness": 1654,
         "sources": [
           "weekly"
@@ -1978,6 +2156,39 @@
     "published": "2024-12-27",
     "summary": "我们推出了DeepSeek-V3，这是一个强大的专家混合（MoE）语言模型，总参数量为6710亿，每个token激活的参数量为370亿。为了实现高效的推理和成本效益的训练，DeepSeek-V3采用了多头潜在注意力（MLA）和DeepSeekMoE架构，这些架构在DeepSeek-V2中已经得到了充分验证。此外，DeepSeek-V3首创了一种无需辅助损失的负载均衡策略，并设定了多token预测的训练目标以提升性能。我们在14.8万亿个多样且高质量的token上预训练了DeepSeek-V3，随后通过监督微调和强化学习阶段充分发挥其潜力。全面评估表明，DeepSeek-V3的表现优于其他开源模型，并且达到了与领先的闭源模型相当的性能。尽管性能出色，DeepSeek-V3的完整训练仅需2,788,000 H800 GPU小时。此外，其训练过程非常稳定。在整个训练过程中，我们没有遇到任何不可恢复的损失激增或进行任何回滚操作。模型检查点可在https://github.com/deepseek-ai/DeepSeek-V3获取。",
     "title": "DeepSeek-V3 Technical Report",
+    "topics": []
+  },
+  "83181380-4c91-47cd-a5a1-26ea174d18d8": {
+    "authors": [
+      "Tobias Höppe",
+      "Stefan Bauer",
+      "Qiang Liu",
+      "Andrea Dittadi",
+      "Kirill Neklyudov"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/83181380-4c91-47cd-a5a1-26ea174d18d8",
+    "first_hotness": 222,
+    "first_seen_date": "2026-11-28",
+    "hotness_delta": 0,
+    "id": "83181380-4c91-47cd-a5a1-26ea174d18d8",
+    "last_seen_date": "2026-11-28",
+    "latest_hotness": 222,
+    "matched_keywords": {},
+    "observations": [
+      {
+        "date": "2026-11-28",
+        "hotness": 222,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 222,
+    "priority": "unscored",
+    "published": "2026-11-16",
+    "summary": "基于流模型的少步生成器通常需要复杂的工程技术方案，例如预训练的流模型或一致性损失函数。尽管矫正流（rectified flows）因其在少步采样任务中的优异表现而广受关注，但其代价在于必须依赖预训练模型，并且针对每个数据集需采样大量耦合（coupling）样本。然而，对于有限规模的数据集以及高斯概率路径而言，经验分布的概率流矢量场（probability-flow vector field）实际上具有闭式解析解；因此，理论上可直接将该解析矢量场作为“教师信号”（teacher signal），从而完全跳过预训练阶段。我们发现，出人意料的是，这一思路在实际相关的问题中根本不可行。具体而言，在高维情形下，扩散过程的解析解几乎退化为一个线性变换：积分结果仅包含两部分——一是初始时刻所采样的噪声向量，二是某个漂移项（drift term）；而该漂移项在经验上表现为数据点的一个极其微弱的复本（faint copy），且几乎与所采噪声无关。因此，由此构造出的耦合关系，与纯粹独立配对（independent pairing）之间的差异，仅体现于这一微弱漂移项之上。其直接后果是：在此类耦合样本上训练模型，几乎等价于在噪声与数据的独立抽样对上进行训练，因而无法提供任何有效的教师监督信号。我们特别强调，这一现象正是数据高维性的直接后果；而在维度足够低或数据集足够大的情况下，解析耦合则能成为更高效的教师信号。我们通过“漂移项所承载的端点能量占总端点能量的比例”来定量刻画这一效应：对于 $d$ 维空间中规模为 $N$ 的数据集，该比例随 $\\frac{\\log N}{d}$ 趋势衰减。最后，我们开展了一项实证研究，全面验证了本文所提出的全部理论结论。",
+    "title": "The Limits of Closed-Form Couplings for Few-Step Generation",
     "topics": []
   },
   "8325656e-214e-4216-8e18-c66f3b5f4d7e": {
@@ -2648,6 +2859,44 @@
     "title": "OmniGen: Unified Image Generation Shitao Xiao",
     "topics": []
   },
+  "ac5ac357-f285-4e69-b3b0-6f734e4a4a8f": {
+    "authors": [
+      "NVIDIA",
+      ":",
+      "Sérgio Agostinho",
+      "Maximilian Apodaca",
+      "Emmanuel Attia",
+      "Guillem Braso",
+      "George Dong",
+      "Ilya Fedorov",
+      "Michele Fenzi",
+      "Gang Huang"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/ac5ac357-f285-4e69-b3b0-6f734e4a4a8f",
+    "first_hotness": 97,
+    "first_seen_date": "2026-11-28",
+    "hotness_delta": 0,
+    "id": "ac5ac357-f285-4e69-b3b0-6f734e4a4a8f",
+    "last_seen_date": "2026-11-28",
+    "latest_hotness": 97,
+    "matched_keywords": {},
+    "observations": [
+      {
+        "date": "2026-11-28",
+        "hotness": 97,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 97,
+    "priority": "unscored",
+    "published": "2026-10-21",
+    "summary": "我们提出了Foundation4D，这是一种统一的前馈式模型，可从多目车载视频中联合完成几何结构估计、3D目标检测、语义占据预测以及高斯分布重建任务。该模型采用共享主干网络，利用因子化时空注意力机制，高效融合来自多个相机及不同时刻的观测信息。我们的视频推理流程通过位姿图优化（pose graph optimization）对相机运动轨迹进行精细化校准，并在连续输入视频窗口间跨帧关联并组装目标轨迹。此外，我们构建了一套数据标注流程，并发布PAI-Foundation4D基准数据集：该数据集包含1253段车载视频片段，每段均配有稠密深度图与语义占据标签。经针对该基准的专用微调后，Foundation4D在Waymo和nuScenes数据集上均取得最低的深度绝对相对误差（AbsRel），在nuScenes上实现最高的3D检测平均精度（mAP），并在OpenOccupancy数据集上获得最高的语义占据平均交并比（mIoU），各项指标均优于所有对比方法。我们的多任务协同训练研究证实，任务组合对检测与几何估计均有显著增益：将检测任务与几何估计及语义占据预测联合训练，相较仅训练检测任务，其顶级类别（top-class）mAP提升1.2个百分点；而将几何估计与检测任务联合训练，则相较仅训练几何估计任务，可将相机到车体坐标系（camera-to-rig）的平移误差相对降低13.4%。进一步地，我们还将模型预测出的几何结构与相机轨迹作为先验信息，用于无激光雷达（lidarless）的NuRec（Neural Reconstruction）重建任务，从而支持面向自动驾驶仿真场景的驾驶环境神经重建。",
+    "title": "Foundation4D: Towards a unified perception and reconstruction model for autonomous vehicles",
+    "topics": []
+  },
   "aef98ea1-7f93-44b9-907d-a0268bf03f3e": {
     "authors": [
       "Thorben Prein",
@@ -2685,6 +2934,42 @@
     "published": "2026-11-17",
     "summary": "科学领域的生成建模通常面临数据匮乏的挑战，因为实验成本高昂。然而，每一次实验往往能同时获取同一物理实体的多个耦合测量结果。而标准的生成模型通常仅在单一方向上进行训练，从而舍弃了其余测量结果所提供的监督信号。我们认为，每一次实验所蕴含的训练信号远比这种单向建模范式所能利用的更为丰富：通过随机掩蔽（random masking），各类测量结果可灵活地作为条件输入或预测目标，从而将单次实验转化为多个有监督的去噪任务。我们基于这一设想，提出了MOSAIC模型——一种面向分子三维结构及紫外（UV）、红外（IR）和拉曼（Raman）光谱的多模态流匹配（flow matching）Transformer模型。MOSAIC是一个统一模型，支持任意模态子集到任意其他互斥模态子集的生成，即实现“任意到任意”（any-to-any）的跨模态生成。在QM9S数据集上，MOSAIC实现了88.8%的分子图恢复率，在结构生成任务中较当前最强的“光谱→结构”基线模型提升达23.2%；与此同时，在光谱生成任务中亦超越了专精于“结构→光谱”的专家模型。消融实验表明，相较于仅以结构为唯一目标的训练方式，“任意到任意”的联合训练目标在不同规模的模型上均能显著提升结构生成性能。此外，MOSAIC支持对任意可用测量子集的灵活输入，并可通过将生成的光谱与实验参考光谱进行匹配，实现分子识别功能。",
     "title": "Every Measurement, Every Direction, All at Once: Multimodal Flow Matching for Molecules and Spectra",
+    "topics": []
+  },
+  "b8006a95-070f-4d37-abac-ca3695f93b47": {
+    "authors": [
+      "Yong-Hyun Park",
+      "Guande He",
+      "Joon Hyeok Kim",
+      "Hansheng Chen",
+      "Kaifan Yu",
+      "Chaoqi Luo",
+      "Xun Huang",
+      "Jiatao Gu"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/b8006a95-070f-4d37-abac-ca3695f93b47",
+    "first_hotness": 215,
+    "first_seen_date": "2026-11-28",
+    "hotness_delta": 0,
+    "id": "b8006a95-070f-4d37-abac-ca3695f93b47",
+    "last_seen_date": "2026-11-28",
+    "latest_hotness": 215,
+    "matched_keywords": {},
+    "observations": [
+      {
+        "date": "2026-11-28",
+        "hotness": 215,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 215,
+    "priority": "unscored",
+    "published": "2026-11-23",
+    "summary": "FlowMap蒸馏通过直接学习教师模型的去噪轨迹，为少步数生成建模提供了一条天然可行的路径。然而，在自回归（AR）视频生成任务中，现有的少步数模型仍需依赖分布匹配蒸馏（DMD）才能保持竞争力，而这不仅牺牲了样本多样性，还要求使用参数量庞大的双向教师模型。本文首先分析了制约纯自回归FlowMap蒸馏性能的关键瓶颈，并据此提出两种互补的引导机制，以弥合这一差距：（1）抗偏移引导（anti-drifting guidance）：该机制通过训练一个辅助模型来模拟学生模型在自回归展开过程中的偏移行为，并将该辅助模型作为负向引导分支，从而帮助AR教师模型校正学生模型展开时产生的偏差；（2）运动感知引导（motion-aware guidance）：该机制通过定位视频中的运动区域（motion patches），并在此类区域有选择性地施加跨层跳跃式引导（skip-layer guidance），使FlowMap学生模型更易学习运动模式。实验表明，所提方法可广泛适用于π-Flow、MeanFlow及一致性蒸馏（consistency distillation）等多种范式，且兼容参数量达13亿（1.3B）的AR教师模型；在长达30秒的视频展开过程中，显著提升了生成质量并大幅降低了轨迹偏移。尤为值得注意的是，我们训练的仅需4步采样的π-Flow学生模型，在VBench基准测试上的性能已媲美经140亿（14B）参数教师模型蒸馏所得的DMD学生模型，同时完整保留了其AR教师模型固有的样本多样性。这充分证明：纯粹基于FlowMap的蒸馏方法，完全能够胜任少步数自回归视频生成任务。",
+    "title": "Analyzing and Improving FlowMap Distillation of Autoregressive Video Models",
     "topics": []
   },
   "b9278001-66cb-4a84-aad5-d44341a0b6be": {
@@ -3941,6 +4226,40 @@
     "topics": [
       "llm_progress"
     ]
+  },
+  "f1326e5e-adfa-495e-8073-1710bca063b2": {
+    "authors": [
+      "Marc Finzi",
+      "Shikai Qiu",
+      "Yiding Jiang",
+      "Pavel Izmailov",
+      "J. Zico Kolter",
+      "Andrew Gordon Wilson"
+    ],
+    "detail_url": "https://hub.baai.ac.cn/paper/f1326e5e-adfa-495e-8073-1710bca063b2",
+    "first_hotness": 297,
+    "first_seen_date": "2026-11-28",
+    "hotness_delta": 0,
+    "id": "f1326e5e-adfa-495e-8073-1710bca063b2",
+    "last_seen_date": "2026-11-28",
+    "latest_hotness": 297,
+    "matched_keywords": {},
+    "observations": [
+      {
+        "date": "2026-11-28",
+        "hotness": 297,
+        "sources": [
+          "daily"
+        ]
+      }
+    ],
+    "pdf_url": "",
+    "peak_hotness": 297,
+    "priority": "unscored",
+    "published": "2026-01-06",
+    "summary": "我们能否从数据中学到比其生成过程本身所包含的更多的信息？仅仅通过对现有数据进行确定性变换，是否就能构造出新的、有用的信息？在不考虑下游任务的情况下，我们能否评估数据中可学习的内容？对于这些问题，香农信息论和柯尔莫哥洛夫复杂性几乎无法提供答案，部分原因在于它们假设观察者具有无限的计算能力，因而未能聚焦于真正有用的信息内容。本文中，我们指出并举例说明了信息论中的三个看似矛盾的现象：（1）确定性变换无法增加信息；（2）信息与数据的顺序无关；（3）似然建模仅仅是分布匹配。为了阐明这些理论结果与现代实践之间的张力，并量化数据的价值，我们提出了“表知性”（epiplexity）这一概念，用以形式化地刻画计算资源受限的观察者能够从数据中学到的内容。表知性能够捕捉数据中的结构性信息，同时排除时间受限熵——即由伪随机数生成器和混沌动力系统等所体现的不可预测的随机成分。借助这些概念，我们展示了信息如何通过计算被创造出来，如何依赖于数据的排列顺序，以及似然建模如何生成比原始数据生成过程本身更为复杂的程序。我们还提出了估计表知性的实用方法，实验表明这些方法能够捕捉不同数据源之间的差异，与下游任务性能变化保持一致，并凸显出有助于提升分布外泛化能力的数据集干预措施。与模型选择的原则不同，表知性为数据选择提供了理论基础，指导我们应如何为学习系统选择、生成或转换数据。",
+    "title": "From Entropy to Epiplexity: Rethinking Information for Computationally Bounded Intelligence",
+    "topics": []
   },
   "f2c01d48-0a0f-4a25-ad36-1a69395df93a": {
     "authors": [
